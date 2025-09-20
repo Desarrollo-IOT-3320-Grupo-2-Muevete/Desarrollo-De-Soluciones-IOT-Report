@@ -1336,6 +1336,35 @@ Las historias de usuario son nuestra herramienta para traducir las expectativas 
 
 ---
 
+### **3.4. Product Backlog**
+
+A continuación, presentamos el Product Backlog de EcoMovil. Esta es la lista priorizada de todas las funcionalidades, mejoras y requisitos técnicos que conforman nuestro proyecto. El orden ha sido definido para asegurar que entreguemos el mayor valor posible a nuestros usuarios en cada etapa del desarrollo.
+
+<br>
+
+| Prioridad | ID de Historia | Elemento del Backlog | Narrativa del Usuario | Puntos de Esfuerzo |
+| :--- | :--- | :--- | :--- | :--- |
+| 1 | US01 | Navegación Principal de la Página de Inicio | **Como** visitante de la web, **quiero** una barra de navegación clara **para** poder explorar las funcionalidades de la aplicación. | 3 |
+| 2 | US02 | Sección de Bienvenida Impactante | **Como** visitante, **quiero** una sección principal atractiva y clara al llegar a la web **para** entender el valor de EcoMovil y motivarme a saber más. | 5 |
+| 3 | US03 | Pie de Página Informativo | **Como** visitante, **quiero** un pie de página accesible **para** encontrar rápidamente información adicional como términos y políticas. | 2 |
+| 4 | US04 | Explicación del Funcionamiento de EcoMovil | **Como** interesado, **quiero** una sección que explique cómo funciona la plataforma **para** comprender cómo puede mejorar mi experiencia de movilidad ecológica. | 5 |
+| 5 | US05 | Sección de Contacto y Registro | **Como** potencial usuario, **quiero** una sección de contacto funcional **para** poder unirme a la comunidad de EcoMovil e iniciar la experiencia. | 3 |
+| 6 | US06 | Diseño Web Adaptable (Responsive) | **Como** usuario, **quiero** que la página se adapte a cualquier dispositivo (móvil, tablet, etc.) **para** poder navegarla con facilidad y sin perder legibilidad. | 7 |
+| 7 | US07 | Visualización de Planes de Suscripción | **Como** universitario, **quiero** acceder a una sección de planes **para** elegir el que mejor se adapte a mí y unirme a la plataforma. | 5 |
+| 8 | US08 | Sección "Sobre Nosotros" | **Como** visitante, **quiero** una sección "Acerca de" **para** conocer la historia, el equipo y la misión que impulsa a EcoMovil. | 4 |
+| 9 | US09 | Opción Directa para Unirse | **Como** visitante, **quiero** una sección clara para unirme **para** poder registrar mi correo electrónico fácilmente e inscribirme en la plataforma. | 4 |
+| 10 | US10 | Acceso para Iniciar Sesión | **Como** usuario registrado, **quiero** un acceso visible para iniciar sesión **para** poder ingresar a mi cuenta en la aplicación. | 5 |
+| 11 | US11 | Contenido Dirigido a Universitarios | **Como** estudiante, **quiero** una sección dedicada a mi perfil **para** entender los beneficios específicos y unirme como proveedor de vehículos. | 4 |
+| 12 | US12 | Sección "Conoce Más" | **Como** visitante, **quiero** una sección de "Conoce más sobre nosotros" **para** poder profundizar en los detalles y funcionalidades de EcoMovil. | 4 |
+| 13 | US13 | Botón Principal de Llamada a la Acción | **Como** visitante, **quiero** encontrar un botón destacado **para** poder empezar mi viaje en la plataforma de forma intuitiva. | 3 |
+| 14 | US14 | Nota sobre Derechos Reservados | **Como** usuario, **quiero** ver una sección de derechos reservados **para** tener la confianza de que la plataforma protege mis derechos y opera legalmente. | 3 |
+| 15 | US15 | Contenido Dirigido a Adquirientes | **Como** persona que busca transporte, **quiero** una sección dedicada a mí **para** entender cómo puedo alquilar o comprar vehículos en EcoMovil. | 5 |
+| 16 | US16 | API para Búsqueda por Geolocalización | **Como** equipo de desarrollo, **necesitamos** implementar una API de búsqueda geolocalizada **para** ofrecer a los usuarios vehículos disponibles en tiempo real. | 5 |
+| 17 | US17 | Configuración de Estilos de Marca (Tailwind CSS) | **Como** equipo de desarrollo, **necesitamos** configurar Tailwind CSS con los colores y fuentes de la marca **para** asegurar que el diseño sea coherente con nuestra identidad. | 5 |
+
+
+
+
 # [**Capítulo IV: Solution Software Design**](#capitulo-iv-solution-software-design)
 
 ## [**4.1. Strategic-Level Domain-Driven Design**](#41-strategic-level-domain-driven-design)
