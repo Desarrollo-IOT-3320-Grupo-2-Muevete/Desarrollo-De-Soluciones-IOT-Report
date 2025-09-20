@@ -19,14 +19,14 @@
 
 ### Team Members:
 
-<div style="align=center;display: flex; justify-content: center; align-items: center;">
+<div style="align: center;display: flex; justify-content: center; align-items: center;">
 
 | **Member**                          | **Code**    |
 |-------------------------------------|-------------|
 | Onofre Ruiz, Carlos Jesus      	    | u202115590  |
 | Travezaño Patiño, Eduard Gedeon      	| u20211a789  |
-| Onofre Ruiz, Carlos Jesus      	    | u202115590  |
-| Onofre Ruiz, Carlos Jesus      	    | u202115590  |
+| Mendez Vargas, Sebastian Orlando      	    | u20201f140  |
+| Hidalgo Lopez, Mathias Adriano      	    | u202213222  |
 
 </div>
 
@@ -510,7 +510,7 @@ pagar viajes directamente a través de la aplicación.
     BlaBlaCar
     <div style="text-align: center; margin-top: 20px;">
                 <img src="assets/images/competitorsLogo/blablacar.png" alt="blablacar" width="100px">
-        </div
+        </div>
     </td>
     <td colspan="1" valign="top" style="font-weight: bold;">
       Urbvan
