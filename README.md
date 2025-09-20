@@ -1336,14 +1336,117 @@ Las historias de usuario son nuestra herramienta para traducir las expectativas 
 
 ---
 
-# [**Capítulo IV: Product Design.**](#capítulo-iv-product-design)
+# [**Capítulo IV: Solution Software Design**](#capitulo-iv-solution-software-design)
+
+## [**4.1. Strategic-Level Domain-Driven Design**](#41-strategic-level-domain-driven-design)
+
+En esta sección, explicamos el proceso realizado para la toma de decisiones estratégicas aplicando Domain-Driven Design y dividiendo nuestra solución en bounded contexts.
+
+### [**4.1.1. Design-Level EventStorming**](#411-design-level-eventstorming)
+EventStorming es una metodología colaborativa que ayuda a explorar y comprender el dominio del problema mediante la detección de eventos relevantes, comandos del sistema, actores externos y entidades principales (aggregates). En esta sección se muestran los resultados de la sesión de EventStorming, que hizo posible representar los flujos de interacción entre los usuarios y el sistema, y establecer las bases para el diseño de los Bounded Contexts en etapas posteriores del proyecto.
+
+#### [**4.1.1.1. Candidate Context Discovery**](#4111-candidate-context-discovery)
+
+A partir del EventStorming realizado en Miro, nuestro equipo desarrolló una sesión de Candidate Context Discovery con el objetivo de identificar los bounded contexts de la solución. Durante esta dinámica, aplicamos principalmente la técnica look-for-pivotal-events.
+Técnicas aplicadas:
+•	Start-with-value: Se priorizaron las partes del dominio con mayor valor para el negocio, identificando el Contexto de Viajes y el Contexto de Pagos como críticos para garantizar la viabilidad del sistema.
+•	Start-with-simple: Se organizaron timelines secuenciales simples que representaron el ciclo básico: Registro → Publicación de viaje → Reserva → Pago → Calificación.
+•	Look-for-pivotal-events: Se identificaron eventos clave como Asiento reservado y Pago realizado, que marcan transiciones importantes entre contextos.
+
+<img src="./assets/chapter-4/CandidateContextDiscovery/Step9.png">
+
+
+#### [**4.1.1.2. Domain Message Flows Modeling**](#4112-domain-message-flows-modeling)
+
+Se modelaron los flujos de mensajes entre los bounded contexts identificados, utilizando Domain Storytelling para representar eventos clave como la actualización de estados, la confirmación de reservas y las notificaciones de disponibilidad.
+
+##### **Caso 1: Reserva de viaje y pago exitoso**
+<img src="./assets/chapter-4/DomainMessageFlowsModeling/escenario1.png">
+
+##### **Caso 2: Finalización de viaje y calificación**
+<img src="./assets/chapter-4/DomainMessageFlowsModeling/escenario2.png">
+
+##### **Caso 3: Suscripción Premium**
+<img src="./assets/chapter-4/DomainMessageFlowsModeling/escenario3.png">
+
+#### [**4.1.1.3. Bounded Context Canvases**](#4113-bounded-context-canvases)
+
+Se definieron cuatro bounded contexts principales: Gestión de Viajes como núcleo encargado de la publicación, reserva y ejecución de trayectos; Pagos y Suscripciones para procesar transacciones y administrar planes; Gestión de Usuarios para autenticación, verificación de identidad y reputación; y Comunicación y Notificaciones para mensajería, alertas y ubicación en tiempo real. Cada uno fue diseñado considerando reglas de negocio, capacidades y dependencias, asegurando límites claros y coherentes para la solución.
+
+##### **Contexto de Gestión de Viajes (Service Design and Planning / Service Execution)**
+<img src="./assets/chapter-4/BoundedContextCanvases/context1.png">
+
+##### **Contexto de Pagos y Suscripciones (Subscriptions and Payment Management)**
+<img src="./assets/chapter-4/BoundedContextCanvases/context2.png">
+
+##### **Contexto de Gestión de Usuarios (Identity and Access Management / Profiles and Preferences)**
+<img src="./assets/chapter-4/BoundedContextCanvases/context3.png">
+
+##### **Contexto de Comunicación y Notificaciones (Loyalty and Engagement / Monitoring)**
+<img src="./assets/chapter-4/BoundedContextCanvases/context4.png">
+
+### [**4.1.2. Context Mapping**](#412-context-mapping)
+
+El proceso de Context Mapping se realizó con el fin de visualizar las relaciones estructurales entre bounded contexts y explorar alternativas de organización.
+
+##### Relaciones identificadas:
+Usuarios ↔ Viajes: relación de tipo Shared Kernel, ya que comparten el concepto de Usuario verificado.
+<img src="./assets/chapter-4/ContextMapping/Usuarios-Viajes-SK.png">
+
+Viajes ↔ Pagos: relación Customer/Supplier, donde Viajes depende del servicio de Pagos para confirmar reservas.
+<img src="./assets/chapter-4/ContextMapping/Viajes-Pagos-CustomerSupplier.png">
+
+Viajes ↔ Comunicación: relación Conformist, Comunicación consume eventos generados por Viajes.
+<img src="./assets/chapter-4/ContextMapping/Viajes-Comunicacion-Conformist.png">
+
+Pagos ↔ Proveedores externos: se aplica un Anti-Corruption Layer para proteger el dominio interno de la lógica de terceros.
+<img src="./assets/chapter-4/ContextMapping/Pagos-Proveedores externos-ACL.png">
+
+Usuarios ↔ Comunicación: relación Customer/Supplier, Comunicación depende de la información de Usuarios (ej. nombre, reputación).
+<img src="./assets/chapter-4/ContextMapping/Usuarios-Comunicacion-CustomerSupplier.png">
+
+### [**4.1.3 Software Architecture**](#413-software-architecture)
+
+#### [**4.1.3.1. Software Architecture System Landscape Diagram**](#4131-software-architecture-system-landscape-diagram)
+
+#### [**4.1.3.2. Software Architecture COntext Level Diagrams**](#4132-software-architecture-context-level-diagrams)
+
+#### [**4.1.3.3. Software Architecture Container Level Diagrams**](#4133-software-architecture-container-level-diagrams)
+
+#### [**4.1.3.4. Software Architecture Deployment Diagrams**](#4134-software-architecture-deployment-diagrams)
+
+## [**4.2. Tactical-Level Domain-Driven Design**](#42-tactical-level-domain-driven-design)
+
+
+
+### [**4.2.1. Bounded Context: bc1**](#421-bounded-context-bc1)
+
+#### [**4.2.1.1. Domain Layer**](#4211-domain-layer)
+
+#### [**4.2.1.2. Interface Layer**](#4212-interface-layer)
+
+#### [**4.2.1.3. Application Layer**](#4213-application-layer)
+
+#### [**4.2.1.4. Infrastructure Layer**](#4214-infrastructure-layer)
+
+#### [**4.2.1.5. Bounded Context Software Architecture Component Level Diagrams**](#4215-bounded-context-software-architecture-component-level-diagrams)
+
+#### [**4.2.1.6. Bounded Context Software Architecture Code Level Diagrams**](#4216-bounded-context-software-architecture-code-level-diagrams)
+
+##### [**4.2.1.6.1. Bounded Context Domain Layer Class Diagrams**](#42161-bounded-context-domain-layer-class-diagrams)
+
+##### [**4.2.1.6.2. Bounded Context Database Design Diagram**](#42162-bounded-context-database-design-diagram)
+
+---
+
+# [**Capítulo V: Product Design.**](#capítulo-v-product-design)
 
 En este capítulo describimos las directrices de diseño y estilo para el producto, asegurando una experiencia visual coherente y atractiva para el usuario.
 
-## [**4.1. Style Guidelines.**](#style-guidelines)
+## [**5.1. Style Guidelines.**](#style-guidelines)
 En esta sección se describen las pautas generales de estilo que guían la apariencia visual del producto, incluyendo el uso de colores, tipografía y espaciado.
 
-### [**4.1.1. General Style Guidelines.**](#general-style-guidelines)
+### [**5.1.1. General Style Guidelines.**](#general-style-guidelines)
 Las directrices generales aseguran una estética que refuerza la marca y proporciona claridad visual para los usuarios.
 
 #### Historia de la marca
@@ -1374,17 +1477,17 @@ El espaciado entre elementos visuales asegura una estructura clara y organizada,
 - **Tamaño de letra**: Las fuentes varían desde 12px hasta 98px según la jerarquía del texto.
 - **Interlineado**: Mantenemos un interlineado proporcional para mejorar la legibilidad.
 
-### [**4.1.2. Web Style Guidelines.**](#web-style-guidelines)
+### [**5.1.2. Web Style Guidelines.**](#web-style-guidelines)
 
 Las pautas de estilo para la web están diseñadas para asegurar que el diseño sea funcional y atractivo tanto en dispositivos móviles como en pantallas grandes. Incluir consistencia en colores, tipografías y espaciado es clave para mantener la identidad visual en todas las plataformas.
 
-## [**4.2. Information Architecture.**](#information-architecture)
+## [**5.2. Information Architecture.**](#information-architecture)
 
 En esta sección, se describe cómo se organizará el contenido en la plataforma **GoUni**, tanto en la web como en las aplicaciones móviles. Se busca que la estructura sea intuitiva para los estudiantes universitarios, permitiendo una navegación fluida y el acceso rápido a las principales funcionalidades de la plataforma.
 
 <hr>
 
-### [**4.2.1. Organization Systems.**](#organization-systems)
+### [**5.2.1. Organization Systems.**](#organization-systems)
 
 El Sistema de Organización de **GoUni** está diseñado para facilitar la interacción entre el usuario y la plataforma, asegurando que los estudiantes puedan encontrar y utilizar los servicios clave, como la búsqueda de viajes o la oferta de plazas en vehículos.
 
@@ -1395,7 +1498,7 @@ El Sistema de Organización de **GoUni** está diseñado para facilitar la inter
 
 <br>
 
-### [**4.2.2. Labeling Systems.**](#labeling-systems)
+### [**5.2.2. Labeling Systems.**](#labeling-systems)
 
 En **GoUni**, las etiquetas se diseñarán para ser claras, directas y comprensibles para los estudiantes, priorizando una navegación simple y una experiencia de usuario intuitiva.
 
@@ -1412,7 +1515,7 @@ Una vez que los usuarios se registren y accedan a su cuenta, aparecerán nuevas 
 
 <br>
 
-### [**4.2.3. SEO Tags and Meta Tags.**](#seo-tags-and-meta-tags)
+### [**5.2.3. SEO Tags and Meta Tags.**](#seo-tags-and-meta-tags)
 
 Los SEO Tags y Meta Tags son esenciales para mejorar la visibilidad de **GoUni** en los motores de búsqueda.
 
@@ -1437,7 +1540,7 @@ Los SEO Tags y Meta Tags son esenciales para mejorar la visibilidad de **GoUni**
 
 <br>
 
-### [**4.2.4. Searching Systems.**](#searching-systems)
+### [**5.2.4. Searching Systems.**](#searching-systems)
 
 El sistema de búsqueda en GoUni facilitará a los usuarios encontrar viajes disponibles de forma rápida y efectiva. La funcionalidad de búsqueda incluirá:
 
@@ -1449,7 +1552,7 @@ Organización de Resultados: Los resultados se podrán ordenar de manera alfabé
 
 <br>
 
-### [**4.2.5. Navigation Systems.**](#navigation-systems)
+### [**5.2.5. Navigation Systems.**](#navigation-systems)
 
 El sistema de navegación de GoUni estará diseñado para que los usuarios puedan encontrar la información y realizar las acciones deseadas con el mínimo esfuerzo.
 
@@ -1463,7 +1566,7 @@ Navegación Secundaria: En secciones como el perfil, habrá opciones adicionales
 
 ---
 
-## [**4.3. Landing Page UI Design**](#landing-page-ui-design)
+## [**5.3. Landing Page UI Design**](#landing-page-ui-design)
 
 <hr>
 <td align="center">
@@ -1473,7 +1576,7 @@ en cuenta la experiencia del usuario y la accesibilidad tanto en
 versiones de escritorio como móviles. El objetivo principal es
 proporcionar una navegación clara y atractiva. </td>
 
-### [**4.3.1. Landing Page Wireframe.**](#landing-page-wireframe)
+### [**5.3.1. Landing Page Wireframe.**](#landing-page-wireframe)
 
 <td align="center">
 A continuación, mostramos los wireframes de la landing page, 
@@ -1615,7 +1718,7 @@ Wireframe de la sección Footer:
 
 
 
-### [**4.3.2. Landing Page Mock-up.**](#landing-page-mock-up)
+### [**5.3.2. Landing Page Mock-up.**](#landing-page-mock-up)
 
 <td align="center">
 Esta sección presenta los mockups de la landing page,
@@ -1746,11 +1849,11 @@ Mockup de la sección Footer:
 ![footerAboutUs_Mockup_Mobiles.png](assets/images/landingPage/mockups/mobile/aboutUs/footerAboutUs_Mockup_Mobiles.png)
 
 
-## [**4.4. Web Applications UX/UI Design.**](#web-applications-uxui-design)
+## [**5.4. Web Applications UX/UI Design.**](#web-applications-uxui-design)
 
 En esta sección, presentamos el diseño de la interfaz de usuario de las aplicaciones web de GoUni, que incluyen el inicio de sesión, la creación de cuenta, la búsqueda de viajes, la reserva de asientos y la calificación de conductores. El diseño se ha desarrollado teniendo en cuenta la experiencia del usuario y la accesibilidad en diferentes dispositivos.
 
-### [**4.4.1. Web Applications Wireframes.**](#web-applications-wireframes)
+### [**5.4.1. Web Applications Wireframes.**](#web-applications-wireframes)
 
 Enlace a los wireframes de las aplicaciones web en Figma:
 
@@ -1824,7 +1927,7 @@ Wireframe de la página de calificacion:
 
 
 
-### [**4.4.2. Web Applications Wireflow Diagrams.**](#web-applications-wireflow-diagrams)
+### [**5.4.2. Web Applications Wireflow Diagrams.**](#web-applications-wireflow-diagrams)
 
 Los Wireflow Diagrams son diagramas que representan la secuencia de pasos que un usuario sigue al interactuar con la aplicación web. Estos diagramas muestran cómo los usuarios navegan por la plataforma, desde el inicio de sesión hasta la reserva de un viaje.
 
@@ -1841,7 +1944,7 @@ Wireflow Diagrams de las Aplicaciones Web en LucidChart Reservar Viaje:
 ![reservarViaje.png](assets/images/userFlowDiagramsMockup/reservarViaje.png)
 
 
-### [**4.4.3. Web Applications Mock-ups.**](#web-applications-mock-ups)
+### [**5.4.3. Web Applications Mock-ups.**](#web-applications-mock-ups)
 
 En esta sección, presentamos los mockups de la aplicación web de GoUni, que ilustran el diseño final con detalles gráficos, tipografía y color. Los mockups son fundamentales para visualizar cómo se verá la aplicación final y para realizar ajustes antes del desarrollo.
 
@@ -1914,7 +2017,7 @@ Calificación de la Web Applications:
 ![puntaje_WebApplications.png](assets/images/webApplication/mockups/puntaje_WebApplications.png)
 
 
-### [**4.4.4. Web Applications User Flow Diagrams.**](#web-applications-user-flow-diagrams)
+### [**5.4.4. Web Applications User Flow Diagrams.**](#web-applications-user-flow-diagrams)
 
 Los User Flow Diagrams son diagramas que representan la secuencia de pasos que un usuario sigue al interactuar con la aplicación web. Estos diagramas muestran cómo los usuarios navegan por la plataforma, desde el inicio de sesión hasta la reserva de un viaje.
 
@@ -1931,7 +2034,7 @@ Realizar reserva:
 ![reservarViaje.png](assets/images/webApplication/userFlowDiagrams/reservarViaje.png)
 
 
-## [**4.5. Web Applications Prototyping.**](#web-applications-prototyping)
+## [**5.5. Web Applications Prototyping.**](#web-applications-prototyping)
 
 <hr>
 En esta sección, presentamos los prototipos interactivos de las aplicaciones web de GoUni. Los prototipos permiten a los usuarios navegar por las diferentes pantallas y funcionalidades, simulando la experiencia de uso de la aplicación antes de su desarrollo.
@@ -1948,7 +2051,7 @@ Link Web Applications Prototyping:
 
 
 
-## [**4.6. Domain-Driven Software Architecture**](#domain-driven-software-architecture)
+<!-- ## [**4.6. Domain-Driven Software Architecture**](#domain-driven-software-architecture)
 
 ### [**4.6.1. Software Architecture Context Diagram.**](#software-architecture-context-diagram)
 
@@ -2139,7 +2242,7 @@ La clase Notificación gestiona el envío de mensajes a los usuarios en relació
 
 A continuación se detalla el modelo físico realizado para esta entrega, donde se consideró los requerimientos necesarios para el negocio.
 
-![Diagrama de la Base de Datos](assets/images/databaseDesign/databasediagram.png)
+![Diagrama de la Base de Datos](assets/images/databaseDesign/databasediagram.png) -->
 
 ---
 
