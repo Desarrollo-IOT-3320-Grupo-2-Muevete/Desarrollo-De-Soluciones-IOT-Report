@@ -978,7 +978,7 @@ En esta sección se resume la información recopilada. Se presentan dos tablas q
 ![ScenarioMapO2.jpg](assets/images/toBeScenarioMapping/ScenarioMapO2.jpg)
 
 
-### **3.2. Historias de Usuario**
+### **3.2. User Stories**
 
 Las historias de usuario son nuestra herramienta para traducir las expectativas y necesidades de las personas en requisitos técnicos claros para el equipo de desarrollo. Una historia bien construida funciona como una brújula, explicando qué se va a construir, para quién y qué valor aporta. Para el proyecto EcoMovil, nuestro equipo ha definido un conjunto de historias que guiarán la creación de nuestra Landing Page, la aplicación web y los componentes técnicos esenciales.
 
