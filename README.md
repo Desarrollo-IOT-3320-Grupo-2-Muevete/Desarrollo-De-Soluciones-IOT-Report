@@ -430,29 +430,9 @@ Por medio de nuestro enfoque de obtener una solución efectiva a las problemáti
 # Capítulo II: Requirements Elicitation & Analysis
 
 ## 2.1. Competidores
-
-### BlaBlaCar
-
-Es una plataforma global de ride-sharing que conecta conductores y pasajeros para 
-compartir viajes de media y larga distancia. Los usuarios pueden dividir los costos del viaje, 
-lo que hace que el transporte sea más económico y sostenible. BlaBlaCar fomenta la colaboración y 
-la optimización de recursos al reducir la cantidad de vehículos en la carretera.
-
-### Urbvan
-
-Es una plataforma de transporte privado en van que opera en rutas predefinidas, generalmente en áreas
-metropolitanas. Se enfoca en ofrecer una alternativa más eficiente y cómoda al transporte público, 
-brindando un servicio seguro y puntual a través de vehículos compartidos, pero con un enfoque de 
-calidad y confort para los usuarios.
-
-### Yango
-
-Es una aplicación internacional de ride-hailing que ofrece transporte bajo demanda con tarifas 
-competitivas y un enfoque en la facilidad de uso. Opera en diversas ciudades del mundo, brindando a 
-los usuarios una experiencia de transporte rápida, segura y accesible, con la opción de reservar y 
-pagar viajes directamente a través de la aplicación.
-
 ### 2.1.1. Análisis competitivo
+
+El análisis competitivo es fundamental para la toma de decisiones estratégicas, ya que permite identificar oportunidades y amenazas, además de contribuir a la creación de ventajas competitivas sostenibles en el mercado. Esta herramienta es crucial para que las empresas se mantengan ágiles y tomen decisiones informadas en un entorno empresarial en constante evolución. A continuación, se muestra cómo se ha integrado esta herramienta en el desarrollo del proyecto y el análisis de los competidores.
 
 <table>
   <tr>
@@ -460,34 +440,35 @@ pagar viajes directamente a través de la aplicación.
   </tr>
   <tr>
     <td colspan="2" rowspan="2">¿Por qué llevar a cabo este análisis?</td>
-    <td colspan="5">Escriba en el recuadro la pregunta que busca responder o el objetivo de este análisis.</td>
   </tr>
   <tr>
-    <td colspan="5">Este análisis se esta llevando a cabo para connotar las diferencias con las empresas competidoras y tomar sus amenazas
-    como nuevas oportunidades en nuestro producto para poder innovar.</td>
+    <td colspan="5">Al analizar la competencia en el mercado, obtenemos una comprensión clara del 
+entorno competitivo en el que se desarrollará nuestro producto. Esto nos ofrece una visión detallada de 
+quiénes son nuestros competidores directos e indirectos, permitiéndonos trazar estrategias basadas en la 
+información recopilada sobre su posicionamiento actual en el mercado.</td>
   </tr>
   <tr>
     <td colspan="3">(En la cabecera colocar por cada competidor nombre y logo)</td>
     <td colspan="1" valign="top" style="font-weight: bold;">
-        GoUni
+        MUEVETE!
         <br>
         <div style="text-align: center; margin-top: 10px;">
                 <img src="assets/images/logo/gounilogo.jfif" alt="StartUp" width="100px">
         </div>
     <td colspan="1" valign="top" style="font-weight: bold;">
-    BlaBlaCar
+    Tembici
     <div style="text-align: center; margin-top: 20px;">
                 <img src="assets/images/competitorsLogo/blablacar.png" alt="blablacar" width="100px">
         </div>
     </td>
     <td colspan="1" valign="top" style="font-weight: bold;">
-      Urbvan
+      Airbnb
       <div style="text-align: center; margin-top: 40px;">
                 <img src="assets/images/competitorsLogo/urbvan.png" alt="urbvan" width="200px">
             </div>
       </td>
     <td colspan="1" valign="top" style="font-weight: bold;" >
-      Yango
+      CityBikeLima
       <div style="text-align: center; margin-top: 20px;">
                 <img src="assets/images/competitorsLogo/yango.png" alt="yango" width="610px">
             </div>
@@ -496,59 +477,48 @@ pagar viajes directamente a través de la aplicación.
   <tr>
     <td colspan="1" rowspan="2"><p>Perfil</p></td>
     <td colspan="2">Overview</td>
-    <td colspan="1" valign="top">Plataforma de ride-sharing entre estudiantes universitarios en Perú, centrada en la 
-    colaboración, sostenibilidad y reducción de costos de transporte.</td>
-    <td colspan="1" valign="top">Plataforma global de ride-sharing para viajes interurbanos, 
-    donde conductores y pasajeros comparten viajes y gastos.</td>
-    <td colspan="1" valign="top">Plataforma de transporte privado en van con rutas predefinidas, 
-    enfocada en eficiencia y comodidad.</td>
-    <td colspan="1" valign="top">Aplicación internacional de ride-hailing que se enfoca en 
-    ofrecer tarifas competitivas y una experiencia sencilla de uso.</td>
+    <td colspan="1" valign="top">Es una aplicación web que conecta a personas interesadas en usar estos medios de transporte con aquellos que los poseen, 
+simplificando el proceso de renta o compra y fomentando una comunidad más consciente del medio ambiente en Perú.</td>
+    <td colspan="1" valign="top">Es una empresa líder en soluciones de movilidad urbana en América Latina, conocida principalmente por sus sistemas de bicicletas compartidas. 
+Fundada en 2010 en Brasil, Tembici ha expandido sus operaciones a varias ciudades en Brasil, Argentina, y Chile, promoviendo un estilo de vida más saludable y sostenible.</td>
+    <td colspan="1" valign="top">Es una plataforma de alojamiento en línea que permite a los usuarios alquilar o reservar alojamientos únicos en todo el mundo, desde habitaciones privadas y apartamentos hasta casas completas y propiedades únicas como castillos o casas en árboles.</td>
+    <td colspan="1" valign="top">Es un sistema de bicicletas compartidas en Lima, Perú, diseñado para ofrecer una alternativa de transporte urbano sostenible y eficiente. 
+El servicio está enfocado en facilitar el desplazamiento en la ciudad, especialmente en áreas con alta congestión vehicular.</td>
   </tr>
   <tr>
     <td colspan="2">Ventaja competitiva</td>
-    <td colspan="1" valign="top">Focalización en estudiantes universitarios, fomentando una comunidad cerrada y 
-    segura con intereses comunes; enfoque en sostenibilidad.</td>
-    <td colspan="1" valign="top">Operación a nivel global con una amplia base de usuarios; 
-    experiencia consolidada en viajes largos.</td>
-    <td colspan="1" valign="top">Ofrece transporte cómodo y seguro en rutas fijas; 
-    ideal para desplazamientos largos dentro de la ciudad.</td>
-    <td colspan="1" valign="top">Tarifas competitivas y experiencia de usuario sencilla, 
-    rápida expansión en diversas ciudades.</td>
+    <td colspan="1" valign="top">Facilita la movilidad urbana al conectar a universitarios con vehículos, ofreciendo características clave como valoraciones y reseñas, filtros avanzados, historial de alquileres y compras, y un mapa interactivo.
+Fomenta la participación mediante la implementación de elementos de gamificación.</td>
+    <td colspan="1" valign="top">Las estaciones de Tembici están ubicadas en puntos clave de las ciudades, como estaciones de metro, áreas comerciales y zonas residenciales.
+El servicio está disponible las 24 horas del día, los 7 días de la semana.</td>
+    <td colspan="1" valign="top">Incluyen actividades y eventos organizados por locales, como tours, clases de cocina, y aventuras al aire libre.</td>
+    <td colspan="1" valign="top"> Ofrece una variedad de planes de suscripción que permiten a los usuarios elegir entre opciones diarias, semanales y mensuales, adaptándose a diferentes necesidades y presupuestos.
+Los costos de alquiler suelen ser accesibles en comparación con otros medios de transporte, haciendo que el uso de bicicletas compartidas sea una opción económica.</td>
   </tr>
   <tr>
     <td colspan="1" rowspan="2"><p>Perfil de Marketing</p></td>
     <td colspan="2">Mercado objetivo</td>
-    <td colspan="1" valign="top">Estudiantes universitarios en Perú que buscan compartir viajes seguros, 
-    económicos y sostenibles con sus compañeros.</td>
-    <td colspan="1" valign="top">Viajeros interurbanos que buscan reducir costos y socializar en viajes largos.</td>
-    <td colspan="1" valign="top">Profesionales y estudiantes que requieren transporte cómodo y 
-    eficiente en rutas fijas dentro de la ciudad.</td>
-    <td colspan="1" valign="top">Usuarios urbanos que buscan transporte asequible y 
-    rápido en varias ciudades de América Latina.</td>
+    <td colspan="1" valign="top">Universitarios y adquirientes.</td>
+    <td colspan="1" valign="top">Usuarios urbanos, turistas, entusiastas de la movilidad sostenible, empresas, gobiernos locales, y comunidades residenciales.</td>
+    <td colspan="1" valign="top">Viajeros y turistas, profesionales de negocios, anfitriones de propiedades y experiencias, familias y grupos.</td>
+    <td colspan="1" valign="top">Usuarios urbanos, turistas, defensores de la movilidad sostenible, familias, y colaboradores municipales.</td>
   </tr>
   <tr>
     <td colspan="2">Estrategias de marketing</td>
-    <td colspan="1" valign="top">Enfoque en el marketing digital y redes sociales en entornos estudiantiles; 
-    colaboraciones con universidades para promociones.</td>
-    <td colspan="1" valign="top">Campañas de marketing enfocadas en la experiencia compartida, 
-    la comunidad y la reducción de costos de viaje.	</td>
-    <td colspan="1" valign="top">Enfoque en la eficiencia, seguridad y confort en el transporte urbano; 
-    promociones y descuentos para usurios frecuentes.</td>
-    <td colspan="1" valign="top">Enfoque en tarifas competitivas, promociones frecuentes y facilidad de uso; 
-    expansión rápida y adquisición de nuevos usuarios.</td>
+    <td colspan="1" valign="top">Ofrecer una prueba gratuita durante el primer mes a los usuarios.</td>
+    <td colspan="1" valign="top"> Promociones y descuentos especiales.
+Campañas en redes sociales y medios digitales.</td>
+    <td colspan="1" valign="top">Publicidad digital y en redes sociales.</td>
+    <td colspan="1" valign="top">Colaboraciones con universidades y empresas.
+Eventos locales para promover el uso de bicicletas.</td>
   </tr>
   <tr>
     <td colspan="1" rowspan="3"><p>Perfil de Producto</p></td>
     <td colspan="2">Productos & Servicios</td>
-    <td colspan="1" valign="top">Plataforma de ride-sharing exclusiva para estudiantes 
-    universitarios, con opciones para compartir viajes cortos y largos dentro de la ciudad.</td>
-    <td colspan="1" valign="top">Ride-sharing interurbano, conectando conductores 
-    y pasajeros en viajes de larga distancia.</td>
-    <td colspan="1" valign="top">Servicios de transporte en vans con rutas fijas; 
-    asientos reservados y viajes cómodos.</td>
-    <td colspan="1" valign="top">Ride-hailing en tiempo real con diferentes tipos de vehículos; 
-precios competitivos y una plataforma fácil de usar.</td>
+    <td colspan="1" valign="top">Aplicación web que conecta a usuarios interesados en rentar o comprar bicicletas, scooters, skateboards, motos eléctricas, y otros vehículos con aquellos que tienen estos vehículos disponibles.</td>
+    <td colspan="1" valign="top">Alquiler de bicicletas mediante una aplicación móvil, facilitando la movilidad urbana sostenible y flexible para los usuarios.</td>
+    <td colspan="1" valign="top">Plataforma en línea que ofrece una amplia gama de opciones de alojamiento, desde habitaciones privadas hasta casas completas, en todo el mundo.</td>
+    <td colspan="1" valign="top">Proporcionar movilidad urbana sostenible y accesible a través de una aplicación móvil que permite el alquiler y gestión de las bicicletas.</td>
   </tr>
   <tr>
     <td colspan="2">Precios & Costos</td>
