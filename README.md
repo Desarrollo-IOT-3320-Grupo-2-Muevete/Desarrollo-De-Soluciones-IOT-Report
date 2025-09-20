@@ -24,7 +24,7 @@
 | **Member**                          | **Code**    |
 |-------------------------------------|-------------|
 | Onofre Ruiz, Carlos Jesus      	    | u202115590  |
-| Onofre Ruiz, Carlos Jesus      	    | u202115590  |
+| Travezaño Patiño, Eduard Gedeon      	| u20211a789  |
 | Onofre Ruiz, Carlos Jesus      	    | u202115590  |
 | Onofre Ruiz, Carlos Jesus      	    | u202115590  |
 
