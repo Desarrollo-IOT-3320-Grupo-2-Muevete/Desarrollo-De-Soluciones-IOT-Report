@@ -586,23 +586,67 @@ Eventos locales para promover el uso de bicicletas.</td>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
-- **Diferenciación de la plataforma:**  
-  GoUni se diferencia por ser una plataforma exclusiva para estudiantes universitarios. El enfoque en la comunidad académica y la seguridad brinda un entorno más cerrado y confiable en comparación con otras plataformas abiertas al público general. Además, su misión de promover la sostenibilidad y la economía colaborativa refuerza su atractivo para jóvenes conscientes del medio ambiente.
+Basado en el análisis competitivo previo, se identificaron claramente las fortalezas, oportunidades, debilidades y amenazas de los competidores. Esta información es fundamental para diseñar estrategias y tácticas que permitan superar a la competencia cuando el servicio se lance al mercado de manera rentable. A continuación, se presentan una serie de estrategias y tácticas planificadas para lograr este objetivo.
+
+- **Afrontando las fortalezas de nuestros competidores:**
+    - Lanzar nuevas funcionalidades tecnológicas para destacar en el mercado.
+    - Ofrecer soporte 24/7 personalizado y proactivo.
+
+  **Nuestras fortalezas son:**
+    - Desarrollo de nuevas características tecnológicas.
+    - Diferenciación en mercados poco atendidos.
+
+  **Estrategias:**
+    - Nos enfocaremos en universitarios, ofreciendo opciones de renta o compra a largo plazo para aquellos que necesiten vehículos menores para desplazarse diariamente.
+
+  **Tácticas:**
+    - Organizaremos eventos de lanzamiento en universidades o zonas clave.
 
 ---
 
-- **Comunidad activa:**  
-  Con GoUni queremos fomentar una comunidad de estudiantes comprometidos, creando un entorno en el que los usuarios se sientan seguros viajando con personas de su misma universidad. La cercanía entre los miembros de la comunidad facilita la interacción y genera confianza entre los usuarios.
+- **Afrontando las oportunidades de nuestros competidores:**
+    - Implementaremos rápidamente nuevas funciones y mejoras.
+    - Ofreceremos un foro de contacto excepcional.
+
+  **Nuestras debilidades son:**
+    - No tenemos la misma presencia que competidores establecidos, lo que puede dificultar la captación de usuarios.
+    - Recursos más limitados para marketing y tecnología.
+
+  **Estrategias:**
+    - Promoveremos Muevete! como una alternativa ecológica y sostenible.
+    - Implementaremos programas de reforestación o reducción de carbono por cada alquiler o compra.
+    - Resaltaremos el uso de vehículos eléctricos y de bajo impacto ambiental.
+
+  **Tácticas:**
+    - Identificaremos áreas de alto tránsito estudiantil con baja competencia.
+    - Estableceremos operaciones en esas zonas antes que los competidores para capturar mercado local.
 
 ---
 
-- **Marketing dirigido:**  
-  El marketing en GoUni se enfocará en captar a estudiantes universitarios mediante colaboraciones con universidades, eventos estudiantiles y promociones a través de redes sociales específicas para jóvenes. Esta comunicación apela a la sostenibilidad, la seguridad y la economía colaborativa, factores importantes para la comunidad estudiantil.
+- **Afrontando nuevamente las oportunidades de nuestros competidores:**
+    - Resaltaremos nuestro enfoque en la sostenibilidad.
+    - Nos enfocaremos en áreas con poca competencia y alta demanda.
+
+  **Nuestras debilidades son:**
+    - Menor reconocimiento de marca.
+    - Presupuesto más ajustado.
+    - Presencia inicial limitada.
+
+  **Estrategias:**
+    - Ofreceremos tarifas con un mes gratuito para los universitarios, construyendo una base de usuarios estable y recurrente.
+
+  **Tácticas:**
+    - Ofreceremos un foro de contacto durante horas pico (mañanas antes de clases), distinguiéndonos de competidores con soporte limitado.
 
 ---
 
-- **Monetización creativa:**  
-  La monetización de GoUni se basará en la compartición de costos entre estudiantes, pero puede explorar modelos adicionales como suscripciones premium que ofrezcan beneficios exclusivos, como rutas garantizadas o mayor seguridad. También podría implementar alianzas con marcas enfocadas en estudiantes, generando ingresos adicionales a través de publicidad contextual o colaboraciones.
+- **Afrontando las oportunidades de nuestros competidores:**
+    - Implementaremos filtros para resaltar la calidad del cliente.
+
+  **Nuestras debilidades son:**
+    - Reconocimiento de marca limitado.
+    - Presupuesto reducido para marketing y operaciones.
+    - Presencia aún en expansión.
 
 
 ## 2.2. Entrevistas
