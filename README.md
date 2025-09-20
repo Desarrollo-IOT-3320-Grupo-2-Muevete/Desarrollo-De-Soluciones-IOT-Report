@@ -655,35 +655,60 @@ Basado en el análisis competitivo previo, se identificaron claramente las forta
 
 En esta sección se han definido todas las preguntas que se plantearán en el momento de realizar las entrevistas a los diferentes segmentos objetivos.
 
-#### **Preguntas Generales**
+#### Preguntas dirigidas a Universitarios
 
-1. ¿Cuál es tu nombre?
-2. ¿Qué edad tienes?
-3. ¿Dónde vives actualmente?
-4. ¿A qué te dedicas?
+##### Preguntas principales
+1. ¿Podrías decirme tu nombre completo y edad?
+2. ¿En qué distrito resides actualmente?
+3. ¿Cuál es tu estado civil?
+4. ¿Dónde naciste?
+5. ¿Qué dispositivos tecnológicos utilizas?
+6. ¿Qué navegadores utilizas?
+7. ¿Qué tipo de vehículo(s) menor(es) posees?
+8. ¿Qué habilidades consideras que tienes en relación con el manejo o mantenimiento de tu(s) vehículo(s)?
+9. ¿Qué factores consideras al elegir un vehículo menor? (Ej. economía, estilo, funcionalidad)
+10. ¿Qué influencias (familia, amigos, medios, etc.) han afectado tus decisiones al comprar un vehículo?
+11. ¿Qué tipos de vehículos tienes disponibles para rentar o vender?
+12. ¿Cómo determinas el precio de tus vehículos?
+13. ¿Qué medidas de seguridad implementas para asegurarte de que tus vehículos estén en buen estado antes de rentarlos o venderlos?
+14. ¿Cómo manejas la limpieza y desinfección de los vehículos?
+15. ¿Cuáles son los requisitos o condiciones para rentar o vender uno de tus vehículos?
+
+##### Preguntas complementarias
+16. ¿Sigues algún protocolo específico para la limpieza y desinfección, y con qué frecuencia realizas estas tareas?
+17. ¿Qué proceso sigues para verificar la identidad y credibilidad de los posibles adquirientes?
+18. ¿Cómo organizas la entrega y recogida de los vehículos? ¿Tienes puntos de recogida específicos o cómo coordinas estos procesos?
+19. ¿Cómo manejas las valoraciones y reseñas que dejan los adquirientes?
+20. Durante el periodo de renta o venta, ¿qué tipo de soporte proporcionas a los adquirientes?
+21. ¿Estás abierto a considerar descuentos o promociones especiales para atraer más adquirientes?
+22. ¿Hay alguna mejora o característica que te gustaría ver en la aplicación que utilizas para gestionar tus vehículos?
 
 ---
 
-#### **Preguntas Segmento 1: Estudiantes universitarios**
+#### Preguntas dirigidas a Adquirientes
 
-1. ¿Con qué frecuencia utilizas transporte para llegar a la universidad?
-2. ¿Cuáles son las mayores dificultades que enfrentas al desplazarte a la universidad?
-3. ¿Cuánto tiempo sueles tardar en llegar a la universidad desde tu casa?
-4. ¿Estarías dispuesto/a a compartir tu trayecto con otros estudiantes? ¿Por qué?
-5. ¿Qué factores te harían sentir más cómodo/a utilizando un servicio de ride-sharing para estudiantes?
-6. ¿Cómo crees que un servicio de transporte compartido podría mejorar tu experiencia diaria?
+##### Preguntas principales
+1. ¿Podrías decirme tu nombre completo y edad?
+2. ¿En qué distrito resides actualmente?
+3. ¿Dónde naciste y en qué lugar vives actualmente?
+4. ¿Cuál es tu estado civil?
+5. ¿Podrías describir tu nivel socioeconómico? ¿Te consideras en un nivel alto, intermedio o bajo?
+6. ¿Podrías contarnos un poco acerca de ti y tu experiencia con el alquiler y la compra de vehículos?
+7. ¿Qué te impulsó a buscar una aplicación para alquilar o comprar vehículos?
+8. ¿Qué esperas lograr al utilizar una aplicación para alquilar o comprar vehículos?
+9. ¿Qué dificultades o problemas has enfrentado en tus experiencias previas con el alquiler y la compra de vehículos?
+10. ¿Qué características consideras esenciales en una aplicación para alquilar o comprar vehículos?
+11. ¿Qué métodos de pago prefieres para realizar transacciones en línea?
+12. ¿Cómo te gustaría recibir notificaciones sobre tus reservas y el estado de los vehículos?
+13. ¿Cuál ha sido tu experiencia con la seguridad y protección en el alquiler y la compra de vehículos?
+14. ¿Qué mejoras o características adicionales crees que podrían mejorar tu experiencia al usar una aplicación de renta o compra de vehículos?
 
----
-
-#### **Preguntas Segmento 2: Estudiantes universitarios propietarios de vehículos privados**
-
-1. ¿Con qué frecuencia conduces hacia tu universidad o trabajo?
-2. ¿Te gustaría compartir tu vehículo con otros estudiantes en tus trayectos?
-3. ¿Cuáles son tus mayores preocupaciones al compartir tu vehículo con otras personas?
-4. ¿Qué aspectos te motivarían a ofrecer tu vehículo en un servicio de ride-sharing?
-5. ¿Qué tipo de incentivos te harían más propenso/a a unirte a una plataforma de ride-sharing para estudiantes?
-6. ¿Cómo manejas los costos de mantenimiento y gasolina? ¿Crees que compartir tu vehículo podría ayudar a reducir esos costos?
-7. ¿Cuáles son tus expectativas en cuanto a seguridad y comodidad al ofrecer tu vehículo para transportar a otros?
+##### Preguntas complementarias
+15. ¿Cómo has gestionado el alquiler o la compra de vehículos en el pasado?
+16. ¿Qué tipo de soporte o asistencia esperas recibir durante el proceso de alquiler o compra?
+17. ¿Tienes alguna preferencia particular en cuanto a la aplicación o tecnología que se utiliza para acceder a la aplicación?
+18. ¿Cómo prefieres gestionar la búsqueda de vehículos en una aplicación?
+19. ¿Qué tipo de información te gustaría ver en las descripciones de los vehículos?
 
 ### 2.2.2 Registro de entrevistas
 
