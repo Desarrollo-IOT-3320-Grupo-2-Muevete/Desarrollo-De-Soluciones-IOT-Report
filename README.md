@@ -522,22 +522,33 @@ Eventos locales para promover el uso de bicicletas.</td>
   </tr>
   <tr>
     <td colspan="2">Precios & Costos</td>
-    <td colspan="1" valign="top">Precios asequibles con base en compartir costos de 
-    viaje; enfoque en la economía colaborativa.</td>
-    <td colspan="1" valign="top">Compartir costos de viaje entre conductores y pasajeros; 
-    enfoque en la reducción de costos de viaje.</td>
-    <td colspan="1" valign="top">Tarifas fijas según las rutas y horarios predefinidos; enfoque en la comodidad.</td>
-    <td colspan="1" valign="top">Tarifas accesibles con promociones frecuentes; 
-    modelo basado en precios competitivos y flexibles.</td>
+    <td colspan="1" valign="top">• Plan Cachimbo: Ofrece hasta 2 publicaciones al mes para rentar o vender vehículos, con soporte básico. El costo es de $1.99 al mes después del período de prueba.
+
+• Plan Universitario: Permite hasta 10 publicaciones al mes, con la opción de destacar tus publicaciones y soporte prioritario. El costo es de $5.99 al mes después del período de prueba.
+
+• Plan Graduado: Proporciona publicaciones ilimitadas para rentar o vender vehículos, con soporte 24/7. El costo es de $19.99 al mes después del período de prueba.</td>
+    <td colspan="1" valign="top">• Plan Diario: Aproximadamente $0.50 a $1.00 por hora, con un costo máximo diario que varía entre $5.00 y $10.00.
+
+• Plan Mensual: Cuesta entre $25.00 y $40.00.
+
+• Plan Anual: Está en el rango de $150.00 a $300.00.</td>
+    <td colspan="1" valign="top">• Alojamientos por Noche: Los precios pueden variar desde alrededor de $30 a $200 o más por noche, dependiendo de la ciudad, el tipo de propiedad y la temporada.
+
+• Estancias Largas: Muchos anfitriones ofrecen descuentos para estancias de una semana o más, que pueden reducir el costo por noche.
+
+• Experiencias: Los precios para experiencias (actividades o tours ofrecidos por locales) generalmente oscilan entre $20 y $100 por persona, aunque pueden variar ampliamente.</td>
+    <td colspan="1" valign="top">• Plan Diario: Aproximadamente S/ 8.00 a S/ 15.00 por día.
+
+• Plan Mensual: Alrededor de S/ 50.00 a S/ 100.00.
+
+• Plan Anual: S/ 300.00 a S/ 600.00, dependiendo de la suscripción y beneficios adicionales.</td>
   </tr>
   <tr>
     <td colspan="2">Canales de distribución (Web y/o Móvil)</td>
-    <td colspan="1" valign="top">Aplicación móvil enfocada en estudiantes universitarios, 
-    con soporte web para registros y gestión de viajes.</td>
-    <td colspan="1" valign="top">Aplicación móvil y web con acceso a reservas 
-    de viajes compartidos en toda la región.</td>
-    <td colspan="1" valign="top">Aplicación móvil y reservas web para la gestión de rutas y viajes en vans.</td>
-    <td colspan="1" valign="top">Aplicación móvil fácil de usar disponible en múltiples ciudades de América Latina.</td>
+    <td colspan="1" valign="top">El servicio estará disponible temporalmente a través de la aplicación.</td>
+    <td colspan="1" valign="top">App móvil, el sitio web, estaciones físicas, alianzas con empresas y universidades, y redes sociales.</td>
+    <td colspan="1" valign="top">Sitio web, la app móvil, colaboraciones con agencias de viajes y plataformas de terceros, y redes sociales.</td>
+    <td colspan="1" valign="top">App móvil, el sitio web, estaciones físicas y redes sociales.</td>
   </tr>
   <tr>
     <td colspan="1" rowspan="5"><p>Análisis SWOT</p></td>
@@ -545,31 +556,31 @@ Eventos locales para promover el uso de bicicletas.</td>
   </tr>
   <tr>
     <td colspan="2">Fortalezas</td>
-    <td colspan="1" valign="top">Enfoque en la comunidad estudiantil; servicio exclusivo y seguro; sostenibilidad.</td>
-    <td colspan="1" valign="top">Amplia red global de usuarios; enfoque en viajes largos; reputación consolidada.</td>
-    <td colspan="1" valign="top">Comodidad y eficiencia en rutas predefinidas; seguridad y confort en transporte urbano.</td>
-    <td colspan="1" valign="top">Tarifas competitivas y fácil de usar; expansión rápida en diversas ciudades.</td>
+    <td colspan="1" valign="top">Facilita una comunicación flexible entre el universitario y el adquiriente a través del foro de contacto.</td>
+    <td colspan="1" valign="top">Red de bicicletas amplia y bien establecida y tecnología avanzada en la app.</td>
+    <td colspan="1" valign="top">Amplia variedad de opciones de alojamiento y plataforma global con presencia en numerosos países.</td>
+    <td colspan="1" valign="top">Red de estaciones bien distribuida y sistema de bicicletas moderno y eficiente.</td>
   </tr>
   <tr>
     <td colspan="2">Debilidades</td>
-    <td colspan="1" valign="top">Mercado limitado a estudiantes universitarios; competencia con transporte público económico.</td>
-    <td colspan="1" valign="top">Dependencia de viajes largos; limitado a rutas interurbanas.</td>
-    <td colspan="1" valign="top">Restricción de rutas fijas y horarios; costos más altos comparados con el transporte público tradicional.</td>
-    <td colspan="1" valign="top">Competencia feroz en mercados urbanos; problemas con la regulación local.</td>
+    <td colspan="1" valign="top">Baja visibilidad y promoción.</td>
+    <td colspan="1" valign="top">Cobertura limitada en algunas áreas, mantenimiento y disponibilidad de bicicletas.</td>
+    <td colspan="1" valign="top">Problemas de seguridad y confianza, inconsistencias en la calidad de las propiedades, falta de regulación y cumplimiento normativo, dificultades en la gestión de disputas, y dependencia de la satisfacción del anfitrión para la experiencia del huésped.</td>
+    <td colspan="1" valign="top">Infraestructura insuficiente, mantenimiento irregular de bicicletas, problemas con la tecnología de la app, escasa presencia en medios y redes, limitaciones en la expansión y baja fidelización de usuarios</td>
   </tr>
   <tr>
     <td colspan="2">Oportunidades</td>
-    <td colspan="1" valign="top">Expansión a otras universidades y ciudades; colaboraciones con instituciones educativas.</td>
-    <td colspan="1" valign="top">Expansión a mercados nuevos y emergentes; desarrollo de más servicios complementarios.</td>
-    <td colspan="1" valign="top">Expansión a más rutas y ciudades; enfoque en ofrecer servicios corporativos.</td>
-    <td colspan="1" valign="top">Crecimiento acelerado en más ciudades; enfoque en la mejora continua del servicio y tarifas.</td>
+    <td colspan="1" valign="top">Optimización de las áreas deficientes en las ofertas de nuestros competidores en el mercado y aprovechamiento de la gran demanda entre los universitarios peruanos que poseen vehículos menores no utilizados.</td>
+    <td colspan="1" valign="top">Expansión a nuevas áreas, alianzas con universidades y empresas, mejora de infraestructura, innovaciones en la app, campañas de concientización e integración con otros transportes.</td>
+    <td colspan="1" valign="top">Expansión a nuevos destinos, ofertas para grupos, mejoras en la experiencia del huésped, colaboraciones con empresas locales, herramientas para anfitriones y aumento de seguridad mediante tecnología avanzada.</td>
+    <td colspan="1" valign="top">Expansión a más áreas de la ciudad, asociaciones con universidades y empresas, mejora de la infraestructura de estaciones, actualización tecnológica de la app, campañas de promoción y integración con otros medios de transporte.</td>
   </tr>
   <tr>
     <td colspan="2">Amenazas</td>
-    <td colspan="1" valign="top">Competencia de aplicaciones de ride-hailing y transporte público; regulación gubernamental.</td>
-    <td colspan="1" valign="top">Aparición de competidores más locales en áreas específicas; cambios en la regulación.</td>
-    <td colspan="1" valign="top">Competencia con aplicaciones de ride-hailing y transporte público tradicional.</td>
-    <td colspan="1" valign="top">Regulación gubernamental y competencia feroz en el mercado urbano de transporte.</td>
+    <td colspan="1" valign="top">Inflación y volatilidad económica.</td>
+    <td colspan="1" valign="top">Problemas de seguridad, condiciones climáticas adversas, falta de infraestructura adecuada.</td>
+    <td colspan="1" valign="top">Cambios en regulaciones locales, competencia de otras plataformas de hospedaje.</td>
+    <td colspan="1" valign="top">Robo o vandalismo de bicicletas.</td>
   </tr>
 </table>
 
