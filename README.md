@@ -26,7 +26,7 @@
 | Onofre Ruiz, Carlos Jesus      	    | u202115590  |
 | Travezaño Patiño, Eduard Gedeon      	| u20211a789  |
 | Onofre Ruiz, Carlos Jesus      	    | u202115590  |
-| Onofre Ruiz, Carlos Jesus      	    | u202115590  |
+| Hidalgo Lopez, Mathias Adriano      	    | u202213222  |
 
 </div>
 
@@ -178,15 +178,17 @@ Para el desarrollo de la entrega **TB1**, se optó por dividir el trabajo de la 
 
 ## [**1.1 Startup Profile.**](#11-startup-profile)
 
+En esta sección, exploraremos la identidad de nuestra startup, presentando una descripción detallada de la empresa y los perfiles de quienes conformamos el equipo.
+
 ### [**1.1.1 Descripción del startup.**](#111-descripción-del-startup)
 
-GoUni es una startup fundada por un grupo de estudiantes de la Facultad de Ingeniería de la Universidad Peruana de Ciencias Aplicadas (UPC) con el objetivo de abordar las preocupaciones y desafíos que enfrentan los estudiantes universitarios al movilizarse. Ante las dificultades para acceder a un transporte cómodo y asequible, estamos desarrollando una plataforma innovadora que permite compartir viajes en vehículos particulares entre compañeros de universidad. Con UniGo, buscamos no solo ofrecer una alternativa económica y social al transporte público, sino también reducir la congestión vehicular y promover un uso más eficiente de los recursos. Nuestro equipo, apasionado por la tecnología y la sostenibilidad, está comprometido en brindar una solución de movilidad segura, conveniente y colaborativa para la comunidad estudiantil.
+GoUni es una startup que nace como una iniciativa frente a dos realidades urbanas en pleno auge: la urgente demanda de opciones de movilidad sostenible y la creciente popularidad de los vehículos ecológicos. Nuestra propuesta se materializa en una aplicación que sirve como puente, conectando a personas que necesitan un medio de transporte —como bicicletas, scooters, skateboards o motos eléctricas— con quienes ya poseen estos vehículos y están dispuestos a compartirlos.
 
-### Misión: 
-Nuestra misión es facilitar el transporte universitario a través de una plataforma accesible y colaborativa que permita a los estudiantes compartir viajes de manera segura y económica, mejorando su experiencia de movilidad diaria.
+Lo que realmente nos distingue en el ecosistema de aplicaciones de movilidad es nuestro doble propósito. No solo defendemos y facilitamos una forma de transporte más limpia y amigable con el planeta, sino que también abrimos una puerta a oportunidades de ingreso para la comunidad universitaria. Los estudiantes pueden generar ganancias de forma flexible, ya sea alquilando o vendiendo sus vehículos. Además, hemos integrado en nuestra plataforma funcionalidades clave para garantizar que cada interacción sea segura, ágil y, sobre todo, una experiencia positiva.
 
-### Visión:
-Aspiramos a ser líderes en movilidad estudiantil, reconocidos por nuestro compromiso con la sostenibilidad, la eficiencia y la satisfacción de nuestros usuarios, proporcionando una experiencia de transporte innovadora y socialmente responsable para estudiantes del Perú.
+**Misión:** Ser el conector digital que facilita el acceso a una movilidad urbana sostenible. A través de nuestra plataforma, buscamos reducir activamente la huella de carbono en la ciudad, al tiempo que empoderamos a los estudiantes universitarios con nuevas oportunidades económicas.
+
+**Visión:** Aspiramos a consolidarnos como la aplicación de referencia en el ámbito de la movilidad urbana sostenible. Queremos ser reconocidos por democratizar el acceso a vehículos ecológicos y por inspirar un estilo de vida más saludable y en armonía con nuestro entorno.
 
 ### [**1.1.2 Perfiles de los integrantes del equipo.**](#112-perfiles-de-los-integrantes-del-equipo)
 
@@ -221,14 +223,26 @@ Aspiramos a ser líderes en movilidad estudiantil, reconocidos por nuestro compr
 
 ## [**1.2. Solution Profile.**](#12-solution-profile)
 
+Esta sección se divide en dos áreas fundamentales:
+
+Contexto y Desafío: Aquí profundizamos en el problema que nuestro proyecto se propone resolver. Detallamos el panorama actual, los elementos cruciales que nuestra solución debe atender, y definimos los objetivos y limitaciones del proyecto.
+
+Proceso Lean UX: En esta parte, aplicamos el marco de trabajo Lean UX para explicar cómo abordaremos la solución del problema desde la perspectiva del modelo de negocio.
+
 ### [**1.2.1. Antecedentes y Problemática.**](#121-antecedentes-y-problemática)
 
 ### Antecedentes:
-La movilidad estudiantil en zonas urbanas ha sido un reto constante para los estudiantes universitarios, especialmente en grandes ciudades como Lima, donde la congestión vehicular y la falta de opciones de transporte eficientes afectan directamente la calidad de vida. El transporte público convencional a menudo resulta incómodo, inseguro, y poco fiable, mientras que tener un vehículo propio no es una opción accesible para muchos estudiantes debido a los altos costos de adquisición y mantenimiento.
+En los últimos diez años, el pulso de nuestras ciudades ha cambiado. La forma en que nos movemos está en plena transformación, impulsada por una mayor conciencia ambiental y los avances tecnológicos. Alternativas de transporte ecológicas, como las bicicletas y los scooters eléctricos, han ganado un terreno impresionante, lo que evidencia un deseo colectivo por soluciones de movilidad más inteligentes y responsables.
 
-El auge de la tecnología y las aplicaciones móviles ha abierto nuevas posibilidades para abordar este problema mediante soluciones innovadoras como el carpooling, que no solo promueven un uso más eficiente de los recursos, sino que también ofrecen una alternativa más económica y socialmente integrada al transporte tradicional.
+Para los habitantes de Lima Metropolitana, el transporte urbano no es solo un inconveniente, es uno de los problemas más críticos de su día a día. Se le describe como un sistema informal, ineficiente y de baja calidad, marcado por la inseguridad, altas tasas de accidentes y una contaminación ambiental y sonora alarmante, tal como lo han señalado el MTC (2013) y la OMS.
 
-UniGo surge en este contexto con la misión de proporcionar una solución que permita a los estudiantes universitarios compartir viajes en vehículos particulares. Con esta plataforma, buscamos no solo aliviar los problemas de transporte, sino también fomentar la sostenibilidad, reducir el tráfico, y mejorar la seguridad en los desplazamientos diarios hacia las universidades.
+Frente a esta realidad, la búsqueda de alternativas de movilidad más ágiles, sostenibles y al alcance de todos se ha convertido en una prioridad. Vehículos como bicicletas, scooters, skateboards y motos eléctricas emergen como soluciones prácticas que no solo contribuyen a limpiar el aire que respiramos, sino que también promueven un estilo de vida más activo y saludable.
+
+Paralelamente, existe un desafío económico que afecta directamente a los jóvenes. Según datos de la USIL, la tasa de deserción en la educación superior universitaria aumentó significativamente del 19.3% en 2019 al 23.2% en 2021. Esta cifra sugiere que muchos estudiantes necesitan un respaldo financiero adicional para poder costear y continuar con su formación profesional.
+
+Es en la intersección de estos dos mundos donde encontramos nuestra oportunidad. A la par que crece la demanda de movilidad ecológica, también lo hace la necesidad de ingresos flexibles entre los estudiantes universitarios. En un contexto de costos de vida crecientes y altas exigencias académicas, los jóvenes buscan maneras de ganar dinero que se ajusten a sus horarios, y la economía digital ofrece el espacio perfecto para ello.
+
+Nuestro proyecto busca ser un agente de cambio. Queremos transformar la movilidad en Lima y, al mismo tiempo, empoderar a los universitarios, ofreciéndoles una herramienta digital para generar ingresos de manera autónoma. Al conectar a estudiantes con potenciales usuarios, creamos un ecosistema donde la sostenibilidad y el espíritu emprendedor van de la mano. Nuestra meta es clara: reducir la huella de carbono y fortalecer el bienestar económico de los jóvenes, un viaje a la vez.
 
 ### Problemática (5Ws y 2Hs)
 ##### What (Qué)
