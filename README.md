@@ -1371,32 +1371,9 @@ Técnicas aplicadas:
 •	Start-with-value: Se priorizaron las partes del dominio con mayor valor para el negocio, identificando el Contexto de Viajes y el Contexto de Pagos como críticos para garantizar la viabilidad del sistema.
 •	Start-with-simple: Se organizaron timelines secuenciales simples que representaron el ciclo básico: Registro → Publicación de viaje → Reserva → Pago → Calificación.
 •	Look-for-pivotal-events: Se identificaron eventos clave como Asiento reservado y Pago realizado, que marcan transiciones importantes entre contextos.
-Step 1: Collect Domain Events
-Se identifican todos los eventos relevantes que ocurren dentro del sistema. Estos representan hechos significativos en el proceso de negocio y se registran con post-its de color naranja.
 
-Step 2: Timeline
-Se organizan los eventos en una línea temporal en orden cronológico, lo que permite visualizar el flujo del proceso y entender la secuencia natural de acciones.
+<img src="./assets/chapter-4/CandidateContextDiscovery/Step9.png">
 
-Step 3: Pain and Pivotal Points
-Se detectan los problemas (pain points) y los momentos clave (pivotal points) dentro del proceso, ya que requieren atención especial o son esenciales para el correcto funcionamiento del sistema.
-
-Step 4: Commands
-Se agregan los comandos (post-its azules), que son las acciones realizadas por usuarios o sistemas externos y que desencadenan los eventos en el sistema.
-
-Step 5: Policies
-Se definen las reglas de negocio (post-its morados) que reaccionan ante ciertos eventos y generan nuevos eventos como resultado. Estas políticas permiten automatizar decisiones basadas en hechos previos.
-
-Step 6: Read Models
-Se identifican las vistas o modelos de lectura que los usuarios necesitan para tomar decisiones, asegurando que la información adecuada esté disponible en el momento preciso.
-
-Step 7: External Systems
-Se marcan los sistemas externos (post-its rosados) que interactúan con la solución. Aunque no están bajo control directo, influyen en el proceso.
-
-Step 8: Aggregates
-Se agrupan los comandos y eventos relacionados en unidades lógicas llamadas agregados (post-its amarillos). Cada agregado concentra un conjunto coherente de funcionalidades.
-
-Step 9: Bounded Contexts
-Finalmente, se determinan los bounded contexts, que representan áreas de responsabilidad bien delimitadas dentro del sistema.
 
 #### [**4.1.1.2. Domain Message Flows Modeling**](#4112-domain-message-flows-modeling)
 
