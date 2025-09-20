@@ -245,51 +245,19 @@ Es en la intersección de estos dos mundos donde encontramos nuestra oportunidad
 Nuestro proyecto busca ser un agente de cambio. Queremos transformar la movilidad en Lima y, al mismo tiempo, empoderar a los universitarios, ofreciéndoles una herramienta digital para generar ingresos de manera autónoma. Al conectar a estudiantes con potenciales usuarios, creamos un ecosistema donde la sostenibilidad y el espíritu emprendedor van de la mano. Nuestra meta es clara: reducir la huella de carbono y fortalecer el bienestar económico de los jóvenes, un viaje a la vez.
 
 ### Problemática (5Ws y 2Hs)
-##### What (Qué)
+**¿Qué? (What):** El núcleo del problema es la ausencia de una plataforma digital que integre la movilidad sostenible con una oportunidad económica real y flexible para los estudiantes. Por un lado, la ciudad de Lima lidia con serios problemas de congestión y contaminación; por otro, los universitarios luchan por encontrar fuentes de ingreso compatibles con su vida académica.
 
-###### ¿Cuál es el problema?
+**¿Cuándo? (When):** Esta problemática no es nueva, pero se ha intensificado notablemente en la última década debido al crecimiento urbano desmedido y a la creciente urgencia de adoptar hábitos más sostenibles. La presión económica sobre los estudiantes se ha agudizado con el aumento del costo de vida.
 
-La problemática percibida por nuestra startup radica en la falta de opciones de transporte eficiente, seguro y económico para los estudiantes universitarios. Los estudiantes, en su mayoría, dependen de un transporte público lento, incómodo y en muchos casos inseguro, lo que repercute en su bienestar y rendimiento académico.
+**¿Dónde? (Where):** El epicentro de este desafío es Lima, una metrópoli que sufre de alta congestión vehicular y niveles preocupantes de contaminación. Sin embargo, la necesidad de ingresos flexibles es una realidad que afecta a estudiantes universitarios en todo el país.
 
-##### When (Cuando)
+**¿Quién? (Who):** Los protagonistas de esta historia son, por un lado, los universitarios que poseen vehículos menores (bicicletas, scooters, etc.) y buscan una forma de monetizarlos. Por otro lado, están los usuarios de la aplicación, un grupo diverso que incluye trabajadores, turistas y residentes de Lima que desean moverse por la ciudad de una manera más económica, eficiente y ecológica.
 
-###### ¿Cuándo sucede el problema?
+**¿Por qué? (Why):** La causa fundamental del problema es la falta de una solución unificada. Esta carencia frena el potencial de los universitarios para mejorar su autonomía financiera y, a su vez, limita la capacidad de la ciudad para transitar hacia un modelo de movilidad más limpio y ordenado.
 
-Este problema se presenta diariamente cuando los estudiantes necesitan trasladarse a sus universidades. El transporte público suele tener horarios y rutas poco optimizados, lo que se traduce en largas esperas, trayectos prolongados, y una experiencia de viaje incómoda y, en algunos casos, insegura.
+**¿Cómo? (How):** Los usuarios interactuarán con nuestro producto a través de una aplicación web y móvil, diseñada para ser intuitiva y accesible desde cualquier dispositivo con conexión a internet. El descubrimiento de nuestra plataforma se dará de forma orgánica a través de redes sociales, alianzas con universidades, campañas de marketing digital y el boca a boca en comunidades enfocadas en la sostenibilidad. La preferencia será siempre una experiencia de usuario fluida, rápida y que motive la participación.
 
-##### Where (Donde)
-
-###### ¿A dónde se dirige?
-El servicio está diseñado para ser una herramienta de alto impacto para los estudiantes que buscan un equilibrio económico y confortable en sus desplazamientos hacia la universidad.
-
-###### ¿Dónde surge el problema?
-El problema se deriva de cuestiones socioculturales, como la inseguridad en Perú durante la espera impredecible de los transportes públicos, que puede resultar tediosa. Asimismo, el costo elevado de utilizar constantemente autos particulares para desplazarse resulta ser una opción poco viable para la economía de los estudiantes que no cuenten con los recursos económicos necesarios.
-
-##### Who (Quién)
-###### ¿Quiénes están involucrados? ¿Quién lo utilizará?
-Los usuarios del sistema serán principalmente estudiantes universitarios. Por un lado, aquellos que dispongan de un vehículo y busquen generar ganacias  durante su recorrido  hacia la universidad. Por otro lado, se encuentran los estudiantes que utilizarán este servicio y su rol sera el de pasajero.
-
-##### Why (Por qué)
-###### ¿Cuál es la causa del problema?
-La causa principal del problema es la ineficiencia del transporte público y la falta de alternativas que sean tanto accesibles económicamente como confiables en términos de seguridad y comodidad. Además, el uso de vehículos privados de manera individual contribuye a la congestión vehicular, afectando la calidad de vida en las ciudades.
-
-### ¿Cuáles son las 2H?
-
-##### How (Cómo)
-###### ¿Cómo se utilizará el producto?
-El producto sera empleado mediante una  plataforma web, donde los estudiantes podrán programar sus viajes, conocer los horarios y rutas disponibles, realizar pagos en línea y recibir actualizaciones en tiempo real sobre el estado del servicio. 
-
-###### ¿Cómo lograremos desarrollar la correcta gestión del proceso de carpooling entre estudiantes?
-Después de que el estudiante inicia sesión en el sistema y elige su universidad de destino, el sistema presenta los conductores disponibles que viajan por la misma ruta. Si el estudiante está conforme con la hora estimada de llegada y la calificación del conductor, puede reservar un viaje y proceder con el pago. Una vez que el conductor complete todos los asientos, debe indicar que no hay más asientos disponibles. Después de llegar a destino, los usuarios tienen la opción de calificar al conductor.
-
-##### How much (Cuánto)
-###### ¿Cuál es la magnitud del problema?
-En Lima, se registran numerosos problemas socioculturales, como la delincuencia y el tráfico, que pueden ser especialmente perjudiciales para los estudiantes que suelen llevar consigo sus teléfonos celulares y computadoras portátiles (INEI, 2021). Estudios previos han demostrado que el crimen en Lima afecta negativamente la calidad de vida de los residentes, exacerbando los niveles de estrés y ansiedad (Traverso, 2020). Además, la situación del tráfico en la ciudad ha sido objeto de preocupación constante, ya que los estudiantes corren el riesgo de llegar tarde a clases o exámenes debido a las frecuentes paradas de los autobuses en cada tramo (Municipalidad Metropolitana de Lima, 2023).
-
-###### Quienes seran los beneficiados por el servicio?
-Los estudiantes universitarios que deseen una alternativa que sea eficiente, cómoda y económica, así como aquellos que busquen generar ingresos o reducir sus gastos en combustible durante su viaje hacia la universidad.
-
----
+**¿Cuánto? (How much):** El impacto de este problema es profundo y multifacético. A nivel ambiental, contribuye a que Lima sea una de las ciudades con peor calidad de aire en la región. A nivel social, la congestión vehicular roba a los ciudadanos un promedio de tres horas diarias, afectando su productividad y bienestar. A nivel económico, la falta de ingresos flexibles aumenta el estrés financiero de los estudiantes, un grupo que representa una parte vital de la juventud limeña, mientras que la dependencia del ineficiente transporte público consume una porción considerable de sus ya limitados presupuestos.
 
 ### [**1.2.2. Lean UX Process.**](#122-lean-ux-process)
 
