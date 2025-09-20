@@ -712,216 +712,59 @@ En esta sección se han definido todas las preguntas que se plantearán en el mo
 
 ### 2.2.2 Registro de entrevistas
 
-#### **Segmento 1: Estudiantes Universitarios**
+**Entrevista a Universitarios.**
 
-**Entrevista 1:**
+|                               **Entrevista 1**                                |                                                                                                                                                                                                                                    **Name**                                                                                                                                                                                                                                    | 
+|:-----------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|                             <center>Edad</center>                             |                                                                                                                                                                                                                              <center>Age</center>                                                                                                                                                                                                                              |
+|                           <center>Distrito</center>                           |                                                                                                                                                                                                                           <center>District</center>                                                                                                                                                                                                                            | 
+|   <center>![Interview_Abel](assets/chapter-2/entrevistavalle.png)</center>    |                                                                                                                                                                                                                          <center>Descripcion</center>                                                                                                                                                                                                                          | 
+|                      <center>Timing: 0:00-4:57 </center>                      |                                                                                                                                                                                                                          <center>URL: link </center>                                                                                                                                                                                                                           | 
+|                               **Entrevista 2**                                |                                                                                                                                                                                                                                    **Name**                                                                                                                                                                                                                                    | 
+|                             <center>Edad</center>                             |                                                                                                                                                                                                                              <center>Age</center>                                                                                                                                                                                                                              |
+|                           <center>Distrito</center>                           |                                                                                                                                                                                                                           <center>District</center>                                                                                                                                                                                                                            | 
+| <center>![Interview_Rodrigo](assets/chapter-2/entrevistaRodrigo.png)</center> |                                                                                                                                                                                                                         <center> Descripcion </center>                                                                                                                                                                                                                         | 
+|                     <center>Timing: 4:58-10:04 </center>                      |                                                                                                                                                                                                                          <center>URL: link </center>                                                                                                                                                                                                                           | 
+|                               **Entrevista 3**                                |                                                                                                                                                                                                                        **Yeni Fiorella Alvarado Mejia**                                                                                                                                                                                                                        | 
+|                             <center>Edad</center>                             |                                                                                                                                                                                                                            <center>28 años</center>                                                                                                                                                                                                                            |
+|                           <center>Distrito</center>                           |                                                                                                                                                                                                                          <center>Los Olivos</center>                                                                                                                                                                                                                           | 
+|  <center>![Interview Brissa](assets/chapter-2/entrevistaBrissa.png)</center>  | <center>Yeni valora una aplicación como la nuestra porque le ofrece una solución para utilizar un vehículo menor que no usa. Le interesa nuestra metodología para facilitar el alquiler y la venta de estos vehículos, así como el registro de los mismos. Aprecia la simplicidad con la que una persona puede ofrecer servicios de alquiler y venta a través de nuestra aplicación. Le gustaria que aseguramos el alquiler de sus vehículos y la seguridad de estos.</center> | 
+|                        <center>Timing: 6:27 </center>                         |                                                                                                                                                                                                               <center>URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a789_upc_edu_pe/EX3B1v6zImNLiJ-V8VgFw10Bc3l7-t9b43j0KdGtmeYJ_A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=q3V2Ld </center>                                                                                                                                                                                                               | 
 
-- **Nombres:** Melina
-- **Apellidos:** Rojas Sosa
-- **Edad:** 19
-- **Lugar de residencia:** Ate, Lima
+**Entrevista a Adquirientes.**
 
-**Evidencia de la entrevista:**  
-<img src="assets/images/interviews/EvidenciaEntrevista.png">
-
-**Enlace de la entrevista:** [https://upcedupe-my.sharepoint.com/personal/u202218475_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218475%5Fupc%5Fedu%5Fpe%2FDocuments%2FTEAM%20SOFTWARE%20PROCESS%2FENTREVISTAS%2FAngel%20Anampa%20%2D%201er%20segmento%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Efe2fdd23%2Dbae9%2D4e48%2D9efb%2D4e7d035773e3
-](https://upcedupe-my.sharepoint.com/personal/u202218475_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218475%5Fupc%5Fedu%5Fpe%2FDocuments%2FTEAM%20SOFTWARE%20PROCESS%2FENTREVISTAS%2FAngel%20Anampa%20%2D%201er%20segmento%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Efe2fdd23%2Dbae9%2D4e48%2D9efb%2D4e7d035773e3)
-**Resumen de la entrevista:**  
-Melina es una estudiante universitaria que enfrenta dificultades diarias para llegar a sus clases debido a la congestión vehicular en Lima. Ella expresa que estaría encantada si existiera un servicio de carpooling que le permitiera llegar más rápido a la universidad. Además, destaca los beneficios adicionales que este tipo de servicio podría ofrecer, como la oportunidad de hacer networking con otros estudiantes de su misma universidad.
-
----
-
-**Entrevista 2:**
-
-- **Nombres:** Sebastian
-- **Apellidos:** Mendez
-- **Edad:** 22
-- **Lugar de residencia:** Ate, Lima
-
-**Evidencia de la entrevista:**  
-<img src="assets/images/interviews/MendezEvidencia.png">
-
-**Enlace de la entrevista:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202115590_upc_edu_pe/EX3HYcv8l09EmHBq5wEKB8IBuyRvbgm4H99tEktUwkfYmg?e=TgFCEg&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
-
-**Resumen de la entrevista:**  
-Sebastian vive en Ate y estudia en la UPC Monterrico le toma 1hora 30min para llegar a su universidad, normalmente tiene dificultades movilizarse debido al trafico. Nos cuenta que le parece una idea interesante nuestra propuesta y le gustaria probarla si le ayuda a ahorrar costo y evitar demorarse como normalmente lo hace al tomar las microbuses.
-
----
-
-**Entrevista 3:**
-
-- **Nombres:** Aaron Alejandro
-- **Apellidos:** Cruz Ticona
-- **Edad:** 21
-- **Lugar de residencia:** Santiago de Surco, Lima
-
-**Evidencia de la entrevista:**  
-<img src="assets/images/interviews/entrevista02.png">
-
-**Enlace de la entrevista:** https://upcedupe-my.sharepoint.com/personal/u202218475_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218475_upc_edu_pe%2FDocuments%2FTEAM%20SOFTWARE%20PROCESS%2FENTREVISTAS%2FABRAHAM%20AYQUIPA%20-%201ER%20SEGMENTO%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E11770188-ced7-423a-a07b-8c3a4a95c2a1
-
-**Resumen de la entrevista:**  
-Aaron nos indicó que tiene 21 años, vive actualmente en Surco. Estudia en la UPC sede monterrico pero una vez por la semana tiene que movilizarse a un diferente campus lo que le genera molestia pues el trayecto es demasiado largo e indica que una propuesta de solucón a su problema como la nuestra le vendría bastante bien.
-
-
----
-
-**Entrevista 4:**
-
-- **Nombres:** Milagros
-- **Apellidos:** Tongo Alejandro
-- **Edad:** 21
-- **Lugar de residencia:** Santa Anita, Lima
-
-**Evidencia de la entrevista:**  
-<img src="assets/images/interviews/1entrevista4.png">
-
-**Enlace de la entrevista:** https://upcedupe-my.sharepoint.com/personal/u202218475_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218475%5Fupc%5Fedu%5Fpe%2FDocuments%2FTEAM%20SOFTWARE%20PROCESS%2FENTREVISTAS%2FFavio%20Landeo%201er%20segmento%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E3c8ed694%2De927%2D48c7%2D8870%2D64d549537ade
-
-**Resumen de la entrevista:**  
-Milagros tiene 21 años, vive actualmente en el distrito de Santa Anita, estudia en la UPC sede Monterrico y se moviliza seguido porque tiene cursos casi todos los días de la semana. Indica que está a favor del ride-sharing para su seguridad y comodidad.
-
-
----
-
-#### **Segmento 2: Estudiantes universitarios propietarios de vehículos privados**
-
-**Entrevista 1:**
-
-- **Nombres:** Jose
-- **Apellidos:** Zarate Castro
-- **Edad:** 22
-- **Lugar de residencia:** San Juan Lurigancho, Lima
-
-**Evidencia de la entrevista:**  
-<img src="assets/images/interviews/ZarateEvidencia.png">
-
-**Enlace de la entrevista:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202115590_upc_edu_pe/EX3HYcv8l09EmHBq5wEKB8IBuyRvbgm4H99tEktUwkfYmg?e=cYNkaJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
-
-**Resumen de la entrevista:**  
-Jose es un estudiante que es propietario de un vehiculo, nos comenta que le parece buena la idea la aplicacion ya que podria ayudarle a solventar gastos de gasolina o peaje pero que se encuentre en su ruta de viaje para que le salga rentable. Lo que busca en la aplicacion es tener seguridad como ver calificacion de usuarios para conocer con que tipo de pasajeros va lidiar.
-
----
-
-**Entrevista 2:**
-
-- **Nombres:** Natanael David
-- **Apellidos:** Soto salis
-- **Edad:** 24
-- **Lugar de residencia:** Santiago de Surco, Lima
-
-**Evidencia de la entrevista:**  
-<img src="assets/images/interviews/entrevista01.png">
-
-**Enlace de la entrevista:** https://upcedupe-my.sharepoint.com/personal/u202218475_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218475_upc_edu_pe%2FDocuments%2FTEAM%20SOFTWARE%20PROCESS%2FENTREVISTAS%2FABRAHAM%20AYQUIPA%20-%202DO%20SEGMENTO%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E9336584c-0401-42f5-9db3-d3d03ee17a42
-
-**Resumen de la entrevista:**  
-Natanael nos indicó que vive en santiago de surco y tiene 24 años, cuenta con un vehiculo con el que está dispuesto a usarlo para llevar a su universidad(UPC) a otros estudiantes con el fin de contar con un ingreso extra pero bajo la condición de que la aplicación analice los perfiles de los estudiantes que requieren el servicio por seguridad.
-
----
-
-**Entrevista 3:**
-
-- **Nombres:** Ariana
-- **Apellidos:** Martinez
-- **Edad:** 24
-- **Lugar de residencia:** Santiago de Surco, Lima
-
-**Evidencia de la entrevista:**  
-<img src="assets/images/interviews/">
-
-**Enlace de la entrevista:** 
-
-**Resumen de la entrevista:**  
-
----
-
-**Entrevista 4:**
-
-- **Nombres:** Paul
-- **Apellidos:** Vega Sayritupac
-- **Edad:** 23
-- **Lugar de residencia:** San Juan de Lurigancho, Lima
-
-**Evidencia de la entrevista:**  
-<img src="assets/images/interviews/2entrevista4.png">
-
-**Enlace de la entrevista:** https://upcedupe-my.sharepoint.com/personal/u202218475_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218475%5Fupc%5Fedu%5Fpe%2FDocuments%2FTEAM%20SOFTWARE%20PROCESS%2FENTREVISTAS%2FFavio%20Landeo%202do%20segmento%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ecd8872a6%2D2846%2D4f13%2Db413%2D88d52afa5d48
-
-**Resumen de la entrevista:**  
-Paul nos comenta que él estudia y trabaja por lo que se moviliza toda su semana laboral con su vehículo particular, utiliza GNV y estaría dispuesto a obtener un ingreso extra haciendo ride-sharing con otros estudiantes que viven entre su ruta desde su casa hasta la universidad.
-
----
+|                               **Entrevista 1**                               |                                                                                                                                                                                        **Name**                                                                                                                                                                                        | 
+|:----------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|                            <center>Edad</center>                             |                                                                                                                                                                                  <center>Age</center>                                                                                                                                                                                  |
+|                          <center>Distrito</center>                           |                                                                                                                                                                                <center>Distict</center>                                                                                                                                                                                |
+|   <center>![Interview_Camila](assets/chapter-2/Interview2.1.png)</center>    |                                                                                                                                                                              <center>Descripcion</center>                                                                                                                                                                              |
+|                    <center>Timing: 14:53-20:01 </center>                     |                                                                                                                                                                              <center>URL: link </center>                                                                                                                                                                               |
+|                               **Entrevista 2**                               |                                                                                                                                                                                        **Name**                                                                                                                                                                                        | 
+|                            <center>Edad</center>                             |                                                                                                                                                                                  <center>Age</center>                                                                                                                                                                                  |
+|                          <center>Distrito</center>                           |                                                                                                                                                                               <center>District</center>                                                                                                                                                                                |
+|  <center>![Interview_Paola](assets/chapter-2/entrevistaPaola.png)</center>   |                                                                                                                                                                              <center>Descripcion</center>                                                                                                                                                                              |
+|                    <center>Timing: 20:02-25:01 </center>                     |                                                                                                                                                                              <center>URL: link </center>                                                                                                                                                                               |
+|                               **Entrevista 3**                               |                                                                                                                                                                            **Hilder Francisco Ruiz Perez**                                                                                                                                                                             | 
+|                            <center>Edad</center>                             |                                                                                                                                                                                <center>22 Años</center>                                                                                                                                                                                |
+|                          <center>Distrito</center>                           |                                                                                                                                                                        <center>San Juan de Lurigancho</center>                                                                                                                                                                         |
+| <center>![Interview_Rodrigo](assets/chapter-2/entrevistaSilvia.png)</center> | <center>Francisco, le gusta el propósito de la aplicación, puesto que ya usó algunas anteriormente por salidas familiares. Espera que con esta aplicación se pueda ahorrar tiempo, dinero y que sea más seguro. Sugiere que se podría mejorar teniendo fotos de los vehículos y distintas características del vehículo, sin olvidar tener un comprobante de pago como prueba.</center> |
+|                        <center>Timing: 7:59 </center>                        |                                                                                                                                                                   <center>URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a789_upc_edu_pe/EWxE05DPOI5NnTme01aBA-kB20xF3TelWnk8DFQ1sV9etg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=MfQe3k </center>                                                                                                                                                                   |
 
 ### 2.2.3 Análisis de entrevistas.
-<TABLE BORDER>
-	<TR>
-		<TD COLSPAN = 2 align=center>
+**Análisis del segmento universitario**
 
-*Características*</TD>
+Los entrevistados valoran altamente la aplicación EcoMovil por su capacidad para facilitar la renta y la venta de vehículos menores inactivos, permitiéndoles generar ingresos adicionales y contribuir a la movilidad sostenible. El 100% de los usuarios aprecian cómo la aplicación optimiza el proceso de rentar o vender estos vehículos, destacando su utilidad para maximizar el valor de los recursos no utilizados. La facilidad de uso y la funcionalidad para registrar y gestionar los vehículos son aspectos especialmente valorados.
 
-<TD align=center>
+Sin embargo, se identificaron áreas de mejora. Un 67% de los usuarios, como Rodrigo, sugiere incorporar promociones u ofertas para atraer a más adquirientes y mejorar la visibilidad del vehículo. Además, un 33% menciona la necesidad de optimizar la comunicación entre universitario y adquiriente, como se indicó en la tercera entrevista, para hacer el proceso de alquiler y venta más eficiente. También se destacó la importancia de incluir herramientas que permitan una gestión más eficiente de las reservas y el seguimiento de alquileres y ventas. En general, aunque EcoMovil es percibida como una herramienta beneficiosa, mejorar la interacción, las ofertas y las herramientas de gestión podría potenciar aún más la experiencia del usuario.
 
-*Segmento1*
-<br>
-*Estudiantes universitarios*
-</TD>
+**Análisis del segmento de adquiriente**
 
-<TD align=center>
+El 100% de los entrevistados valoran la presencia de un mapa interactivo y las opciones de edición de vehículos. Un 67% prefiere usar el servicio para disfrutar del paisaje y recorrer distancias medias, indicando una inclinación hacia experiencias agradables y prácticas de movilidad urbana. No obstante, un 33% ha tenido experiencias desfavorables debido a cobros imprevistos, subrayando la importancia de mantener la claridad en los precios y evitar cargos inesperados.
 
-*Segmento2*
-<br>
-*Estudiantes universitarios propietarios de vehiculos privados*
-</TD>
+Además, el 67% valora positivamente la atención al cliente y la posibilidad de comunicarse directamente con el universitario, sugiriendo que una comunicación efectiva es esencial para una experiencia de alquiler y compra satisfactoria. Todos los entrevistados consideran importantes las ventajas ambientales del servicio, lo que refleja una alta conciencia y aprecio por el impacto positivo en el medio ambiente.
 
-   </TR>
-	<TR>
-		<TD ROWSPAN = 4>
+Algunos usuarios también sugirieron incluir características adicionales, como opciones de seguro más flexibles y mejoras en el proceso de devolución del vehículo, para aumentar la satisfacción general y la confianza en el servicio.
 
-*Objetivas*
-</TD>
-<TD>Tráfico</TD>
-<TD>Costos</TD>
-<TD>Seguridad</TD>
-</TR>
-<TR>
-<TD>Problemas con el tráfico diario</TD>
-<TD>Potencial de ahorro en transporte </TD>
-<TD>Preocupación por la seguridad en transporte público</TD>
-</TR>
-<TR>
-<TD>Menos relevante, pero buscan reducir tiempo y costo</TD>
-<TD>Reducir costos de transporte es clave </TD>
-<TD>Seguridad personal y verificación de identidad son cruciales</TD>
-</TR>
-<TR>
-<TD >Mejoraría tiempos de viaje y eficiencia</TD>
-<TD>N/A</TD>
-<TD>Reducir tiempos también es valorado</TD>
-</TR>
-
-   <TR>
-		<TD ROWSPAN = 4>
-
-*Subjetivas*
-</TD>
-<TD>Conexiones sociales</TD>
-<TD>Comodidad</TD>
-<TD>Reglas claras</TD>
-<TR>
-<TD>Oportunidad de hacer networking con otros estudiantes</TD>
-<TD>Preferirían más comodidad que en transporte público</TD>
-<TD>N/A</TD>
-</TR>
-<TR>
-<TD>Hacer nuevas amistades mientras reducen costos</TD>
-<TD>Preocupación por la comodidad de los pasajeros</TD>
-<TD>Necesidad de reglas claras y sistemas de calificación</TD>
-</TR>
-<TR>
-
-</TR>
-</TABLE>
 
 ## 2.3. Needfinding
 
