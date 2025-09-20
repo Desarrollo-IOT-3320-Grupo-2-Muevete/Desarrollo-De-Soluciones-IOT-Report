@@ -1332,14 +1332,67 @@ Las historias de usuario son nuestra herramienta para traducir las expectativas 
 En esta sección, explicamos el proceso realizado para la toma de decisiones estratégicas aplicando Domain-Driven Design y dividiendo nuestra solución en bounded contexts.
 
 ### [**4.1.1. Design-Level EventStorming**](#411-design-level-eventstorming)
+EventStorming es una metodología colaborativa que ayuda a explorar y comprender el dominio del problema mediante la detección de eventos relevantes, comandos del sistema, actores externos y entidades principales (aggregates). En esta sección se muestran los resultados de la sesión de EventStorming, que hizo posible representar los flujos de interacción entre los usuarios y el sistema, y establecer las bases para el diseño de los Bounded Contexts en etapas posteriores del proyecto.
 
 #### [**4.1.1.1. Candidate Context Discovery**](#4111-candidate-context-discovery)
 
+A partir del EventStorming realizado en Miro, nuestro equipo desarrolló una sesión de Candidate Context Discovery con el objetivo de identificar los bounded contexts de la solución. Durante esta dinámica, aplicamos principalmente la técnica look-for-pivotal-events.
+Técnicas aplicadas:
+•	Start-with-value: Se priorizaron las partes del dominio con mayor valor para el negocio, identificando el Contexto de Viajes y el Contexto de Pagos como críticos para garantizar la viabilidad del sistema.
+•	Start-with-simple: Se organizaron timelines secuenciales simples que representaron el ciclo básico: Registro → Publicación de viaje → Reserva → Pago → Calificación.
+•	Look-for-pivotal-events: Se identificaron eventos clave como Asiento reservado y Pago realizado, que marcan transiciones importantes entre contextos.
+
+<img src="./assets/chapter-4/CandidateContextDiscovery/Step9.png">
+
+
 #### [**4.1.1.2. Domain Message Flows Modeling**](#4112-domain-message-flows-modeling)
+
+Se modelaron los flujos de mensajes entre los bounded contexts identificados, utilizando Domain Storytelling para representar eventos clave como la actualización de estados, la confirmación de reservas y las notificaciones de disponibilidad.
+
+##### **Caso 1: Reserva de viaje y pago exitoso**
+<img src="./assets/chapter-4/DomainMessageFlowsModeling/escenario1.png">
+
+##### **Caso 2: Finalización de viaje y calificación**
+<img src="./assets/chapter-4/DomainMessageFlowsModeling/escenario2.png">
+
+##### **Caso 3: Suscripción Premium**
+<img src="./assets/chapter-4/DomainMessageFlowsModeling/escenario3.png">
 
 #### [**4.1.1.3. Bounded Context Canvases**](#4113-bounded-context-canvases)
 
+Se definieron cuatro bounded contexts principales: Gestión de Viajes como núcleo encargado de la publicación, reserva y ejecución de trayectos; Pagos y Suscripciones para procesar transacciones y administrar planes; Gestión de Usuarios para autenticación, verificación de identidad y reputación; y Comunicación y Notificaciones para mensajería, alertas y ubicación en tiempo real. Cada uno fue diseñado considerando reglas de negocio, capacidades y dependencias, asegurando límites claros y coherentes para la solución.
+
+##### **Contexto de Gestión de Viajes (Service Design and Planning / Service Execution)**
+<img src="./assets/chapter-4/BoundedContextCanvases/context1.png">
+
+##### **Contexto de Pagos y Suscripciones (Subscriptions and Payment Management)**
+<img src="./assets/chapter-4/BoundedContextCanvases/context2.png">
+
+##### **Contexto de Gestión de Usuarios (Identity and Access Management / Profiles and Preferences)**
+<img src="./assets/chapter-4/BoundedContextCanvases/context3.png">
+
+##### **Contexto de Comunicación y Notificaciones (Loyalty and Engagement / Monitoring)**
+<img src="./assets/chapter-4/BoundedContextCanvases/context4.png">
+
 ### [**4.1.2. Context Mapping**](#412-context-mapping)
+
+El proceso de Context Mapping se realizó con el fin de visualizar las relaciones estructurales entre bounded contexts y explorar alternativas de organización.
+
+##### Relaciones identificadas:
+Usuarios ↔ Viajes: relación de tipo Shared Kernel, ya que comparten el concepto de Usuario verificado.
+<img src="./assets/chapter-4/ContextMapping/Usuarios-Viajes-SK.png">
+
+Viajes ↔ Pagos: relación Customer/Supplier, donde Viajes depende del servicio de Pagos para confirmar reservas.
+<img src="./assets/chapter-4/ContextMapping/Viajes-Pagos-CustomerSupplier.png">
+
+Viajes ↔ Comunicación: relación Conformist, Comunicación consume eventos generados por Viajes.
+<img src="./assets/chapter-4/ContextMapping/Viajes-Comunicacion-Conformist.png">
+
+Pagos ↔ Proveedores externos: se aplica un Anti-Corruption Layer para proteger el dominio interno de la lógica de terceros.
+<img src="./assets/chapter-4/ContextMapping/Pagos-Proveedores externos-ACL.png">
+
+Usuarios ↔ Comunicación: relación Customer/Supplier, Comunicación depende de la información de Usuarios (ej. nombre, reputación).
+<img src="./assets/chapter-4/ContextMapping/Usuarios-Comunicacion-CustomerSupplier.png">
 
 ### [**4.1.3 Software Architecture**](#413-software-architecture)
 
