@@ -264,9 +264,9 @@ Nuestro proyecto busca ser un agente de cambio. Queremos transformar la movilida
 #### [**1.2.2.1. Lean UX Problem Statements.**](#1221-lean-ux-problem-statements)
 
 
-Nuestro servicio de carpooling para estudiantes universitarios se diseñó con el fin de mejorar la experiencia de transporte de nuestros usuarios, reducir el estrés, el riesgo de robos, la fatiga por autobuses abarrotados y los costos elevados. Sin embargo, hemos notado que el servicio no está cumpliendo completamente con estos objetivos. Los estudiantes siguen enfrentando problemas de estrés y fatiga, y los costos no se han reducido significativamente. Además, la falta de coincidencia en horarios y rutas entre los usuarios y la baja ocupación de los vehículos están limitando la efectividad del servicio.
+Nuestro objetivo es crear una plataforma digital que funcione como un punto de encuentro para universitarios con vehículos menores en desuso y personas que buscan activamente alternativas de movilidad más asequibles y respetuosas con el medio ambiente. Hemos identificado que una gran cantidad de estudiantes posee bicicletas, scooters o patinetas sin darles uso, mientras que, simultáneamente, existe un grupo de personas que necesita opciones de transporte económicas y sostenibles. Esta situación refleja una preocupación real por los costos de movilidad, el impacto ecológico y la promoción de un estilo de vida saludable. Por lo tanto, nos preguntamos: 
 
-¿Cómo podemos mejorar nuestro servicio para asegurar que los estudiantes universitarios encuentren compañeros de viaje compatibles, optimicen el uso de los vehículos y reduzcan significativamente los costos y las dificultades asociadas con el transporte diario?
+¿Cómo podemos diseñar una experiencia digital que facilite el intercambio de estos vehículos de forma eficiente, promoviendo así un ecosistema de transporte económico, sostenible y beneficioso para la salud?
 
 ### Aspectos
 
@@ -307,64 +307,50 @@ Crear una plataforma de carpooling diseñada específicamente para estudiantes u
 
 #### [**1.2.2.2. Lean UX Assumptions.**](#1222-lean-ux-assumptions)
 
-Assumptions play a crucial role in identifying project risks and fostering team participation and active engagement.
+* **Suposiciones de Negocio:**
+    * **Necesidad del Cliente:** Partimos de la premisa de que nuestros usuarios anhelan una solución que entrelace la movilidad sostenible con una fuente de ingresos adaptable a sus vidas.
+    * **Solución Propuesta:** Nuestra aplicación web será el puente que conecte a estudiantes con vehículos menores y a personas interesadas en alquilarlos o comprarlos, creando un mercado beneficioso para ambos.
+    * **Propuesta de Valor:** Para los universitarios, ofrecemos una vía para monetizar sus activos sin sacrificar sus estudios. Para los usuarios, brindamos acceso fácil a un transporte ecológico que mejora su movilidad.
+    * **Adquisición de Clientes:** Planeamos llegar a nuestro público a través de campañas en redes sociales, colaboraciones estratégicas con universidades y presencia en eventos de sostenibilidad.
+    * **Modelo de Ingresos:** Nuestra sostenibilidad financiera se basará en modelos de suscripción para los estudiantes que publican sus vehículos y en una comisión por cada transacción exitosa.
+    * **Competencia:** Aunque existen otras plataformas de movilidad, nuestro factor diferenciador será la combinación única de sostenibilidad, flexibilidad económica para estudiantes y una interfaz diseñada para ser excepcionalmente simple y práctica.
+    * **Riesgos Clave:** Los principales desafíos son construir una masa crítica de usuarios activos y garantizar que la experiencia en la plataforma supere sus expectativas.
 
-#### User Assumptions
+* **Suposiciones sobre el Usuario:**
+    * **¿Quién es?** Identificamos dos perfiles claros: **universitarios** con vehículos subutilizados y un deseo de generar ingresos, y **usuarios finales** (trabajadores, turistas, etc.) que buscan opciones de transporte ecológicas y económicas en Lima.
+    * **¿Cómo encajamos en su vida?** Para los estudiantes, somos una herramienta de empoderamiento financiero. Para los usuarios, somos un facilitador de una movilidad más inteligente y consciente.
+    * **¿Qué problema resolvemos?** A los estudiantes les solucionamos la necesidad de ingresos flexibles. A los usuarios les ofrecemos una alternativa a la congestión y la contaminación.
+    * **¿Cuándo y cómo nos usarán?** Los estudiantes usarán la app para gestionar sus vehículos disponibles. Los usuarios la consultarán cuando necesiten moverse por la ciudad de forma rápida y sostenible.
+    * **¿Qué funciones valorarán?** Creemos que características como un sistema de valoraciones, búsqueda avanzada, historial de transacciones, un foro de ayuda y un mapa interactivo serán cruciales para una experiencia de usuario exitosa. La gamificación añadirá un elemento de compromiso y diversión.
 
-**Who is the user?**
+* **Suposiciones sobre las Funcionalidades:**
+    * Asumimos que un sistema de calificaciones y reseñas generará confianza en la comunidad.
+    * Una función de búsqueda con filtros avanzados permitirá a los usuarios encontrar exactamente lo que necesitan de manera rápida.
+    * Un panel de usuario con un historial de transacciones ofrecerá transparencia y control.
+    * Un canal de soporte directo, como un foro o contacto por WhatsApp, resolverá dudas eficientemente.
+    * Un mapa interactivo para localizar vehículos será una herramienta fundamental.
+    * Elementos de gamificación, como logros y recompensas, incentivarán el uso recurrente de la aplicación.
 
-- The user is any university student interested in a faster, safer, and more efficient way to commute to their university.
+* **Resultados de Negocio Esperados:**
+    * Aspiramos a una plataforma estable y fluida que garantice una experiencia de usuario sin interrupciones.
+    * Nuestro objetivo es alcanzar un 70% de satisfacción entre los usuarios en el primer trimestre post-lanzamiento.
+    * Buscamos lograr una reducción medible del 40% en la contaminación generada por los viajes de nuestros usuarios, contribuyendo así a la lucha contra el cambio climático.
 
-**Where does our product fit into their work or life?**
+* **Nuestros Usuarios:**
+    El corazón de nuestra plataforma son los **estudiantes universitarios**, quienes a través del alquiler o venta de sus vehículos menores se convierten en pequeños emprendedores. Del otro lado se encuentran los **usuarios finales**, personas que buscan una forma más inteligente y sostenible de moverse por la ciudad y encuentran en nuestra comunidad la solución perfecta.
 
-- Our product integrates seamlessly into users' daily lives, providing an efficient and accessible transportation solution. It helps avoid stress, risks of theft, fatigue caused by overcrowded buses, and high transportation costs.
+* **Beneficios para el Usuario:**
+    * **Para los Universitarios:** La oportunidad de generar ingresos de forma flexible y la satisfacción de contribuir a una causa ecológica.
+    * **Para los Usuarios Finales:** La capacidad de reducir su huella de carbono y el acceso simplificado a medios de transporte prácticos cuando más los necesitan.
 
-**What problems does our product need to solve?**
-
-- Our product addresses inefficiencies in commuting, scheduling conflicts among travel companions, and low vehicle occupancy that limit carpooling effectiveness. It also aims to reduce transportation costs and enhance the overall experience for students.
-
-**When and how is our product used?**
-
-- The product is used daily by students to coordinate shared rides to and from the university. It matches users with compatible routes and schedules.
-
-**How should our product look and behave?**
-
-- The product should be intuitive and user-friendly, featuring an interface that enables users to efficiently plan and coordinate trips. It must function reliably, ensuring users can quickly find travel companions and complete their trips safely and affordably.
-
-#### Business Assumptions
-
-**We believe that:**
-
-- Our customers need a platform that allows them to coordinate and share rides to the university in a safe, efficient, and economical way. Students are seeking to reduce travel costs and times while minimizing stress associated with daily transportation.
-
-- These needs can be addressed with a mobile application that connects university students, enabling them to share car rides, lower transportation expenses, and improve their daily commuting experience.
-
-**The #1 value my customer wants from my service:**
-
-- **For students offering rides:** A platform that helps fill empty seats in their vehicles, optimizing costs and maximizing the efficiency of their daily commutes.
-
-- **For students seeking rides:** A secure and economical way to reach the university, reducing travel time and the stress of overcrowded public transportation.
-
-- **For universities:** A solution that reduces traffic congestion and environmental impact, promoting a more sustainable mode of transportation for their students.
-
-**Additional benefits for customers:**
-
-- **Student Networking:** Opportunities to connect with fellow university students, building a social and academic network that enriches their university experience.
-
-- **Incentives and Rewards:** Frequent users can access discounts, special promotions, or rewards for participating in the carpooling system.
-
-- **Feedback and Continuous Improvement:** Users can provide and receive feedback on trips, enhancing service quality and ensuring a positive experience for all involved.
 
 #### [**1.2.2.3. Lean UX Hypothesis Statements.**](#1223-lean-ux-hypothesis-statements)
 
-**Creemos que** al simplificar el proceso de registro y la verificación de usuarios en nuestra plataforma, aumentaremos la tasa de conversión de nuevos estudiantes que se inscriben para usar el servicio de carpooling. Sabremos que hemos tenido éxito cuando observemos un aumento significativo en el número de cuentas activas en los primeros 7 días después del lanzamiento.
-
-**Creemos que** al ofrecer una sección destacada para los “Viajes Más Populares de la Semana”, aumentaremos la participación de los estudiantes en la plataforma. Sabremos que hemos tenido éxito cuando observemos un aumento en las visitas a esta sección y una mayor interacción con los viajes destacados.
-
-**Creemos que** al proporcionar métricas claras sobre la eficiencia de los viajes (como ahorro de tiempo y dinero), motivaremos a más estudiantes a utilizar nuestro servicio de manera regular. Sabremos que hemos tenido éxito cuando veamos un aumento en la frecuencia de uso del servicio y una mayor satisfacción de los usuarios.
-
-**Creemos que** al incorporar un sistema de recompensas para conductores y pasajeros frecuentes, aumentaremos la retención de usuarios y generaremos un uso más constante de la plataforma. Sabremos que hemos tenido éxito cuando observemos un aumento en la lealtad de los usuarios y una mayor participación activa en la plataforma.
-
+* **Hipótesis 01:** Creemos que al facilitar que los universitarios alquilen o vendan sus vehículos, fomentaremos una cultura de economía compartida que reducirá la necesidad de vehículos privados y, por ende, beneficiará al medio ambiente. Sabremos que es cierto cuando veamos un aumento en los ingresos de los estudiantes y un crecimiento orgánico de la comunidad a través de recomendaciones.
+* **Hipótesis 02:** Creemos que al ofrecer una gama diversa de opciones de transporte sostenible, inspiraremos un estilo de vida más eco-consciente. El éxito será evidente cuando observemos que las autoridades locales de Lima invierten más en infraestructura para la micromovilidad, como ciclovías y carriles para scooters.
+* **Hipótesis 03:** Creemos que ampliar nuestra oferta de vehículos atraerá a un público más amplio. Mediremos el éxito a través de un crecimiento significativo en nuestra base de usuarios después de cada nueva incorporación.
+* **Hipótesis 04:** Creemos que un enfoque riguroso en la seguridad y el mantenimiento de los vehículos fortalecerá la confianza del usuario. Lo confirmaremos al ver un aumento en la tasa de retención de usuarios y al recibir comentarios positivos sobre la fiabilidad del servicio.
+* **Hipótesis 05:** Creemos que al optimizar continuamente la experiencia de usuario, haremos que la aplicación sea más accesible y agradable para todos. Sabremos que hemos tenido éxito cuando las métricas muestren un mayor tiempo de uso en la app y las encuestas reflejen una alta satisfacción general.
 
 #### [**1.2.2.4. Lean UX Canvas.**](#1224-lean-ux-canvas)
 
