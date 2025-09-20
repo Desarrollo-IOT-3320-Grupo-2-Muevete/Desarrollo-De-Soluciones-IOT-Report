@@ -261,7 +261,7 @@ Nuestro proyecto busca ser un agente de cambio. Queremos transformar la movilida
 
 ### [**1.2.2. Lean UX Process.**](#122-lean-ux-process)
 
-<td><img src="assets/chapter-1/canvas.png" width="500" height="500"></td>
+<td><img src="assets/chapter-1/canvas.png" width="900" height="900"></td>
 
 #### [**1.2.2.1. Lean UX Problem Statements.**](#1221-lean-ux-problem-statements)
 
