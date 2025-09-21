@@ -1428,13 +1428,15 @@ Usuarios ↔ Comunicación: relación Customer/Supplier, Comunicación depende d
 
 #### [**4.1.3.1. Software Architecture System Landscape Diagram**](#4131-software-architecture-system-landscape-diagram)
 
+![](assets/chapter-4/c41.png)
+
 #### [**4.1.3.2. Software Architecture Context Level Diagrams**](#4132-software-architecture-context-level-diagrams)
+
+![](assets/chapter-4/c43.png)
 
 #### [**4.1.3.3. Software Architecture Container Level Diagrams**](#4133-software-architecture-container-level-diagrams)
 
-#### [**4.1.3.4. Software Architecture Deployment Diagrams**](#4134-software-architecture-deployment-diagrams)
-
-## [**4.2. Tactical-Level Domain-Driven Design**](#42-tactical-level-domain-driven-design)
+![](assets/chapter-4/c42.png)
 
 ### [**4.2.1. Bounded Context: User Management**](#421-bounded-context-bc1)
 
@@ -1581,17 +1583,23 @@ Por último, tenemos las clases que ayudarán con la conexión de microservicios
 
 ![Component Diagram with Services](assets/chapter-4/c46.png)
 
+![Component Diagram Vehicle](assets/chapter-4/c45.png)
+
 #### [**4.2.1.6. Bounded Context Software Architecture Code Level Diagrams**](#4216-bounded-context-software-architecture-code-level-diagrams)
 
-![Code Level Diagram](assets/chapter-4/)
+![Code Level Diagram](assets/chapter-4/c44.png)
 
 ##### [**4.2.1.6.1. Bounded Context Domain Layer Class Diagrams**](#42161-bounded-context-domain-layer-class-diagrams)
 
+![Layer Class Diagram](assets/chapter-4/PlanBC.png)
+
 ##### [**4.2.1.6.2. Bounded Context Database Design Diagram**](#42162-bounded-context-database-design-diagram)
+
+![Database Diagram](assets/chapter-4/DataBaseDiagram.png)
 
 ---
 
-# [**Capítulo V: Product Design.**](#capítulo-v-product-design)
+<!-- # [**Capítulo V: Product Design.**](#capítulo-v-product-design)
 
 En este capítulo describimos las directrices de diseño y estilo para el producto, asegurando una experiencia visual coherente y atractiva para el usuario.
 
