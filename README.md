@@ -195,17 +195,17 @@ Lo que realmente nos distingue en el ecosistema de aplicaciones de movilidad es 
     <th>Descripción</th>
   </tr>
   <tr>
-    <td><img src="assets/images/profiles/Anampa_Angel.jpg" alt="" width="100" height="100"></td>
-    <td>Mi nombre es Angel Anampa y tengo 19 años. Actualmente estoy cursando la carrera de Ingeniería de Software en la UPC. Elegí dicha carrera porque soy una persona que le interesa mucho los temas que tienen que ver con tecnología , me gustan los videojuegos. Me considero una persona atenta, responsable , optimista que sabe solucionar los problemas. Como integrante del equipo me comprometo a apoyar al grupo en este trabajo.</td>
+    <td><img src="assets/chapter-1/perfil/FotoEduard.jpg" alt="" width="100" height="100"></td>
+    <td>Soy Eduard, tengo 20 años y actualmente estoy cursando la carrera de Ingeniería de Software. Considero que soy alguien que se adapta a lo que requiera el trabajo, logrando aportar en este de buena manera, para asegurar un trabajo bien hecho. Con conocimientos en distintos lenguajes de programación como C++, Python, SQL y entre otros. Además mis motivaciones me ayudan a dar lo mejor de mí y mantenerse constante apoyando al equipo en lo que se requiera.</td>
   </tr>
   
    <tr>
-    <td><img src="assets/images/profiles/Ayquipa_Abraham.jpeg" width="150" height="130"></td>
+    <td><img src="assets/chapter-1/perfil/Sebas.PNG" width="150" height="130"></td>
     <td>Soy estudiante de la carrera de ingeniería de software, actualmente cursando el 8to ciclo de carrera. Aunque soy fullstack developer, tengo más inclinación por el desarrollo frontend. Mi stack arranca con Next.js(Framework de React) + Typescript para el front y Node.js + Express.js + MongoDB para el back. Como todo buen programador, me considero un eterno estudiante, por lo que me encuentro en este momento estudiando Docker y Redis..</td>
   </tr>
 
   <tr>
-    <td><img src="/assets/images/profiles/Onofre_Carlos.jpeg" width="100" height="100"></td>
+    <td><img src="/assets/chapter-1/perfil/Carlos.HEIC" width="100" height="100"></td>
     <td>Estudiante de ingeniería de software, tengo varios interes como backend developer, aun asi desempeño roles como desarrollo frontend y diseño UX/UI. Participo activamente en ramas estudiantiles y a la par apoyando a la facultad de Ingenieria. Me encuentro realizando m tesis basado en machine learning siendo un reto para mi que superaré.</td>
     </tr>
 
@@ -426,24 +426,24 @@ información recopilada sobre su posicionamiento actual en el mercado.</td>
         MUEVETE!
         <br>
         <div style="text-align: center; margin-top: 10px;">
-                <img src="assets/images/logo/gounilogo.jfif" alt="StartUp" width="100px">
+                <img src="assets/chapter-2/Logo-Muevete.png" alt="StartUp" width="100px">
         </div>
     <td colspan="1" valign="top" style="font-weight: bold;">
     Tembici
     <div style="text-align: center; margin-top: 20px;">
-                <img src="assets/images/competitorsLogo/blablacar.png" alt="blablacar" width="100px">
+                <img src="assets/chapter-2/tembici.png" alt="tembici" width="100px">
         </div>
     </td>
     <td colspan="1" valign="top" style="font-weight: bold;">
       Airbnb
       <div style="text-align: center; margin-top: 40px;">
-                <img src="assets/images/competitorsLogo/urbvan.png" alt="urbvan" width="200px">
+                <img src="https://i.ibb.co/BzbnJ7z/image.png" alt="urbvan" width="200px">
             </div>
       </td>
     <td colspan="1" valign="top" style="font-weight: bold;" >
       CityBikeLima
       <div style="text-align: center; margin-top: 20px;">
-                <img src="assets/images/competitorsLogo/yango.png" alt="yango" width="610px">
+                <img src="https://i.ibb.co/py5jTXP/image-removebg-preview-4.png" alt="yango" width="610px">
             </div>
     </td>
   </tr>
@@ -701,7 +701,7 @@ En esta sección se han definido todas las preguntas que se plantearán en el mo
 |                               **Entrevista 3**                                |                                                                                                                                                                                                                        **Yeni Fiorella Alvarado Mejia**                                                                                                                                                                                                                        | 
 |                             <center>Edad</center>                             |                                                                                                                                                                                                                            <center>28 años</center>                                                                                                                                                                                                                            |
 |                           <center>Distrito</center>                           |                                                                                                                                                                                                                          <center>Los Olivos</center>                                                                                                                                                                                                                           | 
-|  <center>![Interview Brissa](assets/chapter-2/entrevistaBrissa.png)</center>  | <center>Yeni valora una aplicación como la nuestra porque le ofrece una solución para utilizar un vehículo menor que no usa. Le interesa nuestra metodología para facilitar el alquiler y la venta de estos vehículos, así como el registro de los mismos. Aprecia la simplicidad con la que una persona puede ofrecer servicios de alquiler y venta a través de nuestra aplicación. Le gustaria que aseguramos el alquiler de sus vehículos y la seguridad de estos.</center> | 
+|  <center>![Interview Brissa](assets/chapter-2/Entrevista-Yeni.PNG)</center>  | <center>Yeni valora una aplicación como la nuestra porque le ofrece una solución para utilizar un vehículo menor que no usa. Le interesa nuestra metodología para facilitar el alquiler y la venta de estos vehículos, así como el registro de los mismos. Aprecia la simplicidad con la que una persona puede ofrecer servicios de alquiler y venta a través de nuestra aplicación. Le gustaria que aseguramos el alquiler de sus vehículos y la seguridad de estos.</center> | 
 |                        <center>Timing: 6:27 </center>                         |                                                                                                                                                                                                               <center>URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a789_upc_edu_pe/EX3B1v6zImNLiJ-V8VgFw10Bc3l7-t9b43j0KdGtmeYJ_A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=q3V2Ld </center>                                                                                                                                                                                                               | 
 
 **Entrevista a Adquirientes.**
@@ -720,7 +720,7 @@ En esta sección se han definido todas las preguntas que se plantearán en el mo
 |                               **Entrevista 3**                               |                                                                                                                                                                            **Hilder Francisco Ruiz Perez**                                                                                                                                                                             | 
 |                            <center>Edad</center>                             |                                                                                                                                                                                <center>22 Años</center>                                                                                                                                                                                |
 |                          <center>Distrito</center>                           |                                                                                                                                                                        <center>San Juan de Lurigancho</center>                                                                                                                                                                         |
-| <center>![Interview_Rodrigo](assets/chapter-2/entrevistaSilvia.png)</center> | <center>Francisco, le gusta el propósito de la aplicación, puesto que ya usó algunas anteriormente por salidas familiares. Espera que con esta aplicación se pueda ahorrar tiempo, dinero y que sea más seguro. Sugiere que se podría mejorar teniendo fotos de los vehículos y distintas características del vehículo, sin olvidar tener un comprobante de pago como prueba.</center> |
+| <center>![Interview_Rodrigo](assets/chapter-2/Entrevista-Francisco.PNG)</center> | <center>Francisco, le gusta el propósito de la aplicación, puesto que ya usó algunas anteriormente por salidas familiares. Espera que con esta aplicación se pueda ahorrar tiempo, dinero y que sea más seguro. Sugiere que se podría mejorar teniendo fotos de los vehículos y distintas características del vehículo, sin olvidar tener un comprobante de pago como prueba.</center> |
 |                        <center>Timing: 7:59 </center>                        |                                                                                                                                                                   <center>URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a789_upc_edu_pe/EWxE05DPOI5NnTme01aBA-kB20xF3TelWnk8DFQ1sV9etg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=MfQe3k </center>                                                                                                                                                                   |
 
 ### 2.2.3 Análisis de entrevistas.
@@ -1067,17 +1067,15 @@ En esta sección se ilustra el recorrido completo del usuario (end-to-end journe
 
 ## 3.1. To-Be Scenario Mapping
 
-En esta sección se resume la información recopilada. Se presentan dos tablas que detallan la situación a mejorar de cada segmento objetivo, analizando los pasos que se realizarán y cómo se sienten los usuarios en cada etapa.
+Para elaborar el To-be Scenario Mapping, el equipo definió cómo sería el flujo de trabajo después de la implementación de nuestra solución, EcoMovil, para ambos segmentos objetivos. El propósito de este artefacto es comparar y abordar los aspectos negativos identificados en el As-is Scenario.
 
-### *Segmento: Estudiantes Universitarios que necesiten movilizarse*
+- Segmento Universitarios:
 
-![ScenarioMapO1.jpg](assets/images/toBeScenarioMapping/ScenarioMapO1.jpg)
+![ImpactMapping1](/assets/chapter-3/tobe1.png)
 
----
+- Segmento Adquiriente:
 
-### *Segmento: Estudiantes Universitarios propietarios de vehículo privado*
-
-![ScenarioMapO2.jpg](assets/images/toBeScenarioMapping/ScenarioMapO2.jpg)
+![ToBeMapping2](/assets/chapter-3/tobe2.png)
 
 
 ### **3.2. User Stories**
@@ -1121,6 +1119,11 @@ Las historias de usuario son nuestra herramienta para traducir las expectativas 
 
 ## 3.3. Impact Mapping.
 
+En esta sección, presentamos el **Impact Mapping** para el proyecto de **EcoMovil**, cuyo objetivo es desarrollar e implementar un mapa interactivo que facilite la localización. Este mapa es esencial para optimizar la experiencia de nuestros usuarios y alcanzar los objetivos comerciales.
+
+El **Impact Mapping** ofrece una visión clara de cómo los objetivos de negocio, las necesidades de los usuarios y las funcionalidades propuestas se interconectan. Asegura que cada elemento del desarrollo esté alineado con nuestras metas, contribuyendo al éxito de **EcoMovil** y mejorando tanto la experiencia de los universitarios como la de los adquirientes.
+
+![ImpactMapping](/assets/chapter-3/Impactmap1.png)
 
 ### **3.4. Product Backlog**
 
