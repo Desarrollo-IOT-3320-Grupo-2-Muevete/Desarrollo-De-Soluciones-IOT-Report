@@ -746,106 +746,323 @@ Algunos usuarios también sugirieron incluir características adicionales, como 
 
 ### 2.3.1. User Personas
 
-#### *Estudiantes universitarios:*
+- Segmento Universitarios:
 
-<img src="assets/images/user-persona/user-persona-1.png" width="800px">
+![User Persona Propietario](/assets/chapter-2/AlexHidalgo.png)
 
-#### *Estudiantes Universitarios propietarios de vehículos privados:*
+- Segmento Adquirientes:
 
-<img src="assets/images/user-persona/user-persona-2.png" width="800px">
+![User Persona Rentador](/assets/chapter-2/CamilaSolano.png)
 
 ---
 
 ### 2.3.2. User Task Matrix
 
-A continuación se pueden apreciar los User Task Matrix de los segmentos objetivos.
+Se presenta el Task Matrix, una tabla que muestra las tareas realizadas por los User Personas, incluyendo su importancia y frecuencia. A continuación, se proporciona un resumen basado en la información presentada.
 
-#### *Segmento Objetivo: Estudiantes Universitarios*
+<table>
+    <tr>
+        <td></td>
+        <td colspan=2>
+            <b>Universitarios</b>
+        </td>
+        <td colspan=2>
+            <b>Adquirientes</b>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Task</b>
+        </td>
+        <td>
+            <b>Frequency</b>
+        </td>
+        <td>
+            <b>Importance</b>
+        </td>
+        <td>
+        <b>Frequency</b>
+        </td>
+        <td>
+        <b>Importance</b>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Montar bicicleta
+        </td>
+        <td>
+        Rarely
+        </td>
+        <td>
+            High
+        </td>
+        <td>
+        Sometimes
+        </td>
+        <td>
+        Medium
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Generar ingresos
+        </td>
+        <td>
+            Rarely
+        </td>
+        <td>
+            High
+        </td>
+        <td>
+        Always
+        </td>
+        <td>
+        High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Viajar
+        </td>
+        <td>
+            Rarely
+        </td>
+        <td>
+            Low
+        </td>
+        <td>
+        Rarely
+        </td>
+        <td>
+        Medium
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Comprar y rentar vehículos
+        </td>
+        <td>
+            Never
+        </td>
+        <td>
+        Low
+        </td>
+        <td>
+            Rarely
+        </td>
+        <td>
+        Medium
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Explorar nuevos lugares
+        </td>
+        <td>
+            Rarely
+        </td>
+        <td>
+            Low
+        </td>
+        <td>
+            Sometimes
+        </td>
+        <td>
+        Medium
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Conocer gente
+        </td>
+        <td>
+            Sometimes
+        </td>
+        <td>
+            Medium
+        </td>
+        <td>
+            Sometimes
+        </td>
+        <td>
+        High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Gestionamiento de huella de carbono
+        </td>
+        <td>
+            Never
+        </td>
+        <td>
+            Low
+        </td>
+        <td>
+            Always
+        </td>
+        <td>
+        High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Informarse a través del foro de contacto
+        </td>
+        <td>
+            Sometimes
+        </td>
+        <td>
+            Medium
+        </td>
+        <td>
+            Sometimes
+        </td>
+        <td>
+        High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Buscar descuentos
+        </td>
+        <td>
+            Sometimes
+        </td>
+        <td>
+            Medium
+        </td>
+        <td>
+            Sometimes
+        </td>
+        <td>
+        High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Compartir su experiencia por redes sociales
+        </td>
+        <td>
+            Sometimes
+        </td>
+        <td>
+            Low
+        </td>
+        <td>
+            Always
+        </td>
+        <td>
+        High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Contactar a través de WhatsApp
+        </td>
+        <td>
+            Sometimes
+        </td>
+        <td>
+            High
+        </td>
+        <td>
+            Rarely
+        </td>
+        <td>
+        Medium
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Renovar la suscripción
+        </td>
+        <td>
+            Sometimes
+        </td>
+        <td>
+            Medium
+        </td>
+        <td>
+            Sometimes
+        </td>
+        <td>
+        Medium
+        </td>
+    </tr>
+</table>
 
-| **Task**                                 | **Frequency** | **Importance** |
-|------------------------------------------|---------------|-----------------|
-| Buscar compañeros disponibles en la app  | High          | High            |
-| Coordinar el punto de encuentro           | Medium        | Medium          |
-| Realizar pagos a través de la app         | Medium        | High            |
-| Verificar la seguridad del conductor/compañeros | High      | High            |
-| Calificar al conductor y el viaje         | Low           | Medium          |
-| Planificar viajes recurrentes             | Medium        | High            |
-| Ser partícipe de promociones o descuentos | Low           | Medium          |
+En este caso, observamos que para Camila, las tareas relacionadas con la gestión de la huella de carbono son de alta prioridad e importancia, reflejando su fuerte preocupación por el medio ambiente. Camila también se enfoca en explorar nuevos lugares y compartir sus experiencias con amigos y en redes sociales.
 
----
+Por otro lado, para Alex Hidalgo, la tarea principal está orientada hacia la generación de ingresos, motivado por su necesidad de comprar artículos personales y apoyar a su familia. Alex se centra principalmente en cumplir con sus responsabilidades académicas.
 
-#### *Segmento Objetivo: Estudiantes universitarios propietarios de vehículos privados*
-
-| **Task**                                 | **Frequency** | **Importance** |
-|------------------------------------------|---------------|-----------------|
-| Publicar la disponibilidad del vehículo  | High          | High            |
-| Aceptar solicitudes de pasajero           | High          | High            |
-| Coordinar horarios y puntos de recogida   | Medium        | Medium          |
-| Recibir pago de los pasajeros             | High          | High            |
-| Revisar la seguridad y confiabilidad del pasajero | Medium  | High            |
-| Calificar a los pasajeros                 | Low           | Medium          |
-| Optimizar rutas para ahorrar tiempo y combustible | Medium | High            |
-
+A pesar de sus diferencias, ambos comparten una valoración común en la importancia de la seguridad frente a posibles incidentes.
 
 ### 2.3.3. User Journey Mapping
 
-A continuación se pueden apreciar los User Journey Mapping de los segmentos objetivos.
+En esta sección se ilustra el recorrido completo del usuario (end-to-end journey) de la aplicación EcoMovil para los segmentos objetivos: Universitarios y adquirientes. El User Journey Mapping comienza desde el momento en que el cliente toma conocimiento de la aplicación, pasando por el proceso de decidir usarla, registrarse, utilizarla y, finalmente, la posibilidad de dejar de usarla.
 
-#### *Estudiantes Universitarios*
+- Segmento Universitarios:
 
-<img src="assets/images/user-journey-mapping/journey-map-1.png" width="900px">
+![Journey](/assets/chapter-2/journey1.png)
 
-#### *Estudiantes universitarios propietarios de vehículos privados*
+- Segmento Adquirientes:
 
-<img src="assets/images/user-journey-mapping/journey-map-2.png" width="900px">
+![Journey](/assets/chapter-2/journey2.png)
 
 ---
 
 ### 2.3.4. Empathy Mapping
 
-A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivos.
+- Segmento Universitarios:
 
-#### *Estudiantes Universitarios*
+![Empathy Mapping 1](/assets/chapter-2/AlexHidalgo_EmpathyMap.png)
 
-<img src="assets/images/empathy-mapping/empathy-mapping-1.png" width="900px">
+- Segmento Adquirientes:
 
-#### *Estudiantes universitarios propietarios de vehículos privados*
-
-<img src="assets/images/empathy-mapping/empathy-mapping-2.png" width="900px">
+![Empathy Mapping 2](/assets/chapter-2/CamilaSolano_EmpathyMap.png)
 
 ---
 
 ### 2.3.5. As-is Scenario Mapping
 
-A continuación se pueden apreciar los As-Is Scenario de los segmentos objetivos.
+- Segmento Universitarios:
 
-#### *Estudiantes Universitarios*
+![As-Is Mapping 1](/assets/chapter-2/AsIsMappingUniversitario.png)
 
-<img src="assets/images/as-is-scenario-mapping/as-is-scenario-1.png" width="900px">
+- Segmento Adquirientes:
 
-#### *Estudiantes universitarios propietarios de vehículos privados*
-
-<img src="assets/images/as-is-scenario-mapping/as-is-scenario-2.png" width="900px">
-
-**Enlace de Miro:** [As-Is Scenario Mapping Board](https://miro.com/app/board/uXjVKlGuWKk=/?share_link_id=612949293517)
+![As-Is Mapping 2](/assets/chapter-2/AsIsMappingAdquiriente.png)
 
 ---
 
 ## 2.4. Ubiquitous Language
 
-- **Usuario**: Estudiante universitario registrado en la plataforma, ya sea como conductor o pasajero.
-- **Conductor**: Estudiante universitario que posee un vehículo y está dispuesto a compartir su viaje hacia la universidad con otros estudiantes a cambio de una compensación económica.
-- **Pasajero**: Estudiante universitario que utiliza la plataforma para buscar conductores con rutas compatibles y compartir un viaje hacia su universidad a cambio de una tarifa.
-- **Viaje Compartido**: Desplazamiento en un vehículo particular en el que participan un conductor y uno o más pasajeros que comparten una ruta similar hacia la universidad.
-- **Ruta**: Trayectoria específica que sigue un conductor desde su punto de origen hasta la universidad, la cual es compartida con los pasajeros a través de la plataforma.
-- **Carpooling**: El acto de compartir un viaje entre varias personas para optimizar el uso de un vehículo particular, reducir costos y disminuir la congestión vehicular.
-- **Reserva de Viaje**: Proceso mediante el cual un pasajero asegura un asiento en el vehículo de un conductor para un viaje específico, siguiendo una ruta y horario predeterminado.
-- **Tarifa**: Costo que un pasajero paga al conductor por compartir el viaje. Esta tarifa cubre una parte de los gastos del conductor, como el combustible.
-- **Perfil del Usuario**: Información detallada que cada usuario (conductor o pasajero) proporciona a la plataforma, incluyendo su nombre, universidad, calificaciones previas, y preferencias de viaje.
-- **Calificación**: Sistema de puntuación que los pasajeros y conductores otorgan mutuamente después de cada viaje, basado en aspectos como puntualidad, seguridad y comportamiento durante el trayecto.
-- **Notificación**: Comunicación enviada a los usuarios a través de la plataforma, informándoles sobre el estado de su reserva, cambios en la ruta, o recordatorios de viaje.
-- **Punto de Encuentro**: Lugar acordado donde el conductor y los pasajeros se reúnen para iniciar el viaje compartido.
-- **Destino**: La universidad u otro lugar predeterminado donde el viaje compartido finaliza.
+- **Vehicle (Vehículo)**: Entidad central en la plataforma que representa cualquier medio de transporte ecológico disponible para alquiler o compra, como bicicletas, scooters, skateboards, o motos eléctricas.
+- **University Student (Universitario)**: Persona que posee un vehículo y lo publica en la plataforma con el objetivo de generar ingresos al rentarlo o venderlo.
+- **Acquirer (Adquiriente)**: Usuario que busca alquilar o comprar un vehículo para su transporte personal o recreativo, ya sea a corto o largo plazo.
+- **Renting (Alquiler)**: Proceso mediante el cual un Universitario otorga el uso temporal de su vehículo a un Adquiriente a cambio de un pago.
+- **Vehicle Listing (Publicación de Vehículo)**: Acción realizada por el Universitario para colocar su vehículo en la plataforma, especificando detalles relevantes como precio, disponibilidad y condiciones de uso.
+- **Vehicle Sale (Venta de Vehículo)**: Proceso en el cual un Universitario ofrece un vehículo para su venta definitiva a un Adquiriente.
+- **Transaction (Transacción)**: Proceso financiero que ocurre al completar una acción de alquiler o venta, involucrando el pago y la entrega del vehículo.
+- **Transaction History (Historial de Transacciones)**: Registro de todas las acciones de alquiler o venta realizadas por un Universitario o Adquiriente en la plataforma.
+- **WhatsApp Coordination (Coordinación por WhatsApp)**: Comunicación directa entre un Universitario y un Adquiriente para acordar detalles logísticos como la entrega o recolección del vehículo.
+- **Forum (Foro)**: Espacio colaborativo donde los usuarios pueden publicar preguntas, compartir experiencias y resolver dudas relacionadas con vehículos, alquileres, ventas o la plataforma en general.
+- **Review and Rating (Calificación y Reseña)**: Sistema donde los Adquirientes pueden calificar su experiencia con un vehículo o Universitario, aportando información relevante para otros usuarios.
+- **Temporary Insurance (Seguro Temporal)**: Servicio adicional opcional que brinda cobertura contra accidentes o daños durante el alquiler de un vehículo.
+- **Subscription Plan (Plan de Suscripción)**: Niveles de membresía que los Universitarios pueden adquirir para acceder a funcionalidades y beneficios específicos de la plataforma.
+- **Flexible Income (Ingreso Flexible)**: Beneficio monetario obtenido por los Universitarios mediante la renta o venta de sus vehículos.
+- **Marketplace (Mercado)**: Espacio de la plataforma donde los usuarios pueden buscar, alquilar o comprar vehículos disponibles.
+- **Pick-up/Drop-off Point (Punto de Entrega y Recolección)**: Ubicación designada donde los Adquirientes pueden recoger o entregar los vehículos alquilados o comprados.
+- **Gamification (Gamificación)**: Estrategia que implementa retos, logros y recompensas para motivar a los usuarios a interactuar más activamente en la plataforma.
+- **Cachimbo Plan (Plan Cachimbo)**: Plan básico de suscripción para Universitarios, con un límite de publicaciones y soporte limitado.
+- **University Plan (Plan Universitario)**: Plan intermedio de suscripción que ofrece más publicaciones mensuales y soporte prioritario.
+- **Graduate Plan (Plan Graduado)**: Plan de suscripción avanzado que brinda a los Universitarios publicaciones ilimitadas y soporte completo.
+- **Plan Payment (Pago de Plan)**: Evento en el cual un Universitario realiza una transacción para adquirir o renovar un Plan de Suscripción en la plataforma.
+- **Reminder Notification (Notificación de Recordatorio)**: Mensaje automático que se envía a los Universitarios y Adquirientes para recordar eventos importantes como la renovación de un plan, la recolección de un vehículo o la finalización de un período de alquiler.
+- **Vehicle Verification (Validación de Vehículo)**: Proceso por el cual la plataforma verifica los detalles y la condición de los vehículos publicados por los Universitarios para garantizar la calidad y seguridad del servicio.
+- **Achievement (Logro)**: Recompensas o insignias virtuales que los usuarios pueden obtener al cumplir ciertos objetivos, como alcanzar un número específico de alquileres o recibir calificaciones positivas.
 
 ---
 
