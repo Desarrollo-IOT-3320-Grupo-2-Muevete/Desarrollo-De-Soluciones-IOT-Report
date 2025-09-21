@@ -770,13 +770,13 @@ Algunos usuarios también sugirieron incluir características adicionales, como 
 
 ### 2.3.1. User Personas
 
-#### *Estudiantes universitarios:*
+- Segmento Universitarios:
 
-<img src="assets/images/user-persona/user-persona-1.png" width="800px">
+![User Persona Propietario](/assets/chapter-2/AlexHidalgo.png)
 
-#### *Estudiantes Universitarios propietarios de vehículos privados:*
+- Segmento Adquirientes:
 
-<img src="assets/images/user-persona/user-persona-2.png" width="800px">
+![User Persona Rentador](/assets/chapter-2/CamilaSolano.png)
 
 ---
 
