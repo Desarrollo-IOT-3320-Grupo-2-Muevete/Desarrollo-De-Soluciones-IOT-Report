@@ -25,7 +25,7 @@
 |-------------------------------------|-------------|
 | Onofre Ruiz, Carlos Jesus      	    | u202115590  |
 | Travezaño Patiño, Eduard Gedeon      	| u20211a789  |
-| Onofre Ruiz, Carlos Jesus      	    | u202115590  |
+| Mendez Vargas, Sebastian Orlando      	    | u20201f140  |
 | Hidalgo Lopez, Mathias Adriano      	    | u202213222  |
 
 </div>
