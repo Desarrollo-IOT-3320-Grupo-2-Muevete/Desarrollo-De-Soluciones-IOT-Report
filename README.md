@@ -1094,18 +1094,17 @@ En esta sección se ilustra el recorrido completo del usuario (end-to-end journe
 
 ## 3.1. To-Be Scenario Mapping
 
-En esta sección se resume la información recopilada. Se presentan dos tablas que detallan la situación a mejorar de cada segmento objetivo, analizando los pasos que se realizarán y cómo se sienten los usuarios en cada etapa.
+Para elaborar el To-be Scenario Mapping, el equipo definió cómo sería el flujo de trabajo después de la implementación de nuestra solución, EcoMovil, para ambos segmentos objetivos. El propósito de este artefacto es comparar y abordar los aspectos negativos identificados en el As-is Scenario.
 
-### *Segmento: Estudiantes Universitarios que necesiten movilizarse*
+- Segmento Universitarios:
 
-![ScenarioMapO1.jpg](assets/images/toBeScenarioMapping/ScenarioMapO1.jpg)
+![ImpactMapping1](/assets/chapter-3/tobe1.png)
+
+- Segmento Adquiriente:
+
+![ToBeMapping2](/assets/chapter-3/tobe2.png)
 
 ---
-
-### *Segmento: Estudiantes Universitarios propietarios de vehículo privado*
-
-![ScenarioMapO2.jpg](assets/images/toBeScenarioMapping/ScenarioMapO2.jpg)
-
 
 ### **3.2. Historias de Usuario**
 
@@ -1148,6 +1147,9 @@ Las historias de usuario son nuestra herramienta para traducir las expectativas 
 
 ## 3.3. Impact Mapping.
 
+El **Impact Mapping** ofrece una visión clara de cómo los objetivos de negocio, las necesidades de los usuarios y las funcionalidades propuestas se interconectan. Asegura que cada elemento del desarrollo esté alineado con nuestras metas, contribuyendo al éxito de **EcoMovil** y mejorando tanto la experiencia de los universitarios como la de los adquirientes.
+
+![ImpactMapping](/assets/chapter-3/Impactmap1.png)
 
 ## 3.4. Product Backlog.
 <table>
