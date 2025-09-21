@@ -1227,37 +1227,178 @@ Usuarios ↔ Comunicación: relación Customer/Supplier, Comunicación depende d
 
 #### [**4.1.3.1. Software Architecture System Landscape Diagram**](#4131-software-architecture-system-landscape-diagram)
 
-#### [**4.1.3.2. Software Architecture COntext Level Diagrams**](#4132-software-architecture-context-level-diagrams)
+![](assets/chapter-4/c41.png)
+
+#### [**4.1.3.2. Software Architecture Context Level Diagrams**](#4132-software-architecture-context-level-diagrams)
+
+![](assets/chapter-4/c43.png)
 
 #### [**4.1.3.3. Software Architecture Container Level Diagrams**](#4133-software-architecture-container-level-diagrams)
 
-#### [**4.1.3.4. Software Architecture Deployment Diagrams**](#4134-software-architecture-deployment-diagrams)
+![](assets/chapter-4/c42.png)
 
-## [**4.2. Tactical-Level Domain-Driven Design**](#42-tactical-level-domain-driven-design)
+### [**4.2.1. Bounded Context: User Management**](#421-bounded-context-bc1)
 
+Este bounded context recopila todas las funcionalidades relacionadas a la gestión de usuarios existentes y nuevos del proyecto. Incluye, por ejemplo, el registro y autenticación de estudiantes, gestión de perfiles, reputación y calificaciones, etc.
 
+## **Clase Principal:** 
 
-### [**4.2.1. Bounded Context: bc1**](#421-bounded-context-bc1)
+`Usuario`
 
-#### [**4.2.1.1. Domain Layer**](#4211-domain-layer)
+### **Descripción:**
 
-#### [**4.2.1.2. Interface Layer**](#4212-interface-layer)
+La clase Usuario representa a un usuario dentro de la plataforma, ya sea un conductor o pasajero.
 
-#### [**4.2.1.3. Application Layer**](#4213-application-layer)
+### **Atributos:**
 
-#### [**4.2.1.4. Infrastructure Layer**](#4214-infrastructure-layer)
+| Atributo       | Descripción                                                              |
+| -------------- | ------------------------------------------------------------------------ |
+| `nombre: String`      | Almacena el nombre del usuario.                                            |
+| `email: String`       | Almacena la dirección de correo electrónico del usuario.                   |
+| `contraseña: String`  | Almacena la contraseña del usuario.                                        |
+| `rol: Rol`            | Define el rol del usuario en la plataforma (conductor o pasajero).         |
+| `verificado: Boolean` | Indica si el usuario ha verificado su identidad.                           |
 
-#### [**4.2.1.5. Bounded Context Software Architecture Component Level Diagrams**](#4215-bounded-context-software-architecture-component-level-diagrams)
+### **Relaciones**
 
-#### [**4.2.1.6. Bounded Context Software Architecture Code Level Diagrams**](#4216-bounded-context-software-architecture-code-level-diagrams)
+- **Composición**: `Evaluación` (Un **usuario** puede realizar varias evaluaciones sobre los viajes que toma o proporciona, formando una relación de composición).
+- **Agregación**: `Viaje` (El **usuario** como pasajero puede estar asociado a varios viajes, pero los viajes no dependen exclusivamente de él, ya que pueden tener otros pasajeros).
+- **Agregación**: `Reserva` (El **usuario** puede realizar múltiples reservas a lo largo del tiempo, pero cada reserva pertenece a un usuario específico).
+- **Agregación**: `Pago` (El **usuario** puede realizar varios pagos a lo largo del tiempo, cada uno relacionado con una reserva).
 
-##### [**4.2.1.6.1. Bounded Context Domain Layer Class Diagrams**](#42161-bounded-context-domain-layer-class-diagrams)
+### **Métodos:**
 
-##### [**4.2.1.6.2. Bounded Context Database Design Diagram**](#42162-bounded-context-database-design-diagram)
+| Método                   | Descripción                                                                        |
+| ------------------------ | ---------------------------------------------------------------------------------- |
+| `registrarse(): void`    | Método para registrar a un nuevo usuario en la plataforma.                        |
+| `iniciarSesion(): void`  | Método para que el usuario inicie sesión en la plataforma.                        |
+| `verificarIdentidad(): void` | Verifica la identidad del usuario a través de documentos o información adicional.
 
 ---
 
-# [**Capítulo V: Product Design.**](#capítulo-v-product-design)
+## **Clases Relacionadas:**
+
+`Evaluación`
+
+### **Descripción:**
+
+La clase Evaluación permite a los usuarios calificar y dejar comentarios sobre sus experiencias de viaje.
+
+### **Atributos:**
+
+| Atributo       | Descripción                                              |
+| -------------- | -------------------------------------------------------- |
+| `calificación: int` | Almacena la calificación numérica del viaje (por ejemplo, de 1 a 5). |
+| `comentario: String` | Almacena los comentarios opcionales sobre el viaje. |
+| `evaluador: Usuario` | Almacena la información del usuario que realiza la evaluación. |
+| `viaje: Viaje`       | Almacena la información del viaje evaluado.         |
+
+### **Métodos:**
+
+| Método                 | Descripción                                              |
+| ---------------------- | -------------------------------------------------------- |
+| `calificar(): void`    | Permite al usuario dejar una calificación sobre el viaje.|
+| `dejarComentario(): void` | Permite al usuario dejar un comentario opcional sobre el viaje.|
+
+<br>
+
+`Pasajero`
+
+### **Descripción:**
+
+La clase Pasajero es una extensión de Usuario y representa a los usuarios que buscan y reservan viajes.
+
+### **Métodos:**
+
+| Método                   | Descripción                                                   |
+| ------------------------ | ------------------------------------------------------------- |
+| `buscarViaje(): void`    | Permite al pasajero buscar viajes disponibles en la plataforma.|
+| `reservarViaje(): void`  | Permite al pasajero reservar un asiento en un vehículo disponible.|
+
+---
+
+#### [**4.2.1.1. Domain Layer**](#4211-domain-layer)
+
+Consideramos que la clase principal de este bounded context (Usuario), nos permite evaluar y gestionar actualizaciones de reputaciones e información sensible de nuestros usuarios, así como también para registrar en los dispositivos IoT de nuestro proyecto.
+
+### **Reglas de Negocio**
+
+- **Componentes Obligatorios:** Nuestro dispositivo IoT debe incluir:
+  - Sensor de localización
+  - Sensor de alerta
+
+- **Condiciones de Operación:** Para la correcta operabilidad del dispositivo, necesita:
+  - Tener una conexión estable y activa a Internet con el fin de no interrumpir el flujo y recolección de datos en vivo.
+  - Vincularse con la cuenta del usuario conductor.
+
+![Profile Class Diagram](assets/chapter-4/BoundedContexts/1/profileclass.png)
+
+#### [**4.2.1.2. Interface Layer**](#4212-interface-layer)
+
+#### **Entities**
+
+- Usuario: Representa a un conductor o pasajero en la aplicación.
+
+#### **Value Objects**
+
+- Verificado: Representa el estado de validación de identidad del usuario dentro de la plataforma.
+- Rol: Representa el tipo de usuario en la plataforma, como conductor o pasajero.
+
+#### **Enums**
+
+- Verificado: Representa el estado de validación de identidad del usuario dentro de la plataforma.
+- Rol: Representa el tipo de usuario en la plataforma, como conductor o pasajero.
+
+#### **Factories**
+
+- UserFactory: Fabrica para crear instancias de usuarios.
+- VehicleFactory: Fabrica para crear instancias de viajes de un vehiculo.
+
+#### **Interfaces**
+
+- UserRepository: Interfaz para gestionar usuarios.
+- VehicleRepository: Interfaz para gestionar vehiculos y sus estados.
+
+![Vehicle Class Diagram](assets/chapter-4/BoundedContexts/1/vehicleclass.png)
+
+#### [**4.2.1.3. Application Layer**](#4213-application-layer)
+
+A continuación, presentaremos las interfaces que creamos para ser consumidas tanto por nuestra aplicación, como por nuestro dispositivo de localización IoT.
+
+- LocationDeviceController: Gestiona, en su totalidad, las funciones que ofrece nuestro dispositivo, así como cualquier transacción que realice.
+
+Siguiendo con el enfoque de Domain-Driven Design, contamos con commandHandlers y  eventHandlers que manejarán las solicitudes y transacciones realizadas por el controlador del dispositivo IoT.
+
+- CreateLocationDeviceCommandHandler: Gestiona la creación de un nuevo dispositivo IoT.
+- LocationDeviceCreatedEventHandler: Verifica el estado de creación de un nuevo dispositivo IoT.
+
+#### [**4.2.1.4. Infrastructure Layer**](#4214-infrastructure-layer)
+
+Por último, tenemos las clases que ayudarán con la conexión de microservicios de nuestra aplicación:
+
+- TrackingNotificationSystem: Proveedor de servicios externos de localización actual de un usuario.
+
+#### [**4.2.1.5. Bounded Context Software Architecture Component Level Diagrams**](#4215-bounded-context-software-architecture-component-level-diagrams)
+
+![Component Diagram with Services](assets/chapter-4/c46.png)
+
+![Component Diagram Vehicle](assets/chapter-4/c45.png)
+
+#### [**4.2.1.6. Bounded Context Software Architecture Code Level Diagrams**](#4216-bounded-context-software-architecture-code-level-diagrams)
+
+![Code Level Diagram](assets/chapter-4/c44.png)
+
+##### [**4.2.1.6.1. Bounded Context Domain Layer Class Diagrams**](#42161-bounded-context-domain-layer-class-diagrams)
+
+![Layer Class Diagram](assets/chapter-4/PlanBC.png)
+
+##### [**4.2.1.6.2. Bounded Context Database Design Diagram**](#42162-bounded-context-database-design-diagram)
+
+![Database Diagram](assets/chapter-4/DataBaseDiagram.png)
+
+---
+
+<!-- # [**Capítulo V: Product Design.**](#capítulo-v-product-design)
 
 En este capítulo describimos las directrices de diseño y estilo para el producto, asegurando una experiencia visual coherente y atractiva para el usuario.
 
@@ -1869,7 +2010,7 @@ Link Web Applications Prototyping:
 
 
 
-<!-- ## [**4.6. Domain-Driven Software Architecture**](#domain-driven-software-architecture)
+## [**4.6. Domain-Driven Software Architecture**](#domain-driven-software-architecture)
 
 ### [**4.6.1. Software Architecture Context Diagram.**](#software-architecture-context-diagram)
 
