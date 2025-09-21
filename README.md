@@ -210,8 +210,8 @@ Lo que realmente nos distingue en el ecosistema de aplicaciones de movilidad es 
     </tr>
 
   <tr>
-    <td><img src="./assets/images/profiles/Landeo_Favio.png" width="140" height="100"></td>
-    <td>Tengo 22 años y actualmente estoy cursando el décimo ciclo de la carrera de Ingeniería de Software. Estoy disponible para ayudar siempre a mis compañeros y además tiendo a generar buenas relaciones sociales con diferentes tipos de personas gracias a mi tolerancia y capacidad de trabajo en equipo. En mis tiempos libres me gusta escuchar música, jugar videojuegos y editar videos.</td>
+    <td><img src="./assets/chapter-1/perfil/Yo.jpg" width="140" height="100"></td>
+    <td>Mi nombre es Mathias Adriano Hidalgo López, tengo 20 años y actualmente estudio la carrera de Ingeniería de Software. Soy una persona a la que le gusta colaborar y trabajar en equipo, además de ser activa, con compromiso y disciplina. Poseo conocimientos en C++, C#, JavaScript, etc. además de otros conocimientos de programación adquiridos en ciclos anteriores.</td>
   </tr>
 
 </table>
