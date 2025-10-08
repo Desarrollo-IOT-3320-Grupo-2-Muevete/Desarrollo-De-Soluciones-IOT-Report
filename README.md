@@ -179,7 +179,7 @@ En esta sección, exploraremos la identidad de nuestra startup, presentando una 
 
 ### [**1.1.1 Descripción del startup.**](#111-descripción-del-startup)
 
-GoUni es una startup que nace como una iniciativa frente a dos realidades urbanas en pleno auge: la urgente demanda de opciones de movilidad sostenible y la creciente popularidad de los vehículos ecológicos. Nuestra propuesta se materializa en una aplicación que sirve como puente, conectando a personas que necesitan un medio de transporte —como bicicletas, scooters, skateboards o motos eléctricas— con quienes ya poseen estos vehículos y están dispuestos a compartirlos.
+Muevete! es una startup que nace como una iniciativa frente a dos realidades urbanas en pleno auge: la urgente demanda de opciones de movilidad sostenible y la creciente popularidad de los vehículos ecológicos. Nuestra propuesta se materializa en una aplicación que sirve como puente, conectando a personas que necesitan un medio de transporte —como bicicletas, scooters, skateboards o motos eléctricas— con quienes ya poseen estos vehículos y están dispuestos a compartirlos.
 
 Lo que realmente nos distingue en el ecosistema de aplicaciones de movilidad es nuestro doble propósito. No solo defendemos y facilitamos una forma de transporte más limpia y amigable con el planeta, sino que también abrimos una puerta a oportunidades de ingreso para la comunidad universitaria. Los estudiantes pueden generar ganancias de forma flexible, ya sea alquilando o vendiendo sus vehículos. Además, hemos integrado en nuestra plataforma funcionalidades clave para garantizar que cada interacción sea segura, ágil y, sobre todo, una experiencia positiva.
 
@@ -357,7 +357,7 @@ canva.png
 
 ## [**1.3. Segmentos objetivo.**](#13-segmentos-objetivo)
 
-Por medio de nuestro enfoque de obtener una solución efectiva a las problemáticas de nuestros futuros usuarios, identificamos los siguientes segmentos para GoUni:
+Por medio de nuestro enfoque de obtener una solución efectiva a las problemáticas de nuestros futuros usuarios, identificamos los siguientes segmentos para Muevete!:
 
 ### **Segmento objetivo #1: Estudiantes Universitarios que necesiten movilizarse.**
 
@@ -1444,13 +1444,13 @@ Las pautas de estilo para la web están diseñadas para asegurar que el diseño 
 
 ## [**5.2. Information Architecture.**](#information-architecture)
 
-En esta sección, se describe cómo se organizará el contenido en la plataforma **GoUni**, tanto en la web como en las aplicaciones móviles. Se busca que la estructura sea intuitiva para los estudiantes universitarios, permitiendo una navegación fluida y el acceso rápido a las principales funcionalidades de la plataforma.
+En esta sección, se describe cómo se organizará el contenido en la plataforma **Muevete!**, tanto en la web como en las aplicaciones móviles. Se busca que la estructura sea intuitiva para los estudiantes universitarios, permitiendo una navegación fluida y el acceso rápido a las principales funcionalidades de la plataforma.
 
 <hr>
 
 ### [**5.2.1. Organization Systems.**](#organization-systems)
 
-El Sistema de Organización de **GoUni** está diseñado para facilitar la interacción entre el usuario y la plataforma, asegurando que los estudiantes puedan encontrar y utilizar los servicios clave, como la búsqueda de viajes o la oferta de plazas en vehículos.
+El Sistema de Organización de **Muevete!** está diseñado para facilitar la interacción entre el usuario y la plataforma, asegurando que los estudiantes puedan encontrar y utilizar los servicios clave, como la búsqueda de viajes o la oferta de plazas en vehículos.
 
 - **Jerarquía Visual**: La página principal destacará las acciones más importantes para el usuario, como “Buscar viaje” y “Publicar viaje”, con énfasis en botones de llamada a la acción que lleven a estas secciones.
 - **Organización Secuencial**: Se aplicará a procesos clave como el registro de usuario, reserva de un viaje y configuración de perfil. Estos procesos se guiarán paso a paso, asegurando que los usuarios completen cada tarea sin problemas.
@@ -1461,10 +1461,10 @@ El Sistema de Organización de **GoUni** está diseñado para facilitar la inter
 
 ### [**5.2.2. Labeling Systems.**](#labeling-systems)
 
-En **GoUni**, las etiquetas se diseñarán para ser claras, directas y comprensibles para los estudiantes, priorizando una navegación simple y una experiencia de usuario intuitiva.
+En **Muevete!**, las etiquetas se diseñarán para ser claras, directas y comprensibles para los estudiantes, priorizando una navegación simple y una experiencia de usuario intuitiva.
 
 ### Etiquetas:
-- **Inicio**: Al hacer clic en el logo de GoUni, los usuarios serán redirigidos a la página principal.
+- **Inicio**: Al hacer clic en el logo de Muevete!, los usuarios serán redirigidos a la página principal.
 - **Buscar Viaje**: Opción en el menú principal que permite a los estudiantes buscar viajes disponibles en su universidad.
 - **Publicar Viaje**: Los usuarios con vehículo propio podrán acceder a esta opción para publicar su ruta y disponibilidad de asientos.
 - **Reservas Actuales**: Sección donde los usuarios pueden ver y gestionar sus reservas actuales.
@@ -1478,32 +1478,32 @@ Una vez que los usuarios se registren y accedan a su cuenta, aparecerán nuevas 
 
 ### [**5.2.3. SEO Tags and Meta Tags.**](#seo-tags-and-meta-tags)
 
-Los SEO Tags y Meta Tags son esenciales para mejorar la visibilidad de **GoUni** en los motores de búsqueda.
+Los SEO Tags y Meta Tags son esenciales para mejorar la visibilidad de **Muevete!** en los motores de búsqueda.
 
 ### Para la Landing Page:
 ```html
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>GoUni - Carpooling para Estudiantes Universitarios</title>
-<meta name="description" content="GoUni es la plataforma de carpooling exclusiva para estudiantes universitarios, enfocada en la seguridad, sostenibilidad y economía colaborativa.">
+<title>Muevete! - Carpooling para Estudiantes Universitarios</title>
+<meta name="description" content="Muevete! es la plataforma de carpooling exclusiva para estudiantes universitarios, enfocada en la seguridad, sostenibilidad y economía colaborativa.">
 <meta name="keywords" content="carpooling universitario, compartir autos estudiantes, movilidad sostenible, transporte colaborativo">
-<meta name="author" content="GoUni Team">
+<meta name="author" content="Muevete! Team">
 ```
 ### Para la Aplicación Web:
 ```html
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>GoUni - Comparte tu auto con otros estudiantes universitarios</title>
-<meta name="description" content="Con GoUni, puedes compartir tu auto con otros estudiantes universitarios y reducir tus gastos de transporte mientras ayudas al medio ambiente.">
+<title>Muevete! - Comparte tu auto con otros estudiantes universitarios</title>
+<meta name="description" content="Con Muevete!, puedes compartir tu auto con otros estudiantes universitarios y reducir tus gastos de transporte mientras ayudas al medio ambiente.">
 <meta name="keywords" content="carpooling estudiantes, compartir auto universidad, transporte sostenible, viaje colaborativo">
-<meta name="author" content="GoUni Team">
+<meta name="author" content="Muevete! Team">
 ```
 
 <br>
 
 ### [**5.2.4. Searching Systems.**](#searching-systems)
 
-El sistema de búsqueda en GoUni facilitará a los usuarios encontrar viajes disponibles de forma rápida y efectiva. La funcionalidad de búsqueda incluirá:
+El sistema de búsqueda en Muevete! facilitará a los usuarios encontrar viajes disponibles de forma rápida y efectiva. La funcionalidad de búsqueda incluirá:
 
 Búsqueda por Universidad: Los estudiantes podrán buscar viajes que conecten con su universidad específica.
 Filtros de Búsqueda: Los usuarios podrán filtrar los resultados por tipo de vehículo, horario de salida, calificación del conductor y disponibilidad de plazas.
@@ -1515,10 +1515,10 @@ Organización de Resultados: Los resultados se podrán ordenar de manera alfabé
 
 ### [**5.2.5. Navigation Systems.**](#navigation-systems)
 
-El sistema de navegación de GoUni estará diseñado para que los usuarios puedan encontrar la información y realizar las acciones deseadas con el mínimo esfuerzo.
+El sistema de navegación de Muevete! estará diseñado para que los usuarios puedan encontrar la información y realizar las acciones deseadas con el mínimo esfuerzo.
 
 Navegación Principal: El menú superior incluirá accesos rápidos a las funciones clave: "Buscar Viaje", "Publicar Viaje", "Reservas Actuales" y "Perfil".
-Navegación Móvil: En la versión móvil, el menú será desplegable para ahorrar espacio y mostrar solo las opciones más importantes de manera compacta. Los usuarios podrán regresar a la página de inicio pulsando el logo de GoUni.
+Navegación Móvil: En la versión móvil, el menú será desplegable para ahorrar espacio y mostrar solo las opciones más importantes de manera compacta. Los usuarios podrán regresar a la página de inicio pulsando el logo de Muevete!.
 Navegación Secundaria: En secciones como el perfil, habrá opciones adicionales para gestionar la cuenta, verificar la identidad o ajustar preferencias de notificaciones.
 
 ![Navigation.png](assets/images/styleGuidelines/navigation.png)
@@ -1532,7 +1532,7 @@ Navegación Secundaria: En secciones como el perfil, habrá opciones adicionales
 <hr>
 <td align="center">
 En esta sección, presentamos el diseño de la interfaz de usuario
-de la landing page para GoUni. El diseño se ha desarrollado teniendo
+de la landing page para Muevete! El diseño se ha desarrollado teniendo
 en cuenta la experiencia del usuario y la accesibilidad tanto en
 versiones de escritorio como móviles. El objetivo principal es
 proporcionar una navegación clara y atractiva. </td>
@@ -2014,10 +2014,10 @@ Link Web Applications Prototyping:
 # [**Capítulo VI: Product Implementation, Validation & Deployment.**](#capitulo-vi-productimplementation-validation-deployment) 
 
 ## [**6.1. Software Configuration Management.**](#61-software-configuration-management) 
-###[**6.1.1. Software Development Environment Configuration.**](#611-software-development-environment-configuration) 
-###[**6.1.2. Source Code Management.**](#612-source-code-management)
-###[**6.1.3. Source Code Style Guide & Conventions.**](#613-source-code-style-guide--conventions) 
-###[**6.1.4. Software Deployment Configuration.**](#614-software-deployment-configuration)
+### [**6.1.1. Software Development Environment Configuration.**](#611-software-development-environment-configuration) 
+### [**6.1.2. Source Code Management.**](#612-source-code-management)
+### [**6.1.3. Source Code Style Guide & Conventions.**](#613-source-code-style-guide--conventions) 
+### [**6.1.4. Software Deployment Configuration.**](#614-software-deployment-configuration)
 
 ## [**6.2. Landing Page, Services & Applications Implementation.**](#62-landing-page-services--applications-implementation) 
 ### [**6.2.1. Sprint 1.**](#621-sprint-1) 
@@ -2025,28 +2025,34 @@ Link Web Applications Prototyping:
 #### [**6.2.1.2. Aspect Leaders and Collaborators.**](#6212-aspect-leaders-and-collaborators) 
 #### [**6.2.1.3. Sprint Backlog 1.**](#6213-sprint-backlog-1) 
 #### [**6.2.1.4. Development Evidence for Sprint Review.**](#6214-development-evidence-for-sprint-review) 
-#### [**6.2.1.5. Testing Suite Evidence for Sprint Review.**](#6215-testing-suite-evidence-for-sprint-review) 
+
+#### [**6.2.1.5. Testing Suite Evidence for Sprint Review.**](#6215-testing-suite-evidence-for-sprint-review)
+En esta sección se presenta la evidencia del conjunto de pruebas automatizadas implementadas durante el Sprint, las cuales comprenden Unit Tests, Integration Tests y Acceptance Tests (BDD). Estas pruebas se desarrollaron para garantizar la correcta funcionalidad de los Web Services vinculados a los User Stories definidos para esta iteración del proyecto GoUni, nuestra aplicación de movilidad sostenible orientada a la comunidad universitaria.
+
+El enfoque de testing adoptado en este Sprint tuvo como objetivo asegurar que las funcionalidades principales —registro y autenticación de usuarios, gestión de vehículos ecológicos (bicicletas, scooters, motos eléctricas) y reservas de alquiler— cumplieran con los criterios de aceptación definidos por el equipo de desarrollo y los estándares de calidad establecidos en el plan de pruebas.
+
 #### [**6.2.1.6. Execution Evidence for Sprint Review.**](#6216-execution-evidence-for-sprint-review) 
 #### [**6.2.1.7. Services Documentation Evidence for Sprint Review.**](#6217-services-documentation-evidence-for-sprint-review) 
 #### [**6.2.1.8. Software Deployment Evidence for Sprint Review.**](#6218-software-deployment-evidence-for-sprint-review) 
 #### [**6.2.1.9. Team Collaboration Insights during Sprint.**](#6219-team-collaboration-insights-during-sprint)
+
 ---
 
 # [**Conclusiones.**](#conclusiones)
 
 ## [**Conclusiones y Recomendaciones.**](#conclusiones-y-recomendaciones)
 
-#### 1. GoUni responde a las necesidades de movilidad estudiantil
+#### 1. Muevete! responde a las necesidades de movilidad estudiantil
 La startup aborda la problemática de transporte en zonas urbanas como Lima, donde el transporte público es ineficiente y el uso de vehículos privados es costoso, proporcionando una plataforma de carpooling accesible y económica.
 
 #### 2. Contribución a la sostenibilidad
-GoUni fomenta el uso compartido de vehículos, lo que ayuda a reducir la congestión vehicular, disminuye las emisiones de CO2 y promueve un uso más eficiente de los recursos entre los estudiantes universitarios.
+Muevete! fomenta el uso compartido de vehículos, lo que ayuda a reducir la congestión vehicular, disminuye las emisiones de CO2 y promueve un uso más eficiente de los recursos entre los estudiantes universitarios.
 
 #### 3. Enfoque colaborativo y seguro
 La plataforma no solo facilita el ahorro económico a través de viajes compartidos, sino que también implementa medidas de seguridad como la verificación de identidad y las calificaciones de usuarios para garantizar un entorno confiable.
 
 #### 4. Impacto social y económico
-GoUni no solo mejora la movilidad diaria de los estudiantes, sino que también permite a aquellos con vehículo propio generar ingresos adicionales, ofreciendo una solución que beneficia tanto a pasajeros como a conductores.
+Muevete! no solo mejora la movilidad diaria de los estudiantes, sino que también permite a aquellos con vehículo propio generar ingresos adicionales, ofreciendo una solución que beneficia tanto a pasajeros como a conductores.
 
 #### 5. Innovación y tecnología como pilares
 La plataforma utiliza tecnología móvil avanzada y un enfoque innovador para crear una experiencia de movilidad eficiente y socialmente responsable, adaptada a las necesidades de los estudiantes en un contexto de creciente demanda por soluciones digitales.
@@ -2085,9 +2091,9 @@ La plataforma utiliza tecnología móvil avanzada y un enfoque innovador para cr
 
 | Descripción                           | Link                                                                                                                                                                                                                                                                     |
 |---------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Repositorio General de StudentConnect | [https://github.com/upc-pre-202502-14103-sw65-tsp](https://github.com/upc-pre-202502-14103-sw65-tsp)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| Repositorio Reporte                   | [https://github.com/upc-pre-202502-14103-sw65-tsp/GoUni_documentation_report](https://github.com/upc-pre-202502-14103-sw65-tsp/GoUni_documentation_report)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| Repositorio Landingpage               | [https://github.com/upc-pre-202502-14103-sw65-tsp/GoUni_LandingPage](https://github.com/upc-pre-202502-14103-sw65-tsp/GoUni_LandingPage)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Repositorio General |                                                        |
+| Repositorio Reporte                   |   |
+| Repositorio Landingpage               |   |
 | Exposición TB1                        | []() 
-| Link landing page                     | [https://carpool-smoky.vercel.app/home](https://carpool-smoky.vercel.app/home)                                                                                                                                                                                                                                                                                       
+| Link landing page                     |                                                                                                                                                                                                                                                                                        
 | Link de Entrevisas                    | []() |
