@@ -21,12 +21,12 @@
 
 <div style="align:center;display: flex; justify-content: center; align-items: center;">
 
-| **Member**                          | **Code**    |
-|-------------------------------------|-------------|
-| Onofre Ruiz, Carlos Jesus      	    | u202115590  |
-| Travezaño Patiño, Eduard Gedeon      	| u20211a789  |
-| Mendez Vargas, Sebastian Orlando      	    | u20201f140  |
-| Hidalgo Lopez, Mathias Adriano      	    | u202213222  |
+| **Code**    | **Member**                          |
+|-------------|-------------------------------------|
+| u202115590  | Onofre Ruiz, Carlos Jesus      	    |
+| u20211a789  | Travezaño Patiño, Eduard Gedeon     |
+| u20201f140  | Mendez Vargas, Sebastian Orlando    |
+| u202213222  | Hidalgo Lopez, Mathias Adriano      |
 
 </div>
 
