@@ -2021,8 +2021,80 @@ Link Web Applications Prototyping:
 
 ## [**6.2. Landing Page, Services & Applications Implementation.**](#62-landing-page-services--applications-implementation) 
 ### [**6.2.1. Sprint 1.**](#621-sprint-1) 
+
+Un Sprint en el contexto de Scrum es un periodo de tiempo fijo y breve en el que el equipo se enfoca en realizar todas las tareas necesarias para lograr el objetivo del producto definido, denominado "Product Goal" (Scrum Alliance, 2024).
+
 #### [**6.2.1.1. Sprint Planning 1.**](#6211-sprint-planning-1) 
+
+Un sprint es un intervalo breve y definido durante el cual se completan tareas o actividades específicas dentro de un proyecto, como se aplica en metodologías ágiles como Scrum. El Sprint #1, que comienza el 22 de septiembre de 2025, tiene como objetivo diseñar una landing page atractiva para "Muévete!" y una primera versión de la aplicación web, en conjunto con el backend de la misma, con los requerimientos core de nuestro producto. Esta primera página debe captar la atención de los visitantes y resaltar los principales beneficios de nuestro producto, con el fin de que más usuarios se interesen en nuestra solución y utilicen nuestra aplicación web.
+
+<table>
+     <tr> 
+        <th>  Sprint #  </th>
+        <th> Sprint 1 </th>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Planing Background</td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Date </td>
+       <td>  22/09/2025 </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Time </td>
+       <td> 19:00 horas (GMT-5) </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Location </td>
+       <td> Modalidad remota a través de Discord <td>
+     </tr>
+      <tr>
+        <td style="font-weight: bold;"> Prepared By </td>
+        <td> Onofre Ruíz, Carlos Jesús <td>
+     </tr>
+        <tr>
+        <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+        <td> 
+            <br>
+             Hidalgo Lopez, Mathias Adriano
+            <br>
+             Onofre Ruiz, Carlos Jesus
+            <br>
+             Mendez Vargas, Sebastian Orlando
+            <br>
+             Travezaño Patiño, Eduard Gedeon
+        <td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 0 Review Summary </td>
+        <td> Dado que este es nuestro primer sprint de desarrollo, no hay un resumen de revisión del sprint disponible. <td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 0 Retrospective Summary </td>
+        <td> Dado que este es nuestro primer sprint de desarrollo, aún no hemos identificado planes de mejora.<td>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Goal & User Stories</td>
+     </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 1 Goal</td>
+          <td>  En este sprint, se planea implementar la landing page con las secciones de inicio de sesión, hero y elementos de orientación para el usuario, como el footer y "About", y por otro lado, implementar la aplicación web y backend con las mejores prácticas escalabilidad, diseño ya arquitectura del código en general. Al finalizar el sprint, la landing page y la aplicación web deben estar desplegadas en GitHub, y cualquier usuario debería poder acceder y ver la página mediante un enlace. <td>
+      </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 1 Velocity </td>
+          <td>  26  <td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;"> Sum of Story Points </td>
+          <td> 52 <td>
+      </tr>
+
+  </table>
+
 #### [**6.2.1.2. Aspect Leaders and Collaborators.**](#6212-aspect-leaders-and-collaborators) 
+
+
+
 #### [**6.2.1.3. Sprint Backlog 1.**](#6213-sprint-backlog-1) 
 #### [**6.2.1.4. Development Evidence for Sprint Review.**](#6214-development-evidence-for-sprint-review) 
 
