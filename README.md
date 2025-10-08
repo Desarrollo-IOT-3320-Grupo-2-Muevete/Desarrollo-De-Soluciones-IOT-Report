@@ -106,15 +106,15 @@ Para el desarrollo de la entrega **TB1**, se optó por dividir el trabajo de la 
       - [**4.1.3.3. Software Architecture Container Level Diagrams.**](#4133-software-architecture-container-level-diagrams)
       - [**4.1.3.4. Software Architecture Deployment Diagrams.**](#4134-software-architecture-deployment-diagrams)
   - [**4.2. Tactical-Level Domain-Driven Design.**](#42-tactical-level-domain-driven-design)
-    - [**4.2.X. Bounded Context: <Bounded Context Name>.**](#42x-bounded-context-bounded-context-name)
-      - [**4.2.X.1. Domain Layer.**](#42x1-domain-layer)
-      - [**4.2.X.2. Interface Layer.**](#42x2-interface-layer)
-      - [**4.2.X.3. Application Layer.**](#42x3-application-layer)
-      - [**4.2.X.4. Infrastructure Layer.**](#42x4-infrastructure-layer)
-      - [**4.2.X.5. Bounded Context Software Architecture Component Level Diagrams.**](#42x5-bounded-context-software-architecture-component-level-diagrams)
-      - [**4.2.X.6. Bounded Context Software Architecture Code Level Diagrams.**](#42x6-bounded-context-software-architecture-code-level-diagrams)
-        - [**4.2.X.6.1. Bounded Context Domain Layer Class Diagrams.**](#42x61-bounded-context-domain-layer-class-diagrams)
-        - [**4.2.X.6.2. Bounded Context Database Design Diagram.**](#42x62-bounded-context-database-design-diagram)
+    - [**4.2.1. Bounded Context: <Bounded Context Name>.**](#42x-bounded-context-bounded-context-name)
+      - [**4.2.1.1. Domain Layer.**](#42x1-domain-layer)
+      - [**4.2.1.2. Interface Layer.**](#42x2-interface-layer)
+      - [**4.2.1.3. Application Layer.**](#42x3-application-layer)
+      - [**4.2.1.4. Infrastructure Layer.**](#42x4-infrastructure-layer)
+      - [**4.2.1.5. Bounded Context Software Architecture Component Level Diagrams.**](#42x5-bounded-context-software-architecture-component-level-diagrams)
+      - [**4.2.1.6. Bounded Context Software Architecture Code Level Diagrams.**](#42x6-bounded-context-software-architecture-code-level-diagrams)
+        - [**4.2.1.6.1. Bounded Context Domain Layer Class Diagrams.**](#42x61-bounded-context-domain-layer-class-diagrams)
+        - [**4.2.1.6.2. Bounded Context Database Design Diagram.**](#42x62-bounded-context-database-design-diagram)
 
 - [**Capítulo V: Solution UI/UX Design.**](#capítulo-v-solution-uiux-design)
   - [**5.1. Style Guidelines.**](#51-style-guidelines)
@@ -1236,6 +1236,10 @@ Usuarios ↔ Comunicación: relación Customer/Supplier, Comunicación depende d
 #### [**4.1.3.3. Software Architecture Container Level Diagrams**](#4133-software-architecture-container-level-diagrams)
 
 ![](assets/chapter-4/c42.png)
+
+#### [**4.1.3.4. Software Architecture Deployment Diagrams.**](#4134-software-architecture-deployment-diagrams)
+
+## [**4.2. Tactical-Level Domain-Driven Design.**](#42-tactical-level-domain-driven-design)
 
 ### [**4.2.1. Bounded Context: User Management**](#421-bounded-context-bc1)
 
