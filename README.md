@@ -1400,7 +1400,7 @@ Por último, tenemos las clases que ayudarán con la conexión de microservicios
 
 ---
 
-<!-- # [**Capítulo V: Product Design.**](#capítulo-v-product-design)
+# [**Capítulo V: Solution UI/UX Design.**](#capítulo-v-solution-ui-ux-design)
 
 En este capítulo describimos las directrices de diseño y estilo para el producto, asegurando una experiencia visual coherente y atractiva para el usuario.
 
@@ -2011,7 +2011,7 @@ Link Web Applications Prototyping:
 [Link Web Applications Prototyping](https://www.figma.com/proto/EwjGSJ6rrm0CnMdTbftA6k/Web-Application-Wireframe---Mock-Up?page-id=0%3A1&node-id=15-495&starting-point-node-id=15%3A482)
 
 
-
+<!--
 ## [**4.6. Domain-Driven Software Architecture**](#domain-driven-software-architecture)
 
 ### [**4.6.1. Software Architecture Context Diagram.**](#software-architecture-context-diagram)
