@@ -1227,11 +1227,9 @@ Usuarios ↔ Comunicación: relación Customer/Supplier, Comunicación depende d
 
 #### [**4.1.3.1. Software Architecture System Landscape Diagram**](#4131-software-architecture-system-landscape-diagram)
 
-![](assets/chapter-4/c41.png)
-
 #### [**4.1.3.2. Software Architecture Context Level Diagrams**](#4132-software-architecture-context-level-diagrams)
 
-![](assets/chapter-4/c43.png)
+![](assets/chapter-4/c41.png)
 
 #### [**4.1.3.3. Software Architecture Container Level Diagrams**](#4133-software-architecture-container-level-diagrams)
 
