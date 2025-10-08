@@ -143,16 +143,16 @@ Para el desarrollo de la entrega **TB1**, se optó por dividir el trabajo de la 
     - [**6.1.3. Source Code Style Guide & Conventions.**](#613-source-code-style-guide--conventions)
     - [**6.1.4. Software Deployment Configuration.**](#614-software-deployment-configuration)
   - [**6.2. Landing Page, Services & Applications Implementation.**](#62-landing-page-services--applications-implementation)
-    - [**6.2.X. Sprint n.**](#62x-sprint-n)
-      - [**6.2.X.1. Sprint Planning n.**](#62x1-sprint-planning-n)
-      - [**6.2.X.2. Aspect Leaders and Collaborators.**](#62x2-aspect-leaders-and-collaborators)
-      - [**6.2.X.3. Sprint Backlog n.**](#62x3-sprint-backlog-n)
-      - [**6.2.X.4. Development Evidence for Sprint Review.**](#62x4-development-evidence-for-sprint-review)
-      - [**6.2.X.5. Testing Suite Evidence for Sprint Review.**](#62x5-testing-suite-evidence-for-sprint-review)
-      - [**6.2.X.6. Execution Evidence for Sprint Review.**](#62x6-execution-evidence-for-sprint-review)
-      - [**6.2.X.7. Services Documentation Evidence for Sprint Review.**](#62x7-services-documentation-evidence-for-sprint-review)
-      - [**6.2.X.8. Software Deployment Evidence for Sprint Review.**](#62x8-software-deployment-evidence-for-sprint-review)
-      - [**6.2.X.9. Team Collaboration Insights during Sprint.**](#62x9-team-collaboration-insights-during-sprint)
+    - [**6.2.1. Sprint 1.**](#621-sprint-1)
+      - [**6.2.1.1. Sprint Planning 1.**](#6211-sprint-planning-1)
+      - [**6.2.1.2. Aspect Leaders and Collaborators.**](#6212-aspect-leaders-and-collaborators)
+      - [**6.2.1.3. Sprint Backlog 1.**](#6213-sprint-backlog-1)
+      - [**6.2.1.4. Development Evidence for Sprint Review.**](#6214-development-evidence-for-sprint-review)
+      - [**6.2.1.5. Testing Suite Evidence for Sprint Review.**](#6215-testing-suite-evidence-for-sprint-review)
+      - [**6.2.1.6. Execution Evidence for Sprint Review.**](#6216-execution-evidence-for-sprint-review)
+      - [**6.2.1.7. Services Documentation Evidence for Sprint Review.**](#6217-services-documentation-evidence-for-sprint-review)
+      - [**6.2.1.8. Software Deployment Evidence for Sprint Review.**](#6218-software-deployment-evidence-for-sprint-review)
+      - [**6.2.1.9. Team Collaboration Insights during Sprint.**](#6219-team-collaboration-insights-during-sprint)
   - [**6.3. Validation Interviews.**](#63-validation-interviews)
     - [**6.3.1. Diseño de Entrevistas.**](#631-diseño-de-entrevistas)
     - [**6.3.2. Registro de Entrevistas.**](#632-registro-de-entrevistas)
@@ -179,7 +179,7 @@ En esta sección, exploraremos la identidad de nuestra startup, presentando una 
 
 ### [**1.1.1 Descripción del startup.**](#111-descripción-del-startup)
 
-GoUni es una startup que nace como una iniciativa frente a dos realidades urbanas en pleno auge: la urgente demanda de opciones de movilidad sostenible y la creciente popularidad de los vehículos ecológicos. Nuestra propuesta se materializa en una aplicación que sirve como puente, conectando a personas que necesitan un medio de transporte —como bicicletas, scooters, skateboards o motos eléctricas— con quienes ya poseen estos vehículos y están dispuestos a compartirlos.
+Muevete! es una startup que nace como una iniciativa frente a dos realidades urbanas en pleno auge: la urgente demanda de opciones de movilidad sostenible y la creciente popularidad de los vehículos ecológicos. Nuestra propuesta se materializa en una aplicación que sirve como puente, conectando a personas que necesitan un medio de transporte —como bicicletas, scooters, skateboards o motos eléctricas— con quienes ya poseen estos vehículos y están dispuestos a compartirlos.
 
 Lo que realmente nos distingue en el ecosistema de aplicaciones de movilidad es nuestro doble propósito. No solo defendemos y facilitamos una forma de transporte más limpia y amigable con el planeta, sino que también abrimos una puerta a oportunidades de ingreso para la comunidad universitaria. Los estudiantes pueden generar ganancias de forma flexible, ya sea alquilando o vendiendo sus vehículos. Además, hemos integrado en nuestra plataforma funcionalidades clave para garantizar que cada interacción sea segura, ágil y, sobre todo, una experiencia positiva.
 
@@ -357,7 +357,7 @@ canva.png
 
 ## [**1.3. Segmentos objetivo.**](#13-segmentos-objetivo)
 
-Por medio de nuestro enfoque de obtener una solución efectiva a las problemáticas de nuestros futuros usuarios, identificamos los siguientes segmentos para GoUni:
+Por medio de nuestro enfoque de obtener una solución efectiva a las problemáticas de nuestros futuros usuarios, identificamos los siguientes segmentos para Muevete!:
 
 ### **Segmento objetivo #1: Estudiantes Universitarios que necesiten movilizarse.**
 
@@ -1444,13 +1444,13 @@ Las pautas de estilo para la web están diseñadas para asegurar que el diseño 
 
 ## [**5.2. Information Architecture.**](#information-architecture)
 
-En esta sección, se describe cómo se organizará el contenido en la plataforma **GoUni**, tanto en la web como en las aplicaciones móviles. Se busca que la estructura sea intuitiva para los estudiantes universitarios, permitiendo una navegación fluida y el acceso rápido a las principales funcionalidades de la plataforma.
+En esta sección, se describe cómo se organizará el contenido en la plataforma **Muevete!**, tanto en la web como en las aplicaciones móviles. Se busca que la estructura sea intuitiva para los estudiantes universitarios, permitiendo una navegación fluida y el acceso rápido a las principales funcionalidades de la plataforma.
 
 <hr>
 
 ### [**5.2.1. Organization Systems.**](#organization-systems)
 
-El Sistema de Organización de **GoUni** está diseñado para facilitar la interacción entre el usuario y la plataforma, asegurando que los estudiantes puedan encontrar y utilizar los servicios clave, como la búsqueda de viajes o la oferta de plazas en vehículos.
+El Sistema de Organización de **Muevete!** está diseñado para facilitar la interacción entre el usuario y la plataforma, asegurando que los estudiantes puedan encontrar y utilizar los servicios clave, como la búsqueda de viajes o la oferta de plazas en vehículos.
 
 - **Jerarquía Visual**: La página principal destacará las acciones más importantes para el usuario, como “Buscar viaje” y “Publicar viaje”, con énfasis en botones de llamada a la acción que lleven a estas secciones.
 - **Organización Secuencial**: Se aplicará a procesos clave como el registro de usuario, reserva de un viaje y configuración de perfil. Estos procesos se guiarán paso a paso, asegurando que los usuarios completen cada tarea sin problemas.
@@ -1461,10 +1461,10 @@ El Sistema de Organización de **GoUni** está diseñado para facilitar la inter
 
 ### [**5.2.2. Labeling Systems.**](#labeling-systems)
 
-En **GoUni**, las etiquetas se diseñarán para ser claras, directas y comprensibles para los estudiantes, priorizando una navegación simple y una experiencia de usuario intuitiva.
+En **Muevete!**, las etiquetas se diseñarán para ser claras, directas y comprensibles para los estudiantes, priorizando una navegación simple y una experiencia de usuario intuitiva.
 
 ### Etiquetas:
-- **Inicio**: Al hacer clic en el logo de GoUni, los usuarios serán redirigidos a la página principal.
+- **Inicio**: Al hacer clic en el logo de Muevete!, los usuarios serán redirigidos a la página principal.
 - **Buscar Viaje**: Opción en el menú principal que permite a los estudiantes buscar viajes disponibles en su universidad.
 - **Publicar Viaje**: Los usuarios con vehículo propio podrán acceder a esta opción para publicar su ruta y disponibilidad de asientos.
 - **Reservas Actuales**: Sección donde los usuarios pueden ver y gestionar sus reservas actuales.
@@ -1478,32 +1478,32 @@ Una vez que los usuarios se registren y accedan a su cuenta, aparecerán nuevas 
 
 ### [**5.2.3. SEO Tags and Meta Tags.**](#seo-tags-and-meta-tags)
 
-Los SEO Tags y Meta Tags son esenciales para mejorar la visibilidad de **GoUni** en los motores de búsqueda.
+Los SEO Tags y Meta Tags son esenciales para mejorar la visibilidad de **Muevete!** en los motores de búsqueda.
 
 ### Para la Landing Page:
 ```html
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>GoUni - Carpooling para Estudiantes Universitarios</title>
-<meta name="description" content="GoUni es la plataforma de carpooling exclusiva para estudiantes universitarios, enfocada en la seguridad, sostenibilidad y economía colaborativa.">
+<title>Muevete! - Carpooling para Estudiantes Universitarios</title>
+<meta name="description" content="Muevete! es la plataforma de carpooling exclusiva para estudiantes universitarios, enfocada en la seguridad, sostenibilidad y economía colaborativa.">
 <meta name="keywords" content="carpooling universitario, compartir autos estudiantes, movilidad sostenible, transporte colaborativo">
-<meta name="author" content="GoUni Team">
+<meta name="author" content="Muevete! Team">
 ```
 ### Para la Aplicación Web:
 ```html
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>GoUni - Comparte tu auto con otros estudiantes universitarios</title>
-<meta name="description" content="Con GoUni, puedes compartir tu auto con otros estudiantes universitarios y reducir tus gastos de transporte mientras ayudas al medio ambiente.">
+<title>Muevete! - Comparte tu auto con otros estudiantes universitarios</title>
+<meta name="description" content="Con Muevete!, puedes compartir tu auto con otros estudiantes universitarios y reducir tus gastos de transporte mientras ayudas al medio ambiente.">
 <meta name="keywords" content="carpooling estudiantes, compartir auto universidad, transporte sostenible, viaje colaborativo">
-<meta name="author" content="GoUni Team">
+<meta name="author" content="Muevete! Team">
 ```
 
 <br>
 
 ### [**5.2.4. Searching Systems.**](#searching-systems)
 
-El sistema de búsqueda en GoUni facilitará a los usuarios encontrar viajes disponibles de forma rápida y efectiva. La funcionalidad de búsqueda incluirá:
+El sistema de búsqueda en Muevete! facilitará a los usuarios encontrar viajes disponibles de forma rápida y efectiva. La funcionalidad de búsqueda incluirá:
 
 Búsqueda por Universidad: Los estudiantes podrán buscar viajes que conecten con su universidad específica.
 Filtros de Búsqueda: Los usuarios podrán filtrar los resultados por tipo de vehículo, horario de salida, calificación del conductor y disponibilidad de plazas.
@@ -1515,10 +1515,10 @@ Organización de Resultados: Los resultados se podrán ordenar de manera alfabé
 
 ### [**5.2.5. Navigation Systems.**](#navigation-systems)
 
-El sistema de navegación de GoUni estará diseñado para que los usuarios puedan encontrar la información y realizar las acciones deseadas con el mínimo esfuerzo.
+El sistema de navegación de Muevete! estará diseñado para que los usuarios puedan encontrar la información y realizar las acciones deseadas con el mínimo esfuerzo.
 
 Navegación Principal: El menú superior incluirá accesos rápidos a las funciones clave: "Buscar Viaje", "Publicar Viaje", "Reservas Actuales" y "Perfil".
-Navegación Móvil: En la versión móvil, el menú será desplegable para ahorrar espacio y mostrar solo las opciones más importantes de manera compacta. Los usuarios podrán regresar a la página de inicio pulsando el logo de GoUni.
+Navegación Móvil: En la versión móvil, el menú será desplegable para ahorrar espacio y mostrar solo las opciones más importantes de manera compacta. Los usuarios podrán regresar a la página de inicio pulsando el logo de Muevete!.
 Navegación Secundaria: En secciones como el perfil, habrá opciones adicionales para gestionar la cuenta, verificar la identidad o ajustar preferencias de notificaciones.
 
 ![Navigation.png](assets/images/styleGuidelines/navigation.png)
@@ -1532,7 +1532,7 @@ Navegación Secundaria: En secciones como el perfil, habrá opciones adicionales
 <hr>
 <td align="center">
 En esta sección, presentamos el diseño de la interfaz de usuario
-de la landing page para GoUni. El diseño se ha desarrollado teniendo
+de la landing page para Muevete! El diseño se ha desarrollado teniendo
 en cuenta la experiencia del usuario y la accesibilidad tanto en
 versiones de escritorio como móviles. El objetivo principal es
 proporcionar una navegación clara y atractiva. </td>
@@ -2010,200 +2010,31 @@ Link Web Applications Prototyping:
 
 [Link Web Applications Prototyping](https://www.figma.com/proto/EwjGSJ6rrm0CnMdTbftA6k/Web-Application-Wireframe---Mock-Up?page-id=0%3A1&node-id=15-495&starting-point-node-id=15%3A482)
 
-
-<!--
-## [**4.6. Domain-Driven Software Architecture**](#domain-driven-software-architecture)
-
-### [**4.6.1. Software Architecture Context Diagram.**](#software-architecture-context-diagram)
-
-![Diagrama de clase](assets/images/databaseDesign/diagramcontext.png)
-
-### [**4.6.2. Software Architecture Container Diagrams.**](#software-architecture-container-diagrams)
-
-![Diagrama de clase](assets/images/databaseDesign/diagramcontainer.png)
-
-### [**4.6.3. Software Architecture Components Diagrams.**](#software-architecture-components-diagrams)
-
-![Diagrama de clase](assets/images/databaseDesign/diagramcomponent.png)
-
-## [**4.7. Software Object-Oriented Design.**](#software-object-oriented-design)
-
-### [**4.7.1. Class Diagrams.**](#class-diagrams)
-
-![Diagrama de clase](assets/images/databaseDesign/Diagrama_clase.png)
-
-### [**4.7.2. Class Dictionary.**](#class-dictionary)
-
 ---
+# [**Capítulo VI: Product Implementation, Validation & Deployment.**](#capitulo-vi-productimplementation-validation-deployment) 
 
-### **Usuario**
-La clase Usuario representa a un usuario dentro de la plataforma, ya sea un conductor o pasajero.
+## [**6.1. Software Configuration Management.**](#61-software-configuration-management) 
+### [**6.1.1. Software Development Environment Configuration.**](#611-software-development-environment-configuration) 
+### [**6.1.2. Source Code Management.**](#612-source-code-management)
+### [**6.1.3. Source Code Style Guide & Conventions.**](#613-source-code-style-guide--conventions) 
+### [**6.1.4. Software Deployment Configuration.**](#614-software-deployment-configuration)
 
-#### **Atributos:**
+## [**6.2. Landing Page, Services & Applications Implementation.**](#62-landing-page-services--applications-implementation) 
+### [**6.2.1. Sprint 1.**](#621-sprint-1) 
+#### [**6.2.1.1. Sprint Planning 1.**](#6211-sprint-planning-1) 
+#### [**6.2.1.2. Aspect Leaders and Collaborators.**](#6212-aspect-leaders-and-collaborators) 
+#### [**6.2.1.3. Sprint Backlog 1.**](#6213-sprint-backlog-1) 
+#### [**6.2.1.4. Development Evidence for Sprint Review.**](#6214-development-evidence-for-sprint-review) 
 
-| Atributo       | Descripción                                                              |
-| -------------- | ------------------------------------------------------------------------ |
-| `nombre: String`      | Almacena el nombre del usuario.                                            |
-| `email: String`       | Almacena la dirección de correo electrónico del usuario.                   |
-| `contraseña: String`  | Almacena la contraseña del usuario.                                        |
-| `rol: Rol`            | Define el rol del usuario en la plataforma (conductor o pasajero).         |
-| `verificado: Boolean` | Indica si el usuario ha verificado su identidad.                           |
+#### [**6.2.1.5. Testing Suite Evidence for Sprint Review.**](#6215-testing-suite-evidence-for-sprint-review)
+En esta sección se presenta la evidencia del conjunto de pruebas automatizadas implementadas durante el Sprint, las cuales comprenden Unit Tests, Integration Tests y Acceptance Tests (BDD). Estas pruebas se desarrollaron para garantizar la correcta funcionalidad de los Web Services vinculados a los User Stories definidos para esta iteración del proyecto GoUni, nuestra aplicación de movilidad sostenible orientada a la comunidad universitaria.
 
-#### **Métodos:**
+El enfoque de testing adoptado en este Sprint tuvo como objetivo asegurar que las funcionalidades principales —registro y autenticación de usuarios, gestión de vehículos ecológicos (bicicletas, scooters, motos eléctricas) y reservas de alquiler— cumplieran con los criterios de aceptación definidos por el equipo de desarrollo y los estándares de calidad establecidos en el plan de pruebas.
 
-| Método                   | Descripción                                                                        |
-| ------------------------ | ---------------------------------------------------------------------------------- |
-| `registrarse(): void`    | Método para registrar a un nuevo usuario en la plataforma.                        |
-| `iniciarSesion(): void`  | Método para que el usuario inicie sesión en la plataforma.                        |
-| `verificarIdentidad(): void` | Verifica la identidad del usuario a través de documentos o información adicional. |
-
----
-
-### **Evaluación**
-La clase Evaluación permite a los usuarios calificar y dejar comentarios sobre sus experiencias de viaje.
-
-#### **Atributos:**
-
-| Atributo       | Descripción                                              |
-| -------------- | -------------------------------------------------------- |
-| `calificación: int` | Almacena la calificación numérica del viaje (por ejemplo, de 1 a 5). |
-| `comentario: String` | Almacena los comentarios opcionales sobre el viaje. |
-| `evaluador: Usuario` | Almacena la información del usuario que realiza la evaluación. |
-| `viaje: Viaje`       | Almacena la información del viaje evaluado.         |
-
-#### **Métodos:**
-
-| Método                 | Descripción                                              |
-| ---------------------- | -------------------------------------------------------- |
-| `calificar(): void`    | Permite al usuario dejar una calificación sobre el viaje.|
-| `dejarComentario(): void` | Permite al usuario dejar un comentario opcional sobre el viaje.|
-
----
-
-### **Pasajero**
-La clase Pasajero es una extensión de Usuario y representa a los usuarios que buscan y reservan viajes.
-
-#### **Métodos:**
-
-| Método                   | Descripción                                                   |
-| ------------------------ | ------------------------------------------------------------- |
-| `buscarViaje(): void`    | Permite al pasajero buscar viajes disponibles en la plataforma.|
-| `reservarViaje(): void`  | Permite al pasajero reservar un asiento en un vehículo disponible.|
-
----
-
-### **Vehículo**
-La clase Vehículo representa a los vehículos registrados por los conductores para ofrecer sus viajes.
-
-#### **Atributos:**
-
-| Atributo       | Descripción                                              |
-| -------------- | -------------------------------------------------------- |
-| `tipo: String`        | Almacena el tipo de vehículo (sedán, SUV, camioneta, etc.). |
-| `matrícula: String`   | Almacena la matrícula del vehículo.                       |
-| `capacidad: int`      | Almacena la capacidad de pasajeros del vehículo.           |
-
-#### **Métodos:**
-
-| Método                           | Descripción                                               |
-| -------------------------------- | --------------------------------------------------------- |
-| `registrarVehiculo(): void`      | Permite al conductor registrar su vehículo en la plataforma. |
-| `actualizarDetallesVehiculo(): void` | Permite actualizar la información del vehículo.             |
-
----
-
-### **Viaje**
-La clase Viaje representa un viaje específico que un conductor ofrece a los pasajeros.
-
-#### **Atributos:**
-
-| Atributo       | Descripción                                              |
-| -------------- | -------------------------------------------------------- |
-| `origen: String`    | Almacena el lugar de origen del viaje.                       |
-| `destino: String`   | Almacena el destino del viaje.                                |
-| `horario: Date`     | Almacena la hora de salida del viaje.                         |
-| `conductor: Conductor` | Almacena la información del conductor que ofrece el viaje. |
-| `estado: String`    | Almacena el estado del viaje (disponible, completado, cancelado).|
-
-#### **Métodos:**
-
-| Método                       | Descripción                                               |
-| ---------------------------- | --------------------------------------------------------- |
-| `publicarViaje(): void`      | Permite al conductor publicar un viaje en la plataforma. |
-| `reservarAsiento(): void`    | Permite reservar un asiento en el vehículo para un pasajero. |
-| `actualizarEstado(): void`   | Actualiza el estado del viaje (por ejemplo, lleno, en curso).|
-
----
-
-### **Reserva**
-La clase Reserva representa la acción de un pasajero que reserva un asiento en un viaje.
-
-#### **Atributos:**
-
-| Atributo           | Descripción                                              |
-| ------------------ | -------------------------------------------------------- |
-| `pasajero: Pasajero` | Almacena la información del pasajero que realizó la reserva.|
-| `viaje: Viaje`       | Almacena la información del viaje reservado.             |
-| `asientoReservado: String` | Almacena el asiento reservado en el vehículo.         |
-| `estado: String`    | Almacena el estado de la reserva (confirmada, cancelada). |
-
-#### **Métodos:**
-
-| Método                         | Descripción                                                   |
-| ------------------------------ | ------------------------------------------------------------- |
-| `confirmarReserva(): void`     | Confirma la reserva realizada por el pasajero.                |
-| `cancelarReserva(): void`      | Permite cancelar una reserva antes del inicio del viaje.      |
-
----
-
-### **Pago**
-La clase Pago representa la transacción realizada por un pasajero al reservar un viaje.
-
-#### **Atributos:**
-
-| Atributo           | Descripción                                              |
-| ------------------ | -------------------------------------------------------- |
-| `monto: float`       | Almacena el monto del pago por el viaje.                 |
-| `metodoDePago: String` | Almacena el método de pago utilizado (tarjeta, billetera digital, etc.). |
-| `estado: String`    | Almacena el estado del pago (completado, pendiente).     |
-
-#### **Métodos:**
-
-| Método                         | Descripción                                                   |
-| ------------------------------ | ------------------------------------------------------------- |
-| `realizarPago(): void`         | Realiza el pago del viaje reservado.                         |
-| `confirmarPago(): void`        | Confirma que el pago ha sido realizado con éxito.            |
-
----
-
-### **Notificación**
-La clase Notificación gestiona el envío de mensajes a los usuarios en relación con sus viajes y reservas.
-
-#### **Atributos:**
-
-| Atributo           | Descripción                                              |
-| ------------------ | -------------------------------------------------------- |
-| `mensaje: String`   | Almacena el contenido de la notificación.                 |
-| `tipo: String`      | Almacena el tipo de notificación (recordatorio, cambio de ruta, etc.).|
-| `tiempo: Date`      | Almacena la fecha y hora de envío de la notificación.     |
-
-#### **Métodos:**
-
-| Método                       | Descripción                                                   |
-| ---------------------------- | ------------------------------------------------------------- |
-| `enviarNotificacion(): void` | Envía la notificación al usuario correspondiente.            |
-
----
-
-## [**4.8. Database Design.**](#database-design)
-
-![Diagrama de clase](assets/images/databaseDesign/Diagrama_clase.png)
-
-### [**4.8.1. Database Diagram.**](#database-diagram)
-
-A continuación se detalla el modelo físico realizado para esta entrega, donde se consideró los requerimientos necesarios para el negocio.
-
-![Diagrama de la Base de Datos](assets/images/databaseDesign/databasediagram.png) -->
+#### [**6.2.1.6. Execution Evidence for Sprint Review.**](#6216-execution-evidence-for-sprint-review) 
+#### [**6.2.1.7. Services Documentation Evidence for Sprint Review.**](#6217-services-documentation-evidence-for-sprint-review) 
+#### [**6.2.1.8. Software Deployment Evidence for Sprint Review.**](#6218-software-deployment-evidence-for-sprint-review) 
+#### [**6.2.1.9. Team Collaboration Insights during Sprint.**](#6219-team-collaboration-insights-during-sprint)
 
 ---
 
@@ -2211,17 +2042,17 @@ A continuación se detalla el modelo físico realizado para esta entrega, donde 
 
 ## [**Conclusiones y Recomendaciones.**](#conclusiones-y-recomendaciones)
 
-#### 1. GoUni responde a las necesidades de movilidad estudiantil
+#### 1. Muevete! responde a las necesidades de movilidad estudiantil
 La startup aborda la problemática de transporte en zonas urbanas como Lima, donde el transporte público es ineficiente y el uso de vehículos privados es costoso, proporcionando una plataforma de carpooling accesible y económica.
 
 #### 2. Contribución a la sostenibilidad
-GoUni fomenta el uso compartido de vehículos, lo que ayuda a reducir la congestión vehicular, disminuye las emisiones de CO2 y promueve un uso más eficiente de los recursos entre los estudiantes universitarios.
+Muevete! fomenta el uso compartido de vehículos, lo que ayuda a reducir la congestión vehicular, disminuye las emisiones de CO2 y promueve un uso más eficiente de los recursos entre los estudiantes universitarios.
 
 #### 3. Enfoque colaborativo y seguro
 La plataforma no solo facilita el ahorro económico a través de viajes compartidos, sino que también implementa medidas de seguridad como la verificación de identidad y las calificaciones de usuarios para garantizar un entorno confiable.
 
 #### 4. Impacto social y económico
-GoUni no solo mejora la movilidad diaria de los estudiantes, sino que también permite a aquellos con vehículo propio generar ingresos adicionales, ofreciendo una solución que beneficia tanto a pasajeros como a conductores.
+Muevete! no solo mejora la movilidad diaria de los estudiantes, sino que también permite a aquellos con vehículo propio generar ingresos adicionales, ofreciendo una solución que beneficia tanto a pasajeros como a conductores.
 
 #### 5. Innovación y tecnología como pilares
 La plataforma utiliza tecnología móvil avanzada y un enfoque innovador para crear una experiencia de movilidad eficiente y socialmente responsable, adaptada a las necesidades de los estudiantes en un contexto de creciente demanda por soluciones digitales.
@@ -2260,9 +2091,9 @@ La plataforma utiliza tecnología móvil avanzada y un enfoque innovador para cr
 
 | Descripción                           | Link                                                                                                                                                                                                                                                                     |
 |---------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Repositorio General de StudentConnect | [https://github.com/upc-pre-202502-14103-sw65-tsp](https://github.com/upc-pre-202502-14103-sw65-tsp)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| Repositorio Reporte                   | [https://github.com/upc-pre-202502-14103-sw65-tsp/GoUni_documentation_report](https://github.com/upc-pre-202502-14103-sw65-tsp/GoUni_documentation_report)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| Repositorio Landingpage               | [https://github.com/upc-pre-202502-14103-sw65-tsp/GoUni_LandingPage](https://github.com/upc-pre-202502-14103-sw65-tsp/GoUni_LandingPage)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Repositorio General |                                                        |
+| Repositorio Reporte                   |   |
+| Repositorio Landingpage               |   |
 | Exposición TB1                        | []() 
-| Link landing page                     | [https://carpool-smoky.vercel.app/home](https://carpool-smoky.vercel.app/home)                                                                                                                                                                                                                                                                                       
+| Link landing page                     |                                                                                                                                                                                                                                                                                        
 | Link de Entrevisas                    | []() |
