@@ -143,16 +143,16 @@ Para el desarrollo de la entrega **TB1**, se optó por dividir el trabajo de la 
     - [**6.1.3. Source Code Style Guide & Conventions.**](#613-source-code-style-guide--conventions)
     - [**6.1.4. Software Deployment Configuration.**](#614-software-deployment-configuration)
   - [**6.2. Landing Page, Services & Applications Implementation.**](#62-landing-page-services--applications-implementation)
-    - [**6.2.X. Sprint n.**](#62x-sprint-n)
-      - [**6.2.X.1. Sprint Planning n.**](#62x1-sprint-planning-n)
-      - [**6.2.X.2. Aspect Leaders and Collaborators.**](#62x2-aspect-leaders-and-collaborators)
-      - [**6.2.X.3. Sprint Backlog n.**](#62x3-sprint-backlog-n)
-      - [**6.2.X.4. Development Evidence for Sprint Review.**](#62x4-development-evidence-for-sprint-review)
-      - [**6.2.X.5. Testing Suite Evidence for Sprint Review.**](#62x5-testing-suite-evidence-for-sprint-review)
-      - [**6.2.X.6. Execution Evidence for Sprint Review.**](#62x6-execution-evidence-for-sprint-review)
-      - [**6.2.X.7. Services Documentation Evidence for Sprint Review.**](#62x7-services-documentation-evidence-for-sprint-review)
-      - [**6.2.X.8. Software Deployment Evidence for Sprint Review.**](#62x8-software-deployment-evidence-for-sprint-review)
-      - [**6.2.X.9. Team Collaboration Insights during Sprint.**](#62x9-team-collaboration-insights-during-sprint)
+    - [**6.2.1. Sprint 1.**](#621-sprint-1)
+      - [**6.2.1.1. Sprint Planning 1.**](#6211-sprint-planning-1)
+      - [**6.2.1.2. Aspect Leaders and Collaborators.**](#6212-aspect-leaders-and-collaborators)
+      - [**6.2.1.3. Sprint Backlog 1.**](#6213-sprint-backlog-1)
+      - [**6.2.1.4. Development Evidence for Sprint Review.**](#6214-development-evidence-for-sprint-review)
+      - [**6.2.1.5. Testing Suite Evidence for Sprint Review.**](#6215-testing-suite-evidence-for-sprint-review)
+      - [**6.2.1.6. Execution Evidence for Sprint Review.**](#6216-execution-evidence-for-sprint-review)
+      - [**6.2.1.7. Services Documentation Evidence for Sprint Review.**](#6217-services-documentation-evidence-for-sprint-review)
+      - [**6.2.1.8. Software Deployment Evidence for Sprint Review.**](#6218-software-deployment-evidence-for-sprint-review)
+      - [**6.2.1.9. Team Collaboration Insights during Sprint.**](#6219-team-collaboration-insights-during-sprint)
   - [**6.3. Validation Interviews.**](#63-validation-interviews)
     - [**6.3.1. Diseño de Entrevistas.**](#631-diseño-de-entrevistas)
     - [**6.3.2. Registro de Entrevistas.**](#632-registro-de-entrevistas)
@@ -2011,41 +2011,25 @@ Link Web Applications Prototyping:
 [Link Web Applications Prototyping](https://www.figma.com/proto/EwjGSJ6rrm0CnMdTbftA6k/Web-Application-Wireframe---Mock-Up?page-id=0%3A1&node-id=15-495&starting-point-node-id=15%3A482)
 
 ---
+# [**Capítulo VI: Product Implementation, Validation & Deployment.**](#capitulo-vi-productimplementation-validation-deployment) 
 
-# [**Capítulo VI: Product Implementation, Validation & Deployment.**](#capitulo-vi-productimplementation-validation-deployment)
-
-## [**6.1. Software Configuration Management.**](#61-software-configuration-management)
-
-###[**6.1.1. Software Development Environment Configuration.**](#611-software-development-environment-configuration)
-
+## [**6.1. Software Configuration Management.**](#61-software-configuration-management) 
+###[**6.1.1. Software Development Environment Configuration.**](#611-software-development-environment-configuration) 
 ###[**6.1.2. Source Code Management.**](#612-source-code-management)
-
-###[**6.1.3. Source Code Style Guide & Conventions.**](#613-source-code-style-guide--conventions)
-
+###[**6.1.3. Source Code Style Guide & Conventions.**](#613-source-code-style-guide--conventions) 
 ###[**6.1.4. Software Deployment Configuration.**](#614-software-deployment-configuration)
 
-## [**6.2. Landing Page, Services & Applications Implementation.**](#62-landing-page-services--applications-implementation)
-
-### [**6.2.1. Sprint 1.**](#621-sprint-1)
-
-#### [**6.2.1.1. Sprint Planning 1.**](#6211-sprint-planning-1)
-
-#### [**6.2.1.2. Aspect Leaders and Collaborators.**](#6212-aspect-leaders-and-collaborators)
-
-#### [**6.2.1.3. Sprint Backlog 1.**](#6213-sprint-backlog-1)
-
-#### [**6.2.1.4. Development Evidence for Sprint Review.**](#6214-development-evidence-for-sprint-review)
-
-#### [**6.2.1.5. Testing Suite Evidence for Sprint Review.**](#6215-testing-suite-evidence-for-sprint-review)
-
-#### [**6.2.1.6. Execution Evidence for Sprint Review.**](#6216-execution-evidence-for-sprint-review)
-
-#### [**6.2.1.7. Services Documentation Evidence for Sprint Review.**](#6217-services-documentation-evidence-for-sprint-review)
-
-#### [**6.2.1.8. Software Deployment Evidence for Sprint Review.**](#6218-software-deployment-evidence-for-sprint-review)
-
+## [**6.2. Landing Page, Services & Applications Implementation.**](#62-landing-page-services--applications-implementation) 
+### [**6.2.1. Sprint 1.**](#621-sprint-1) 
+#### [**6.2.1.1. Sprint Planning 1.**](#6211-sprint-planning-1) 
+#### [**6.2.1.2. Aspect Leaders and Collaborators.**](#6212-aspect-leaders-and-collaborators) 
+#### [**6.2.1.3. Sprint Backlog 1.**](#6213-sprint-backlog-1) 
+#### [**6.2.1.4. Development Evidence for Sprint Review.**](#6214-development-evidence-for-sprint-review) 
+#### [**6.2.1.5. Testing Suite Evidence for Sprint Review.**](#6215-testing-suite-evidence-for-sprint-review) 
+#### [**6.2.1.6. Execution Evidence for Sprint Review.**](#6216-execution-evidence-for-sprint-review) 
+#### [**6.2.1.7. Services Documentation Evidence for Sprint Review.**](#6217-services-documentation-evidence-for-sprint-review) 
+#### [**6.2.1.8. Software Deployment Evidence for Sprint Review.**](#6218-software-deployment-evidence-for-sprint-review) 
 #### [**6.2.1.9. Team Collaboration Insights during Sprint.**](#6219-team-collaboration-insights-during-sprint)
-
 ---
 
 # [**Conclusiones.**](#conclusiones)
