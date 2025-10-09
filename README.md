@@ -2082,11 +2082,11 @@ Un sprint es un intervalo breve y definido durante el cual se completan tareas o
       </tr>
        <tr>
           <td style="font-weight: bold;"> Sprint 1 Velocity </td>
-          <td>  26  <td>
+          <td>  86  <td>
       </tr>
       <tr>
           <td style="font-weight: bold;"> Sum of Story Points </td>
-          <td> 52 <td>
+          <td> 86 <td>
       </tr>
 
   </table>
