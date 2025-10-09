@@ -2086,26 +2086,605 @@ Un sprint es un intervalo breve y definido durante el cual se completan tareas o
       </tr>
        <tr>
           <td style="font-weight: bold;"> Sprint 1 Velocity </td>
-          <td>  26  <td>
+          <td>  86  <td>
       </tr>
       <tr>
           <td style="font-weight: bold;"> Sum of Story Points </td>
-          <td> 52 <td>
+          <td> 86 <td>
       </tr>
 
   </table>
 
-#### [**6.2.1.2. Aspect Leaders and Collaborators.**](#6212-aspect-leaders-and-collaborators) 
-
-
+<table>
+  <tr>
+    <th>Team Member (Last Name, First Name)</th>
+    <th>GitHub Username</th>
+    <th>Implementación de Landing Page (L/C)</th>
+    <th>Diseño de Frontend (L/C)</th>
+    <th>Implementación de Frontend (L/C)</th>
+    <th>Implementación de Backend (L/C)</th>
+  </tr>
+  <tr>
+    <td>Hidalgo López, Mathias Adriano</td>
+    <td>mathiasadriano</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Onofre Ruíz, Carlos Jesús</td>
+    <td>OnofreGH</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+  </tr>
+  <tr>
+    <td>Méndez Vargas, Sebastian Orlando</td>
+    <td>el-tres-palabritas</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Travezaño Patiño, Eduard Gedeon</td>
+    <td>EduardTrave</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+  </tr>
+</table>
 
 #### [**6.2.1.3. Sprint Backlog 1.**](#6213-sprint-backlog-1) 
+
+En el primer sprint backlog, el equipo se propuso comenzar y finalizar la landing page y aplicación web en su totalidad. Para organizar y gestionar a los miembros del equipo, se utilizó Trello, una herramienta que permitió dividir las user stories en tareas manejables y asignarlas a los miembros según sus habilidades.
+
+![Trello de Muévete!](assets/chapter-6/trello.png)
+
+<table style="width:100%; height:auto; border-collapse: collapse;">
+   <tr>
+      <th colspan="4"> Sprint # </th>
+      <th colspan="7"> Sprint 1 </th>
+   </tr>
+   <tr>
+     <th colspan="4"> User Story </th>
+     <th colspan="7"> Work-Item / Task </th>
+   </tr>
+   <tr>
+      <th colspan="10"> Implementación de Landing Page </th>
+   </tr>
+   <tr>
+     <th> Id </th>
+     <th colspan="3"> Title </th>
+     <th> Task Id </th>
+     <th> Title </th>
+     <th> Description </th>
+     <th> Estimation (Hours) </th>
+     <th> Assigned To </th>
+     <th> Status (To-do / In-Process / To-Review / Done) </th>
+   </tr>
+   <tr>
+      <th> US01 </th>
+     <th colspan="3"> Barra de navegación en la Landing Page </th>
+      <th> UT01 </th>
+     <th> Sección de la barra de navegación </th>
+     <th> Desarrollar el navbar de la landing page de EcoMovil y asegurar que las opciones de navegación sean intuitivas </th>
+     <th> 1 </th>
+     <th> Mathias Hidalgo </th> 
+     <th> Done </th>
+   </tr>
+   <tr>
+      <th> US01 </th>
+     <th colspan="3"> Barra de navegación en la Landing Page </th>
+      <th> UT02</th>
+     <th> Mejoras en la barra de navegación </th>
+     <th> Mejorar la interacción del usuario con el navbar añadiendo animaciones o transiciones suaves </th>
+     <th> 5 </th>
+     <th> Mathias Hidalgo </th> 
+     <th> Done </th>
+   </tr>
+   <tr>
+      <th> US02 </th>
+     <th colspan="3"> Sección Hero en la Landing Page </th>
+      <th> UT03</th>
+     <th> Sección de Hero </th>
+     <th> Crear una sección destacada con una imagen impactante y un título atractivo en la landing page </th>
+     <th> 8 </th>
+     <th> Sebastian Méndez </th> 
+     <th> Done </th>
+   </tr>
+   <tr>
+      <th> US02 </th>
+     <th colspan="3"> Sección Hero en la Landing Page </th>
+      <th> UT04 </th>
+     <th> Ajustes de la sección de Hero </th>
+     <th> Ajustar el diseño y la responsividad de la sección hero para diferentes tamaños de pantalla </th>
+     <th> 4 </th>
+     <th> Sebastian Méndez </th> 
+     <th> Done </th>
+   </tr>
+   <tr>
+      <th> US03 </th>
+     <th colspan="3"> Sección Footer en la Landing Page </th>
+      <th> UT05 </th>
+     <th> Sección de pie de página </th>
+     <th> Desarrollar la sección del pie de página con enlaces a la información sobre el equipo y los términos de uso </th>
+     <th> 2 </th>
+     <th> Mathias Hidalgo </th> 
+     <th> Done </th>
+   </tr>
+   <tr>
+      <th> US03 </th>
+     <th colspan="3"> Sección Footer en la Landing Page </th>
+      <th> UT06 </th>
+     <th> Funcionalidad del pie de página </th>
+     <th> Asegurar que los enlaces en el pie de página sean funcionales y estén correctamente organizados </th>
+     <th> 5 </th>
+     <th> Mathias Hidalgo </th> 
+     <th> Done </th>
+   </tr>
+   <tr>
+      <th> US04 </th>
+     <th colspan="3"> Sección "About Us" en la Landing Page </th>
+      <th> UT07 </th>
+     <th> Sobre nosotros sección </th>
+     <th> Implementar la sección "About us" para ofrecer detalles sobre el equipo y la misión de la empresa </th>
+     <th> 8 </th>
+     <th> Eduard Travezaño </th> 
+     <th> Done </th>
+   </tr>
+   <tr>
+      <th> US04 </th>
+     <th colspan="3"> Sección "About Us" en la Landing Page </th>
+      <th> UT08 </th>
+     <th> Sobre nosotros y contenido de la sección </th>
+     <th> Agregar contenido detallado sobre la historia y misión de la empresa en la sección "About us" </th>
+     <th> 7 </th>
+     <th> Eduard Travezaño </th> 
+     <th> Done </th>
+   </tr>
+   <tr>
+      <th> US05 </th>
+     <th colspan="3"> Sección de Beneficios en la Landing Page </th>
+      <th> UT09</th>
+     <th> Sección Beneficios </th>
+     <th> Desarrollar una sección que resuma las características clave y beneficios de EcoMovil </th>
+     <th> 7 </th>
+     <th> Mathias Hidalgo </th> 
+     <th> Done </th>
+   </tr>
+   <tr>
+      <th> US05 </th>
+     <th colspan="3"> Sección de Beneficios en la Landing Page </th>
+      <th> UT10 </th>
+     <th> Disposición de la sección de beneficios </th>
+     <th> Ajustar el diseño y los elementos visuales para una mejor presentación de los beneficios </th>
+     <th> 6 </th>
+     <th> Mathias Hidalgo </th> 
+     <th> Done </th>
+   </tr>
+   <tr>
+      <th> US06 </th>
+     <th colspan="3"> Sección de Contacto en la Landing Page </th>
+      <th> UT11 </th>
+     <th> Sección de contacto </th>
+     <th> Agregar la información de contacto del equipo para facilitar la comunicación con los usuarios </th>
+     <th> 5 </th>
+     <th> Carlos Onofre </th> 
+     <th> Done </th>
+   </tr>
+   <tr>
+      <th> US06 </th>
+     <th colspan="3"> Sección de Contacto en la Landing Page </th>
+      <th> UT12 </th>
+     <th> Formulario de contacto </th>
+     <th> Implementar un formulario de contacto funcional en la sección </th>
+     <th> 5 </th>
+     <th> Carlos Onofre </th> 
+     <th> Done </th>
+   </tr>
+   <tr>
+      <th> US07 </th>
+     <th colspan="3"> Landing Page Responsive con diferentes dispositivos </th>
+      <th> UT13 </th>
+     <th> Página de destino adaptable </th>
+     <th> Asegurar que la landing page sea completamente funcional y visualmente adecuada en diferentes dispositivos y tamaños de pantalla </th>
+     <th> 6 </th>
+     <th> Mathias Hidalgo </th> 
+     <th> Done </th>
+   </tr>
+   <tr>
+      <th> US07 </th>
+     <th colspan="3"> Landing Page Responsive con diferentes dispositivos </th>
+      <th> UT14 </th>
+     <th> Optimización para dispositivos móviles </th>
+     <th> Optimizar el diseño de la página para una mejor experiencia en dispositivos móviles </th>
+     <th> 4 </th>
+     <th> Mathias Hidalgo </th> 
+     <th> Done </th>
+   </tr>
+   <tr>
+      <th colspan="10"> Implementación de Frontend </th>
+   </tr>
+   <tr>
+      <th> US16 </th>
+     <th colspan="3"> Sección Crear una cuenta en EcoMovil </th>
+      <th> TK01  </th>
+     <th> Sección de creación de usuarios</th>
+     <th> Desarrollar el Create-User de nuestro front-end de EcoMovil nos permite que el usuario pueda registrarse en la página. </th>
+     <th> 1  </th>
+     <th> Sebastian Méndez </th> 
+     <th> Done </th>
+   </tr>
+   <tr>
+      <th> </th>
+     <th colspan="3"></th>
+      <th> TK02 </th>
+     <th> Validación de formulario </th>
+     <th> Implementar validaciones de los formularios para garantizar que la información ingresada sea correcta antes de registrarse. </th>
+     <th> 5 </th>
+     <th> Sebastian Méndez </th> 
+     <th> Done </th>
+   </tr>
+   <tr>
+      <th> US17 </th>
+     <th colspan="3"> Sección Inicio de sesión en EcoMovil </th>
+      <th> TK03  </th>
+     <th> Sección de inicio de sesión</th>
+     <th> Implementar el inicio de sesión en nuestro front-end ayuda a que el usuario pueda entrar con su cuenta ya creada. </th>
+     <th> 8  </th>
+     <th> Sebastian Méndez </th> 
+     <th> Done </th>
+   </tr>
+   <tr>
+      <th> </th>
+     <th colspan="3"></th>
+      <th> TK04 </th>
+     <th> Persistencia de la sesión </th>
+     <th> Implementar la persistencia de sesión para mantener al usuario logueado mientras navega en la aplicación. </th>
+     <th> 4 </th>
+     <th> Sebastian Méndez </th> 
+     <th> Done </th>
+   </tr>
+   <tr>
+      <th> US18 </th>
+     <th colspan="3"> Sección Botón “Elija un plan” </th>
+      <th> TK05  </th>
+     <th> Botón Sección "Elija un plan" </th>
+     <th> La implementación del botón es para que los universitarios puedan comprar una suscripción y registrar sus vehículos menores para que los usuarios puedan alquilarlos. </th>
+     <th> 2  </th>
+     <th> Eduard Travezaño </th> 
+     <th> Done </th>
+   </tr>
+   <tr>
+      <th> </th>
+     <th colspan="3"></th>
+      <th> TK06 </th>
+     <th> Flujo de suscripción </th>
+     <th> Implementar el flujo de suscripción para que los usuarios puedan seleccionar un plan y proceder con el pago. </th>
+     <th> 7 </th>
+     <th> Eduard Travezaño </th> 
+     <th> Done </th>
+   </tr>
+   <tr>
+      <th> US19</th>
+     <th colspan="3"> Sección Mensaje de “Pago exitoso” </th>
+      <th> TK07  </th>
+     <th> Mensaje Sección "Pago exitoso" </th>
+     <th> Implementar el mensaje es para confirmar al usuario que su pago se realizó correctamente. </th>
+     <th> 8  </th>
+     <th> Eduard Travezaño </th> 
+     <th> Done </th>
+   </tr>
+   <tr>
+      <th> </th>
+     <th colspan="3"></th>
+      <th> TK08</th>
+     <th>Confirmación de pago </th>
+     <th> Implementar la lógica de confirmación de pago para asegurar que el usuario reciba un mensaje tras completar su transacción. </th>
+     <th> 5 </th>
+     <th> Eduard Travezaño </th> 
+     <th> Done </th>
+   </tr>
+   <tr>
+      <th> US20</th>
+     <th colspan="3"> Implementación de API para Búsqueda Geolocalizada de Vehículos</th>
+      <th> TK09  </th>
+     <th> Sección de geolocalización </th>
+     <th> Implementar una API para Búsqueda Geolocalizada de Vehículos permite que los clientes puedan visualizar en qué punto están los vehículos alquilados. </th>
+     <th> 7  </th>
+     <th> Eduard Travezaño </th> 
+     <th> Done </th>
+   </tr>
+   <tr>
+      <th> </th>
+     <th colspan="3"></th>
+      <th>TK10 </th>
+     <th> Precisión de geolocalización </th>
+     <th> Mejorar la precisión de la geolocalización para garantizar que los usuarios puedan ver la ubicación exacta de los vehículos. </th>
+     <th> 1 </th>
+     <th> Eduard Travezaño </th> 
+     <th> Done </th>
+   </tr>
+   <tr>
+      <th> US21 </th>
+     <th colspan="3"> Sección Historial de Vehículos </th>
+      <th> TK11  </th>
+     <th> Sección de Historia del Vehículo </th>
+     <th> Agregar un historial de vehículos permite visualizar todos los vehículos que tiene un universitario en alquiler y por alquilar. </th>
+     <th> 5 </th>
+     <th> Sebastian Méndez </th> 
+     <th> Done </th>
+   </tr>
+   <tr>
+      <th> </th>
+     <th colspan="3"></th>
+      <th>TK12 </th>
+     <th> Filtros de historial </th>
+     <th> Implementar filtros de búsqueda para que los usuarios puedan ordenar su historial de vehículos por fecha, estado o tipo de vehículo. </th>
+     <th> 4 </th>
+     <th> Sebastian Méndez </th> 
+     <th> Done </th>
+   </tr>
+   <tr>
+     <th> US23 </th>
+    <th colspan="3"> Foro de Contactos </th>
+      <th> TK13  </th>
+      <th> Sección del foro de contacto </th>
+      <th> Implementar el foro de contacto ayuda a visualizar las opiniones que tienen los clientes sobre los vehículos. </th>
+      <th> 5 </th>
+      <th> Sebastian Méndez </th> 
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> </th>
+     <th colspan="3"></th>
+      <th> TK14 </th>
+     <th>Interacción en el foro </th>
+     <th> Mejorar la interacción en el foro permitiendo que los usuarios puedan responder y valorar los comentarios. </th>
+     <th> 2 </th>
+     <th> Sebastian Méndez </th> 
+     <th> Done </th>
+   </tr>
+   <tr>
+      <th colspan="10"> Implementación de Backend </th>
+   </tr>
+      <tr>
+      <tr>
+         <td rowspan="3">US18</td>
+         <td rowspan="3">Bot&oacute;n &ldquo;Elija un plan&rdquo;</td>
+      </tr>
+      <tr>
+         <td>TK17</td>
+         <td>Endpoint para redirecci&oacute;n de planes</td>
+         <td>Configurar endpoint que gestione la redirecci&oacute;n del bot&oacute;n para mostrar detalles de pago.</td>
+         <td>4</td>
+         <td>Mathias Hidalgo</td>
+         <td>Done</td>            
+      </tr>   
+      <tr>
+         <td>TK18</td>
+         <td>L&oacute;gica de control para selecci&oacute;n de planes</td>
+         <td>Implementar l&oacute;gica de backend para almacenar selecci&oacute;n de planes en la base de datos.</td>
+         <td>8</td>
+         <td>Mathias Hidalgo</td>
+         <td>Done</td>            
+      </tr>      
+   </tr>
+   <tr>
+      <tr>
+         <td rowspan="3">US20</td>
+         <td rowspan="3">Bot&oacute;n &ldquo;Agregar veh&iacute;culo&rdquo;</td>
+      </tr>
+      <tr>
+         <td>TK19</td>
+         <td>Servicio para publicar veh&iacute;culos</td>
+         <td>Crear servicio que gestione la publicaci&oacute;n de veh&iacute;culos en la plataforma.</td>
+         <td>6</td>
+         <td>Carlos Onofre</td>
+         <td>Done</td>
+      </tr>   
+      <tr>
+         <td>TK20</td>            
+         <td>Validaci&oacute;n de datos para veh&iacute;culo</td>
+         <td>Implementar validaci&oacute;n en backend para datos de publicaci&oacute;n de veh&iacute;culo.</td>
+         <td>6</td>
+         <td>Carlos Onofre</td>
+         <td>Done</td>          
+      </tr>      
+   </tr>
+   <tr>
+      <tr>
+         <td rowspan="3">US26</td>
+         <td rowspan="3">B&uacute;squeda de veh&iacute;culos</td>
+      </tr>
+      <tr>
+         <td>TK21</td>
+         <td>Filtrar veh&iacute;culos por tipo</td>
+         <td>Desarrollar l&oacute;gica de backend para filtrar veh&iacute;culos por tipo.</td>
+         <td>6</td>
+         <td>Carlos Onofre</td>
+         <td>Done</td>
+      </tr>   
+      <tr>
+         <td>TK22</td>            
+         <td>Filtrar veh&iacute;culos por ubicaci&oacute;n</td>
+         <td>Implementar l&oacute;gica para filtrar veh&iacute;culos por ubicaci&oacute;n en el backend.</td>
+         <td>5</td>
+         <td>Mathias Hidalgo</td>
+         <td>Done</td>          
+      </tr>      
+   </tr>
+   <tr>
+      <tr>
+         <td rowspan="3">US27</td>
+         <td rowspan="3">Crear discusi&oacute;n en el foro</td>
+      </tr>
+      <tr>
+         <td>TK23</td>
+         <td>API para creaci&oacute;n de discusiones en foro</td>
+         <td>Desarrollar endpoint que permita crear discusiones en el foro.</td>
+         <td>6</td>
+         <td>Carlos Onofre</td>
+         <td>Done</td>
+      </tr>   
+      <tr>
+         <td>TK24</td>            
+         <td>Notificaci&oacute;n de respuestas en foro</td>
+         <td>Implementar notificaciones en backend para alertar al usuario sobre respuestas.</td>
+         <td>5</td>
+         <td>Carlos Onofre</td>
+         <td>Done</td>          
+      </tr>      
+   </tr>
+   <tr>
+      <tr>
+         <td rowspan="3">US28</td>
+         <td rowspan="3">Actualizar perfil</td>
+      </tr>
+      <tr>
+         <td>TK25</td>
+         <td>API para actualizaci&oacute;n de perfil</td>
+         <td>Crear servicio para permitir a usuarios actualizar sus datos de perfil.</td>
+         <td>8</td>
+         <td>Mathias Hidalgo</td>
+         <td>Done</td>
+      </tr>   
+      <tr>
+         <td>TK26</td>            
+         <td>Validaci&oacute;n en backend de perfil de usuario</td>
+         <td>Incluir validaci&oacute;n de campos en la actualizaci&oacute;n del perfil desde backend.</td>
+         <td>6</td>
+         <td>Carlos Onofre</td>
+         <td>Done</td>          
+      </tr>      
+   </tr>
+   
+</table>
+
 #### [**6.2.1.4. Development Evidence for Sprint Review.**](#6214-development-evidence-for-sprint-review) 
+
+| Repository   | Branch                                      | Commit Id | Commit Message                   | User | Commited on (Date) |
+| ------------ | ------------------------------------------- | --------- | -------------------------------- | ------------------- | ------------------ |
+| landing-page | main       | b863a40         |        | Mathias Hidalgo | Sep 22, 2025         | 
+| landing-page | main       | 36fec62         | feat: add file | Mathias Hidalgo | Sep 22, 2025    |
+| landing-page | main       | f827944         | feat: added plans section | Sebastian Mendez | Sep 22, 2025       |
+| landing-page | main       | cf2b26c   |feat: Added about section         | Eduard Travezaño| Sep 22, 2025                |
+| landing-page | main       | 8404774             |  feat: Added footer section                     | Eduard Travezaño|  Sep 22, 2025 |
+| landing-page | main       | b360e5b              |    feat: added header             | Carlos Onofre|      Sep 22, 2025 |
+| landing-page | main       | ad8ad4c  |  feat: added how-it-work component     | Carlos Onofre|  Sep 22, 2025 |
+| landing-page | main       | 0eb6e8d  |   feat(feature/join): Added join component  | Mathias Hidalgo|   Sep 23, 2025|
+| landing-page | main       | 4aa9478  |  feat(feature/main): added main component  | Mathias Hidalgo | Sep 23, 2025|
+| landing-page | main       | 50b12a4  |  "feat Merge branch 'feature/plans' into develop"| Mathias Hidalgo | Sep 23, 2025|
+| landing-page | main       | b795e73   |  feat: Merged main into develop   | Mathias Hidalgo | Sep 23, 2025|
+| landing-page | main       | c0e34a3    |     feat: merged how-it-works into develop | Mathias Hidalgo| Sep 23, 2025 |
+| landing-page | main       | 80d39b9 |        feat: merged header into develop   | Mathias Hidalgo |  Sep 23, 2025 |
+| landing-page | main       | fc17166 |        feat: merged footer into develop   | Mathias Hidalgo | Sep 23, 2025 |
+| landing-page | main       | db8f49d  |   feat: merged about into develop         | Mathias Hidalgo | Sep 23, 2025 |
+| landing-page | main       | d64296f   |      Create jekyll-gh-pages.yml          | Mathias Hidalgo |  Sep 23, 2025 |
+| landing-page | main       | e4b6d2a |    feat: refactor index.html         | Mathias Hidalgo| Sep 23, 2025  |
+| landing-page | main       | 5721546 |        feat: merged footer into develop | Mathias Hidalgo |    Sep 23, 2025 |
+| landing-page | main       | 06db9c8 |  Merge remote-tracking branch 'refs/remotes/origin/main'  | Mathias Hidalgo |Sep 23, 2025|
+| landing-page | main       | 3274f7d |      feat: added index.html          | Mathias Hidalgo |  Sep 23, 2025 |
+| landing-page | main       | 8842140 |   Create CNAME         | Eduard Travezaño |   Sep 23, 2025 |
+| landing-page | main       | f5961b4 |   Delete CNAME         | Eduard Travezaño |   Sep 23, 2025  |
+| landing-page | develop       | b863a40         |         | Mathias Hidalgo | Sep 23, 2025         | 
+| landing-page | develop       | 36fec62         | feat: add file | Mathias Hidalgo | Sep 23, 2025    |
+| landing-page | develop       | f827944         | feat: added plans section | Sebastian Mendez | Sep 22, 2025       |
+| landing-page | develop       | cf2b26c          |   feat: Added about section         | Mathias Hidalgo|   Sep 22, 2025  |
+| landing-page | develop       | 8404774          |   feat: Added footer section        | Carlos Onofre|   Sep 22, 2025  |
+| landing-page | develop       | b360e5b          |   feat: added header         | Carlos Onofre|   Sep 22, 2025  |
+| landing-page | develop       | ad8ad4c          |   feat: added how-it-work component         | Carlos Onofre|   Sep 23, 2025  |
+| landing-page | develop       | 0eb6e8d          |   feat(feature/join): Added join component         | Mathias Hidalgo|   Sep 23, 2025  |
+| landing-page | develop       | 4aa9478          |   feat(feature/main): added main component         | Mathias Hidalgo|   Sep 23, 2025  |
+| landing-page | develop       | 50b12a4          |   "feat Merge branch 'feature/plans' into develop"         | Mathias Hidalgo|   Sep 23, 2025  |
+| landing-page | develop       | b795e73          |   feat: Merged main into develop         | Mathias Hidalgo|   Sep 23, 2025  |
+| landing-page | develop       | c0e34a3          |   feat: merged how-it-works into develop         | Mathias Hidalgo|   Sep 23, 2025 |
+| landing-page | develop       | 80d39b9          |   feat: merged header into develop        | Mathias Hidalgo|   Sep 23, 2025 |
+| landing-page | develop       | fc17166          |   feat: merged footer into develop        | Mathias Hidalgo|   Sep 23, 2025  |
+| landing-page | develop       | db8f49d          |   feat: merged about into develop | Mathias Hidalgo|   Sep 23, 2025  |
+| landing-page | develop       | e6fa6b4          |   feat: added scroll event         | Mathias Hidalgo|  Sep 23, 2025  |
+| landing-page | feature/about       | b863a40         |         | Mathias Hidalgo | Sep 22, 2025         | 
+| landing-page | feature/about       | 36fec62         | feat: add file | Mathias Hidalgo | Sep 22, 2025    |
+| landing-page | feature/about       | cf2b26c         |   feat: Added about section         | Carlos Onofre |   Sep 22, 2025  |
+| landing-page | feature/footer      | b863a40          |           | Mathias Hidalgo |   Sep 22, 2025  |
+| landing-page | feature/footer      | 36fec62          |   feat: add file         | Mathias Hidalgo |   Sep 22, 2025  |
+| landing-page | feature/footer      | 8404774          |   feat: Added footer section         | Carlos Onofre |   Sep 22, 2025  |
+| landing-page | feature/header      | b863a40          |           | Mathias Hidalgo |   Sep 22, 2025  |
+| landing-page | feature/header      | 36fec62          |   feat: add file         | Mathias Hidalgo |   Sep 22, 2025  |
+| landing-page | feature/header      | b360e5b          |   feat: added header        | Carlos Onofre |   Sep 22, 2025  |
+| landing-page | feature/how-it-works       | b863a40          |            | Mathias Hidalgo |   Sep 23, 2025  |
+| landing-page | feature/how-it-works       | 36fec62          |   feat: add file         | Mathias Hidalgo |   Sep 23, 2025  |
+| landing-page | feature/how-it-works       | ad8ad4c          |   feat: added how-it-work component         | Carlos Onofre|   Sep 23, 2025  |
+| landing-page | feature/join       | b863a40          |            | Mathias Hidalgo |   Sep 23, 2025  |
+| landing-page | feature/join       | 36fec62          |   feat: add file         | Mathias Hidalgo |   Sep 23, 2025  |
+| landing-page | feature/join       | 0eb6e8d          |   eat(feature/join): Added join component         | Mathias Hidalgo |   Sep 23, 2025  |
+| landing-page | feature/main       | b863a40          |            | Mathias Hidalgo |   Sep 22, 2025  |
+| landing-page | feature/main       | 36fec62          |   feat: add file         | Mathias Hidalgo |   Sep 22, 2025  |
+| landing-page | feature/main       | 4aa9478          |   feat(feature/main): added main component         | Mathias Hidalgo |   Sep 22, 2025  |
+| landing-page | feature/plans       | b863a40          |            | Mathias Hidalgo |   Sep 22, 2025  |
+| landing-page | feature/plans       | 36fec62          |   feat: add file         | Mathias Hidalgo |   Sep 22, 2025  |
+| landing-page | feature/plans       | f827944          |   feat: added plans section         | Sebastian Mendez |   Sep 23, 2025  |
+| landing-page | gh-pages       | f8695f0          |   Auto-generated commit         | Mathias Hidalgo |   Sep 23, 2025  |
+| landing-page | gh-pages       | c74bd50          |   Auto-generated commit         | Mathias Hidalgo |   Sep 23, 2025  |
+| Front-End-Ecomovil | main       | bfd8076         | initial commit       | Eduard Travezaño | Sep 16, 2025         | 
+| Front-End-Ecomovil | main       | e01d04a         | feat(main): Added packages for Angular Material, primeflex, tailwindcss and i18n | Eduard Travezaño | Sep 16, 2025    |
+| Front-End-Ecomovil | main       | cfad3b1         | feat: added header component for acquirer and Student | Sebastian Mendez| Sep 16, 2025       |
+| Front-End-Ecomovil | main       | 7d81c3f   |feat(vehicle-section): add vehicle-section component         | Sebastian Mendez| Sep 16, 2025                |
+| Front-End-Ecomovil | main       | 0f88d27             |  feat(fake-api): setup fake api configuration.                   | Sebastian Mendez|  Sep 18, 2025 |
+| Front-End-Ecomovil | contact-forum       | aa74bd2              |    feat: add feactures-contact-forum          | Carlos Onofre |      Sep 20, 2025 |
+| Front-End-Ecomovil | log-in       | 43fee81  |  feat: add log in     | Eduard Travezaño |  Sep 19, 2025 |
+| Front-End-Ecomovil | planes-profileAcquirer      | 3920ff8  |   feat: add dashboard component  | Sebastian Mendez |   Sep 23, 2025|
+| Front-End-Ecomovil | planes-profileAcquirer       | 570aaef  |  feat: add profileAcquirer component  | Sebastian Mendez | Sep 23, 2025|
+| Front-End-Ecomovil | planes-profileAcquirer       | df680b1  |  feat: add confirmation component| Sebastian Mendez | Sep 23, 2025|
+| Front-End-Ecomovil | planes-profileAcquirer       | e832ad4   |  feat: update db.json   | Sebastian Mendez | Sep 23, 2025|
+| Front-End-Ecomovil | planes-profileAcquirer       | 0f960b4    |     feat: add profile-page component | Sebastian Mendez | Sep 23, 2025 |
+| Front-End-Ecomovil | planes-profileAcquirer       | 98d085e |        feat: update routes  | Sebastian Mendez |  Sep 23, 2025 |
+| Front-End-Ecomovil | planes-profileAcquirer      | 2a22d45 |   fix: delete unused imports   | Sebastian Mendez | Sep 23, 2025 |
+| Front-End-Ecomovil | planes-profileAcquirer       | 6ae8312  |   feature: update routes       | Sebastian Mendez | Sep 23, 2025 |
+| Front-End-Ecomovil | planes-profileAcquirer       | 736f5a9   |     fix: delete unused imports         | Sebastian Mendez |  Sep 23, 2025 |
+| Front-End-Ecomovil | planes-profileAcquirer       | 5f46c1a |   feature: add plan-item & plan-list components      | Sebastian Mendez | Sep 23, 2025  |
+| Front-End-Ecomovil | planes-profileAcquirer      | f7a7f0d |     feature: add payment component | Sebastian Mendez |    Sep 23, 2025 |
+| Front-End-Ecomovil | planes-profileAcquirer       | aa7233d |  feature: add payment Service Shared  | Eduard Travezaño |Sep 23, 2025|
+| Front-End-Ecomovil | planes-profileAcquirer      | db9fd87 |   feature: add planes-page component      | Eduard Travezaño |  Sep 23, 2025 |
+| Front-End-Ecomovil | planes-profileAcquirer     | 0b65553|  feature: add global variables      | Eduard Travezaño |   Sep 23, 2025 |
+| Front-End-Ecomovil | planes-profileAcquirer       | 09d5c98 | feature: update routes        | Eduard Travezaño |   Sep 23, 2025  |
+| Front-End-Ecomovil | planes-profileAcquirer       | db7ddf9        |   feature: add payment-page.component      | Eduard Travezaño | Sep 23, 2025         | 
+| Front-End-Ecomovil | planes-profileAcquirer       | e578368        | feature: add paypal script | Eduard Travezaño | Sep 23, 2025    |
+| Front-End-Ecomovil | planes-profileAcquirer       | 8949cce      | feature: update routes | Eduard Travezaño | Sep 23, 2025       |
+| Front-End-Ecomovil | planes-profileAcquirer      | 0e4e6a5      |  feature: update db.json   | Sebastian Mendez |   Sep 23, 2025  |
+| Front-End-Ecomovil | planes-profileAcquirer     | d03086c         |  feature: add validation to profile form     | Sebastian Mendez |   Sep 23, 2025  |
+| Front-End-Ecomovil | profile-university-student       | 7da6ae    |  feat: added markers        | Eduard Travezaño |   Sep 19, 2025  |
+| Front-End-Ecomovil | profile-university-student       | 81c37bd      |  feat(interactive-map): Added more markers and new values to entity    | Eduard Travezaño| Sep 19, 2025  |
+| Front-End-Ecomovil | profile-university-student       | 0f0c36d|  feat(interactive-map): add router       | Eduard Travezaño |   Sep 19, 2025  |
+| Front-End-Ecomovil | profile-university-student       | dd1d6b0|  feat: added localization to vehicle post component       | Eduard Travezaño|   Sep 19, 2025  |
+| Front-End-Ecomovil | profile-university-student     | 99bb5ed   |  eat(vehicle-post): add commentaries   | Eduard Travezaño|   Sep 19, 2025  |
+| Front-End-Ecomovil | profile-university-student       | 14d53d4     |   feat(vehicle-details): add vehicle-details component        | Sebastian Mendez|   Sep 19, 2025  |
+| Front-End-Ecomovil | profile-university-student       | 8fa0f80       |   featvehicle-details: added stars component for vehicle details    | Sebastian Mendez|   Sep 19, 2025 |
+| Front-End-Ecomovil | profile-university-student       | 07dc164  | feat(vehicle-details): change stars review distribution  | Eduard Travezaño|   Sep 19, 2025 |
+| Front-End-Ecomovil | register-acquirer      | e35baed       |      feat: add register acquirer.      | Eduard Travezaño |  Sep 19, 2025  |
+| Front-End-Ecomovil | register-university-student      | b6f895  |   feat: add register university page component.| Eduard Travezaño |   Sep 19, 2025  |
+| Front-End-Ecomovil | vehicles-choose    | d13329 |  feat: add vehiclesAcquirers component| Eduard Travezaño|   Sep 24, 2025  |
+| Front-End-Ecomovil | profile-university-student    | 4680ab7 |feat(profile): update db.json with university student and acquirer profiles |Juan Calisaya|   Sep 24, 2025  |
+| Front-End-Ecomovil | profile-university-student    | 297c474 |feat(auth): create class user.entity |Juan Calisaya|   Sep 24, 2025  |
+| Front-End-Ecomovil | profile-university-student    | 69d5443 |feat(user): implemented user service |Juan Calisaya|   Sep 24, 2025  |
+| Front-End-Ecomovil | profile-university-student    | ca74814 |feat(pages): implemented profile university component |Juan Calisaya|   Sep 24, 2025  |
+| Front-End-Ecomovil | profile-university-student    | 32ac7a4 |feat(profile): add path profile in router |Juan Calisaya|   Sep 24, 2025  |
+| Front-End-Ecomovil | filter-acquirer    | 2711518 | feat(server): update db.json for filter |Juan Calisaya|   Sep 24, 2025  |
+| Front-End-Ecomovil | filter-acquirer    | bc48403 | feat(server): update db.json for filter(2) |Juan Calisaya|   Sep 24, 2025  |
+| Front-End-Ecomovil | filter-acquirer    | d604484 | feat(filter): implement filter acquirer component |Juan Calisaya|   Sep 24, 2025  |
 
 #### [**6.2.1.5. Testing Suite Evidence for Sprint Review.**](#6215-testing-suite-evidence-for-sprint-review)
 En esta sección se presenta la evidencia del conjunto de pruebas automatizadas implementadas durante el Sprint, las cuales comprenden Unit Tests, Integration Tests y Acceptance Tests (BDD). Estas pruebas se desarrollaron para garantizar la correcta funcionalidad de los Web Services vinculados a los User Stories definidos para esta iteración del proyecto GoUni, nuestra aplicación de movilidad sostenible orientada a la comunidad universitaria.
 
 El enfoque de testing adoptado en este Sprint tuvo como objetivo asegurar que las funcionalidades principales —registro y autenticación de usuarios, gestión de vehículos ecológicos (bicicletas, scooters, motos eléctricas) y reservas de alquiler— cumplieran con los criterios de aceptación definidos por el equipo de desarrollo y los estándares de calidad establecidos en el plan de pruebas.
+
+|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commit Message Body**|**Committed on (Date)**|
+|--------------|----------|-------------|------------------|-----------------------|-----------------------|
+| | | | | | |
 
 #### [**6.2.1.6. Execution Evidence for Sprint Review.**](#6216-execution-evidence-for-sprint-review) 
 #### [**6.2.1.7. Services Documentation Evidence for Sprint Review.**](#6217-services-documentation-evidence-for-sprint-review) 
