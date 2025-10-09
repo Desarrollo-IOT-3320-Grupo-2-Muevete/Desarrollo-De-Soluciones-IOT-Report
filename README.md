@@ -1422,13 +1422,13 @@ Es un conjunto de normas y directrices que determinan cómo se deben redactar, d
 - **Visión:** Convertirnos en una aplicación líder en movilidad urbana sostenible, facilitando el acceso a vehículos ecológicos y promoviendo un estilo de vida más saludable y consciente con el medio ambiente.
 
 
-![EcoTechSquad](/assets/chapter-4/ecomovilsquad.png)
+![EcoTechSquad](/assets/chapter-4/ecomovi.png)
 
 **Brand Name:**
 
 EcoTech es una solución que surge de la combinación de "Eco", representando ecología y sostenibilidad, y "Movil", destacando la movilidad urbana. Esta aplicación está diseñada para fomentar el emprendimiento universitario y la sostenibilidad en Perú, brindando a los estudiantes la oportunidad de generar ingresos alquilando o vendiendo vehículos ecológicos. Al mismo tiempo, contribuye a reducir la contaminación y promueve un estilo de vida más activo.
 
-<img src="/assets/chapter-4/ecomovil.jpg">
+<img src="/assets/chapter-4/ecomo.jpg">
 
 **Colores:**
 
