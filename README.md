@@ -2037,8 +2037,8 @@ Plataforma en la cual hospedamos la Landing Page.<br>
 ### [**6.1.2. Source Code Management.**](#612-source-code-management)
 Se utilizó GitHub como plataforma y sistema de control de versiones.<br> 
 Organization: https://github.com/Desarrollo-IOT-3320-Grupo-2-Muevete<br>
-Landing Page Repository: https://github.com/Desarrollo-IOT-3320-Grupo-2-Muevete/Landing-Page<br>
-Front End Repository: https://github.com/Desarrollo-IOT-3320-Grupo-2-Muevete/Front-End<br>
+Landing Page Repository: https://github.com/Desarrollo-IOT-3320-Grupo-2-Muevete/Landing_Page<br>
+Front End Repository: https://github.com/Desarrollo-IOT-3320-Grupo-2-Muevete/Front_end<br>
 Report Repository: https://github.com/Desarrollo-IOT-3320-Grupo-2-Muevete/Desarrollo-De-Soluciones-IOT-Report<br>
 <br>
 ### [**6.1.3. Source Code Style Guide & Conventions.**](#613-source-code-style-guide--conventions) 
@@ -2059,17 +2059,15 @@ Angular<br>
 ### [**6.1.4. Software Deployment Configuration.**](#614-software-deployment-configuration)
 A continuación, demostraremos el proceso de despliegue de nuestra Landing Page mediante el servicio automatizado de Netlify:
 1.	Debemos tener nuestra landing page en un repositorio en GitHub:
-   <img src="./assets/Cap6/img.jpeg"><br>
-2.  Debemos iniciar sesión o crear una cuenta en caso no tengamos una en netlify:
-   <img src="./assets/Cap6/img.jpeg"><br>
-3.  Una vez dentro, en el panel general, debemos seleccionar la opción “sites” y luego “Add new site” e importaremos desde un proyecto ya existente:
-   <img src="./assets/Cap6/img.jpeg"><br>
+   <img src="./assets/chapter-6/landing-page.png"><br>
+2.  Debemos iniciar sesión o crear una cuenta en caso no tengamos una en Vercel:
+   <img src="./assets/chapter-6/vercel.jpg"><br>
+3.  Iniciamos sesión de forma rápida con github:
+   <img src="./assets/chapter-6/authorize-vercel.jpg"><br>
 4.  Daremos los permisos necesarios para que acceda a nuestro repositorio y seleccionaremos nuestra landing page a desplegar:
-   <img src="./assets/Cap6/img.jpeg"><br>
-   <img src="./assets/Cap6/img.jpeg"><br>
-5.  Por último, damos las últimas configuraciones necesarias para el despliegue:
-   <img src="./assets/Cap6/img.jpeg"><br>
-   <img src="./assets/Cap6/img.jpeg"><br>
+   <img src="./assets/chapter-6/importing-vercel.jpg"><br>
+5.  Después de darle "Deploy" se desplega la landing page y nos da el dominio de la landing:
+   <img src="./assets/chapter-6/deployed-vercel.jpg"><br>
 ## [**6.2. Landing Page, Services & Applications Implementation.**](#62-landing-page-services--applications-implementation) 
 ### [**6.2.1. Sprint 1.**](#621-sprint-1) 
 
