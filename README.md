@@ -2027,8 +2027,8 @@ Herramienta de gestión de tareas basada en tableros, listas y tarjetas. Nos per
 UxPressia: https://uxpressia.com/<br>
 Herramienta online para crear mapas de experiencia del usuario, customer journey maps y personas. Ayuda a visualizar y mejorar la experiencia del cliente de forma colaborativa y centrada en el usuario.<br>
 <br>
-Landing Page:<br>
-Para el desarrollo de la Landing Page se utilizó HTML, CSS Y JS.<br>
+Structurizr: https://structurizr.com/<br>
+Para el desarrollo de diagramas de contexto y contenedores, así como Landscape y Deployment.<br>
 <br>
 Software Deployment:<br>
 Netlify: https://www.netlify.com/<br>
