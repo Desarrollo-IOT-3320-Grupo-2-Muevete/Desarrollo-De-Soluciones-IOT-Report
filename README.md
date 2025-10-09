@@ -2059,7 +2059,7 @@ Angular<br>
 ### [**6.1.4. Software Deployment Configuration.**](#614-software-deployment-configuration)
 A continuación, demostraremos el proceso de despliegue de nuestra Landing Page mediante el servicio automatizado de Netlify:
 1.	Debemos tener nuestra landing page en un repositorio en GitHub:
-   <img src="./assets/chapter-6/landing-page.png"><br>
+   <img src="./assets/chapter-6/landing-page.PNG"><br>
 2.  Debemos iniciar sesión o crear una cuenta en caso no tengamos una en Vercel:
    <img src="./assets/chapter-6/vercel.jpg"><br>
 3.  Iniciamos sesión de forma rápida con github:
