@@ -2015,10 +2015,61 @@ Link Web Applications Prototyping:
 
 ## [**6.1. Software Configuration Management.**](#61-software-configuration-management) 
 ### [**6.1.1. Software Development Environment Configuration.**](#611-software-development-environment-configuration) 
+Figma: https://www.figma.com/<br>
+Herramienta visual usada para el diseño del prototipo de la pagina web. Además de ser usada para las creaciones de los wireframes y mockups del desktop and mobile application del proyecto realizado.<br>
+<br>
+LucidChart: https://lucid.app/<br>
+Herramienta online para crear diagramas como flujogramas, diagramas UML, mapas mentales y arquitecturas de software.<br>
+<br>
+Trello: https://trello.com/<br>
+Herramienta de gestión de tareas basada en tableros, listas y tarjetas. Nos permitió organizar el proyecto de forma visual y colaborativa, ideal para hacer seguimiento de actividades, asignar responsabilidades y ver el progreso del trabajo.<br>
+<br>
+UxPressia: https://uxpressia.com/<br>
+Herramienta online para crear mapas de experiencia del usuario, customer journey maps y personas. Ayuda a visualizar y mejorar la experiencia del cliente de forma colaborativa y centrada en el usuario.<br>
+<br>
+Landing Page:<br>
+Para el desarrollo de la Landing Page se utilizó HTML, CSS Y JS.<br>
+<br>
+Software Deployment:<br>
+Netlify: https://www.netlify.com/<br>
+Plataforma en la cual hospedamos la Landing Page.<br>
+<br>
 ### [**6.1.2. Source Code Management.**](#612-source-code-management)
+Se utilizó GitHub como plataforma y sistema de control de versiones.<br> 
+Organization: https://github.com/Desarrollo-IOT-3320-Grupo-2-Muevete<br>
+Landing Page Repository: https://github.com/Desarrollo-IOT-3320-Grupo-2-Muevete/Landing-Page<br>
+Front End Repository: https://github.com/Desarrollo-IOT-3320-Grupo-2-Muevete/Front-End<br>
+Report Repository: https://github.com/Desarrollo-IOT-3320-Grupo-2-Muevete/Desarrollo-De-Soluciones-IOT-Report<br>
+<br>
 ### [**6.1.3. Source Code Style Guide & Conventions.**](#613-source-code-style-guide--conventions) 
+Con el propósito de mantener la consistencia, buenas prácticas y legibilidad durante el desarrollo del proyecto, hemos adoptado las siguientes guías de estilo y convenciones para el desarrollo del código:<br>
+Para el Coding Convention:<br>
+•	Hemos nombrado todos los elementos del código (funciones, variables, clases, archivos, etc) en inglés.<br>
+•	Los nombres deben ser claros, descriptivos y seguir las nomenclaturas estándar de cada lenguaje según corresponda.<br>
+<br>
+Para el Code Style guide:<br>
+HTML & CSS<br>
+•	Se sigue la guía de estilo Google HTML/CSS Style Guide.<br>
+•	Se aplica la regla de atributos en minúscula y cierre adecuado de etiquetas.<br>
+•	Se debe utilizar letras minúsculas para elementos HTML, atributos, propiedades, valores y selectores de CSS.<br>
+<br>
+Angular<br>
+•	Se sigue la Angular coding style guide. Además, se incluye la separación por módulos, uso de servicios y buenas prácticas en componentes.<br>
+<br>
 ### [**6.1.4. Software Deployment Configuration.**](#614-software-deployment-configuration)
-
+A continuación, demostraremos el proceso de despliegue de nuestra Landing Page mediante el servicio automatizado de Netlify:
+1.	Debemos tener nuestra landing page en un repositorio en GitHub:
+   <img src="./assets/Cap6/img.jpeg"><br>
+2.  Debemos iniciar sesión o crear una cuenta en caso no tengamos una en netlify:
+   <img src="./assets/Cap6/img.jpeg"><br>
+3.  Una vez dentro, en el panel general, debemos seleccionar la opción “sites” y luego “Add new site” e importaremos desde un proyecto ya existente:
+   <img src="./assets/Cap6/img.jpeg"><br>
+4.  Daremos los permisos necesarios para que acceda a nuestro repositorio y seleccionaremos nuestra landing page a desplegar:
+   <img src="./assets/Cap6/img.jpeg"><br>
+   <img src="./assets/Cap6/img.jpeg"><br>
+5.  Por último, damos las últimas configuraciones necesarias para el despliegue:
+   <img src="./assets/Cap6/img.jpeg"><br>
+   <img src="./assets/Cap6/img.jpeg"><br>
 ## [**6.2. Landing Page, Services & Applications Implementation.**](#62-landing-page-services--applications-implementation) 
 ### [**6.2.1. Sprint 1.**](#621-sprint-1) 
 
