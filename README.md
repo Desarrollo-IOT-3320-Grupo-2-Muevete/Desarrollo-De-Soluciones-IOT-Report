@@ -2031,7 +2031,7 @@ Structurizr: https://structurizr.com/<br>
 Para el desarrollo de diagramas de contexto y contenedores, así como Landscape y Deployment.<br>
 <br>
 Software Deployment:<br>
-Netlify: https://www.netlify.com/<br>
+Vercel: https://vercel.com/<br>
 Plataforma en la cual hospedamos la Landing Page.<br>
 <br>
 ### [**6.1.2. Source Code Management.**](#612-source-code-management)
