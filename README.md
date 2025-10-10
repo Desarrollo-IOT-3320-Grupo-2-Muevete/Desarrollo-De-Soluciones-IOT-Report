@@ -2723,18 +2723,51 @@ En el primer sprint backlog, el equipo se propuso comenzar y finalizar la landin
 | Front-End-Ecomovil | filter-acquirer    | d604484 | feat(filter): implement filter acquirer component |Juan Calisaya|   Sep 24, 2025  |
 
 #### [**6.2.1.5. Testing Suite Evidence for Sprint Review.**](#6215-testing-suite-evidence-for-sprint-review)
-En esta sección se presenta la evidencia del conjunto de pruebas automatizadas implementadas durante el Sprint, las cuales comprenden Unit Tests, Integration Tests y Acceptance Tests (BDD). Estas pruebas se desarrollaron para garantizar la correcta funcionalidad de los Web Services vinculados a los User Stories definidos para esta iteración del proyecto GoUni, nuestra aplicación de movilidad sostenible orientada a la comunidad universitaria.
-
-El enfoque de testing adoptado en este Sprint tuvo como objetivo asegurar que las funcionalidades principales —registro y autenticación de usuarios, gestión de vehículos ecológicos (bicicletas, scooters, motos eléctricas) y reservas de alquiler— cumplieran con los criterios de aceptación definidos por el equipo de desarrollo y los estándares de calidad establecidos en el plan de pruebas.
+Durante la entrega del Sprint 1, el equipo se centró en desarrollar, implementar y desplegar completamente la Landing Page, avanzar con el backend, frontend y acceptance tests. En consecuencia, la fase de Testing se orientó a validar que las funcionalidades respondieran adecuadamente a las necesidades de los usuarios, priorizando una experiencia clara, sencilla e intuitiva.
 
 |**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commit Message Body**|**Committed on (Date)**|
 |--------------|----------|-------------|------------------|-----------------------|-----------------------|
-| | | | | | |
+| https://github.com/Desarrollo-IOT-3320-Grupo-2-Muevete/Landing_Page | master | cc5098e | fear: new landing page | - | 09/10/2025 |
+| https://github.com/Desarrollo-IOT-3320-Grupo-2-Muevete/Acceptance-Tests | master | 4622570 | Primer Commit | - | 08/10/2025 |
 
 #### [**6.2.1.6. Execution Evidence for Sprint Review.**](#6216-execution-evidence-for-sprint-review) 
+
+<img src="assets/chapter-6/landing-1.png" alt="" width="800" height="500">
+<img src="assets/chapter-6/landing-2.png" alt="" width="800" height="500">
+<img src="assets/chapter-6/landing-3.png" alt="" width="800" height="500">
+<img src="assets/chapter-6/landing-4.png" alt="" width="800" height="500">
+<img src="assets/chapter-6/landing-5.png" alt="" width="800" height="500">
+<img src="assets/chapter-6/landing-6.png" alt="" width="800" height="500">
+<img src="assets/chapter-6/landing-7.png" alt="" width="800" height="500">
+<img src="assets/chapter-6/landing-8.png" alt="" width="800" height="500">
+<img src="assets/chapter-6/landing-9.png" alt="" width="800" height="500">
+
 #### [**6.2.1.7. Services Documentation Evidence for Sprint Review.**](#6217-services-documentation-evidence-for-sprint-review) 
+Para esta entrega, el equipo StudentConnect logró implementar de manera exitosa el frontend web app y la landing.
+Enlace del deploy de la landing mediante: [https://cibermatch-movirent.netlify.app/](https://landing-page-eight-ecru-42.vercel.app/)
+Enlace del deploy de la app web mediante: https://mueveteecotech.netlify.app/login
+
 #### [**6.2.1.8. Software Deployment Evidence for Sprint Review.**](#6218-software-deployment-evidence-for-sprint-review) 
+Para el despliegue de la aplicacion web se utilizó netlify, a continuación se muestra el link de la aplicación web desplegada junto a los pasos realizados para publicarla: https://mueveteecotech.netlify.app/login
+<img src="assets/chapter-6/deploy-front-1.jpeg" alt="" width="800" height="500">
+<img src="assets/chapter-6/deploy-front-2.jpeg" alt="" width="800" height="500">
+<img src="assets/chapter-6/deploy-front-3.jpeg" alt="" width="800" height="500">
+<img src="assets/chapter-6/deploy-front-4.jpeg" alt="" width="800" height="500">
+
+
+Para el despliegue de la landing se utilizó vercel, a continuación se muestra el link de la landing desplegada junto a los pasos realizados para publicarla: https://landing-page-eight-ecru-42.vercel.app
+<img src="assets/chapter-6/deploy-landing-1.jpeg" alt="" width="800" height="500">
+<img src="assets/chapter-6/deploy-landing-2.jpeg" alt="" width="800" height="500">
+<img src="assets/chapter-6/deploy-landing-3.jpeg" alt="" width="800" height="500">
+<img src="assets/chapter-6/deploy-landing-4.jpeg" alt="" width="800" height="500">
+
 #### [**6.2.1.9. Team Collaboration Insights during Sprint.**](#6219-team-collaboration-insights-during-sprint)
+|**Username (Github)**|**Nombre**|**Actividad**|
+|--------------|----------|----------|
+| EduardTrave | Travezaño Patiño, Eduard Gedeon | Elaboracion de Landing Page |
+| mathiasadriano | Hidalgo Lopez, Mathias Adriano | Elaboracion de Frontend |
+| OnofreGH | Onofre Ruiz, Carlos Jesus | Elaboracion de los Acceptance Tests |
+| el-tres-palabritas | Mendez Vargas, Sebastian Orlando | Elaboracion de Backend |
 
 ---
 
