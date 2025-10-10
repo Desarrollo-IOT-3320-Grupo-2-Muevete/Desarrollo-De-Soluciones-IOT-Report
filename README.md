@@ -1411,618 +1411,828 @@ En este capítulo describimos las directrices de diseño y estilo para el produc
 ## [**5.1. Style Guidelines.**](#style-guidelines)
 En esta sección se describen las pautas generales de estilo que guían la apariencia visual del producto, incluyendo el uso de colores, tipografía y espaciado.
 
-### [**5.1.1. General Style Guidelines.**](#general-style-guidelines)
-Las directrices generales aseguran una estética que refuerza la marca y proporciona claridad visual para los usuarios.
+### 5.1.1. General Style Guidelines
 
-#### Historia de la marca
-La marca busca transmitir modernidad y profesionalismo, reflejando estos valores en cada elemento visual del diseño.
+Es un conjunto de normas y directrices que determinan cómo se deben redactar, diseñar o presentar documentos, contenido en línea, software u otros trabajos creativos. A continuación, se detallan los parámetros implementados en la estructura del proyecto.
 
-#### Misión
-Proporcionar a los usuarios una experiencia fluida y atractiva, con interfaces claras y consistentes.
+**Branding:**
 
-#### Visión
-Ser reconocidos como una marca que combina funcionalidad y estilo en el diseño de productos digitales.
+**Brand Overview:**
 
-#### Brand Name
-El nombre de la marca es un elemento clave de nuestra identidad, representando los valores fundamentales de la empresa.
+**EcoTech** es una aplicación que ofrece una alternativa ágil y ecológica para la movilidad urbana, conectando a usuarios que desean alquilar o comprar vehículos sostenibles como bicicletas, scooters, skateboards y motos eléctricas con quienes los tienen disponibles. La aplicación facilita el proceso de alquiler o compra, apoyando también a estudiantes en la generación de ingresos flexibles. Entre sus características clave se incluyen un sistema de valoraciones y reseñas con estrellas, búsqueda avanzada con filtros, un historial de transacciones, un mapa interactivo de puntos de recepción y entrega, elementos de gamificación con logros y recompensas. EcoTech promueve una movilidad sostenible y un estilo de vida activo y responsable con el medio ambiente.
 
-#### Colores
-La paleta de colores está diseñada para proporcionar un equilibrio visual. Utilizamos una combinación de tonos brillantes y neutros para transmitir profesionalismo y modernidad.
+- **Misión:** Facilitar el acceso a una movilidad urbana sostenible, conectando a las personas con vehículos ecológicos a través de una aplicación digital eficiente, contribuyendo a la reducción de la contaminación, y brindando oportunidades de ingresos para universitarios.
 
-![Paleta de Colores](assets/images/styleGuidelines/colors.png)
+- **Visión:** Convertirnos en una aplicación líder en movilidad urbana sostenible, facilitando el acceso a vehículos ecológicos y promoviendo un estilo de vida más saludable y consciente con el medio ambiente.
 
-#### Tipografía
-Usamos la tipografía **Roboto** en diferentes pesos para establecer jerarquía visual y garantizar una legibilidad óptima. El color de la letra principal es `#404040`.
 
-![Guía de Tipografía](assets/images/styleGuidelines/guidelines.png)
+![EcoTechSquad](/assets/chapter-5/startfoto.jpeg)
 
-#### Espaciado
-El espaciado entre elementos visuales asegura una estructura clara y organizada, ayudando a los usuarios a navegar por el contenido de forma fluida.
+**Brand Name:**
 
-- **Tamaño de letra**: Las fuentes varían desde 12px hasta 98px según la jerarquía del texto.
-- **Interlineado**: Mantenemos un interlineado proporcional para mejorar la legibilidad.
+EcoTech es una solución que surge de la combinación de "Eco", representando ecología y sostenibilidad, y "Movil", destacando la movilidad urbana. Esta aplicación está diseñada para fomentar el emprendimiento universitario y la sostenibilidad en Perú, brindando a los estudiantes la oportunidad de generar ingresos alquilando o vendiendo vehículos ecológicos. Al mismo tiempo, contribuye a reducir la contaminación y promueve un estilo de vida más activo.
 
-### [**5.1.2. Web Style Guidelines.**](#web-style-guidelines)
+<img src="/assets/chapter-5/appfoto.jpeg">
 
-Las pautas de estilo para la web están diseñadas para asegurar que el diseño sea funcional y atractivo tanto en dispositivos móviles como en pantallas grandes. Incluir consistencia en colores, tipografías y espaciado es clave para mantener la identidad visual en todas las plataformas.
+**Colores:**
 
-## [**5.2. Information Architecture.**](#information-architecture)
+Los colores desempeñan un papel fundamental en la primera impresión que los usuarios tienen de la aplicación. Basándose en los principios de la psicología del color, se ha seleccionado el verde como el color principal de la paleta cromática. Este color simboliza crecimiento y creatividad, que son valores esenciales de la startup. Además, el verde está asociado con la ecología, que es el enfoque principal de la aplicación, y con la armonía, un concepto que buscamos reflejar en la interacción con el servicio. Las tonalidades secundarias elegidas abarcan distintos matices de verde claro, verde oscuro y verde pálido. Como colores secundarios, también se incluyen variantes de verde fosforescente, crema claro y anaranjado amarillo.
 
-En esta sección, se describe cómo se organizará el contenido en la plataforma **Muevete!**, tanto en la web como en las aplicaciones móviles. Se busca que la estructura sea intuitiva para los estudiantes universitarios, permitiendo una navegación fluida y el acceso rápido a las principales funcionalidades de la plataforma.
+<img src="/assets/chapter-4/primaryandsecondary.png">
+<img src="/assets/chapter-4/wireframeandtext.png">
+<img src="/assets/chapter-4/gradient.png">
 
-<hr>
+**Tipografia:**
 
-### [**5.2.1. Organization Systems.**](#organization-systems)
+La tipografía juega un papel crucial en establecer la jerarquía entre los diferentes grupos de contenido en la aplicación, además de guiar al usuario a través de la interfaz. Para el proyecto, se ha elegido la fuente "Alata" en sus estilos Medium y Normal, para asegurar una mayor legibilidad. Además, la organización tipográfica se estructura en cuatro niveles para los elementos del diseño (body y heading), lo que ayuda a mantener una disposición clara y coherente del contenido.
 
-El Sistema de Organización de **Muevete!** está diseñado para facilitar la interacción entre el usuario y la plataforma, asegurando que los estudiantes puedan encontrar y utilizar los servicios clave, como la búsqueda de viajes o la oferta de plazas en vehículos.
+La estructura tipográfica del proyecto se organiza en cuatro niveles de jerarquía para los encabezados:
 
-- **Jerarquía Visual**: La página principal destacará las acciones más importantes para el usuario, como “Buscar viaje” y “Publicar viaje”, con énfasis en botones de llamada a la acción que lleven a estas secciones.
-- **Organización Secuencial**: Se aplicará a procesos clave como el registro de usuario, reserva de un viaje y configuración de perfil. Estos procesos se guiarán paso a paso, asegurando que los usuarios completen cada tarea sin problemas.
-- **Organización Matricial**: Los filtros de búsqueda permitirán a los usuarios seleccionar viajes según el tipo de vehículo, horario y calificaciones del conductor, haciendo que sea más fácil encontrar un viaje que se ajuste a sus necesidades.
-- **Esquemas de Categorización**: La categorización de la información podrá hacerse por orden alfabético (al buscar conductores por nombre), cronológico (al organizar las reservas según la fecha), o por audiencia (al segmentar entre conductores y pasajeros).
+- Heading 01: Tamaño de 34px.
+- Heading 02: Tamaño de 22px.
+- Heading 03: Tamaño de 17px.
+- Heading 04: Tamaño de 15px.
 
-<br>
+<img src="/assets/chapter-4/typography2.png">
 
-### [**5.2.2. Labeling Systems.**](#labeling-systems)
+### 5.1.2. Web Style Guidelines
 
-En **Muevete!**, las etiquetas se diseñarán para ser claras, directas y comprensibles para los estudiantes, priorizando una navegación simple y una experiencia de usuario intuitiva.
+El enfoque de la aplicación web "EcoTech" se basa en la eficiencia, la formación y la ecología en todos los procesos. Las diferentes etapas y formularios necesarios están organizados en secciones clave: Página principal, Acerca de nosotros, Inscríbase, Vehículos, Beneficios y Contacto, que ocupan la mayor parte de la pantalla para facilitar la navegación y ofrecer una experiencia de usuario fluida y coherente.
 
-### Etiquetas:
-- **Inicio**: Al hacer clic en el logo de Muevete!, los usuarios serán redirigidos a la página principal.
-- **Buscar Viaje**: Opción en el menú principal que permite a los estudiantes buscar viajes disponibles en su universidad.
-- **Publicar Viaje**: Los usuarios con vehículo propio podrán acceder a esta opción para publicar su ruta y disponibilidad de asientos.
-- **Reservas Actuales**: Sección donde los usuarios pueden ver y gestionar sus reservas actuales.
-- **Perfil**: Permite a los usuarios gestionar sus datos personales, verificar su identidad y ver su historial de viajes.
+- **Imágenes:**<br>
+  En el diseño web de "EcoTech", se utilizarán imágenes descriptivas de manera estratégica. Las imágenes de vehículos menores y de la empresa estarán en la página de inicio, con el logo de la empresa ubicado en la parte superior izquierda para facilitar su identificación. Además, cada sección principal contará con imágenes representativas de los vehículos menores, reforzando la visión ecológica para el usuario. Para optimizar la experiencia en aplicaciones de escritorio, se evitarán imágenes de fondo, optando en su lugar por imágenes laterales que guíen al usuario a través de la interfaz de manera funcional.
 
-Una vez que los usuarios se registren y accedan a su cuenta, aparecerán nuevas etiquetas como:
-- **Mis Viajes**: Un lugar donde los usuarios pueden revisar sus reservas activas y pasadas.
-- **Calificar Conductores**: Opción que aparece tras la finalización de un viaje, permitiendo dejar comentarios y puntuaciones.
+- **Botones:**<br>
+  Los botones en la aplicación web "EcoTech" siguen las especificaciones establecidas en las General Style Guidelines. Generalmente, estos botones se encuentran en la parte inferior de la sección principal de la pantalla, permitiendo al usuario realizar acciones que se reflejan en la vista superior. Para acciones que inicien nuevos procesos o afecten el funcionamiento general de la aplicación, se incluyen botones de confirmación. Todos los botones están diseñados con un estilo distintivo y un alto contraste en comparación con el resto de la aplicación, asegurando que sean fácilmente visibles. Además, se aplica la teoría del color en los botones, donde los colores específicos indican acciones que eliminan procesos o los concluyen.
 
-<br>
+- **Pantallas Emergentes:**<br>
+  Las pantallas emergentes en "EcoTech" están diseñadas para confirmar acciones clave que son cruciales para el funcionamiento del negocio y tienen un impacto significativo en el mismo. Estas pantallas emergentes enfatizan la importancia de resolver el asunto en cuestión antes de que el usuario pueda continuar navegando por la aplicación, subrayando la necesidad de tomar decisiones informadas en momentos críticos.
 
-### [**5.2.3. SEO Tags and Meta Tags.**](#seo-tags-and-meta-tags)
+**Mobile Style Guidelines**
 
-Los SEO Tags y Meta Tags son esenciales para mejorar la visibilidad de **Muevete!** en los motores de búsqueda.
+El enfoque para la vista móvil de la aplicación EcoTech sigue el mismo principio que la vista de escritorio. Este enfoque se centra en la ecología y en la eficiencia de los procesos. Las etapas y formularios necesarios están representados en secciones y formularios que ocupan la mayor parte de la pantalla.
 
-### Para la Landing Page:
-```html
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Muevete! - Carpooling para Estudiantes Universitarios</title>
-<meta name="description" content="Muevete! es la plataforma de carpooling exclusiva para estudiantes universitarios, enfocada en la seguridad, sostenibilidad y economía colaborativa.">
-<meta name="keywords" content="carpooling universitario, compartir autos estudiantes, movilidad sostenible, transporte colaborativo">
-<meta name="author" content="Muevete! Team">
-```
-### Para la Aplicación Web:
-```html
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Muevete! - Comparte tu auto con otros estudiantes universitarios</title>
-<meta name="description" content="Con Muevete!, puedes compartir tu auto con otros estudiantes universitarios y reducir tus gastos de transporte mientras ayudas al medio ambiente.">
-<meta name="keywords" content="carpooling estudiantes, compartir auto universidad, transporte sostenible, viaje colaborativo">
-<meta name="author" content="Muevete! Team">
-```
+- **Imágenes:**<br>
+  En el diseño móvil de "EcoTech", se utilizarán imágenes descriptivas de manera estratégica. Las imágenes de vehículos menores y de la empresa estarán en el inicio, con el logo de la empresa ubicado en la parte superior izquierda para facilitar su identificación. Para optimizar la experiencia en aplicaciones se evitarán imágenes de fondo, optando en su lugar por imágenes laterales que guíen al usuario a través de la interfaz de manera funcional.
 
-<br>
+- **Botones:**<br>
+  Los botones en la aplicación móvil "EcoTech" siguen las especificaciones establecidas en las General Style Guidelines. Generalmente, estos botones se encuentran en la parte inferior de la sección principal de la pantalla, permitiendo al usuario realizar acciones que se reflejan en la vista superior. Para acciones que inicien nuevos procesos o afecten el funcionamiento general de la aplicación, se incluyen botones de confirmación. Todos los botones están diseñados con un estilo distintivo y un alto contraste en comparación con el resto de la aplicación, asegurando que sean fácilmente visibles. Además, se aplica la teoría del color en los botones, donde los colores específicos indican acciones que eliminan procesos o los concluyen.
 
-### [**5.2.4. Searching Systems.**](#searching-systems)
+## 5.2. Information Architecture
 
-El sistema de búsqueda en Muevete! facilitará a los usuarios encontrar viajes disponibles de forma rápida y efectiva. La funcionalidad de búsqueda incluirá:
+Dado que EcoTech gestiona un flujo funcional esencial para el negocio, es fundamental que el usuario tenga claridad sobre las etapas y procesos involucrados. La información está estructurada de manera categórica y secuencial, permitiendo al usuario avanzar a través de un módulo que representa el proceso general, ya sea un ingreso o una ganancia. A medida que el usuario registra las diferentes fases del vehículo, estas se reflejan en varias pantallas de la aplicación. Además, la vista del "Panel de Control" proporciona una visión general de las funcionalidades clave de la aplicación, facilitando la supervisión y gestión de los procesos.
 
-Búsqueda por Universidad: Los estudiantes podrán buscar viajes que conecten con su universidad específica.
-Filtros de Búsqueda: Los usuarios podrán filtrar los resultados por tipo de vehículo, horario de salida, calificación del conductor y disponibilidad de plazas.
-Organización de Resultados: Los resultados se podrán ordenar de manera alfabética, por hora de salida o por la proximidad del conductor al punto de recogida.
+### 5.2.1. Organization System
 
-![Searching.png](assets/images/styleGuidelines/search.png)
+El sistema de organización de la aplicación de "EcoTech" está diseñado para estructurar visualmente el contenido y facilitar la navegación.
 
-<br>
+La organización visual del contenido se distribuye en diversas vistas dentro de la aplicación, utilizando una estructura jerárquica que resalta los elementos más importantes en la pantalla. Este enfoque se aplica a las pantallas de inicio de sesión, donde los títulos e imágenes de los vehículos ocupan una mayor parte del espacio visual. Las opciones para modificar información sobre los vehículos se integran de manera armoniosa con el fondo blanco de la aplicación, lo que permite que los usuarios se enfoquen primero en los vehículos antes de notar las opciones de edición.
 
-### [**5.2.5. Navigation Systems.**](#navigation-systems)
+El proceso principal de las fases de compra y alquiler sigue una organización secuencial, facilitando que los usuarios puedan visualizar sus planes y completar un pago de manera fluida. En varias etapas, como la publicación de vehículos, el uso de filtros y el historial, el contenido es esencial para que los usuarios realicen un seguimiento eficiente dentro de la aplicación.
 
-El sistema de navegación de Muevete! estará diseñado para que los usuarios puedan encontrar la información y realizar las acciones deseadas con el mínimo esfuerzo.
+En la vista principal (home), se ofrece una secuencia de vehículos diseñada para que los usuarios exploren las opciones disponibles para compra o alquiler. Además, en otras secciones, como el filtro y el foro de contacto, se proporcionan herramientas para que los usuarios publiquen vehículos, y se incluye una opción de comunicación directa mediante WhatsApp. El propósito de esta categorización es ofrecer una experiencia visual clara y organizada, tanto en la visualización de los vehículos en el mapa como en el historial de vehículos, que también contará con imágenes relacionadas.
 
-Navegación Principal: El menú superior incluirá accesos rápidos a las funciones clave: "Buscar Viaje", "Publicar Viaje", "Reservas Actuales" y "Perfil".
-Navegación Móvil: En la versión móvil, el menú será desplegable para ahorrar espacio y mostrar solo las opciones más importantes de manera compacta. Los usuarios podrán regresar a la página de inicio pulsando el logo de Muevete!.
-Navegación Secundaria: En secciones como el perfil, habrá opciones adicionales para gestionar la cuenta, verificar la identidad o ajustar preferencias de notificaciones.
+### 5.2.2. Labeling System
 
-![Navigation.png](assets/images/styleGuidelines/navigation.png)
+En nuestra aplicación EcoTech, el sistema de etiquetas estará bien organizado y claramente representado para que los usuarios puedan identificar y utilizar las diversas funciones de manera intuitiva y sencilla. El **Logo/Home** es un botón oculto dentro del logo de la aplicación que redirige a los usuarios a la página de inicio. La etiqueta **How it Works** dirige a una sección que explica cómo funciona la aplicación y sus principales características para que los usuarios las comprendan. **Who can use** describe los tipos de usuarios que pueden beneficiarse de la aplicación, mientras que **Plans** presenta las opciones de suscripción disponibles junto con sus precios. Finalmente, **Sign up** es un botón que lleva a la página para crear una cuenta nueva.
 
-<br>
+### 5.2.3. SEO Tags and Meta Tags
 
----
+Las metaetiquetas proporcionan información codificada y definen los metadatos de una página web. Aunque no son visibles para los usuarios, son leídas por navegadores y rastreadores web, lo que permite un análisis más sencillo de los archivos HTML y facilita el mantenimiento del contenido. Además, estas etiquetas son fundamentales para mejorar el posicionamiento de nuestra página en los motores de búsqueda.
 
-## [**5.3. Landing Page UI Design**](#landing-page-ui-design)
+Las metas etiquetas que utilizaremos son:
 
-<hr>
-<td align="center">
-En esta sección, presentamos el diseño de la interfaz de usuario
-de la landing page para Muevete! El diseño se ha desarrollado teniendo
-en cuenta la experiencia del usuario y la accesibilidad tanto en
-versiones de escritorio como móviles. El objetivo principal es
-proporcionar una navegación clara y atractiva. </td>
+### Landing Page
 
-### [**5.3.1. Landing Page Wireframe.**](#landing-page-wireframe)
+| **Attribute** | **Value** |
+|---------------|-----------|
+| Charset       | UTF-8     |
+| Viewport      | width=device-width, initial-scale=1.0 |
+| CSS Link      | ./src/css/styles.css |
+| Title         | EcoTech - Urban Mobility Solution Landing Page |
+| Description   | Explore our Landing page to redirect you to rent or buy eco-friendly vehicles like bicycles, scooters, and more. Start your journey towards a green city today. |
+| Keywords      | urban mobility, eco-friendly vehicles, bike rental, scooter rental, sustainable transportation |
+| Author        | EcoTech Team |
 
-<td align="center">
-A continuación, mostramos los wireframes de la landing page, 
-los cuales representan la estructura básica y el layout sin 
-elementos gráficos detallados. Estos sirven como una guía inicial
-para el diseño visual, asegurando que todos los elementos
-necesarios estén presentes y correctamente organizados.
-</td>
+### Aplicación
 
-Enlace a los wireframes de la Landing Page en Figma:
+| **Attribute** | **Value** |
+|---------------|-----------|
+| Charset       | UTF-8     |
+| Viewport      | width=device-width, initial-scale=1.0 |
+| CSS Link      | ./src/css/styles.css |
+| Title         | EcoTech - Your Eco-Friendly Vehicle Rental Platform with interesting features to rent or buy eco-friendly vehicles |
+| Description   | EcoMobility provides a user-friendly platform for renting or buying bicycles, scooters, and other eco-friendly vehicles. Explore, book, and manage your rentals with ease. |
+| Keywords      | vehicle rental, bike rental, scooter rental, eco-friendly vehicles, urban mobility, sustainable travel, temporary insurance, badges, flexible income options |
+| Author        | EcoTech Team |
 
-[Landing Page Wireframes Link](https://www.figma.com/design/8HLFLOPVBAOUkQcOi54BjZ/GoUni-TSP?node-id=0-1&p=f&t=03GYsMHZup0zyO9S-0)
+### 5.2.4. Searching Systems
 
-#### Wireframe de la Landing Page en Figma:
+En EcoTech, el sistema de búsqueda facilitará a los usuarios encontrar rápidamente los vehículos que desean alquilar o comprar, adaptándose a sus necesidades. Sus principales funciones incluirán búsqueda por palabras clave para localizar vehículos específicos, filtros avanzados para refinar la búsqueda según diversos criterios, y un historial de búsquedas recientes para acceder rápidamente a búsquedas previas.
 
-#### Versión Desktop:
+### 5.2.5. Navigation Systems
 
-##### Wireframe de la página principal:
+El sistema de navegación es esencial para permitir que los usuarios se muevan con facilidad por la aplicación, asegurando una experiencia de usuario agradable. La aplicación web tendrá una barra de navegación con diversas opciones para guiar al usuario a la sección que le interese. También contará con un pie de página (footer) que proporcionará enlaces adicionales a secciones como "Sobre Nosotros", donde los usuarios podrán conocer nuestra visión y al equipo detrás de la aplicación.
 
-Wireframe de la sección Header:
+## 5.3. Landing Page UI Design
 
-![Header_Wireframes_Desktop.png](assets/images/landingPage/wireframes/desktop/home/Header_Wireframes_Desktop.png)
+Esta interfaz fue diseñada con simplicidad en mente, empleando colores claros como el verde para subrayar nuestro compromiso con el medio ambiente. Está optimizada para garantizar que los usuarios puedan leer cómodamente en cualquier dispositivo, con un tamaño de letra adecuado. Además, la interfaz es completamente responsive, adaptándose a cualquier dispositivo para ofrecer una experiencia de usuario óptima.
 
-Wireframe de la sección Hero:
+### 5.3.1. Landing Page Wireframe
 
-![HeroSection_Wireframes_Desktop.png](assets/images/landingPage/wireframes/desktop/home/HeroSection_Wireframes_Desktop.png)
+#### 5.3.1.1. Landing Page for Web
 
-Wireframe de la sección How It Works:
+Primero, se muestra la landing page vista desde un navegador web en escritorio. Esta página incluye secciones importantes para el usuario, que ofrecen información sobre los beneficios que obtendrá al usar el producto, los planes de pago disponibles, así como la misión, visión y valores de la startup.
 
-![HowItWorks_Wireframes_Desktop.png](assets/images/landingPage/wireframes/desktop/home/HowItWorks_Wireframes_Desktop.png)
+![wireframe_landingpage_1](/assets/chapter-4/wireframe-L1.png)
 
-Wireframe de la sección Benefits of GoUni:
+![wireframe_landingpage_2](/assets/chapter-4/wireframe-L2.png)
 
-![BenefitsofGoUni_Wireframes_Desktop.png](assets/images/landingPage/wireframes/desktop/home/BenefitsofGoUni_Wireframes_Desktop.png)
+![wireframe_landingpage_3](/assets/chapter-4/wireframe-L3.png)
 
-Wireframe de la sección Security:
+![wireframe_landingpage_4](/assets/chapter-4/wireframe-L4.png)
 
-![Security_Wireframes_Desktop.png](assets/images/landingPage/wireframes/desktop/home/Security_Wireframes_Desktop.png)
+![wireframe_landingpage_5](/assets/chapter-4/wireframe-L5.png)
 
-Wireframe de la sección Plans:
+![wireframe_landingpage_6](/assets/chapter-4/wireframe-L6.png)
 
-![Plans_Wireframes_Desktop.png](assets/images/landingPage/wireframes/desktop/home/Plans_Wireframes_Desktop.png)
+#### 5.3.1.2. Landing Page for Mobile Web Browser
 
-Wireframe de la sección Our Apps and Portals:
+A continuación, se presenta la landing page vista desde un navegador web móvil. Este diseño contiene los mismos elementos que la versión de escritorio, pero adaptados a las dimensiones de un dispositivo móvil. Crear una landing page responsive es valioso para los usuarios, ya que les permite acceder desde cualquier dispositivo y obtener la misma información sin dificultades.
 
-![OurAppsandPortals_Wireframes_Desktop.png](assets/images/landingPage/wireframes/desktop/home/OurAppsandPortals_Wireframes_Desktop.png)
+![wireframe_mobilem1](/assets/chapter-4/landingpagemb1.png)
 
-Wireframe de la sección Contact Us:
+![wireframe_mobilem2](/assets/chapter-4/landingpagemb2.png)
 
-![ContactUs_Wireframes_Desktop.png](assets/images/landingPage/wireframes/desktop/home/ContactUs_Wireframes_Desktop.png)
+![wireframe_mobilem3](/assets/chapter-4/landingpagemb3.png)
 
-Wireframe de la sección Footer:
+### 5.3.2. Landing Page Mock-up
 
-![Footer_Wireframes_Desktop.png](assets/images/landingPage/wireframes/desktop/home/Footer_Wireframes_Desktop.png)
+#### 5.3.2.1. Landing Page Mock-up for Web
 
-##### Wireframe de la sección Sobre Nosotros:
+El wireframe para la vista en navegador de escritorio de la landing page fue clave para planificar la disposición de los elementos. Con base en este esquema, se creó el mock-up de la landing page, que mantiene los mismos contenidos detallados anteriormente. La imagen siguiente muestra cómo se ha aplicado la paleta de colores primaria y secundaria, así como la tipografía previamente definida.
 
-Wireframe de la sección Header:
+![mock_uplanding1](/assets/chapter-4/landing1.png)
 
-![headerAboutUs_Wireframes_Desktop.png](assets/images/landingPage/wireframes/desktop/aboutUs/headerAboutUs_Wireframes_Desktop.png)
+![mock_uplanding2](/assets/chapter-4/landing2.png)
 
-Wireframe de la sección Who We Are:
+![mock_uplanding3](/assets/chapter-4/landing3.png)
 
-![whoWeAre_Wireframes_Desktop.png](assets/images/landingPage/wireframes/desktop/aboutUs/whoWeAre_Wireframes_Desktop.png)
+![mock_uplanding5](/assets/chapter-4/landing5.png)
 
-Wireframe de la sección Our Sponsor:
+![mock_uplanding6](/assets/chapter-4/landing6.png)
 
-![ourSponsors_Wireframes_Desktop.png](assets/images/landingPage/wireframes/desktop/aboutUs/ourSponsors_Wireframes_Desktop.png)
+#### 5.3.2.2. Landing Page for Mobile
 
-Wireframe de la sección whyGoUni?:
+El mock-up de la landing page en la vista móvil incluye los mismos elementos previamente mencionados. Se destaca que la tipografía seleccionada y el contraste de colores entre el texto y el fondo facilitan la legibilidad de la información en ambos dispositivos.
 
-![whyGoUni?_Wireframes_Desktop.png](assets/images/landingPage/wireframes/desktop/aboutUs/whyGoUni_Wireframes_Desktop.png)
+![mockup_mobilem1](/assets/chapter-4/mockupmb1.png)
 
-Wireframe de la sección Our Team:
+![mockup_mobilem2](/assets/chapter-4/mockupmb2.png)
 
-![ourTeam_Wireframes_Desktop.png](assets/images/landingPage/wireframes/desktop/aboutUs/ourTeam_Wireframes_Desktop.png)
+![mockup_mobilem3](/assets/chapter-4/mockupm3.png)
 
-Wireframe de la sección Footer:
+## 5.4. Web Applications UX/UI Design
 
-![footerAboutUs_Wireframes_Desktop.png](assets/images/landingPage/wireframes/desktop/aboutUs/footerAboutUs_Wireframes_Desktop.png)
+### 4.4.1. Web Applications Wireframes
 
-##### Versión Mobile:
+**Web Application para Dekstop Web Browser**
 
-##### Wireframe de la página principal:
+**Segmento Universitario**
 
-Wireframe de la sección Header:
+**Crear Cuenta**
 
-![homeHome_Wireframe_Mobiles.png](assets/images/landingPage/wireframes/mobiles/home/homeHome_Wireframe_Mobiles.png)
+La siguiente imagen presenta la sección de "registro de empresa", donde los universitarios podrán proporcionar la información requerida para crear una cuenta en la aplicación y empezar a disfrutar de los beneficios que ofrece EcoTech.
 
-Wireframe de la sección How It Works:
+![web](/assets/chapter-4/universitario1.png)
 
-![howItWorks_Wireframe_Mobiles.png](assets/images/landingPage/wireframes/mobiles/home/howItWorks_Wireframe_Mobiles.png)
+**Inicio de sesión**
 
-Wireframe de la sección Benefits of GoUni:
+La siguiente imagen muestra el wireframe de la sección de "inicio de sesión" vista desde una aplicación web en escritorio. En esta sección, los usuarios deberán ingresar sus credenciales para acceder a la aplicación, siempre y cuando ya hayan creado una cuenta previamente.
 
-![benefitsOfGoUni_Wireframe_Mobiles.png](assets/images/landingPage/wireframes/mobiles/home/benefitsOfGoUni_Wireframe_Mobiles.png)
+![web](/assets/chapter-4/universitario2.png)
 
-Wireframe de la sección Security:
+**Elegir Planes**
 
-![security_Wireframe_Mobiles.png](assets/images/landingPage/wireframes/mobiles/home/security_Wireframe_Mobiles.png)
+La siguiente imagen muestra la sección de "Selección de pago", donde se presentan las diferentes categorías de planes disponibles en la aplicación. Cada uno de los tres planes ha sido diseñado cuidadosamente para atender las necesidades particulares de las empresas.
 
-Wireframe de la sección Plans:
+![web](/assets/chapter-4/universitario3.png)
 
-![plans_Wireframe_Mobiles.png](assets/images/landingPage/wireframes/mobiles/home/plans_Wireframe_Mobiles.png)
+**Pago**
 
-Wireframe de la sección Our Apps and Portals:
+La siguiente imagen corresponde a la sección de "Pasarela de pagos", donde los universitarios son redirigidos a un formulario para seleccionar y registrar su método de pago. En esta sección también se muestra el monto del plan elegido. Tras completar el proceso de pago con éxito, el usuario recibe una notificación con la confirmación de su suscripción y la fecha de registro.
 
-![ourAppsAndPortals_Wireframe_Mobiles.png](assets/images/landingPage/wireframes/mobiles/home/ourAppsAndPortals_Wireframe_Mobiles.png)
+![web](/assets/chapter-4/universitario4.png)
 
-Wireframe de la sección Contact Us:
+**Proceder el Pago**
 
-![contactUs_Wireframe_Mobiles.png](assets/images/landingPage/wireframes/mobiles/home/contactUs_Wireframe_Mobiles.png)
+En la siguiente imagen se puede ver el mensaje de pago exitoso, donde el universitario confirma que ha realizado el pago de manera satisfactoria y que ahora puede utilizar la aplicación sin inconvenientes.
 
-Wireframe de la sección Footer:
+![web](/assets/chapter-4/universitario5.png)
 
-![footerHome_Wireframe_Mobiles.png](assets/images/landingPage/wireframes/mobiles/home/footerHome_Wireframe_Mobiles.png)
+**Home**
 
-##### Wireframe de la sección Sobre Nosotros:
+En esta sección, se puede ver el home con varias secciones que se explorarán más adelante. En particular, nos enfocamos en la parte de "Mis vehículos", donde podrás observar a otros universitarios siguiendo la iniciativa y subiendo sus propios vehículos.
 
-Wireframe de la sección Header:
+![web](/assets/chapter-4/universitario6.png)
 
-![headerAboutUs_Wireframes_Mobiles.png](assets/images/landingPage/wireframes/mobiles/aboutUs/headerAboutUs_Wireframes_Mobiles.png)
+**Detalles del Vehículo**
 
-Wireframe de la sección Why GoUni?:
+En esta sección, podrás ver los detalles de cada vehículo mostrado en la sección del home.
 
-![whyGoUni_Wireframes_Mobiles.png](assets/images/landingPage/wireframes/mobiles/aboutUs/whyGoUni_Wireframes_Mobiles.png)
+![web](/assets/chapter-4/universitario7.png)
 
-Wireframe de la sección Our Sponsors:
+**Mis vehículos**
 
-![ourSponsors_Wireframes_Mobiles.png](assets/images/landingPage/wireframes/mobiles/aboutUs/ourSponsors_Wireframes_Mobiles.png)
+En esta parte, el universitario podrá subir sus vehículos añadiendo una imagen representativa y detalles del vehículo. Finalmente, deberá hacer clic en el botón "Agregar" para completar el proceso.
 
-Wireframe de la sección Our Team:
+![web](/assets/chapter-4/universitario8.png)
 
-![ourTeam_Wireframes_Mobiles.png](assets/images/landingPage/wireframes/mobiles/aboutUs/ourTeam_Wireframes_Mobiles.png)
+**Mi Perfil**
 
-Wireframe de la sección Footer:
+En esta sección, podrás ver tu perfil y agregar más datos, como tu RUC, correo electrónico y otros detalles, además de tu foto representativa. Finalmente, deberás hacer clic en el botón "Save changes" para guardar los cambios.
 
-![footerAboutUs_Wireframes_Mobiles.png](assets/images/landingPage/wireframes/mobiles/aboutUs/footerAboutUs_Wireframes_Mobiles.png)
+![web](/assets/chapter-4/universitario9.png)
 
+**Historial del Vehículo**
 
+En esta sección, puedes ver el historial de los vehículos publicados y los detalles correspondientes.
 
-### [**5.3.2. Landing Page Mock-up.**](#landing-page-mock-up)
+![web](/assets/chapter-4/universitario10.png)
 
-<td align="center">
-Esta sección presenta los mockups de la landing page,
-que ilustran el diseño final con detalles gráficos, tipografía,
-y color. Los mockups son fundamentales para visualizar cómo se
-verá la página final y para realizar ajustes antes del desarrollo.
-</td>
+**Foro de Contacto**
 
-Enlace a la mockup de la Landing Page en Figma:
+En esta sección, podrás publicar tu número de contacto y el vehículo que estás dispuesto a vender o alquilar, permitiendo que otros usuarios se contacten contigo o le den "like" a tu publicación.
 
-#### Mockups de la Landing Page en Figma:
+![web](/assets/chapter-4/universitario11.png)
 
-##### Versión Desktop:
+**Segmento Adquiriente**
 
-#### Mockups de la página principal
+**Crear cuenta**
 
-Mockup de la sección Header:
+En esta sección, el adquiriente podrá registrarse proporcionando datos específicos como su nombre, correo electrónico y contraseña. Además, deberá marcar la casilla "Acepto los términos y condiciones."
 
-![homeHome_Mockup_Desktop.png](assets/images/landingPage/mockups/desktop/home/homeHome_Mockup_Desktop.png)
+![web](/assets/chapter-4/adquiriente1.png)
 
-Mockup de la sección Hero:
+**Iniciar Sesión**
 
-![heroHowItWorks_Mockup_Desktop.png](assets/images/landingPage/mockups/desktop/home/heroHowItWorks_Mockup_Desktop.png)
+En esta sección, el adquiriente podrá iniciar sesión ingresando su correo electrónico y contraseña.
 
-Mockup de la sección How It Works:
+![web](/assets/chapter-4/adquiriente2.png)
 
-![howItWorks_Mockup_Desktop.png](assets/images/landingPage/mockups/desktop/home/howItWorks_Mockup_Desktop.png)
+**Home**
 
-Mockup de la sección Benefits of GoUni:
+En esta sección, el adquiriente podrá visualizar el "Home", donde tendrá acceso a diversos vehículos menores con información como nombre, descripción y precio. También encontrará botones para "Rentar" o "Comprar" cada vehículo.
 
-![benefitsOfGoUni_Mockup_Desktop.png](assets/images/landingPage/mockups/desktop/home/benefitsOfGoUni_Mockup_Desktop.png)
+![web](/assets/chapter-4/adquiriente3.png)
 
-Mockup de la sección Security:
+**Mi perfil**
 
-![security_Mockup_Desktop.png](assets/images/landingPage/mockups/desktop/home/security_Mockup_Desktop.png)
+En esta sección, podrás visualizar el perfil del adquiriente, incluyendo detalles como el nombre, correo y teléfono. También habrá un botón para confirmar si los detalles son correctos y, finalmente, un botón de "Guardar".
 
-Mockup de la sección Plans:
+![web](/assets/chapter-4/adquiriente4.png)
 
-![plans_Mockup_Desktop.png](assets/images/landingPage/mockups/desktop/home/plans_Mockup_Desktop.png)
+**Mapa Interactivo**
 
-Mockup de la sección Our Apps and Portals:
+En esta sección, el adquiriente podrá visualizar un mapa interactivo.
 
-![ourAppsAndPortals_Mockup_Desktop.png](assets/images/landingPage/mockups/desktop/home/ourAppsAndPortals_Mockup_Desktop.png)
+![web](/assets/chapter-4/adquiriente5.png)
 
-Mockup de la sección Contact Us:
+**Filtro**
 
-![contactUs_Mockup_Desktop.png](assets/images/landingPage/mockups/desktop/home/contactUs_Mockup_Desktop.png)
+En esta sección, podrás visualizar los filtros con vehículos y sus imágenes descriptivas, así como los botones de "Comprar" o "Rentar".
 
-Mockup de la sección Footer:
+![web](/assets/chapter-4/adquiriente6.png)
 
-![footerHome_Mockup_Desktop.png](assets/images/landingPage/mockups/desktop/home/footerHome_Mockup_Desktop.png)
+**Detalles del Vehículo**
 
-#### Mockups de la sesion Sobre Nosotros:
+Al hacer clic en un vehículo, el adquiriente podrá ver las descripciones del mismo, incluidos sus "Badges", tipo de vehículo, año, precio y una descripción detallada. Además, tendrá la opción de comunicarse por WhatsApp con el propietario del vehículo y podrá seleccionar entre los botones "Rentar Vehículo" o "Comprar Vehículo".
 
-Mockup de la sección Header:
+![web](/assets/chapter-4/adquiriente7.png)
 
-![headerAboutUs_Mockup_Desktop.png](assets/images/landingPage/mockups/desktop/aboutUs/headerAboutUs_Mockup_Desktop.png)
+**Historial**
 
-Mockup de la sección Who We Are:
+En esta sección, el adquiriente podrá visualizar el historial de los vehículos.
 
-![whoWeAre_Mockup_Desktop.png](assets/images/landingPage/mockups/desktop/aboutUs/whoWeAre_Mockup_Desktop.png)
+![web](/assets/chapter-4/adquiriente8.png)
 
-Mockup de la sección Why GoUni?:
+**Foro de Contacto**
 
-![whyGoUni_Mockup_Desktop.png](assets/images/landingPage/mockups/desktop/aboutUs/whyGoUni_Mockup_Desktop.png)
+En esta sección, el adquiriente podrá visualizar los mensajes de los diferentes universitarios que incluyeron su número de teléfono, con la opción de conectarse directamente a través de WhatsApp.
 
-Mockup de la sección Our Sponsors:
+![web](/assets/chapter-4/adquiriente9.png)
 
-![ourSponsors_Mockup_Desktop.png](assets/images/landingPage/mockups/desktop/aboutUs/ourSponsors_Mockup_Desktop.png)
+**Web Application para Mobile Web Browser**
 
-Mockup de la sección Footer:
+**Segmento Universitario**
 
-![footerAboutUs_Mockup_Desktop.png](assets/images/landingPage/mockups/desktop/aboutUs/footerAboutUs_Mockup_Desktop.png)
+**Logo**
 
-##### Versión Mobile:
+Aquí, el universitario podrá ver el logo de EcoTech con un mensaje de "Cargando" en la parte inferior.
 
-#### Mockups de la página principal
+![web](/assets/chapter-4/phone1.png)
 
-Mockup de la sección Header:
+**Registro**
 
-![homeHome_Mockup_Mobile.png](assets/images/landingPage/mockups/mobile/home/homeHome_Mockup_Mobile.png)
+Los universitarios podrán registrarse en EcoTech ingresando su RUC, correo electrónico, nombre completo y contraseña. También deberán aceptar los términos y condiciones antes de hacer clic en el botón de "Registrarse".
 
-Mockup de la sección How It Works:
+![web](/assets/chapter-4/phone2.png)
 
-![howItWorks_Mockuo_Mobile.png](assets/images/landingPage/mockups/mobile/home/howItWorks_Mockup_Mobile.png)
+**Iniciar sesión**
 
-Mockup de la sección Benefits of GoUni:
+Los universitarios podrán iniciar sesión ingresando su correo electrónico y contraseña. También habrá una opción de "Recuérdame" para facilitar el acceso en caso de que olviden el usuario o la contraseña. Finalmente, deberán hacer clic en el botón de "Iniciar sesión".
 
-![benefitsOfGoUni_Mockup_Mobile.png](assets/images/landingPage/mockups/mobile/home/benefitsOfGoUni_Mockup_Mobile.png)
+![web](/assets/chapter-4/phone3.png)
 
-Mockup de la sección Security:
+**Planes**
 
-![security_Mockup_Mobile.png](assets/images/landingPage/mockups/mobile/home/security_Mockup_Mobile.png)
+Aquí, el usuario podrá seleccionar uno de los tres planes disponibles para comenzar a usar la aplicación y ofrecer sus vehículos al público objetivo. Deberá hacer clic en el botón de "Escoger Plan".
 
-Mockup de la sección Plans:
+![web](/assets/chapter-4/phone4.png)
 
-![plans_Mockup_Mobile.png](assets/images/landingPage/mockups/mobile/home/plans_Mockup_Mobile.png)
+**Proceder al pago**
 
-Mockup de la sección Our Apps and Portals:
+En esta sección, el usuario podrá acceder al plan realizando el pago con su tarjeta e ingresando los datos correspondientes. Después de hacer clic en el botón de "Confirmar", recibirá un mensaje de pago exitoso.
 
-![ourAppsAndPortals_Mockup_Mobile.png](assets/images/landingPage/mockups/mobile/home/ourAppsAndPortals_Mockup_Mobile.png)
+![web](/assets/chapter-4/phone5.png)
 
-Mockup de la sección Contact Us:
+**Vehículos**
 
-![contactUs_Mockup_Mobile.png](assets/images/landingPage/mockups/mobile/home/contactUs_Mockup_Mobile.png)
+Aquí, el universitario podrá visualizar las publicaciones de otros universitarios y sus vehículos para inspirarse. Luego, podrá acceder a la sección "Mi Vehículo" para agregar uno o dos vehículos, dependiendo de su plan, haciendo clic en el botón "Agregar".
 
-Mockup de la sección Footer:
-![footerHome_Mockup_Mobile.png](assets/images/landingPage/mockups/mobile/home/footerHome_Mockup_Mobile.png)
+![web](/assets/chapter-4/phone7.png)
 
+**Historial**
 
-##### Mockups de la sesion Sobre Nosotros:
+Aquí, podremos ver el historial de los vehículos publicados por el universitario.
 
-Mockup de la sección Header:
+![web](/assets/chapter-4/phone8.png)
 
-![headerAboutUs_Mockup_Mobile.png](assets/images/landingPage/mockups/mobile/aboutUs/headerAboutUs_Mockup_Mobile.png)
+**Foro de Contacto**
 
-Mockup de la sección Why GoUni?:
+El universitario podrá subir un mensaje en el post indicando que está vendiendo o rentando un vehículo, incluyendo su número de celular para que el arrendatario pueda comunicarse con él a través de WhatsApp.
 
-![whyGoUni_Mockup_Mobile.png](assets/images/landingPage/mockups/mobile/aboutUs/whyGoUni_Mockup_Mobile.png)
+![web](/assets/chapter-4/phone9.png)
 
-Mockup de la sección Our Sponsors:
+**Mi Perfil**
 
-![ourSponsors_Mockup_Mobile.png](assets/images/landingPage/mockups/mobile/aboutUs/ourSponsors_Mockup_Mobile.png)
+En esta sección, podrás ver tu perfil, incluyendo tu foto, nombre completo, correo electrónico, número de teléfono y RUC. Finalmente, podrás guardar tus datos.
 
+![web](/assets/chapter-4/phone10.png)
 
-Mockup de la sección Footer:
+**Segmento Adquiriente**
 
-![footerAboutUs_Mockup_Mobiles.png](assets/images/landingPage/mockups/mobile/aboutUs/footerAboutUs_Mockup_Mobiles.png)
+**Logo**
 
+Aquí, el adquiriente podrá ver el logo de EcoTech con un mensaje de "Cargando" en la parte inferior.
 
-## [**5.4. Web Applications UX/UI Design.**](#web-applications-uxui-design)
+![web](/assets/chapter-4/phone1.png)
 
-En esta sección, presentamos el diseño de la interfaz de usuario de las aplicaciones web de GoUni, que incluyen el inicio de sesión, la creación de cuenta, la búsqueda de viajes, la reserva de asientos y la calificación de conductores. El diseño se ha desarrollado teniendo en cuenta la experiencia del usuario y la accesibilidad en diferentes dispositivos.
+**Registro**
 
-### [**5.4.1. Web Applications Wireframes.**](#web-applications-wireframes)
+Los adquirientes podrán registrarse en EcoTech ingresando su correo electrónico, nombre completo y contraseña. También deberán aceptar los términos y condiciones antes de hacer clic en el botón de "Registrarse".
 
-Enlace a los wireframes de las aplicaciones web en Figma:
+![web](/assets/chapter-4/image1.png)
 
-[Link Web Applications Wireframes](https://www.figma.com/design/sDl1xClQAtYSkXhEGEgjb7/Landing-Page-GoUni---TSP?node-id=0-1&p=f&t=zJdMUNIpjRHzxDl7-0)
+**Iniciar sesión**
 
-#### Wireframes de las Aplicaciones Web en Figma:
+Los adquirientes podrán iniciar sesión ingresando su correo electrónico y contraseña. También habrá una opción de "Recuérdame" para facilitar el acceso en caso de que olviden el usuario o la contraseña. Finalmente, deberán hacer clic en el botón de "Iniciar sesión".
 
-Wireframe de la página de inicio de sesión:
+![web](/assets/chapter-4/phone3.png)
 
-![Iniciar de sesion.png](assets/images/webApplicationsWireframe/Iniciar%20de%20sesion.png)
+**Alquilar o comprar vehículos menores**
 
-Wireframe de la página de creación de cuenta:
+Aquí podrás explorar diferentes vehículos y utilizar el botón "Rentar" o "Comprar" según tu interés.
 
-![creacionDeCuenta.png](assets/images/webApplicationsWireframe/creacionDeCuenta.png)
+![web](/assets/chapter-4/image2.png)
 
-Wireframe de la página de creación de cuenta elija una opcion:
+**Mi Perfil**
 
-![elijaOpcionEC.png](assets/images/webApplicationsWireframe/elijaOpcionEC.png)
+El adquiriente podrá ver su perfil, agregar o corregir su foto, nombre, correo electrónico y teléfono. También deberá confirmar que los detalles son correctos y, finalmente, hacer clic en el botón "Guardar".
 
-Wireframe de la página de creación de cuenta conductor:
+![web](/assets/chapter-4/image3.png)
 
-![confirmacionConductor.png](assets/images/webApplicationsWireframe/confirmacionConductor.png)
+**Vehículo y Filtros**
 
-Wireframe de la página de creación de cuenta estudiante:
+Aquí podrás ver el mapa interactivo y el filtro, que incluye secciones para tipos de vehículos y precios.
 
-![creacionEstudiante.png](assets/images/webApplicationsWireframe/creacionEstudiante.png)
+![web](/assets/chapter-4/image4.png)
 
-Wireframe de la página de inicio:
+**Detalles del Vehículo**
 
-![inicio.png](assets/images/webApplicationsWireframe/inicio.png)
+Aquí podrás visualizar los detalles del vehículo que seleccionaste, incluyendo sus descripciones, y tendrás los botones de "Alquilar" o "Comprar".
 
-Wireframe de la página de servicios:
+![web](/assets/chapter-4/image5.png)
 
-![servicio.png](assets/images/webApplicationsWireframe/servicio.png)
+**Historial de Vehículo y Foro de Contacto**
 
-Wireframe de la página de planes de suscripcion:
+El adquiriente tendrá la opción de ver los vehículos en su historial y acceder al foro de contacto, donde podrá visualizar los posts de los universitarios que incluyen su número de WhatsApp, facilitando el contacto directo si desean el vehículo.
 
-![planesSubs.png](assets/images/webApplicationsWireframe/planesSubs.png)
+![web](/assets/chapter-4/image6.png)
 
-Wireframe de la página de pagos:
+### 5.4.2. Web Applications Wireflow Diagrams
 
-![pagos.png](assets/images/webApplicationsWireframe/pagos.png)
+**User Goal: Iniciar sesión y Registrarse**
 
-Wireframe de maps:
+**Perfil del Usuario: Universitario**
 
-![maps.png](assets/images/webApplicationsWireframe/maps.png)
+**Descripción del Flujo:**
 
-Wireframe de la página de reservas:
+Primero, el usuario ingresará a la aplicación desplegada. En la pantalla inicial, se le presentará un formulario para ingresar sus datos de inicio de sesión. Para los universitarios, el formulario requerirá el RUC, nombre, correo electrónico y contraseña.
 
-![reserva.png](assets/images/webApplicationsWireframe/reserva.png)
+![diagram](/assets/chapter-4/diagram1.png)
 
-Wireframe de la página de reserva descripcion:
+**User Goal: Pagos de los Planes**
 
-![reservaDescripcion.png](assets/images/webApplicationsWireframe/reservaDescripcion.png)
+El universitario podrá elegir entre 3 planes y seleccionar uno haciendo clic en el botón "Elegir Plan". Al hacerlo, será redirigido al proceso de pago, donde deberá ingresar los datos de su tarjeta y confirmar que la información es correcta. Una vez confirmado, el sistema mostrará un mensaje de pago exitoso. Al hacer clic en el botón "Comenzar", el usuario accederá al menú de vehículos.
 
-Wireframe de la página de confirmacion:
+![diagram](/assets/chapter-4/diagram3.png)
 
-![confirmacion.png](assets/images/webApplicationsWireframe/confirmacion.png)
+![diagram](/assets/chapter-4/diagram4.png)
 
-Wireframe de la página de tus reservas:
+**User Goal: Navegar por el dashboard**
 
-![tuReserva.png](assets/images/webApplicationsWireframe/tuReserva.png)
+Descripción del Flujo: Una vez que el universitario haya iniciado sesión, será dirigido al panel de control, donde podrá ver varias opciones. La primera opción es "Detalles del Vehículo", donde podrá consultar la información de cada vehículo. Luego, encontrará la sección de "Perfil", donde podrá actualizar sus datos y foto. También habrá una sección llamada "Historial de Vehículos", donde podrá revisar los vehículos que ha subido. Finalmente, estará disponible el "Foro de Contacto", donde podrá publicar un anuncio para vender o alquilar, permitiendo que los interesados se comuniquen directamente por WhatsApp.
 
-Wireframe de la página de chat:
+![diagram](/assets/chapter-4/diagram5.png)
 
-![chat.png](assets/images/webApplicationsWireframe/chat.png)
+**User Goal: Iniciar sesión y Registrarse**
 
-Wireframe de la página de calificacion:
+**Perfil del Usuario: Adquiriente**
 
-![puntaje.png](assets/images/webApplicationsWireframe/puntaje.png)
+**Descripción del Flujo:**
 
+Primero, el usuario ingresará a la aplicación desplegada. En la pantalla inicial, se le presentará un formulario para ingresar sus datos de inicio de sesión. Para los adquirientes, el formulario requerirá el nombre, correo electrónico y contraseña.
 
+![diagram](/assets/chapter-4/diagram2.png)
 
-### [**5.4.2. Web Applications Wireflow Diagrams.**](#web-applications-wireflow-diagrams)
+**User Goal: Visualizar los Vehículos**
 
-Los Wireflow Diagrams son diagramas que representan la secuencia de pasos que un usuario sigue al interactuar con la aplicación web. Estos diagramas muestran cómo los usuarios navegan por la plataforma, desde el inicio de sesión hasta la reserva de un viaje.
+El adquiriente, al estar en la página de inicio, podrá ver los vehículos disponibles junto con sus descripciones. Al hacer clic en el botón "Alquilar" o "Comprar", será redirigido a la página de detalles del vehículo, donde podrá consultar el tipo, precio, descripción y distintivos del vehículo. Luego, al presionar el botón "Guardar", el vehículo se añadirá a su historial de vehículos guardados.
 
-#### Wireflow Diagrams de las Aplicaciones Web en LucidChart Iniciar Sesion:
+![diagram](/assets/chapter-4/diagram6.png)
 
-![iniciarSesion.png](assets/images/userFlowDiagramsMockup/iniciarSesion.png)
+**User Goal: Navegar por el dashboard**
 
-Wireflow Diagrams de las Aplicaciones Web en LucidChart Plan:
+Descripción del Flujo: Una vez que el adquiriente haya iniciado sesión, será dirigido al panel de control, donde encontrará varias opciones. La primera opción es "Mapa Interactivo", que le permitirá ver la ubicación de cada vehículo. Luego, encontrará la sección de "Filtro", donde podrá buscar y visualizar vehículos según su tipo y precio. También tendrá acceso a la sección de "Foro de Contacto", donde podrá ponerse en contacto con el universitario para adquirir el vehículo. Finalmente, estará disponible la opción "Mi Perfil", donde podrá revisar y actualizar sus datos personales.
 
-![plan.png](assets/images/userFlowDiagramsMockup/plan.png)
+![diagram](/assets/chapter-4/diagram7.png)
 
-Wireflow Diagrams de las Aplicaciones Web en LucidChart Reservar Viaje:
+### 5.4.3. Web Applications Mock-ups
 
-![reservarViaje.png](assets/images/userFlowDiagramsMockup/reservarViaje.png)
+**Web Application para Desktop Web Browser**
 
+**Segmento Universitario**
 
-### [**5.4.3. Web Applications Mock-ups.**](#web-applications-mock-ups)
+**Crear Cuenta**
 
-En esta sección, presentamos los mockups de la aplicación web de GoUni, que ilustran el diseño final con detalles gráficos, tipografía y color. Los mockups son fundamentales para visualizar cómo se verá la aplicación final y para realizar ajustes antes del desarrollo.
+La siguiente imagen presenta la sección de "registro de empresa", donde los universitarios podrán proporcionar la información requerida para crear una cuenta en la aplicación y empezar a disfrutar de los beneficios que ofrece EcoTech.
 
-Enlace a la mockup de la App Web en Figma:
-[Link Web Applications Mockups](https://www.figma.com/design/sDl1xClQAtYSkXhEGEgjb7/Landing-Page-GoUni---TSP?node-id=0-1&p=f&t=zJdMUNIpjRHzxDl7-0)
+![web](/assets/chapter-4/mockup1.png)
 
+**Inicio de sesión**
 
-Inicio de sesión:
+La siguiente imagen muestra el wireframe de la sección de "inicio de sesión" vista desde una aplicación web en escritorio. En esta sección, los usuarios deberán ingresar sus credenciales para acceder a la aplicación, siempre y cuando ya hayan creado una cuenta previamente.
 
-![iniciarSesion_WebApplications.png](assets/images/webApplication/mockups/iniciarSesion_WebApplications.png)
+![web](/assets/chapter-4/mockup2.png)
 
-Creación de cuenta:
+**Elegir Planes**
 
-![crearCuenta_WebApplication.png](assets/images/webApplication/mockups/crearCuenta_WebApplication.png)
+La siguiente imagen muestra la sección de "Selección de pago", donde se presentan las diferentes categorías de planes disponibles en la aplicación. Cada uno de los tres planes ha sido diseñado cuidadosamente para atender las necesidades particulares de las empresas.
 
-Elegir entre ser conductor o pasajero:
+![web](/assets/chapter-4/mockup3.png)
 
-![opcionEorC_WebApplications.png](assets/images/webApplication/mockups/opcionEorC_WebApplications.png)
+**Pago**
 
-Registro de estudiante:
+La siguiente imagen corresponde a la sección de "Pasarela de pagos", donde los universitarios son redirigidos a un formulario para seleccionar y registrar su método de pago. En esta sección también se muestra el monto del plan elegido. Tras completar el proceso de pago con éxito, el usuario recibe una notificación con la confirmación de su suscripción y la fecha de registro.
 
-![registroEstudiante_WebApplications.png](assets/images/webApplication/mockups/registroEstudiante_WebApplications.png)
+![web](/assets/chapter-4/mockup4.png)
 
-Registro de conductor:
+**Proceder el Pago**
 
-![registroConductor_WebApplications.png](assets/images/webApplication/mockups/registroConductor_WebApplications.png)
+En la siguiente imagen se puede ver el mensaje de pago exitoso, donde el universitario confirma que ha realizado el pago de manera satisfactoria y que ahora puede utilizar la aplicación sin inconvenientes.
 
-Inicio de la Web Applications:
+![web](/assets/chapter-4/mockup5.png)
 
-![inicio_WebApplications.png](assets/images/webApplication/mockups/inicio_WebApplications.png)
+**Home**
 
-Servicios de la Web Applications:
+En esta sección, se puede ver el home con varias secciones que se explorarán más adelante. En particular, nos enfocamos en la parte de "Mis vehículos", donde podrás observar a otros universitarios siguiendo la iniciativa y subiendo sus propios vehículos.
 
-![servicio_WebApplications.png](assets/images/webApplication/mockups/servicio_WebApplications.png)
+![web](/assets/chapter-4/mockup6.png)
 
+**Detalles del Vehículo**
 
-Planes de la Web Applications:
-![planes_WebApplications.png](assets/images/webApplication/mockups/planes_WebApplications.png)
+En esta sección, podrás ver los detalles de cada vehículo mostrado en la sección del home.
 
-Pagos del plan de la Web Applications:
+![web](/assets/chapter-4/mockup7.png)
 
-![pagos_WebApplications.png](assets/images/webApplication/mockups/pagos_WebApplications.png)
+**Mis vehículos**
 
-Mapa de la Web Applications:
+En esta parte, el universitario podrá subir sus vehículos añadiendo una imagen representativa y detalles del vehículo. Finalmente, deberá hacer clic en el botón "Agregar" para completar el proceso.
 
-![mapa_WebApplications.png](assets/images/webApplication/mockups/mapa_WebApplications.png)
+![web](/assets/chapter-4/mockup8.png)
 
-Reservas de la Web Applications:
+**Mi Perfil**
 
-![reserva_WebApplications.png](assets/images/webApplication/mockups/reserva_WebApplications.png)
+En esta sección, podrás ver tu perfil y agregar más datos, como tu RUC, correo electrónico y otros detalles, además de tu foto representativa. Finalmente, deberás hacer clic en el botón "Save changes" para guardar los cambios.
 
-Reserva descripción de la Web Applications:
+![web](/assets/chapter-4/mockup9.png)
 
-![reservaDescripcion_WebApplications.png](assets/images/webApplication/mockups/reservaDescripcion_WebApplications.png)
+**Historial del Vehículo**
 
-Confirmación de reserva de la Web Applications:
+En esta sección, puedes ver el historial de los vehículos publicados y los detalles correspondientes.
 
-![confirmacionReserva_WebApplications.png](assets/images/webApplication/mockups/confirmacionReserva_WebApplications.png)
+![web](/assets/chapter-4/mockup10.png)
 
-Tus reservas de la Web Applications:
+**Foro de Contacto**
 
-![tusReservas_WebApplications.png](assets/images/webApplication/mockups/tusReservas_WebApplications.png)
+En esta sección, podrás publicar tu número de contacto y el vehículo que estás dispuesto a vender o alquilar, permitiendo que otros usuarios se contacten contigo o le den "like" a tu publicación.
 
-Chat de la Web Applications:
+![web](/assets/chapter-4/mockup11.png)
 
-![chat_WebApplications.png](assets/images/webApplication/mockups/chat_WebApplications.png)
+**Segmento Adquiriente**
 
-Calificación de la Web Applications:
+**Crear cuenta**
 
-![puntaje_WebApplications.png](assets/images/webApplication/mockups/puntaje_WebApplications.png)
+En esta sección, el adquiriente podrá registrarse proporcionando datos específicos como su nombre, correo electrónico y contraseña. Además, deberá marcar la casilla "Acepto los términos y condiciones."
 
+![web](/assets/chapter-4/mockup12.png)
 
-### [**5.4.4. Web Applications User Flow Diagrams.**](#web-applications-user-flow-diagrams)
+**Iniciar Sesión**
 
-Los User Flow Diagrams son diagramas que representan la secuencia de pasos que un usuario sigue al interactuar con la aplicación web. Estos diagramas muestran cómo los usuarios navegan por la plataforma, desde el inicio de sesión hasta la reserva de un viaje.
+En esta sección, el adquiriente podrá iniciar sesión ingresando su correo electrónico y contraseña.
 
-Inicio de sesión y creación de cuenta:
+![web](/assets/chapter-4/mockup13.png)
 
-![iniciarSesion.png](assets/images/webApplication/userFlowDiagrams/iniciarSesion.png)
+**Home**
 
-Plan de pago:
+En esta sección, el adquiriente podrá visualizar el "Home", donde tendrá acceso a diversos vehículos menores con información como nombre, descripción y precio. También encontrará botones para "Rentar" o "Comprar" cada vehículo.
 
-![plan.png](assets/images/webApplication/userFlowDiagrams/plan.png)
+![web](/assets/chapter-4/mockup14.png)
 
-Realizar reserva:
+**Mi perfil**
 
-![reservarViaje.png](assets/images/webApplication/userFlowDiagrams/reservarViaje.png)
+En esta sección, podrás visualizar el perfil del adquiriente, incluyendo detalles como el nombre, correo y teléfono. También habrá un botón para confirmar si los detalles son correctos y, finalmente, un botón de "Guardar".
 
+![web](/assets/chapter-4/mockup15.png)
 
-## [**5.5. Web Applications Prototyping.**](#web-applications-prototyping)
+**Mapa Interactivo**
 
-<hr>
-En esta sección, presentamos los prototipos interactivos de las aplicaciones web de GoUni. Los prototipos permiten a los usuarios navegar por las diferentes pantallas y funcionalidades, simulando la experiencia de uso de la aplicación antes de su desarrollo.
+En esta sección, el adquiriente podrá visualizar un mapa interactivo.
 
-![WebApplicationsPrototyping.png](assets/images/webApplication/WebApplicationProtoyping/WebApplicationsPrototyping.png)
+![web](/assets/chapter-4/mockup16.png)
 
-Además, se adjunta el enlace al video completo de la presentación del prototipo:
+**Filtro**
 
-[Link Video Applications Prototyping](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EWGbMcHowddPkLKM-izeDnkBu8xRzmdoXugfgBBKk-ylHA?e=t1N4fR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+En esta sección, podrás visualizar los filtros con vehículos y sus imágenes descriptivas, así como los botones de "Comprar" o "Rentar".
 
-Link Web Applications Prototyping:
+![web](/assets/chapter-4/mockup17.png)
 
-[Link Web Applications Prototyping](https://www.figma.com/proto/EwjGSJ6rrm0CnMdTbftA6k/Web-Application-Wireframe---Mock-Up?page-id=0%3A1&node-id=15-495&starting-point-node-id=15%3A482)
+**Detalles del Vehículo**
 
+Al hacer clic en un vehículo, el adquiriente podrá ver las descripciones del mismo, incluidos sus "Badges", tipo de vehículo, año, precio y una descripción detallada. Además, tendrá la opción de comunicarse por WhatsApp con el propietario del vehículo y podrá seleccionar entre los botones "Rentar Vehículo" o "Comprar Vehículo".
+
+![web](/assets/chapter-4/mockup18.png)
+
+**Historial**
+
+En esta sección, el adquiriente podrá visualizar el historial de los vehículos.
+
+![web](/assets/chapter-4/mockup19.png)
+
+**Foro de Contacto**
+
+En esta sección, el adquiriente podrá visualizar los mensajes de los diferentes universitarios que incluyeron su número de teléfono, con la opción de conectarse directamente a través de WhatsApp.
+
+![web](/assets/chapter-4/mockup20.png)
+
+**Web Application para Mobile Web Browser**
+
+**Segmento Universitario**
+
+**Logo**
+
+Aquí, el universitario podrá ver el logo de EcoTech con un mensaje de "Cargando" en la parte inferior.
+
+![mobile](/assets/chapter-4/color1.png)
+
+**Registro**
+
+Los universitarios podrán registrarse en EcoTech ingresando su RUC, correo electrónico, nombre completo y contraseña. También deberán aceptar los términos y condiciones antes de hacer clic en el botón de "Registrarse".
+
+![mobile](/assets/chapter-4/color2.png)
+
+**Iniciar sesión**
+
+Los universitarios podrán iniciar sesión ingresando su correo electrónico y contraseña. También habrá una opción de "Recuérdame" para facilitar el acceso en caso de que olviden el usuario o la contraseña. Finalmente, deberán hacer clic en el botón de "Iniciar sesión".
+
+![mobile](/assets/chapter-4/color3.png)
+
+**Planes**
+
+Aquí, el usuario podrá seleccionar uno de los tres planes disponibles para comenzar a usar la aplicación y ofrecer sus vehículos al público objetivo. Deberá hacer clic en el botón de "Escoger Plan".
+
+![mobile](/assets/chapter-4/color4.png)
+
+**Proceder al pago**
+
+En esta sección, el usuario podrá acceder al plan realizando el pago con su tarjeta e ingresando los datos correspondientes. Después de hacer clic en el botón de "Confirmar", recibirá un mensaje de pago exitoso.
+
+![mobile](/assets/chapter-4/color5.png)
+
+**Vehículos**
+
+Aquí, el universitario podrá visualizar las publicaciones de otros universitarios y sus vehículos para inspirarse. Luego, podrá acceder a la sección "Mi Vehículo" para agregar uno o dos vehículos, dependiendo de su plan, haciendo clic en el botón "Agregar".
+
+![mobile](/assets/chapter-4/color6.png)
+
+**Historial**
+
+Aquí, podremos ver el historial de los vehículos publicados por el universitario.
+
+![mobile](/assets/chapter-4/color7.png)
+
+**Foro de Contacto**
+
+El universitario podrá subir un mensaje en el post indicando que está vendiendo o rentando un vehículo, incluyendo su número de celular para que el arrendatario pueda comunicarse con él a través de WhatsApp.
+
+![mobile](/assets/chapter-4/color8.png)
+
+**Mi Perfil**
+
+En esta sección, podrás ver tu perfil, incluyendo tu foto, nombre completo, correo electrónico, número de teléfono y RUC. Finalmente, podrás guardar tus datos.
+
+![mobile](/assets/chapter-4/color9.png)
+
+**Segmento Adquiriente**
+
+**Logo**
+
+Aquí, el adquiriente podrá ver el logo de EcoTech con un mensaje de "Cargando" en la parte inferior.
+
+![mobile](/assets/chapter-4/color10.png)
+
+**Registro**
+
+Los adquirientes podrán registrarse en EcoTech ingresando su correo electrónico, nombre completo y contraseña. También deberán aceptar los términos y condiciones antes de hacer clic en el botón de "Registrarse".
+
+![mobile](/assets/chapter-4/color11.png)
+
+**Iniciar sesión**
+
+Los adquirientes podrán iniciar sesión ingresando su correo electrónico y contraseña. También habrá una opción de "Recuérdame" para facilitar el acceso en caso de que olviden el usuario o la contraseña. Finalmente, deberán hacer clic en el botón de "Iniciar sesión".
+
+![mobile](/assets/chapter-4/color12.png)
+
+**Alquilar o comprar vehículos menores**
+
+Aquí podrás explorar diferentes vehículos y utilizar el botón "Rentar" o "Comprar" según tu interés.
+
+![mobile](/assets/chapter-4/color13.png)
+
+**Mi Perfil**
+
+El adquiriente podrá ver su perfil, agregar o corregir su foto, nombre, correo electrónico y teléfono. También deberá confirmar que los detalles son correctos y, finalmente, hacer clic en el botón "Guardar".
+
+![mobile](/assets/chapter-4/color14.png)
+
+**Vehículo y Filtros**
+
+Aquí podrás ver el mapa interactivo y el filtro, que incluye secciones para tipos de vehículos y precios.
+
+![mobile](/assets/chapter-4/color15.png)
+
+**Detalles del Vehículo**
+
+Aquí podrás visualizar los detalles del vehículo que seleccionaste, incluyendo sus descripciones, y tendrás los botones de "Alquilar" o "Comprar".
+
+![mobile](/assets/chapter-4/color16.png)
+
+**Historial de Vehículo y Foro de Contacto**
+
+El adquiriente tendrá la opción de ver los vehículos en su historial y acceder al foro de contacto, donde podrá visualizar los posts de los universitarios que incluyen su número de WhatsApp, facilitando el contacto directo si desean el vehículo.
+
+![mobile](/assets/chapter-4/color17.png)
+
+### 5.4.4. Web Applications User Flow Diagrams
+
+**User Goal: Iniciar sesión y Registrarse**
+
+**Perfil del Usuario: Universitario**
+
+**Descripción del Flujo:**
+
+Primero, el usuario ingresará a la aplicación desplegada. En la pantalla inicial, se le presentará un formulario para ingresar sus datos de inicio de sesión. Para los universitarios, el formulario requerirá el RUC, nombre, correo electrónico y contraseña.
+
+![diagram](/assets/chapter-4/diagram1.png)
+
+**User Goal: Pagos de los Planes**
+
+El universitario podrá elegir entre 3 planes y seleccionar uno haciendo clic en el botón "Elegir Plan". Al hacerlo, será redirigido al proceso de pago, donde deberá ingresar los datos de su tarjeta y confirmar que la información es correcta. Una vez confirmado, el sistema mostrará un mensaje de pago exitoso. Al hacer clic en el botón "Comenzar", el usuario accederá al menú de vehículos.
+
+![diagram](/assets/chapter-4/diagram3.png)
+
+![diagram](/assets/chapter-4/diagram4.png)
+
+**User Goal: Navegar por el dashboard**
+
+Descripción del Flujo: Una vez que el universitario haya iniciado sesión, será dirigido al panel de control, donde podrá ver varias opciones. La primera opción es "Detalles del Vehículo", donde podrá consultar la información de cada vehículo. Luego, encontrará la sección de "Perfil", donde podrá actualizar sus datos y foto. También habrá una sección llamada "Historial de Vehículos", donde podrá revisar los vehículos que ha subido. Finalmente, estará disponible el "Foro de Contacto", donde podrá publicar un anuncio para vender o alquilar, permitiendo que los interesados se comuniquen directamente por WhatsApp.
+
+![diagram](/assets/chapter-4/diagram5.png)
+
+**User Goal: Iniciar sesión y Registrarse**
+
+**Perfil del Usuario: Adquiriente**
+
+**Descripción del Flujo:**
+
+Primero, el usuario ingresará a la aplicación desplegada. En la pantalla inicial, se le presentará un formulario para ingresar sus datos de inicio de sesión. Para los adquirientes, el formulario requerirá el nombre, correo electrónico y contraseña.
+
+![diagram](/assets/chapter-4/diagram2.png)
+
+**User Goal: Visualizar los Vehículos**
+
+El adquiriente, al estar en la página de inicio, podrá ver los vehículos disponibles junto con sus descripciones. Al hacer clic en el botón "Alquilar" o "Comprar", será redirigido a la página de detalles del vehículo, donde podrá consultar el tipo, precio, descripción y distintivos del vehículo. Luego, al presionar el botón "Guardar", el vehículo se añadirá a su historial de vehículos guardados.
+
+![diagram](/assets/chapter-4/diagram6.png)
+
+**User Goal: Navegar por el dashboard**
+
+Descripción del Flujo: Una vez que el adquiriente haya iniciado sesión, será dirigido al panel de control, donde encontrará varias opciones. La primera opción es "Mapa Interactivo", que le permitirá ver la ubicación de cada vehículo. Luego, encontrará la sección de "Filtro", donde podrá buscar y visualizar vehículos según su tipo y precio. También tendrá acceso a la sección de "Foro de Contacto", donde podrá ponerse en contacto con el universitario para adquirir el vehículo. Finalmente, estará disponible la opción "Mi Perfil", donde podrá revisar y actualizar sus datos personales.
+
+![diagram](/assets/chapter-4/diagram7.png)
+
+![diagram](/assets/chapter-4/modified.png)
+
+![diagram](/assets/chapter-4/diagramuser.png)
+
+## 5.5. Web Applications Prototyping
+
+Para desarrollar los prototipos de la interfaz de usuario tanto para Desktop como para navegadores móviles, se tomaron en cuenta varios principios esenciales:
+
+1. **Simplicidad y Usabilidad:** Se buscó que la navegación fuera sencilla e intuitiva, permitiendo a los usuarios entender claramente las funciones de la aplicación, como el mapa interactivo y la opción de filtros.
+
+2. **Diseño Adaptable:** Se prestó atención a la necesidad de un diseño adaptable que garantice la compatibilidad de la aplicación con diferentes tamaños de pantalla, evitando que los usuarios enfrenten restricciones según el dispositivo que utilicen.
+
+3. **Enfoque en Información Clave:** El diseño está orientado a presentar solo los datos más importantes para los usuarios dentro del segmento objetivo.
 ---
 # [**Capítulo VI: Product Implementation, Validation & Deployment.**](#capitulo-vi-productimplementation-validation-deployment) 
 
 ## [**6.1. Software Configuration Management.**](#61-software-configuration-management) 
 ### [**6.1.1. Software Development Environment Configuration.**](#611-software-development-environment-configuration) 
+Figma: https://www.figma.com/<br>
+Herramienta visual usada para el diseño del prototipo de la pagina web. Además de ser usada para las creaciones de los wireframes y mockups del desktop and mobile application del proyecto realizado.<br>
+<br>
+LucidChart: https://lucid.app/<br>
+Herramienta online para crear diagramas como flujogramas, diagramas UML, mapas mentales y arquitecturas de software.<br>
+<br>
+Trello: https://trello.com/<br>
+Herramienta de gestión de tareas basada en tableros, listas y tarjetas. Nos permitió organizar el proyecto de forma visual y colaborativa, ideal para hacer seguimiento de actividades, asignar responsabilidades y ver el progreso del trabajo.<br>
+<br>
+UxPressia: https://uxpressia.com/<br>
+Herramienta online para crear mapas de experiencia del usuario, customer journey maps y personas. Ayuda a visualizar y mejorar la experiencia del cliente de forma colaborativa y centrada en el usuario.<br>
+<br>
+Structurizr: https://structurizr.com/<br>
+Para el desarrollo de diagramas de contexto y contenedores, así como Landscape y Deployment.<br>
+<br>
+Software Deployment:<br>
+Vercel: https://vercel.com/<br>
+Plataforma en la cual hospedamos la Landing Page.<br>
+<br>
 ### [**6.1.2. Source Code Management.**](#612-source-code-management)
+Se utilizó GitHub como plataforma y sistema de control de versiones.<br> 
+Organization: https://github.com/Desarrollo-IOT-3320-Grupo-2-Muevete<br>
+Landing Page Repository: https://github.com/Desarrollo-IOT-3320-Grupo-2-Muevete/Landing_Page<br>
+Front End Repository: https://github.com/Desarrollo-IOT-3320-Grupo-2-Muevete/Front_end<br>
+Report Repository: https://github.com/Desarrollo-IOT-3320-Grupo-2-Muevete/Desarrollo-De-Soluciones-IOT-Report<br>
+<br>
 ### [**6.1.3. Source Code Style Guide & Conventions.**](#613-source-code-style-guide--conventions) 
+Con el propósito de mantener la consistencia, buenas prácticas y legibilidad durante el desarrollo del proyecto, hemos adoptado las siguientes guías de estilo y convenciones para el desarrollo del código:<br>
+Para el Coding Convention:<br>
+•	Hemos nombrado todos los elementos del código (funciones, variables, clases, archivos, etc) en inglés.<br>
+•	Los nombres deben ser claros, descriptivos y seguir las nomenclaturas estándar de cada lenguaje según corresponda.<br>
+<br>
+Para el Code Style guide:<br>
+HTML & CSS<br>
+•	Se sigue la guía de estilo Google HTML/CSS Style Guide.<br>
+•	Se aplica la regla de atributos en minúscula y cierre adecuado de etiquetas.<br>
+•	Se debe utilizar letras minúsculas para elementos HTML, atributos, propiedades, valores y selectores de CSS.<br>
+<br>
+Angular<br>
+•	Se sigue la Angular coding style guide. Además, se incluye la separación por módulos, uso de servicios y buenas prácticas en componentes.<br>
+<br>
 ### [**6.1.4. Software Deployment Configuration.**](#614-software-deployment-configuration)
-
+A continuación, demostraremos el proceso de despliegue de nuestra Landing Page mediante el servicio automatizado de Netlify:
+1.	Debemos tener nuestra landing page en un repositorio en GitHub:
+   <img src="./assets/chapter-6/landing-page.PNG"><br>
+2.  Debemos iniciar sesión o crear una cuenta en caso no tengamos una en Vercel:
+   <img src="./assets/chapter-6/vercel.jpg"><br>
+3.  Iniciamos sesión de forma rápida con github:
+   <img src="./assets/chapter-6/authorize-vercel.jpg"><br>
+4.  Daremos los permisos necesarios para que acceda a nuestro repositorio y seleccionaremos nuestra landing page a desplegar:
+   <img src="./assets/chapter-6/importing-vercel.jpg"><br>
+5.  Después de darle "Deploy" se desplega la landing page y nos da el dominio de la landing:
+   <img src="./assets/chapter-6/deployed-vercel.jpg"><br>
 ## [**6.2. Landing Page, Services & Applications Implementation.**](#62-landing-page-services--applications-implementation) 
 ### [**6.2.1. Sprint 1.**](#621-sprint-1) 
 
@@ -2678,18 +2888,51 @@ En el primer sprint backlog, el equipo se propuso comenzar y finalizar la landin
 | Front-End-Ecomovil | filter-acquirer    | d604484 | feat(filter): implement filter acquirer component |Juan Calisaya|   Sep 24, 2025  |
 
 #### [**6.2.1.5. Testing Suite Evidence for Sprint Review.**](#6215-testing-suite-evidence-for-sprint-review)
-En esta sección se presenta la evidencia del conjunto de pruebas automatizadas implementadas durante el Sprint, las cuales comprenden Unit Tests, Integration Tests y Acceptance Tests (BDD). Estas pruebas se desarrollaron para garantizar la correcta funcionalidad de los Web Services vinculados a los User Stories definidos para esta iteración del proyecto GoUni, nuestra aplicación de movilidad sostenible orientada a la comunidad universitaria.
-
-El enfoque de testing adoptado en este Sprint tuvo como objetivo asegurar que las funcionalidades principales —registro y autenticación de usuarios, gestión de vehículos ecológicos (bicicletas, scooters, motos eléctricas) y reservas de alquiler— cumplieran con los criterios de aceptación definidos por el equipo de desarrollo y los estándares de calidad establecidos en el plan de pruebas.
+Durante la entrega del Sprint 1, el equipo se centró en desarrollar, implementar y desplegar completamente la Landing Page, avanzar con el backend, frontend y acceptance tests. En consecuencia, la fase de Testing se orientó a validar que las funcionalidades respondieran adecuadamente a las necesidades de los usuarios, priorizando una experiencia clara, sencilla e intuitiva.
 
 |**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commit Message Body**|**Committed on (Date)**|
 |--------------|----------|-------------|------------------|-----------------------|-----------------------|
-| | | | | | |
+| https://github.com/Desarrollo-IOT-3320-Grupo-2-Muevete/Landing_Page | master | cc5098e | fear: new landing page | - | 09/10/2025 |
+| https://github.com/Desarrollo-IOT-3320-Grupo-2-Muevete/Acceptance-Tests | master | 4622570 | Primer Commit | - | 08/10/2025 |
 
 #### [**6.2.1.6. Execution Evidence for Sprint Review.**](#6216-execution-evidence-for-sprint-review) 
+
+<img src="assets/chapter-6/landing-1.png" alt="" width="800" height="500">
+<img src="assets/chapter-6/landing-2.png" alt="" width="800" height="500">
+<img src="assets/chapter-6/landing-3.png" alt="" width="800" height="500">
+<img src="assets/chapter-6/landing-4.png" alt="" width="800" height="500">
+<img src="assets/chapter-6/landing-5.png" alt="" width="800" height="500">
+<img src="assets/chapter-6/landing-6.png" alt="" width="800" height="500">
+<img src="assets/chapter-6/landing-7.png" alt="" width="800" height="500">
+<img src="assets/chapter-6/landing-8.png" alt="" width="800" height="500">
+<img src="assets/chapter-6/landing-9.png" alt="" width="800" height="500">
+
 #### [**6.2.1.7. Services Documentation Evidence for Sprint Review.**](#6217-services-documentation-evidence-for-sprint-review) 
+Para esta entrega, el equipo StudentConnect logró implementar de manera exitosa el frontend web app y la landing.
+Enlace del deploy de la landing mediante: [https://cibermatch-movirent.netlify.app/](https://landing-page-eight-ecru-42.vercel.app/)
+Enlace del deploy de la app web mediante: https://mueveteecotech.netlify.app/login
+
 #### [**6.2.1.8. Software Deployment Evidence for Sprint Review.**](#6218-software-deployment-evidence-for-sprint-review) 
+Para el despliegue de la aplicacion web se utilizó netlify, a continuación se muestra el link de la aplicación web desplegada junto a los pasos realizados para publicarla: https://mueveteecotech.netlify.app/login
+<img src="assets/chapter-6/deploy-front-1.jpeg" alt="" width="800" height="500">
+<img src="assets/chapter-6/deploy-front-2.jpeg" alt="" width="800" height="500">
+<img src="assets/chapter-6/deploy-front-3.jpeg" alt="" width="800" height="500">
+<img src="assets/chapter-6/deploy-front-4.jpeg" alt="" width="800" height="500">
+
+
+Para el despliegue de la landing se utilizó vercel, a continuación se muestra el link de la landing desplegada junto a los pasos realizados para publicarla: https://landing-page-eight-ecru-42.vercel.app
+<img src="assets/chapter-6/deploy-landing-1.jpeg" alt="" width="800" height="500">
+<img src="assets/chapter-6/deploy-landing-2.jpeg" alt="" width="800" height="500">
+<img src="assets/chapter-6/deploy-landing-3.jpeg" alt="" width="800" height="500">
+<img src="assets/chapter-6/deploy-landing-4.jpeg" alt="" width="800" height="500">
+
 #### [**6.2.1.9. Team Collaboration Insights during Sprint.**](#6219-team-collaboration-insights-during-sprint)
+|**Username (Github)**|**Nombre**|**Actividad**|
+|--------------|----------|----------|
+| EduardTrave | Travezaño Patiño, Eduard Gedeon | Elaboracion de Landing Page |
+| mathiasadriano | Hidalgo Lopez, Mathias Adriano | Elaboracion de Frontend |
+| OnofreGH | Onofre Ruiz, Carlos Jesus | Elaboracion de los Acceptance Tests |
+| el-tres-palabritas | Mendez Vargas, Sebastian Orlando | Elaboracion de Backend |
 
 ---
 
