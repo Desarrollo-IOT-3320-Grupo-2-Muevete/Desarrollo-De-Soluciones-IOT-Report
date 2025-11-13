@@ -9,7 +9,7 @@
     <strong>2025-02</strong><br>
     <strong>Desarrollo de Soluciones IOT</strong><br>
     <strong>Docente: Marco Antonio Leon Baca</strong><br>
-    <br>TP1</br>
+    <br>TB2</br>
 </p>
 
 <p align="center">
@@ -2933,6 +2933,37 @@ Para el despliegue de la landing se utilizó vercel, a continuación se muestra 
 | mathiasadriano | Hidalgo Lopez, Mathias Adriano | Elaboracion de Frontend |
 | OnofreGH | Onofre Ruiz, Carlos Jesus | Elaboracion de los Acceptance Tests |
 | el-tres-palabritas | Mendez Vargas, Sebastian Orlando | Elaboracion de Backend |
+
+---
+
+### [**6.2.2. Sprint 2.**](#622-sprint-2) 
+
+#### [**6.2.2.1. Sprint Planning 2.**](#6221-sprint-planning-2) 
+
+#### [**6.2.2.3. Sprint Backlog 2.**](#6223-sprint-backlog-2) 
+
+#### [**6.2.2.4. Development Evidence for Sprint Review.**](#6224-development-evidence-for-sprint-review) 
+
+#### [**6.2.2.5. Testing Suite Evidence for Sprint Review.**](#6225-testing-suite-evidence-for-sprint-review)
+
+#### [**6.2.2.6. Execution Evidence for Sprint Review.**](#6226-execution-evidence-for-sprint-review) 
+
+#### [**6.2.2.7. Services Documentation Evidence for Sprint Review.**](#6227-services-documentation-evidence-for-sprint-review) 
+
+#### [**6.2.2.8. Software Deployment Evidence for Sprint Review.**](#6228-software-deployment-evidence-for-sprint-review) 
+
+#### [**6.2.2.9. Team Collaboration Insights during Sprint.**](#6229-team-collaboration-insights-during-sprint)
+
+---
+## [**6.3. Validation Interviews.**](#63-validation-interviews) 
+
+### [**6.3.1. Diseño de Entrevistas.**](#631-diseño-de-entrevistas) 
+
+### [**6.3.2. Registro de Entrevistas.**](#632-registro-de-entrevistas) 
+
+### [**6.3.3. Evaluaciones según heurísticas.**](#633-evaluaciones-segun-heuristicas) 
+
+## [**6.4. Video About-the-Product.**](#64-video-about-the-product) 
 
 ---
 
