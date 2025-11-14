@@ -2939,25 +2939,150 @@ Para el despliegue de la landing se utilizó vercel, a continuación se muestra 
 ### [**6.2.2. Sprint 2.**](#622-sprint-2) 
 
 #### [**6.2.2.1. Sprint Planning 2.**](#6221-sprint-planning-2) 
+En el **Sprint Planning 2**, se presenta evidencia del desarrollo de la app mobile, tanto front como back end, incluyendo avances del proyecto y aprendizajes de colaboración en equipo registrados en **GitHub**.
 
-#### [**6.2.2.3. Sprint Backlog 2.**](#6223-sprint-backlog-2) 
+| **Sprint #**| Sprint 2|
+|------------------------------|-----------------------------------------------------------------------------------|
+| **Sprint Planning Background** | Durante este sprint se trabajó en la consolidación de la aplicación móvil, enfocándose en la optimización de la experiencia de usuario, la seguridad en el acceso y la integración de funcionalidades clave. Se realizaron modificaciones en el backend para mejorar la gestión de datos y procesos de autenticación, mientras que en el frontend se avanzó en la implementación de pantallas de registro, login y visualización de planes. El equipo también ajustó el diseño en Figma para garantizar coherencia visual con la identidad de Muevete! y se documentaron los avances en GitHub. |
+| **Date**| 5/11/2025 |
+| **Time**| 19:40 |
+| **Location**|	Modalidad remota por Google Meet	|
+| **Prepared By**| Carlos Onofre Ruiz (Scrum Master) |
+| **Attendees (to planning meeting)** |Todos los miembros del grupo StudentConnect|
+| **Sprint 2 Review Summary**  | Se implementaron distintas funcionalidades en la app móvil, con validaciones básicas de datos. Se desplegó el backend con mejoras en la autenticación y control de sesiones. Se culmino el diseño en Figma se ajustaron los estilos siguiendo la identidad visual. |
+| **Sprint 2 Retrospective Summary** | El equipo logró avances significativos en la integración entre frontend y backend, además de mejorar la colaboración en GitHub con ramas organizadas y commits más descriptivos. Sin embargo, se identificaron retos en la sincronización de tareas y en la documentación técnica. Para el siguiente sprint se acordó reforzar las pruebas automatizadas.|
+| **Sprint Goal & User Stories** |  El objetivo del sprint fue avanzar en la construcción de la app móvil y fortalecer el backend.|
+| **Sprint 2 Goal**  | Consolidar la base de la aplicación móvil con funcionalidades esenciales.	 |
+| **Sprint Velocity 2**        | 35 |
+| **Sum of Story Points**      | 35	|
 
-#### [**6.2.2.4. Development Evidence for Sprint Review.**](#6224-development-evidence-for-sprint-review) 
+---
 
-#### [**6.2.2.5. Testing Suite Evidence for Sprint Review.**](#6225-testing-suite-evidence-for-sprint-review)
+#### [**6.2.2.2. Sprint Backlog 2.**](#6223-sprint-backlog-2) 
+En esta parte mostramos las tareas que se realizaron en este sprint.
+
+**Link del Trello:**  
+**Enlace del Trello Sprint 2 - Pendiente**
+
+**Vista del Sprint Backlog en Trello:**  
+<img src="assets/evidence-trello-2.png">
+
+---
+
+| **Sprint #**   | **Sprint 4**                                                                                                                                                                                                                  |     |     |     |     |     |     |
+|-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|-----|-----|-----|-----|-----|
+| **User Story**  | **Work-item / Task**                                                                                                                                                                                                         |     |     |     |     |     |     |
+| **ID**         | **Title**| **Id** | **Title**| **Description**| **Estimation (hours)** | **Assigned To**    | **Status (To-do / In-Process / To-Review / Done)** |
+| US-201	 | Visualización de Datos de Perfil	 | FE-201 | Vistas del perfil de usuario en Mobile | Implementar pantalla en la app móvil para mostrar datos personales y de contacto del universitario. | 6 | Carlos Onofre | Done |
+| US-202  | Sección de renta y compra de vehículos | FE-202 | Sección de renta y compra | Crear interfaz móvil para alquilar o comprar vehículos disponibles en la plataforma. | 7 | Mathias Hidalgo | Done |
+| US-203 | Búsqueda y Filtro de Vehículos | FE-203	| Sección de vehículos| Implementar vista principal con listado de vehículos y filtros de búsqueda en la app. | 5 | Eduard Travezaño | Done |
+| US-204 | Gamificación / Reconocimiento | FE-204 | Vista de badges	| Diseñar componente visual en la app para mostrar insignias o logros de usuarios. | 4 | Sebastian Mendez | Done |
+| US-205 | Navegación Principal | FE-205 | Sidebar | Implementar barra lateral en la app móvil con accesos rápidos a secciones clave. | 5 | Mathias Hidalgo | Done |
+| US-206 | Registro e Inicio de Sesión  | FE-206 | Inicio de sesión y registro | Crear pantallas de login y registro con validaciones básicas en la app móvil. | 6 | Eduard Travezaño | Done |
+| US-207 | Diseño UI | UX-207 | Mockup del app móvil | Elaborar mockups en Figma para definir la experiencia visual de la aplicación móvil.	 | 5 | Sebastian Mendez | Done |
+| US-208 | Despliegue del Backend | BE-208 | Deploy de Backend | Se va desplegar y arreglar errores que tiene el backend | 5 | Carlos Onofre | Done |    
+
+---
+
+#### [**6.2.2.3. Development Evidence for Sprint Review.**](#6224-development-evidence-for-sprint-review) 
+Durante este sprint se completaron las tareas de desarrollo correspondientes a las historias de usuario planificadas.
+Se implementaron app mobile, el backend y frontend del sistema.
+A continuación, se detallan las principales evidencias técnicas del desarrollo:
+
+Repositorio del Código Fuente
+
+Backend: [[https://github.com/upc-pre-202502-14103-sw65-tsp/GoUni_BackEnd](https://github.com/upc-pre-202502-14103-sw65-tsp/GoUni_BackEnd)](https://github.com/Desarrollo-IOT-3320-Grupo-2-Muevete/Back_end)
+Frontend: [[https://github.com/upc-pre-202502-14103-sw65-tsp/GoUni_FrontEnd](https://github.com/upc-pre-202502-14103-sw65-tsp/GoUni_FrontEnd)](https://github.com/Desarrollo-IOT-3320-Grupo-2-Muevete/Front_end)
+Mobile: [[https://github.com/upc-pre-202502-14103-sw65-tsp/GoUni_FrontEnd](https://github.com/upc-pre-202502-14103-sw65-tsp/GoUni_FrontEnd)](https://github.com/Desarrollo-IOT-3320-Grupo-2-Muevete/Front_end)](https://github.com/Desarrollo-IOT-3320-Grupo-2-Muevete/App_movil)
+
+| **Módulo / Feature**                    | **Evidencia**                                               | **Descripción del Desarrollo**                                                                                                                                                                   |
+| --------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Perfil de Usuario | <img src="redis.jpeg"> | . |
+| Sección de Renta y Compra | <img src="/calendar.jpeg"> | . |
+| Sección de Vehículos | <img src="excel.jpeg"> | . |
+| Vista de Badges | <img src="redis.jpeg"> | . |
+| Sidebar | <img src="/calendar.jpeg"> | . |
+| Inicio de Sesión y Registro | <img src="excel.jpeg"> | . |
+| Mockup del App Móvil | <img src="redis.jpeg"> | . |
+
+---
+
+#### [**6.2.2.4. Testing Suite Evidence for Sprint Review.**](#6225-testing-suite-evidence-for-sprint-review)
+En este sprint, el equipo se centró en el desarrollo de la aplicación móvil y web de Muevete!, priorizando la implementación de vistas, flujos de autenticación y componentes clave de la experiencia de usuario. Se llevaron a cabo pruebas manuales básicas para validar la navegación, la carga de datos y la coherencia visual entre el diseño en Figma y la aplicación.
+
+| **Services** | **Evidencia** |**Descripción** |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-|
+| **Inicio de sesión y registro**      |<img src="assets/US-401.jpeg">|PRUEBA |
+| **Sección de vehículos.**      |<img src="assets/US-402.jpeg">|PRUEBA |
+| **Sección de renta y compra.**      |<img src="assets/calendar2.jpeg">|PRUEBA |
+
+---
 
 #### [**6.2.2.6. Execution Evidence for Sprint Review.**](#6226-execution-evidence-for-sprint-review) 
+En este sprint se tienen los despliegues actualizados de los endpoints funcionando y el frontend completamente operativo:
+- **Frontend:**
+![alt text](assets/plans.jpeg)
+
+- **Backend:**
+![alt text](<assets/endpointrides.jpeg>)
+
+
+| Método | Ruta | Descripción |
+|--------|------|--------------|
+| **GET** | `/rides` | |
+| **POST** | `/rides` | |
+| **GET** | `/rides/passenger/{passengerUserId}` |  |
+| **GET** | `/rides/driver/{driverUserId}` |  |
+
 
 #### [**6.2.2.7. Services Documentation Evidence for Sprint Review.**](#6227-services-documentation-evidence-for-sprint-review) 
-
+Para esta entrega, el equipo logró implementar de manera exitosa el frontend web app y la app mobile. Enlace del repo de la app: [ttps://cibermatch-movirent.netlify.app/](https://github.com/Desarrollo-IOT-3320-Grupo-2-Muevete/App_movil) Enlace del deploy de la app web mediante: https://mueveteecotech.netlify.app/login
 #### [**6.2.2.8. Software Deployment Evidence for Sprint Review.**](#6228-software-deployment-evidence-for-sprint-review) 
+Para esta entrega el equipo presento el backend termina y el app mobile. Se procederan a mostrar evidencias del app web.
 
 #### [**6.2.2.9. Team Collaboration Insights during Sprint.**](#6229-team-collaboration-insights-during-sprint)
+**URL del repositorio para el Project Report:**  
+[<https://github.com/upc-pre-202502-14103-sw65-tsp>](https://github.com/Desarrollo-IOT-3320-Grupo-2-Muevete)
+
+| **Integrante** | **Aporte en el informe** |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Travezaño Patiño, Eduard Gedeon**       | Desarrollo del App Mobile en Flutter |
+| **Hidalgo Lopez, Mathias Adriano**     | Desarrollo del App Web |
+| **Mendez Vargas, Sebastian Orlando**      | Diseño UX/UI |
+| **Onofre Ruiz, Carlos Jesus**     | Documentacion y Entrevistas |
 
 ---
 ## [**6.3. Validation Interviews.**](#63-validation-interviews) 
-
 ### [**6.3.1. Diseño de Entrevistas.**](#631-diseño-de-entrevistas) 
+En esta sección se han definido todas las preguntas que se plantearán en el momento de realizar las entrevistas de validación, una vez que los usuarios han interactuado con la aplicación móvil y/o web de Muevete!.
+
+Preguntas dirigidas a Universitarios
+Preguntas principales (validación de uso):
+¿Podrías decirme tu nombre completo y edad?
+¿En qué distrito resides actualmente?
+¿Cómo fue tu experiencia al ver la aplicación?
+¿Qué opinas de la sección de vehículos (renta/compra)? ¿Se ve sencillo publicar o visualizar opciones?
+¿Qué tan útil encontraste la vista de badges como elemento de motivación o reconocimiento?
+¿El sidebar te ayudó a navegar fácilmente por las secciones de la aplicación?
+¿Qué factores consideras más importantes al decidir publicar un vehículo en la plataforma (ej. seguridad, facilidad, visibilidad)?
+¿Qué mejoras o funcionalidades adicionales te gustaría ver en la aplicación para gestionar tus vehículos?
+
+Preguntas complementarias (profundización):
+¿La aplicación refleja adecuadamente tu identidad como universitario y potencial proveedor de vehículos?
+¿Qué proceso te resultó más sencillo y cuál más complicado dentro de la app?
+¿Cómo percibes la seguridad de la aplicación al publicar tus vehículos?
+¿Recomendarías la aplicación a otros estudiantes? ¿Por qué?
+
+Preguntas dirigidas a Adquirientes
+Preguntas principales (validación de uso):
+¿Podrías decirme tu nombre completo y edad?
+¿En qué distrito resides actualmente?
+¿Cómo fue tu experiencia al buscar vehículos en la sección correspondiente?
+¿Los filtros de búsqueda te resultaron útiles y fáciles de aplicar?
+¿Qué opinas de la claridad de la información en las descripciones de los vehículos?
+¿Qué métodos de pago preferirías ver integrados en la aplicación?
+¿Cómo te gustaría recibir notificaciones sobre tus reservas o compras (ej. correo, app, WhatsApp)?
+¿Qué tan confiable percibiste la aplicación en términos de seguridad y protección de datos?
 
 ### [**6.3.2. Registro de Entrevistas.**](#632-registro-de-entrevistas) 
 
