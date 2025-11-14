@@ -3086,6 +3086,29 @@ Preguntas principales (validación de uso):
 
 ### [**6.3.2. Registro de Entrevistas.**](#632-registro-de-entrevistas) 
 
+#### **Segmento 1: Estudiantes Universitarios**
+**Entrevista 1:**
+- **Nombres:** 
+- **Apellidos:** 
+- **Edad:** 
+- **Lugar de residencia:** 
+
+**Evidencia de la entrevista:** 
+**Enlace de la entrevista:** 
+**Resumen de la entrevista:**  
+
+#### **Segmento 2: Estudiantes universitarios propietarios de vehículos privados**
+**Entrevista 1:**
+- **Nombres:** 
+- **Apellidos:** 
+- **Edad:** 
+- **Lugar de residencia:** 
+
+**Evidencia de la entrevista:** 
+**Enlace de la entrevista:** 
+**Resumen de la entrevista:**  
+
+---
 ### [**6.3.3. Evaluaciones según heurísticas.**](#633-evaluaciones-segun-heuristicas) 
 
 ## [**6.4. Video About-the-Product.**](#64-video-about-the-product) 
