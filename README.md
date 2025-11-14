@@ -2969,7 +2969,7 @@ En esta parte mostramos las tareas que se realizaron en este sprint.
 
 ---
 
-| **Sprint #**   | **Sprint 4**                                                                                                                                                                                                                  |     |     |     |     |     |     |
+| **Sprint #**   | **Sprint 2**                                                                                                                                                                                                                  |     |     |     |     |     |     |
 |-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|-----|-----|-----|-----|-----|
 | **User Story**  | **Work-item / Task**                                                                                                                                                                                                         |     |     |     |     |     |     |
 | **ID**         | **Title**| **Id** | **Title**| **Description**| **Estimation (hours)** | **Assigned To**    | **Status (To-do / In-Process / To-Review / Done)** |
