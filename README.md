@@ -3092,29 +3092,35 @@ Preguntas principales (validación de uso):
 ### [**6.3.2. Registro de Entrevistas.**](#632-registro-de-entrevistas) 
 
 #### **Segmento 1: Estudiantes Universitarios**
-**Entrevista 1:**
-- **Nombres:** 
-- **Apellidos:** 
-- **Edad:** 
-- **Lugar de residencia:** 
+**Entrevista 1:** 
+- **Nombres:** Brissa
+- **Edad:** 19
+- **Lugar de residencia:** Rimac
 
-**Evidencia de la entrevista:** 
-**Enlace de la entrevista:** 
-**Resumen de la entrevista:**  
+**Evidencia de la entrevista:**  ![Interview_Camila](assets/chapter-2/entrevistaBrissa.png)
+**Enlace de la entrevista:** [[link](https://acortar.link/uMdFvk)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213222_upc_edu_pe/EYvfM5T1ScdBpoM4ZDAvlQgBLmbxD7DTIk_2O02DixCJBw?e=vsHMUY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+**Resumen de la entrevista:**  Brissa luego de revisar el app nos comenta que es una buena iniciativa para estudiantes como ella ya que le facilita la busqueda de servicios de alquiler y a su vez entabla conversaciones con compañeros universitarios.
 
 #### **Segmento 2: Estudiantes universitarios propietarios de vehículos privados**
 **Entrevista 1:**
-- **Nombres:** 
-- **Apellidos:** 
-- **Edad:** 
-- **Lugar de residencia:** 
+- **Nombres:** Silvia Alexandra 
+- **Apellidos:** Flores Garcia
+- **Edad:** 19
+- **Lugar de residencia:** San Martin
 
-**Evidencia de la entrevista:** 
-**Enlace de la entrevista:** 
-**Resumen de la entrevista:**  
+**Evidencia de la entrevista:** ![Interview_Camila](assets/chapter-2/entrevistaSilvia.png)
+**Enlace de la entrevista:**  [link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213222_upc_edu_pe/EW5xM21GEKZDlK5WuFuOBhcB_IJpaBiFkexh2W4ghfdgOg?e=c55P3H&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+**Resumen de la entrevista:**  Silvia,anteriormente nos comento que es una estudiante de veterinaria anteriormente nos comento que estaba emocionada y sorprendida con nustra propuesta de alquiler de servicios de transporte entre estudiantes y cuando le mostramos el prototipo le fascino y le gusto la facilidad de uso.
 
 ---
 ### [**6.3.3. Evaluaciones según heurísticas.**](#633-evaluaciones-segun-heuristicas) 
+
+**Análisis del segmento universitario**
+Los entrevistados valoran altamente la aplicación Muevete! y mas cuando vieron el prototipo mas que nada por su capacidad para facilitar la renta y la venta de vehículos menores inactivos, permitiéndoles generar ingresos adicionales y contribuir a la movilidad sostenible.
+El 100% de los usuarios aprecian cómo la aplicación optimiza el proceso de rentar o vender estos vehículos, destacando su utilidad para maximizar el valor de los recursos no utilizados. La facilidad de uso y la funcionalidad para registrar y gestionar los vehículos son aspectos especialmente valorados.
+
+**Análisis del segmento de adquiriente**
+El 100% de los entrevistados valoran la presencia de un mapa interactivo y las opciones de edición de vehículos. Un 67% prefiere usar el servicio para disfrutar del paisaje y recorrer distancias medias, indicando una inclinación hacia experiencias agradables y prácticas de movilidad urbana. No obstante, un 33% ha tenido experiencias desfavorables debido a cobros imprevistos, subrayando la importancia de mantener la claridad en los precios y evitar cargos inesperados.
 
 ## [**6.4. Video About-the-Product.**](#64-video-about-the-product) 
 
