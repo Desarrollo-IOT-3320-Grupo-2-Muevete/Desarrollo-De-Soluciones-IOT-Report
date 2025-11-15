@@ -3124,6 +3124,7 @@ El 100% de los entrevistados valoran la presencia de un mapa interactivo y las o
 
 ## [**6.4. Video About-the-Product.**](#64-video-about-the-product) 
 
+Enlace al video: [link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a789_upc_edu_pe/IQC4mAVyV4ukRJc7LUbpKDEkAS0yvPZ2c8S_8GNzRX_2oaM?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=nxB0YW) 
 ---
 
 # [**Conclusiones.**](#conclusiones)
