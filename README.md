@@ -3020,25 +3020,30 @@ En este sprint, el equipo se centró en el desarrollo de la aplicación móvil y
 
 #### [**6.2.2.6. Execution Evidence for Sprint Review.**](#6226-execution-evidence-for-sprint-review) 
 En este sprint se tienen los despliegues actualizados de los endpoints funcionando y el frontend completamente operativo:
-- **Frontend:**
-![alt text](assets/plans.jpeg)
-
 - **Backend:**
-![alt text](<assets/endpointrides.jpeg>)
+![alt text](assets/chapter-6/evidencia_1.jpeg)
+![alt text](assets/chapter-6/evidencia_2.jpeg)
+![alt text](assets/chapter-6/evidencia_3.jpeg)
+![alt text](assets/chapter-6/evidencia_4.jpeg)
 
-
-| Método | Ruta | Descripción |
-|--------|------|--------------|
-| **GET** | `/rides` | |
-| **POST** | `/rides` | |
-| **GET** | `/rides/passenger/{passengerUserId}` |  |
-| **GET** | `/rides/driver/{driverUserId}` |  |
-
+- **Frontend:**
+![alt text](assets/chapter-6/frontevidencia_1.jpeg)
 
 #### [**6.2.2.7. Services Documentation Evidence for Sprint Review.**](#6227-services-documentation-evidence-for-sprint-review) 
 Para esta entrega, el equipo logró implementar de manera exitosa el frontend web app y la app mobile. Enlace del repo de la app: [ttps://cibermatch-movirent.netlify.app/](https://github.com/Desarrollo-IOT-3320-Grupo-2-Muevete/App_movil) Enlace del deploy de la app web mediante: https://mueveteecotech.netlify.app/login
+
 #### [**6.2.2.8. Software Deployment Evidence for Sprint Review.**](#6228-software-deployment-evidence-for-sprint-review) 
 Para esta entrega el equipo presento el backend termina y el app mobile. Se procederan a mostrar evidencias del app web.
+APP WEB:
+![alt text](assets/chapter-6/frontevidencia_1.jpeg)
+![alt text](assets/chapter-6/frontevidencia_2.jpeg)
+![alt text](assets/chapter-6/frontevidencia_3.jpeg)
+
+MOBILE WEB:
+![alt text](assets/chapter-6/movil_1.jpeg)
+![alt text](assets/chapter-6/movil_2.jpeg)
+![alt text](assets/chapter-6/movil_3.jpeg)
+![alt text](assets/chapter-6/movil_4.jpeg)
 
 #### [**6.2.2.9. Team Collaboration Insights during Sprint.**](#6229-team-collaboration-insights-during-sprint)
 **URL del repositorio para el Project Report:**  
