@@ -21,12 +21,12 @@
 
 <div style="align:center;display: flex; justify-content: center; align-items: center;">
 
-| **Code**    | **Member**                          |
-|-------------|-------------------------------------|
-| u202115590  | Onofre Ruiz, Carlos Jesus      	    |
-| u20211a789  | Travezaño Patiño, Eduard Gedeon     |
-| u20201f140  | Mendez Vargas, Sebastian Orlando    |
-| u202213222  | Hidalgo Lopez, Mathias Adriano      |
+| **Code**   | **Member**                       |
+| ---------- | -------------------------------- |
+| u202115590 | Onofre Ruiz, Carlos Jesus        |
+| u20211a789 | Travezaño Patiño, Eduard Gedeon  |
+| u20201f140 | Mendez Vargas, Sebastian Orlando |
+| u202213222 | Hidalgo Lopez, Mathias Adriano   |
 
 </div>
 
@@ -38,28 +38,30 @@
 
 # Registro de Versiones del Informe
 
- __TB1__
+**TB1**
 
 Para el desarrollo de la entrega **TB1**, se optó por dividir el trabajo de la siguiente forma:
 
-| **Versión**  | **Fecha**  | **Autor**                         | **Descripción**                                                                                                   |
-|--------------|------------|-----------------------------------|-------------------------------------------------------------------------------------------------------------------|
-|**#01 - TB1**| 09/09/25   |      |  |
-|**#01 - TB1**| 09/09/25   |      |  |
-|**#01 - TB1**| 10/09/25   |      |  |
-|**#01 - TB1**| 08/09/25   |      |  |
-|**#01 - TB1**| 10/09/25   |      |  |
+| **Versión**   | **Fecha** | **Autor** | **Descripción** |
+| ------------- | --------- | --------- | --------------- |
+| **#01 - TB1** | 09/09/25  |           |                 |
+| **#01 - TB1** | 09/09/25  |           |                 |
+| **#01 - TB1** | 10/09/25  |           |                 |
+| **#01 - TB1** | 08/09/25  |           |                 |
+| **#01 - TB1** | 10/09/25  |           |                 |
 
 # Contenido
 
 ## Tabla de contenidos
+
 - [COURSE PROJECT](#course-project)
-    - [Team Members:](#team-members)
+  - [Team Members:](#team-members)
 - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
 - [Contenido](#contenido)
   - [Tabla de contenidos](#tabla-de-contenidos)
 - [Studen Outcome](#studen-outcome)
 - [**Capítulo I: Introducción.**](#capítulo-i-introducción)
+
   - [**1.1. Startup Profile.**](#11-startup-profile)
     - [**1.1.1. Descripción de la Startup.**](#111-descripción-de-la-startup)
     - [**1.1.2. Perfiles de integrantes del equipo.**](#112-perfiles-de-integrantes-del-equipo)
@@ -73,6 +75,7 @@ Para el desarrollo de la entrega **TB1**, se optó por dividir el trabajo de la 
   - [**1.3. Segmentos objetivo.**](#13-segmentos-objetivo)
 
 - [**Capítulo II: Requirements Elicitation & Analysis.**](#capítulo-ii-requirements-elicitation--analysis)
+
   - [**2.1. Competidores.**](#21-competidores)
     - [**2.1.1. Análisis competitivo.**](#211-análisis-competitivo)
     - [**2.1.2. Estrategias y tácticas frente a competidores.**](#212-estrategias-y-tácticas-frente-a-competidores)
@@ -89,11 +92,13 @@ Para el desarrollo de la entrega **TB1**, se optó por dividir el trabajo de la 
   - [**2.5. Ubiquitous Language.**](#25-ubiquitous-language)
 
 - [**Capítulo III: Requirements Specification.**](#capítulo-iii-requirements-specification)
+
   - [**3.1. User Stories.**](#31-user-stories)
   - [**3.2. Impact Mapping.**](#32-impact-mapping)
   - [**3.3. Product Backlog.**](#33-product-backlog)
 
 - [**Capítulo IV: Solution Software Design.**](#capítulo-iv-solution-software-design)
+
   - [**4.1. Strategic-Level Domain-Driven Design.**](#41-strategic-level-domain-driven-design)
     - [**4.1.1. Design-Level EventStorming.**](#411-design-level-eventstorming)
       - [**4.1.1.1. Candidate Context Discovery.**](#4111-candidate-context-discovery)
@@ -117,6 +122,7 @@ Para el desarrollo de la entrega **TB1**, se optó por dividir el trabajo de la 
         - [**4.2.1.6.2. Bounded Context Database Design Diagram.**](#42x62-bounded-context-database-design-diagram)
 
 - [**Capítulo V: Solution UI/UX Design.**](#capítulo-v-solution-uiux-design)
+
   - [**5.1. Style Guidelines.**](#51-style-guidelines)
     - [**5.1.1. General Style Guidelines.**](#511-general-style-guidelines)
     - [**5.1.2. Web, Mobile and IoT Style Guidelines.**](#512-web-mobile-and-iot-style-guidelines)
@@ -137,6 +143,7 @@ Para el desarrollo de la entrega **TB1**, se optó por dividir el trabajo de la 
   - [**5.5. Applications Prototyping.**](#55-applications-prototyping)
 
 - [**Capítulo VI: Product Implementation, Validation & Deployment.**](#capítulo-vi-product-implementation-validation--deployment)
+
   - [**6.1. Software Configuration Management.**](#61-software-configuration-management)
     - [**6.1.1. Software Development Environment Configuration.**](#611-software-development-environment-configuration)
     - [**6.1.2. Source Code Management.**](#612-source-code-management)
@@ -166,10 +173,10 @@ Para el desarrollo de la entrega **TB1**, se optó por dividir el trabajo de la 
 
 ### **Student Outcome**
 
-| Criterio específico | Acciones realizadas | Conclusiones |
-| :--- | :--- | :--- |
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta | **Onofre Ruiz, Carlos Jesus - TB1:** Aportó en el desarrollo del capítulo 4.<br>**Hidalgo Lopez, Mathias Adriano - TB1:** Condujo entrevistas y modificó documentos del proyecto (Trello, diagramas). <br>**Travezaño Patiño, Eduard Gedeon - TB1:** Realizó entrevistas, elaboró el PPT y ajustó la documentación.<br>**Mendez Vargas, Sebastian Orlando - TB1:** Colaboró en el desarrollo del capítulo 4. <br><br>**Onofre Ruiz, Carlos Jesus - TP1:** Participe activamente en la validación y revisión del producto, liderando las actividades de pruebas, ejecución y documentación de servicios. Además, contribuyó a la revisión de evidencias del Sprint, promoviendo la colaboración y asegurando la calidad de los entregables. <br>**Hidalgo Lopez, Mathias Adriano - TP1:** Aporte liderazgo en el área de diseño y despliegue de interfaces, siendo responsable de la primera versión de la Landing Page y del Frontend Web Application. Asimismo, elaboró el Capítulo V: Solution UI/UX Design, donde definió lineamientos visuales y funcionales que guiaron al equipo en el desarrollo del producto. <br>**Travezaño Patiño, Eduard Gedeon - TP1:** Asumió un rol de liderazgo técnico dentro del equipo, siendo responsable de la configuración del entorno de desarrollo, la gestión del código fuente y la definición de las convenciones de estilo. Además, lideró la implementación de la Landing Page, los servicios y las aplicaciones, guiando al equipo en la configuración de despliegue y asegurando la correcta integración del software. <br>**Mendez Vargas, Sebastian Orlando - TP1:** Lideró el desarrollo del primer Sprint, planificando las actividades, estableciendo prioridades y definiendo el Sprint Backlog. También se encargó de coordinar la asignación de tareas a los colaboradores y de presentar las evidencias del desarrollo durante la revisión del Sprint, mostrando habilidades de liderazgo y organización.<br>**Onofre Ruiz, Carlos Jesus - TB2:** Asumí un rol de liderazgo orientado a la organización y documentación del proyecto. Además, realicé entrevistas y recopilé información clave para sostener el diseño de requerimientos y validar decisiones tomadas por el equipo.<br>**Hidalgo Lopez, Mathias Adriano - TB2:** Ejercí liderazgo técnico en la implementación y configuración del backend necesario para comunicar el sistema con el app. Estructuré los servicios, endpoints y validaciones que serían consumidos por la aplicación móvil. Coordiné activamente con los demás integrantes para asegurar que el flujo de datos fuera consistente.<br>**Travezaño Patiño, Eduard Gedeon - TB2:** Asumí un rol de liderazgo dentro del área de desarrollo del aplicativo móvil. Me encargué de implementar pantallas, navegación, componentes y lógica de interacción, integrando los mockups y consumiendo los servicios generados del backend.<br>**Mendez Vargas, Sebastian Orlando - TB2:** Me desempeñé como líder en la parte visual del producto, siendo responsable del diseño y actualización de los mockups del aplicativo móvil en Figma. Estableció la estructura visual, definió flujos de navegación y consolidó los elementos de interfaz que luego fueron implementados por el equipo.| **TB1:** El equipo demostró una fuerte sinergia y liderazgo compartido, donde cada miembro asumió la responsabilidad de sus tareas asignadas para contribuir al objetivo común del entregable. <br>**TP1:** El equipo demostró un liderazgo compartido y una coordinación efectiva en la ejecución del proyecto. La comunicación constante y la distribución equilibrada de responsabilidades permitieron integrar exitosamente todas las etapas de desarrollo, fortaleciendo el trabajo en equipo y la toma de decisiones colaborativas.<br> **TB2:** En esta TB2, el equipo demostró un liderazgo compartido y distribuido según las fortalezas de cada integrante. La coordinación entre documentación, backend, frontend móvil y diseño visual permitió integrar de manera ordenada las tareas relacionadas con los avances con los sensores IoT y el desarrollo del aplicativo móvil. El trabajo colaborativo y la comunicación constante facilitaron la toma de decisiones y el avance conjunto hacia los objetivos nuestro proyecto.|
-| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | **Onofre Ruiz, Carlos Jesus - TB1:** Cumplió con el objetivo de desarrollar el capítulo 4.<br>**Hidalgo Lopez, Mathias Adriano - TB1:** Cumplió con la tarea de realizar entrevistas y documentar el Student Outcome.<br>**Travezaño Patiño, Eduard Gedeon - TB1:** Cumplió el objetivo de realizar entrevistas y preparar la presentación.<br>**Mendez Vargas, Sebastian Orlando - TB1:** Logró el objetivo de completar su parte del capítulo 4.<br><br>**Onofre Ruiz, Carlos Jesus - TP1:** Contribui al entorno colaborativo al documentar los procesos de prueba, ejecución y despliegue, compartiendo los resultados con el equipo para mejorar la calidad del producto. <br>**Hidalgo Lopez, Mathias Adriano - TP1:** Fortaleci el trabajo conjunto mediante el diseño de la interfaz y la implementación de la primera versión del Frontend, alineando los objetivos visuales y funcionales del equipo y aporte en el diseño UI/UX para que todos los miembros compartieran una visión común del producto final.<br>**Travezaño Patiño, Eduard Gedeon - TP1:** Fomente un entorno colaborativo al definir claramente las configuraciones de desarrollo y despliegue, facilitando que todos los integrantes pudieran trabajar bajo las mismas condiciones técnicas. <br>**Mendez Vargas, Sebastian Orlando - TP1:** promovi la organización del equipo mediante la planificación del Sprint 1, estableciendo objetivos claros y asegurando que las tareas fueran asignadas de forma equitativa.<br>**Onofre Ruiz, Carlos Jesus - TB2:** Contribuí activamente a generar un entorno colaborativo mediante la documentación y el registro de acuerdos del equipo. Esto permitió mantener un orden documental que facilitó la comunicación interna y aseguró que los objetivos estuvieran correctamente plasmados y seguidos por todos.<br>**Hidalgo Lopez, Mathias Adriano - TB2:** Fortalecí el trabajo conjunto al estructurar y planificar el desarrollo del backend para TB2. Definí tareas técnicas, establecí prioridades y comuniqué los aspectos críticos del funcionamiento, permitiendo que el equipo avanzara de manera coordinada. Su claridad para explicar procesos técnicos contribuyó a que todos los miembros comprendieran las metas y pudieran cumplirlas dentro del plazo.<br>**Travezaño Patiño, Eduard Gedeon - TB2:** Mi aporte fue clave para crear un entorno colaborativo, ya que organicé el desarrollo del aplicativo móvil y mantuviste comunicación constante con diseño y backend. Establecí metas de implementación, prioricé funcionalidades y realicé ajustes técnicos para asegurar que todo el equipo pudiera integrarse de manera fluida.<br>**Mendez Vargas, Sebastian Orlando - TB2:** Promoví la colaboración al diseñar mockups claros y actualizados que guiaron la planificación del trabajo. Coordiné con desarrollo y documentación para asegurar que las vistas estuvieran alineadas con los requerimientos técnicos y funcionales. Mi participación facilitó un entorno inclusivo donde todos podían visualizar el avance y comprender la estructura del aplicativo móvil antes y durante su implementación.| **TB1:** Se logró un entorno de trabajo colaborativo y eficaz. La planificación de tareas fue clara y cada integrante cumplió con sus objetivos asignados, lo que permitió alcanzar la meta general del entregable (TB1) de manera exitosa. <br>**TP1:** Se logró un entorno colaborativo e inclusivo, basado en la planificación clara de tareas y metas. La comunicación, la cooperación y el uso de metodologías ágiles facilitaron el cumplimiento de los objetivos y la entrega de resultados de calidad, reflejando un compromiso conjunto con el éxito del proyecto.<br> **TB2:** Durante la TB2, el equipo consolidó un entorno colaborativo basado en planificación clara, distribución eficiente de tareas y comunicación constante, asegurando un avance ordenado y la integración efectiva del aplicativo móvil.|
+| Criterio específico                                                                             | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| :---------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta                                 | **Onofre Ruiz, Carlos Jesus - TB1:** Aportó en el desarrollo del capítulo 4.<br>**Hidalgo Lopez, Mathias Adriano - TB1:** Condujo entrevistas y modificó documentos del proyecto (Trello, diagramas). <br>**Travezaño Patiño, Eduard Gedeon - TB1:** Realizó entrevistas, elaboró el PPT y ajustó la documentación.<br>**Mendez Vargas, Sebastian Orlando - TB1:** Colaboró en el desarrollo del capítulo 4. <br><br>**Onofre Ruiz, Carlos Jesus - TP1:** Participe activamente en la validación y revisión del producto, liderando las actividades de pruebas, ejecución y documentación de servicios. Además, contribuyó a la revisión de evidencias del Sprint, promoviendo la colaboración y asegurando la calidad de los entregables. <br>**Hidalgo Lopez, Mathias Adriano - TP1:** Aporte liderazgo en el área de diseño y despliegue de interfaces, siendo responsable de la primera versión de la Landing Page y del Frontend Web Application. Asimismo, elaboró el Capítulo V: Solution UI/UX Design, donde definió lineamientos visuales y funcionales que guiaron al equipo en el desarrollo del producto. <br>**Travezaño Patiño, Eduard Gedeon - TP1:** Asumió un rol de liderazgo técnico dentro del equipo, siendo responsable de la configuración del entorno de desarrollo, la gestión del código fuente y la definición de las convenciones de estilo. Además, lideró la implementación de la Landing Page, los servicios y las aplicaciones, guiando al equipo en la configuración de despliegue y asegurando la correcta integración del software. <br>**Mendez Vargas, Sebastian Orlando - TP1:** Lideró el desarrollo del primer Sprint, planificando las actividades, estableciendo prioridades y definiendo el Sprint Backlog. También se encargó de coordinar la asignación de tareas a los colaboradores y de presentar las evidencias del desarrollo durante la revisión del Sprint, mostrando habilidades de liderazgo y organización.<br>**Onofre Ruiz, Carlos Jesus - TB2:** Asumí un rol de liderazgo orientado a la organización y documentación del proyecto. Además, realicé entrevistas y recopilé información clave para sostener el diseño de requerimientos y validar decisiones tomadas por el equipo.<br>**Hidalgo Lopez, Mathias Adriano - TB2:** Ejercí liderazgo técnico en la implementación y configuración del backend necesario para comunicar el sistema con el app. Estructuré los servicios, endpoints y validaciones que serían consumidos por la aplicación móvil. Coordiné activamente con los demás integrantes para asegurar que el flujo de datos fuera consistente.<br>**Travezaño Patiño, Eduard Gedeon - TB2:** Asumí un rol de liderazgo dentro del área de desarrollo del aplicativo móvil. Me encargué de implementar pantallas, navegación, componentes y lógica de interacción, integrando los mockups y consumiendo los servicios generados del backend.<br>**Mendez Vargas, Sebastian Orlando - TB2:** Me desempeñé como líder en la parte visual del producto, siendo responsable del diseño y actualización de los mockups del aplicativo móvil en Figma. Estableció la estructura visual, definió flujos de navegación y consolidó los elementos de interfaz que luego fueron implementados por el equipo. | **TB1:** El equipo demostró una fuerte sinergia y liderazgo compartido, donde cada miembro asumió la responsabilidad de sus tareas asignadas para contribuir al objetivo común del entregable. <br>**TP1:** El equipo demostró un liderazgo compartido y una coordinación efectiva en la ejecución del proyecto. La comunicación constante y la distribución equilibrada de responsabilidades permitieron integrar exitosamente todas las etapas de desarrollo, fortaleciendo el trabajo en equipo y la toma de decisiones colaborativas.<br> **TB2:** En esta TB2, el equipo demostró un liderazgo compartido y distribuido según las fortalezas de cada integrante. La coordinación entre documentación, backend, frontend móvil y diseño visual permitió integrar de manera ordenada las tareas relacionadas con los avances con los sensores IoT y el desarrollo del aplicativo móvil. El trabajo colaborativo y la comunicación constante facilitaron la toma de decisiones y el avance conjunto hacia los objetivos nuestro proyecto. |
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | **Onofre Ruiz, Carlos Jesus - TB1:** Cumplió con el objetivo de desarrollar el capítulo 4.<br>**Hidalgo Lopez, Mathias Adriano - TB1:** Cumplió con la tarea de realizar entrevistas y documentar el Student Outcome.<br>**Travezaño Patiño, Eduard Gedeon - TB1:** Cumplió el objetivo de realizar entrevistas y preparar la presentación.<br>**Mendez Vargas, Sebastian Orlando - TB1:** Logró el objetivo de completar su parte del capítulo 4.<br><br>**Onofre Ruiz, Carlos Jesus - TP1:** Contribui al entorno colaborativo al documentar los procesos de prueba, ejecución y despliegue, compartiendo los resultados con el equipo para mejorar la calidad del producto. <br>**Hidalgo Lopez, Mathias Adriano - TP1:** Fortaleci el trabajo conjunto mediante el diseño de la interfaz y la implementación de la primera versión del Frontend, alineando los objetivos visuales y funcionales del equipo y aporte en el diseño UI/UX para que todos los miembros compartieran una visión común del producto final.<br>**Travezaño Patiño, Eduard Gedeon - TP1:** Fomente un entorno colaborativo al definir claramente las configuraciones de desarrollo y despliegue, facilitando que todos los integrantes pudieran trabajar bajo las mismas condiciones técnicas. <br>**Mendez Vargas, Sebastian Orlando - TP1:** promovi la organización del equipo mediante la planificación del Sprint 1, estableciendo objetivos claros y asegurando que las tareas fueran asignadas de forma equitativa.<br>**Onofre Ruiz, Carlos Jesus - TB2:** Contribuí activamente a generar un entorno colaborativo mediante la documentación y el registro de acuerdos del equipo. Esto permitió mantener un orden documental que facilitó la comunicación interna y aseguró que los objetivos estuvieran correctamente plasmados y seguidos por todos.<br>**Hidalgo Lopez, Mathias Adriano - TB2:** Fortalecí el trabajo conjunto al estructurar y planificar el desarrollo del backend para TB2. Definí tareas técnicas, establecí prioridades y comuniqué los aspectos críticos del funcionamiento, permitiendo que el equipo avanzara de manera coordinada. Su claridad para explicar procesos técnicos contribuyó a que todos los miembros comprendieran las metas y pudieran cumplirlas dentro del plazo.<br>**Travezaño Patiño, Eduard Gedeon - TB2:** Mi aporte fue clave para crear un entorno colaborativo, ya que organicé el desarrollo del aplicativo móvil y mantuviste comunicación constante con diseño y backend. Establecí metas de implementación, prioricé funcionalidades y realicé ajustes técnicos para asegurar que todo el equipo pudiera integrarse de manera fluida.<br>**Mendez Vargas, Sebastian Orlando - TB2:** Promoví la colaboración al diseñar mockups claros y actualizados que guiaron la planificación del trabajo. Coordiné con desarrollo y documentación para asegurar que las vistas estuvieran alineadas con los requerimientos técnicos y funcionales. Mi participación facilitó un entorno inclusivo donde todos podían visualizar el avance y comprender la estructura del aplicativo móvil antes y durante su implementación.                                                                                                                | **TB1:** Se logró un entorno de trabajo colaborativo y eficaz. La planificación de tareas fue clara y cada integrante cumplió con sus objetivos asignados, lo que permitió alcanzar la meta general del entregable (TB1) de manera exitosa. <br>**TP1:** Se logró un entorno colaborativo e inclusivo, basado en la planificación clara de tareas y metas. La comunicación, la cooperación y el uso de metodologías ágiles facilitaron el cumplimiento de los objetivos y la entrega de resultados de calidad, reflejando un compromiso conjunto con el éxito del proyecto.<br> **TB2:** Durante la TB2, el equipo consolidó un entorno colaborativo basado en planificación clara, distribución eficiente de tareas y comunicación constante, asegurando un avance ordenado y la integración efectiva del aplicativo móvil.                                                                                                                                                                                                                |
 
 # [**Capítulo I: Introducción.**](#capítulo-i-introducción)
 
@@ -229,6 +236,7 @@ Proceso Lean UX: En esta parte, aplicamos el marco de trabajo Lean UX para expli
 ### [**1.2.1. Antecedentes y Problemática.**](#121-antecedentes-y-problemática)
 
 ### Antecedentes:
+
 En los últimos diez años, el pulso de nuestras ciudades ha cambiado. La forma en que nos movemos está en plena transformación, impulsada por una mayor conciencia ambiental y los avances tecnológicos. Alternativas de transporte ecológicas, como las bicicletas y los scooters eléctricos, han ganado un terreno impresionante, lo que evidencia un deseo colectivo por soluciones de movilidad más inteligentes y responsables.
 
 Para los habitantes de Lima Metropolitana, el transporte urbano no es solo un inconveniente, es uno de los problemas más críticos de su día a día. Se le describe como un sistema informal, ineficiente y de baja calidad, marcado por la inseguridad, altas tasas de accidentes y una contaminación ambiental y sonora alarmante, tal como lo han señalado el MTC (2013) y la OMS.
@@ -242,6 +250,7 @@ Es en la intersección de estos dos mundos donde encontramos nuestra oportunidad
 Nuestro proyecto busca ser un agente de cambio. Queremos transformar la movilidad en Lima y, al mismo tiempo, empoderar a los universitarios, ofreciéndoles una herramienta digital para generar ingresos de manera autónoma. Al conectar a estudiantes con potenciales usuarios, creamos un ecosistema donde la sostenibilidad y el espíritu emprendedor van de la mano. Nuestra meta es clara: reducir la huella de carbono y fortalecer el bienestar económico de los jóvenes, un viaje a la vez.
 
 ### Problemática (5Ws y 2Hs)
+
 **¿Qué? (What):** El núcleo del problema es la ausencia de una plataforma digital que integre la movilidad sostenible con una oportunidad económica real y flexible para los estudiantes. Por un lado, la ciudad de Lima lidia con serios problemas de congestión y contaminación; por otro, los universitarios luchan por encontrar fuentes de ingreso compatibles con su vida académica.
 
 **¿Cuándo? (When):** Esta problemática no es nueva, pero se ha intensificado notablemente en la última década debido al crecimiento urbano desmedido y a la creciente urgencia de adoptar hábitos más sostenibles. La presión económica sobre los estudiantes se ha agudizado con el aumento del costo de vida.
@@ -262,94 +271,104 @@ Nuestro proyecto busca ser un agente de cambio. Queremos transformar la movilida
 
 #### [**1.2.2.1. Lean UX Problem Statements.**](#1221-lean-ux-problem-statements)
 
-
-Nuestro objetivo es crear una plataforma digital que funcione como un punto de encuentro para universitarios con vehículos menores en desuso y personas que buscan activamente alternativas de movilidad más asequibles y respetuosas con el medio ambiente. Hemos identificado que una gran cantidad de estudiantes posee bicicletas, scooters o patinetas sin darles uso, mientras que, simultáneamente, existe un grupo de personas que necesita opciones de transporte económicas y sostenibles. Esta situación refleja una preocupación real por los costos de movilidad, el impacto ecológico y la promoción de un estilo de vida saludable. Por lo tanto, nos preguntamos: 
+Nuestro objetivo es crear una plataforma digital que funcione como un punto de encuentro para universitarios con vehículos menores en desuso y personas que buscan activamente alternativas de movilidad más asequibles y respetuosas con el medio ambiente. Hemos identificado que una gran cantidad de estudiantes posee bicicletas, scooters o patinetas sin darles uso, mientras que, simultáneamente, existe un grupo de personas que necesita opciones de transporte económicas y sostenibles. Esta situación refleja una preocupación real por los costos de movilidad, el impacto ecológico y la promoción de un estilo de vida saludable. Por lo tanto, nos preguntamos:
 
 ¿Cómo podemos diseñar una experiencia digital que facilite el intercambio de estos vehículos de forma eficiente, promoviendo así un ecosistema de transporte económico, sostenible y beneficioso para la salud?
 
 ### Aspectos
 
 #### Domain:
+
 Movilidad y transporte compartido para estudiantes universitarios.
 
 #### Customer Segments:
 
 - ##### Estudiantes Universitarios
-Estudiantes que necesitan desplazarse a sus universidades y buscan una alternativa al transporte público o a los vehículos particulares. Estos estudiantes enfrentan desafíos como el estrés, la inseguridad y el costo elevado del transporte.
+
+  Estudiantes que necesitan desplazarse a sus universidades y buscan una alternativa al transporte público o a los vehículos particulares. Estos estudiantes enfrentan desafíos como el estrés, la inseguridad y el costo elevado del transporte.
 
 - ##### Propietarios de Vehículos Privados
-Estudiantes que poseen vehículos y desean compartir sus viajes con otros para reducir gastos en combustible y maximizar el uso de sus vehículos.
+  Estudiantes que poseen vehículos y desean compartir sus viajes con otros para reducir gastos en combustible y maximizar el uso de sus vehículos.
 
 #### Pain Points:
 
 - ##### Estudiantes
 
 ###### Estrés y Fatiga:
+
 La congestión en el transporte público y las largas esperas causan estrés y fatiga, afectando negativamente su experiencia de desplazamiento.
 
 ###### Inseguridad:
+
 La inseguridad durante el viaje, especialmente en autobuses abarrotados, es una preocupación constante.
 
-###### Costo Elevado: 
+###### Costo Elevado:
 
 Los gastos en transporte son una carga financiera significativa para los estudiantes.
 
 - ##### Propietarios de Vehículos Privados
 
-###### Oportunidades de Rellenar Asientos: 
+###### Oportunidades de Rellenar Asientos:
+
 Hay una falta de mecanismos eficientes para asegurar que todos los asientos disponibles en un viaje compartido sean utilizados, reduciendo el potencial de ingresos por compartir el viaje.
+
 #### Gap:
+
 Existe una brecha en el mercado de transporte compartido específico para estudiantes universitarios. Aunque hay aplicaciones de viajes compartidos, no están adaptadas a las necesidades y horarios específicos de los estudiantes, lo que dificulta la formación de compañeros de viaje compatibles y la optimización del uso del vehículo.
 
 #### Vision/Strategy:
+
 Crear una plataforma de carpooling diseñada específicamente para estudiantes universitarios que permita una conexión efectiva entre compañeros de viaje con horarios y rutas compatibles. La plataforma debe abordar el estrés y la inseguridad relacionados con el transporte, al mismo tiempo que ofrece una solución económica y eficiente para los estudiantes que desean compartir sus viajes y reducir costos.
 
 #### [**1.2.2.2. Lean UX Assumptions.**](#1222-lean-ux-assumptions)
 
-* **Suposiciones de Negocio:**
-    * **Necesidad del Cliente:** Partimos de la premisa de que nuestros usuarios anhelan una solución que entrelace la movilidad sostenible con una fuente de ingresos adaptable a sus vidas.
-    * **Solución Propuesta:** Nuestra aplicación web será el puente que conecte a estudiantes con vehículos menores y a personas interesadas en alquilarlos o comprarlos, creando un mercado beneficioso para ambos.
-    * **Propuesta de Valor:** Para los universitarios, ofrecemos una vía para monetizar sus activos sin sacrificar sus estudios. Para los usuarios, brindamos acceso fácil a un transporte ecológico que mejora su movilidad.
-    * **Adquisición de Clientes:** Planeamos llegar a nuestro público a través de campañas en redes sociales, colaboraciones estratégicas con universidades y presencia en eventos de sostenibilidad.
-    * **Modelo de Ingresos:** Nuestra sostenibilidad financiera se basará en modelos de suscripción para los estudiantes que publican sus vehículos y en una comisión por cada transacción exitosa.
-    * **Competencia:** Aunque existen otras plataformas de movilidad, nuestro factor diferenciador será la combinación única de sostenibilidad, flexibilidad económica para estudiantes y una interfaz diseñada para ser excepcionalmente simple y práctica.
-    * **Riesgos Clave:** Los principales desafíos son construir una masa crítica de usuarios activos y garantizar que la experiencia en la plataforma supere sus expectativas.
+- **Suposiciones de Negocio:**
 
-* **Suposiciones sobre el Usuario:**
-    * **¿Quién es?** Identificamos dos perfiles claros: **universitarios** con vehículos subutilizados y un deseo de generar ingresos, y **usuarios finales** (trabajadores, turistas, etc.) que buscan opciones de transporte ecológicas y económicas en Lima.
-    * **¿Cómo encajamos en su vida?** Para los estudiantes, somos una herramienta de empoderamiento financiero. Para los usuarios, somos un facilitador de una movilidad más inteligente y consciente.
-    * **¿Qué problema resolvemos?** A los estudiantes les solucionamos la necesidad de ingresos flexibles. A los usuarios les ofrecemos una alternativa a la congestión y la contaminación.
-    * **¿Cuándo y cómo nos usarán?** Los estudiantes usarán la app para gestionar sus vehículos disponibles. Los usuarios la consultarán cuando necesiten moverse por la ciudad de forma rápida y sostenible.
-    * **¿Qué funciones valorarán?** Creemos que características como un sistema de valoraciones, búsqueda avanzada, historial de transacciones, un foro de ayuda y un mapa interactivo serán cruciales para una experiencia de usuario exitosa. La gamificación añadirá un elemento de compromiso y diversión.
+  - **Necesidad del Cliente:** Partimos de la premisa de que nuestros usuarios anhelan una solución que entrelace la movilidad sostenible con una fuente de ingresos adaptable a sus vidas.
+  - **Solución Propuesta:** Nuestra aplicación web será el puente que conecte a estudiantes con vehículos menores y a personas interesadas en alquilarlos o comprarlos, creando un mercado beneficioso para ambos.
+  - **Propuesta de Valor:** Para los universitarios, ofrecemos una vía para monetizar sus activos sin sacrificar sus estudios. Para los usuarios, brindamos acceso fácil a un transporte ecológico que mejora su movilidad.
+  - **Adquisición de Clientes:** Planeamos llegar a nuestro público a través de campañas en redes sociales, colaboraciones estratégicas con universidades y presencia en eventos de sostenibilidad.
+  - **Modelo de Ingresos:** Nuestra sostenibilidad financiera se basará en modelos de suscripción para los estudiantes que publican sus vehículos y en una comisión por cada transacción exitosa.
+  - **Competencia:** Aunque existen otras plataformas de movilidad, nuestro factor diferenciador será la combinación única de sostenibilidad, flexibilidad económica para estudiantes y una interfaz diseñada para ser excepcionalmente simple y práctica.
+  - **Riesgos Clave:** Los principales desafíos son construir una masa crítica de usuarios activos y garantizar que la experiencia en la plataforma supere sus expectativas.
 
-* **Suposiciones sobre las Funcionalidades:**
-    * Asumimos que un sistema de calificaciones y reseñas generará confianza en la comunidad.
-    * Una función de búsqueda con filtros avanzados permitirá a los usuarios encontrar exactamente lo que necesitan de manera rápida.
-    * Un panel de usuario con un historial de transacciones ofrecerá transparencia y control.
-    * Un canal de soporte directo, como un foro o contacto por WhatsApp, resolverá dudas eficientemente.
-    * Un mapa interactivo para localizar vehículos será una herramienta fundamental.
-    * Elementos de gamificación, como logros y recompensas, incentivarán el uso recurrente de la aplicación.
+- **Suposiciones sobre el Usuario:**
 
-* **Resultados de Negocio Esperados:**
-    * Aspiramos a una plataforma estable y fluida que garantice una experiencia de usuario sin interrupciones.
-    * Nuestro objetivo es alcanzar un 70% de satisfacción entre los usuarios en el primer trimestre post-lanzamiento.
-    * Buscamos lograr una reducción medible del 40% en la contaminación generada por los viajes de nuestros usuarios, contribuyendo así a la lucha contra el cambio climático.
+  - **¿Quién es?** Identificamos dos perfiles claros: **universitarios** con vehículos subutilizados y un deseo de generar ingresos, y **usuarios finales** (trabajadores, turistas, etc.) que buscan opciones de transporte ecológicas y económicas en Lima.
+  - **¿Cómo encajamos en su vida?** Para los estudiantes, somos una herramienta de empoderamiento financiero. Para los usuarios, somos un facilitador de una movilidad más inteligente y consciente.
+  - **¿Qué problema resolvemos?** A los estudiantes les solucionamos la necesidad de ingresos flexibles. A los usuarios les ofrecemos una alternativa a la congestión y la contaminación.
+  - **¿Cuándo y cómo nos usarán?** Los estudiantes usarán la app para gestionar sus vehículos disponibles. Los usuarios la consultarán cuando necesiten moverse por la ciudad de forma rápida y sostenible.
+  - **¿Qué funciones valorarán?** Creemos que características como un sistema de valoraciones, búsqueda avanzada, historial de transacciones, un foro de ayuda y un mapa interactivo serán cruciales para una experiencia de usuario exitosa. La gamificación añadirá un elemento de compromiso y diversión.
 
-* **Nuestros Usuarios:**
-    El corazón de nuestra plataforma son los **estudiantes universitarios**, quienes a través del alquiler o venta de sus vehículos menores se convierten en pequeños emprendedores. Del otro lado se encuentran los **usuarios finales**, personas que buscan una forma más inteligente y sostenible de moverse por la ciudad y encuentran en nuestra comunidad la solución perfecta.
+- **Suposiciones sobre las Funcionalidades:**
 
-* **Beneficios para el Usuario:**
-    * **Para los Universitarios:** La oportunidad de generar ingresos de forma flexible y la satisfacción de contribuir a una causa ecológica.
-    * **Para los Usuarios Finales:** La capacidad de reducir su huella de carbono y el acceso simplificado a medios de transporte prácticos cuando más los necesitan.
+  - Asumimos que un sistema de calificaciones y reseñas generará confianza en la comunidad.
+  - Una función de búsqueda con filtros avanzados permitirá a los usuarios encontrar exactamente lo que necesitan de manera rápida.
+  - Un panel de usuario con un historial de transacciones ofrecerá transparencia y control.
+  - Un canal de soporte directo, como un foro o contacto por WhatsApp, resolverá dudas eficientemente.
+  - Un mapa interactivo para localizar vehículos será una herramienta fundamental.
+  - Elementos de gamificación, como logros y recompensas, incentivarán el uso recurrente de la aplicación.
 
+- **Resultados de Negocio Esperados:**
+
+  - Aspiramos a una plataforma estable y fluida que garantice una experiencia de usuario sin interrupciones.
+  - Nuestro objetivo es alcanzar un 70% de satisfacción entre los usuarios en el primer trimestre post-lanzamiento.
+  - Buscamos lograr una reducción medible del 40% en la contaminación generada por los viajes de nuestros usuarios, contribuyendo así a la lucha contra el cambio climático.
+
+- **Nuestros Usuarios:**
+  El corazón de nuestra plataforma son los **estudiantes universitarios**, quienes a través del alquiler o venta de sus vehículos menores se convierten en pequeños emprendedores. Del otro lado se encuentran los **usuarios finales**, personas que buscan una forma más inteligente y sostenible de moverse por la ciudad y encuentran en nuestra comunidad la solución perfecta.
+
+- **Beneficios para el Usuario:**
+  - **Para los Universitarios:** La oportunidad de generar ingresos de forma flexible y la satisfacción de contribuir a una causa ecológica.
+  - **Para los Usuarios Finales:** La capacidad de reducir su huella de carbono y el acceso simplificado a medios de transporte prácticos cuando más los necesitan.
 
 #### [**1.2.2.3. Lean UX Hypothesis Statements.**](#1223-lean-ux-hypothesis-statements)
 
-* **Hipótesis 01:** Creemos que al facilitar que los universitarios alquilen o vendan sus vehículos, fomentaremos una cultura de economía compartida que reducirá la necesidad de vehículos privados y, por ende, beneficiará al medio ambiente. Sabremos que es cierto cuando veamos un aumento en los ingresos de los estudiantes y un crecimiento orgánico de la comunidad a través de recomendaciones.
-* **Hipótesis 02:** Creemos que al ofrecer una gama diversa de opciones de transporte sostenible, inspiraremos un estilo de vida más eco-consciente. El éxito será evidente cuando observemos que las autoridades locales de Lima invierten más en infraestructura para la micromovilidad, como ciclovías y carriles para scooters.
-* **Hipótesis 03:** Creemos que ampliar nuestra oferta de vehículos atraerá a un público más amplio. Mediremos el éxito a través de un crecimiento significativo en nuestra base de usuarios después de cada nueva incorporación.
-* **Hipótesis 04:** Creemos que un enfoque riguroso en la seguridad y el mantenimiento de los vehículos fortalecerá la confianza del usuario. Lo confirmaremos al ver un aumento en la tasa de retención de usuarios y al recibir comentarios positivos sobre la fiabilidad del servicio.
-* **Hipótesis 05:** Creemos que al optimizar continuamente la experiencia de usuario, haremos que la aplicación sea más accesible y agradable para todos. Sabremos que hemos tenido éxito cuando las métricas muestren un mayor tiempo de uso en la app y las encuestas reflejen una alta satisfacción general.
+- **Hipótesis 01:** Creemos que al facilitar que los universitarios alquilen o vendan sus vehículos, fomentaremos una cultura de economía compartida que reducirá la necesidad de vehículos privados y, por ende, beneficiará al medio ambiente. Sabremos que es cierto cuando veamos un aumento en los ingresos de los estudiantes y un crecimiento orgánico de la comunidad a través de recomendaciones.
+- **Hipótesis 02:** Creemos que al ofrecer una gama diversa de opciones de transporte sostenible, inspiraremos un estilo de vida más eco-consciente. El éxito será evidente cuando observemos que las autoridades locales de Lima invierten más en infraestructura para la micromovilidad, como ciclovías y carriles para scooters.
+- **Hipótesis 03:** Creemos que ampliar nuestra oferta de vehículos atraerá a un público más amplio. Mediremos el éxito a través de un crecimiento significativo en nuestra base de usuarios después de cada nueva incorporación.
+- **Hipótesis 04:** Creemos que un enfoque riguroso en la seguridad y el mantenimiento de los vehículos fortalecerá la confianza del usuario. Lo confirmaremos al ver un aumento en la tasa de retención de usuarios y al recibir comentarios positivos sobre la fiabilidad del servicio.
+- **Hipótesis 05:** Creemos que al optimizar continuamente la experiencia de usuario, haremos que la aplicación sea más accesible y agradable para todos. Sabremos que hemos tenido éxito cuando las métricas muestren un mayor tiempo de uso en la app y las encuestas reflejen una alta satisfacción general.
 
 #### [**1.2.2.4. Lean UX Canvas.**](#1224-lean-ux-canvas)
 
@@ -403,6 +422,7 @@ Por medio de nuestro enfoque de obtener una solución efectiva a las problemáti
 # Capítulo II: Requirements Elicitation & Analysis
 
 ## 2.1. Competidores
+
 ### 2.1.1. Análisis competitivo
 
 El análisis competitivo es fundamental para la toma de decisiones estratégicas, ya que permite identificar oportunidades y amenazas, además de contribuir a la creación de ventajas competitivas sostenibles en el mercado. Esta herramienta es crucial para que las empresas se mantengan ágiles y tomen decisiones informadas en un entorno empresarial en constante evolución. A continuación, se muestra cómo se ha integrado esta herramienta en el desarrollo del proyecto y el análisis de los competidores.
@@ -500,21 +520,25 @@ Eventos locales para promover el uso de bicicletas.</td>
 • Plan Universitario: Permite hasta 10 publicaciones al mes, con la opción de destacar tus publicaciones y soporte prioritario. El costo es de $5.99 al mes después del período de prueba.
 
 • Plan Graduado: Proporciona publicaciones ilimitadas para rentar o vender vehículos, con soporte 24/7. El costo es de $19.99 al mes después del período de prueba.</td>
-    <td colspan="1" valign="top">• Plan Diario: Aproximadamente $0.50 a $1.00 por hora, con un costo máximo diario que varía entre $5.00 y $10.00.
+
+<td colspan="1" valign="top">• Plan Diario: Aproximadamente $0.50 a $1.00 por hora, con un costo máximo diario que varía entre $5.00 y $10.00.
 
 • Plan Mensual: Cuesta entre $25.00 y $40.00.
 
 • Plan Anual: Está en el rango de $150.00 a $300.00.</td>
-    <td colspan="1" valign="top">• Alojamientos por Noche: Los precios pueden variar desde alrededor de $30 a $200 o más por noche, dependiendo de la ciudad, el tipo de propiedad y la temporada.
+
+<td colspan="1" valign="top">• Alojamientos por Noche: Los precios pueden variar desde alrededor de $30 a $200 o más por noche, dependiendo de la ciudad, el tipo de propiedad y la temporada.
 
 • Estancias Largas: Muchos anfitriones ofrecen descuentos para estancias de una semana o más, que pueden reducir el costo por noche.
 
 • Experiencias: Los precios para experiencias (actividades o tours ofrecidos por locales) generalmente oscilan entre $20 y $100 por persona, aunque pueden variar ampliamente.</td>
-    <td colspan="1" valign="top">• Plan Diario: Aproximadamente S/ 8.00 a S/ 15.00 por día.
+
+<td colspan="1" valign="top">• Plan Diario: Aproximadamente S/ 8.00 a S/ 15.00 por día.
 
 • Plan Mensual: Alrededor de S/ 50.00 a S/ 100.00.
 
 • Plan Anual: S/ 300.00 a S/ 600.00, dependiendo de la suscripción y beneficios adicionales.</td>
+
   </tr>
   <tr>
     <td colspan="2">Canales de distribución (Web y/o Móvil)</td>
@@ -562,65 +586,78 @@ Eventos locales para promover el uso de bicicletas.</td>
 Basado en el análisis competitivo previo, se identificaron claramente las fortalezas, oportunidades, debilidades y amenazas de los competidores. Esta información es fundamental para diseñar estrategias y tácticas que permitan superar a la competencia cuando el servicio se lance al mercado de manera rentable. A continuación, se presentan una serie de estrategias y tácticas planificadas para lograr este objetivo.
 
 - **Afrontando las fortalezas de nuestros competidores:**
-    - Lanzar nuevas funcionalidades tecnológicas para destacar en el mercado.
-    - Ofrecer soporte 24/7 personalizado y proactivo.
+
+  - Lanzar nuevas funcionalidades tecnológicas para destacar en el mercado.
+  - Ofrecer soporte 24/7 personalizado y proactivo.
 
   **Nuestras fortalezas son:**
-    - Desarrollo de nuevas características tecnológicas.
-    - Diferenciación en mercados poco atendidos.
+
+  - Desarrollo de nuevas características tecnológicas.
+  - Diferenciación en mercados poco atendidos.
 
   **Estrategias:**
-    - Nos enfocaremos en universitarios, ofreciendo opciones de renta o compra a largo plazo para aquellos que necesiten vehículos menores para desplazarse diariamente.
+
+  - Nos enfocaremos en universitarios, ofreciendo opciones de renta o compra a largo plazo para aquellos que necesiten vehículos menores para desplazarse diariamente.
 
   **Tácticas:**
-    - Organizaremos eventos de lanzamiento en universidades o zonas clave.
+
+  - Organizaremos eventos de lanzamiento en universidades o zonas clave.
 
 ---
 
 - **Afrontando las oportunidades de nuestros competidores:**
-    - Implementaremos rápidamente nuevas funciones y mejoras.
-    - Ofreceremos un foro de contacto excepcional.
+
+  - Implementaremos rápidamente nuevas funciones y mejoras.
+  - Ofreceremos un foro de contacto excepcional.
 
   **Nuestras debilidades son:**
-    - No tenemos la misma presencia que competidores establecidos, lo que puede dificultar la captación de usuarios.
-    - Recursos más limitados para marketing y tecnología.
+
+  - No tenemos la misma presencia que competidores establecidos, lo que puede dificultar la captación de usuarios.
+  - Recursos más limitados para marketing y tecnología.
 
   **Estrategias:**
-    - Promoveremos Muevete! como una alternativa ecológica y sostenible.
-    - Implementaremos programas de reforestación o reducción de carbono por cada alquiler o compra.
-    - Resaltaremos el uso de vehículos eléctricos y de bajo impacto ambiental.
+
+  - Promoveremos Muevete! como una alternativa ecológica y sostenible.
+  - Implementaremos programas de reforestación o reducción de carbono por cada alquiler o compra.
+  - Resaltaremos el uso de vehículos eléctricos y de bajo impacto ambiental.
 
   **Tácticas:**
-    - Identificaremos áreas de alto tránsito estudiantil con baja competencia.
-    - Estableceremos operaciones en esas zonas antes que los competidores para capturar mercado local.
+
+  - Identificaremos áreas de alto tránsito estudiantil con baja competencia.
+  - Estableceremos operaciones en esas zonas antes que los competidores para capturar mercado local.
 
 ---
 
 - **Afrontando nuevamente las oportunidades de nuestros competidores:**
-    - Resaltaremos nuestro enfoque en la sostenibilidad.
-    - Nos enfocaremos en áreas con poca competencia y alta demanda.
+
+  - Resaltaremos nuestro enfoque en la sostenibilidad.
+  - Nos enfocaremos en áreas con poca competencia y alta demanda.
 
   **Nuestras debilidades son:**
-    - Menor reconocimiento de marca.
-    - Presupuesto más ajustado.
-    - Presencia inicial limitada.
+
+  - Menor reconocimiento de marca.
+  - Presupuesto más ajustado.
+  - Presencia inicial limitada.
 
   **Estrategias:**
-    - Ofreceremos tarifas con un mes gratuito para los universitarios, construyendo una base de usuarios estable y recurrente.
+
+  - Ofreceremos tarifas con un mes gratuito para los universitarios, construyendo una base de usuarios estable y recurrente.
 
   **Tácticas:**
-    - Ofreceremos un foro de contacto durante horas pico (mañanas antes de clases), distinguiéndonos de competidores con soporte limitado.
+
+  - Ofreceremos un foro de contacto durante horas pico (mañanas antes de clases), distinguiéndonos de competidores con soporte limitado.
 
 ---
 
 - **Afrontando las oportunidades de nuestros competidores:**
-    - Implementaremos filtros para resaltar la calidad del cliente.
+
+  - Implementaremos filtros para resaltar la calidad del cliente.
 
   **Nuestras debilidades son:**
-    - Reconocimiento de marca limitado.
-    - Presupuesto reducido para marketing y operaciones.
-    - Presencia aún en expansión.
 
+  - Reconocimiento de marca limitado.
+  - Presupuesto reducido para marketing y operaciones.
+  - Presencia aún en expansión.
 
 ## 2.2. Entrevistas
 
@@ -631,6 +668,7 @@ En esta sección se han definido todas las preguntas que se plantearán en el mo
 #### Preguntas dirigidas a Universitarios
 
 ##### Preguntas principales
+
 1. ¿Podrías decirme tu nombre completo y edad?
 2. ¿En qué distrito resides actualmente?
 3. ¿Cuál es tu estado civil?
@@ -648,6 +686,7 @@ En esta sección se han definido todas las preguntas que se plantearán en el mo
 15. ¿Cuáles son los requisitos o condiciones para rentar o vender uno de tus vehículos?
 
 ##### Preguntas complementarias
+
 16. ¿Sigues algún protocolo específico para la limpieza y desinfección, y con qué frecuencia realizas estas tareas?
 17. ¿Qué proceso sigues para verificar la identidad y credibilidad de los posibles adquirientes?
 18. ¿Cómo organizas la entrega y recogida de los vehículos? ¿Tienes puntos de recogida específicos o cómo coordinas estos procesos?
@@ -661,6 +700,7 @@ En esta sección se han definido todas las preguntas que se plantearán en el mo
 #### Preguntas dirigidas a Adquirientes
 
 ##### Preguntas principales
+
 1. ¿Podrías decirme tu nombre completo y edad?
 2. ¿En qué distrito resides actualmente?
 3. ¿Dónde naciste y en qué lugar vives actualmente?
@@ -677,6 +717,7 @@ En esta sección se han definido todas las preguntas que se plantearán en el mo
 14. ¿Qué mejoras o características adicionales crees que podrían mejorar tu experiencia al usar una aplicación de renta o compra de vehículos?
 
 ##### Preguntas complementarias
+
 15. ¿Cómo has gestionado el alquiler o la compra de vehículos en el pasado?
 16. ¿Qué tipo de soporte o asistencia esperas recibir durante el proceso de alquiler o compra?
 17. ¿Tienes alguna preferencia particular en cuanto a la aplicación o tecnología que se utiliza para acceder a la aplicación?
@@ -687,43 +728,44 @@ En esta sección se han definido todas las preguntas que se plantearán en el mo
 
 **Entrevista a Universitarios.**
 
-|                               **Entrevista 1**                               |                                                                                                                                                                                        **Brissa**                                                                                                                                                                                        | 
-|:----------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|                            <center>Edad</center>                             |                                                                                                                                                                                  <center>19</center>                                                                                                                                                                                  |
-|                          <center>Distrito</center>                           |                                                                                                                                                                                <center>Rímac</center>                                                                                                                                                                                |
-|   <center>![Interview_Camila](assets/chapter-2/entrevistaBrissa.png)</center>    |                                                                                                                                                                              <center>Brissa valora EcoTech porque le ofrece una solución para utilizar un vehículo menor que no usa. Le interesa nuestra metodología para facilitar el alquiler y la venta de estos vehículos, así como el registro de los mismos. Aprecia la simplicidad con la que una persona puede ofrecer servicios de alquiler y venta a través de nuestra aplicación. Sin embargo, sugiere que deberíamos mejorar las interacciones entre quienes alquilan y quienes ofrecen la renta o compra.</center>                                                                                                                                                                              |
-|                    <center>Timing: 14:53-20:01 </center>                     |                                                                                                                                                                              <center>URL: [[link](https://acortar.link/uMdFvk)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213222_upc_edu_pe/EYvfM5T1ScdBpoM4ZDAvlQgBLmbxD7DTIk_2O02DixCJBw?e=vsHMUY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) </center>                                                                                                          
-|                               **Entrevista 2**                                |                                                                                                                                                                                                                                    **Name**                                                                                                                                                                                                                                    | 
-|                             <center>Edad</center>                             |                                                                                                                                                                                                                              <center>Age</center>                                                                                                                                                                                                                              |
-|                           <center>Distrito</center>                           |                                                                                                                                                                                                                           <center>District</center>                                                                                                                                                                                                                            | 
-| <center>![Interview_Rodrigo](assets/chapter-2/entrevistaRodrigo.png)</center> |                                                                                                                                                                                                                         <center> Descripcion </center>                                                                                                                                                                                                                         | 
-|                     <center>Timing: 4:58-10:04 </center>                      |                                                                                                                                                                                                                          <center>URL: link </center>                                                                                                                                                                                                                           | 
-|                               **Entrevista 3**                                |                                                                                                                                                                                                                        **Yeni Fiorella Alvarado Mejia**                                                                                                                                                                                                                        | 
-|                             <center>Edad</center>                             |                                                                                                                                                                                                                            <center>28 años</center>                                                                                                                                                                                                                            |
-|                           <center>Distrito</center>                           |                                                                                                                                                                                                                          <center>Los Olivos</center>                                                                                                                                                                                                                           | 
-|  <center>![Interview Brissa](assets/chapter-2/Entrevista-Yeni.PNG)</center>  | <center>Yeni valora una aplicación como la nuestra porque le ofrece una solución para utilizar un vehículo menor que no usa. Le interesa nuestra metodología para facilitar el alquiler y la venta de estos vehículos, así como el registro de los mismos. Aprecia la simplicidad con la que una persona puede ofrecer servicios de alquiler y venta a través de nuestra aplicación. Le gustaria que aseguramos el alquiler de sus vehículos y la seguridad de estos.</center> | 
-|                        <center>Timing: 6:27 </center>                         |                                                                                                                                                                                                               <center>URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a789_upc_edu_pe/EX3B1v6zImNLiJ-V8VgFw10Bc3l7-t9b43j0KdGtmeYJ_A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=q3V2Ld </center>                                                                                                                                                                                                               | 
+|                               **Entrevista 1**                                |                                                                                                                                                                                                                                             **Brissa**                                                                                                                                                                                                                                             |
+| :---------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                             <center>Edad</center>                             |                                                                                                                                                                                                                                        <center>19</center>                                                                                                                                                                                                                                         |
+|                           <center>Distrito</center>                           |                                                                                                                                                                                                                                       <center>Rímac</center>                                                                                                                                                                                                                                       |
+|  <center>![Interview_Camila](assets/chapter-2/entrevistaBrissa.png)</center>  | <center>Brissa valora EcoTech porque le ofrece una solución para utilizar un vehículo menor que no usa. Le interesa nuestra metodología para facilitar el alquiler y la venta de estos vehículos, así como el registro de los mismos. Aprecia la simplicidad con la que una persona puede ofrecer servicios de alquiler y venta a través de nuestra aplicación. Sin embargo, sugiere que deberíamos mejorar las interacciones entre quienes alquilan y quienes ofrecen la renta o compra.</center> |
+|                     <center>Timing: 14:53-20:01 </center>                     |                                                        <center>URL: [[link](https://acortar.link/uMdFvk)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213222_upc_edu_pe/EYvfM5T1ScdBpoM4ZDAvlQgBLmbxD7DTIk_2O02DixCJBw?e=vsHMUY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) </center>                                                        |
+|                               **Entrevista 2**                                |                                                                                                                                                                                                                                              **Name**                                                                                                                                                                                                                                              |
+|                             <center>Edad</center>                             |                                                                                                                                                                                                                                        <center>Age</center>                                                                                                                                                                                                                                        |
+|                           <center>Distrito</center>                           |                                                                                                                                                                                                                                     <center>District</center>                                                                                                                                                                                                                                      |
+| <center>![Interview_Rodrigo](assets/chapter-2/entrevistaRodrigo.png)</center> |                                                                                                                                                                                                                                   <center> Descripcion </center>                                                                                                                                                                                                                                   |
+|                     <center>Timing: 4:58-10:04 </center>                      |                                                                                                                                                                                                                                    <center>URL: link </center>                                                                                                                                                                                                                                     |
+|                               **Entrevista 3**                                |                                                                                                                                                                                                                                  **Yeni Fiorella Alvarado Mejia**                                                                                                                                                                                                                                  |
+|                             <center>Edad</center>                             |                                                                                                                                                                                                                                      <center>28 años</center>                                                                                                                                                                                                                                      |
+|                           <center>Distrito</center>                           |                                                                                                                                                                                                                                    <center>Los Olivos</center>                                                                                                                                                                                                                                     |
+|  <center>![Interview Brissa](assets/chapter-2/Entrevista-Yeni.PNG)</center>   |           <center>Yeni valora una aplicación como la nuestra porque le ofrece una solución para utilizar un vehículo menor que no usa. Le interesa nuestra metodología para facilitar el alquiler y la venta de estos vehículos, así como el registro de los mismos. Aprecia la simplicidad con la que una persona puede ofrecer servicios de alquiler y venta a través de nuestra aplicación. Le gustaria que aseguramos el alquiler de sus vehículos y la seguridad de estos.</center>           |
+|                        <center>Timing: 6:27 </center>                         |                                                                           <center>URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a789_upc_edu_pe/EX3B1v6zImNLiJ-V8VgFw10Bc3l7-t9b43j0KdGtmeYJ_A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=q3V2Ld </center>                                                                            |
 
 **Entrevista a Adquirientes.**
 
-|                               **Entrevista 1**                               |                                                                                                                                                                                        **Silvia Alexandra Flores Garcia**                                                                                                                                                                                        | 
-|:----------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|                            <center>Edad</center>                             |                                                                                                                                                                                  <center>19</center>                                                                                                                                                                                  |
-|                          <center>Distrito</center>                           |                                                                                                                                                                                <center>San Martín</center>                                                                                                                                                                                |
-|   <center>![Interview_Camila](assets/chapter-2/entrevistaSilvia.png)</center>    |                                                                                                                                                                              <center>Silvia, una estudiante de veterinaria a la que entrevistamos para obtener información valiosa para nuestro proyecto, expresó que la idea de alquilar y vender vehículos menores a través de una aplicación es innovadora, especialmente por su enfoque en opciones que benefician al medio ambiente. Destacó la conveniencia de los métodos de pago por su rapidez y eficiencia. Finalmente, mencionó que le gustaría poder comunicarse directamente con el universitario para discutir detalles de la renta y compra, conocer el estado del vehículo y dejar una valoración.</center>                                                                                                                                                                              |
-|                    <center>Timing: 5:26 </center>                     |                                                                                                                                                                              <center>URL: [link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213222_upc_edu_pe/EW5xM21GEKZDlK5WuFuOBhcB_IJpaBiFkexh2W4ghfdgOg?e=c55P3H&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) </center>                                                                                                                                                                               |
-|                               **Entrevista 2**                               |                                                                                                                                                                                        **Name**                                                                                                                                                                                        | 
-|                            <center>Edad</center>                             |                                                                                                                                                                                  <center>Age</center>                                                                                                                                                                                  |
-|                          <center>Distrito</center>                           |                                                                                                                                                                               <center>District</center>                                                                                                                                                                                |
-|  <center>![Interview_Paola](assets/chapter-2/entrevistaPaola.png)</center>   |                                                                                                                                                                              <center>Descripcion</center>                                                                                                                                                                              |
-|                    <center>Timing: 20:02-25:01 </center>                     |                                                                                                                                                                              <center>URL: link </center>                                                                                                                                                                               |
-|                               **Entrevista 3**                               |                                                                                                                                                                            **Hilder Francisco Ruiz Perez**                                                                                                                                                                             | 
-|                            <center>Edad</center>                             |                                                                                                                                                                                <center>22 Años</center>                                                                                                                                                                                |
-|                          <center>Distrito</center>                           |                                                                                                                                                                        <center>San Juan de Lurigancho</center>                                                                                                                                                                         |
-| <center>![Interview_Rodrigo](assets/chapter-2/Entrevista-Francisco.PNG)</center> | <center>Francisco, le gusta el propósito de la aplicación, puesto que ya usó algunas anteriormente por salidas familiares. Espera que con esta aplicación se pueda ahorrar tiempo, dinero y que sea más seguro. Sugiere que se podría mejorar teniendo fotos de los vehículos y distintas características del vehículo, sin olvidar tener un comprobante de pago como prueba.</center> |
-|                        <center>Timing: 7:59 </center>                        |                                                                                                                                                                   <center>URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a789_upc_edu_pe/EWxE05DPOI5NnTme01aBA-kB20xF3TelWnk8DFQ1sV9etg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=MfQe3k </center>                                                                                                                                                                   |
+|                                 **Entrevista 1**                                 |                                                                                                                                                                                                                                                                               **Silvia Alexandra Flores Garcia**                                                                                                                                                                                                                                                                               |
+| :------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                              <center>Edad</center>                               |                                                                                                                                                                                                                                                                                      <center>19</center>                                                                                                                                                                                                                                                                                       |
+|                            <center>Distrito</center>                             |                                                                                                                                                                                                                                                                                  <center>San Martín</center>                                                                                                                                                                                                                                                                                   |
+|   <center>![Interview_Camila](assets/chapter-2/entrevistaSilvia.png)</center>    | <center>Silvia, una estudiante de veterinaria a la que entrevistamos para obtener información valiosa para nuestro proyecto, expresó que la idea de alquilar y vender vehículos menores a través de una aplicación es innovadora, especialmente por su enfoque en opciones que benefician al medio ambiente. Destacó la conveniencia de los métodos de pago por su rapidez y eficiencia. Finalmente, mencionó que le gustaría poder comunicarse directamente con el universitario para discutir detalles de la renta y compra, conocer el estado del vehículo y dejar una valoración.</center> |
+|                          <center>Timing: 5:26 </center>                          |                                                                                                                     <center>URL: [link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213222_upc_edu_pe/EW5xM21GEKZDlK5WuFuOBhcB_IJpaBiFkexh2W4ghfdgOg?e=c55P3H&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) </center>                                                                                                                      |
+|                                 **Entrevista 2**                                 |                                                                                                                                                                                                                                                                                            **Name**                                                                                                                                                                                                                                                                                            |
+|                              <center>Edad</center>                               |                                                                                                                                                                                                                                                                                      <center>Age</center>                                                                                                                                                                                                                                                                                      |
+|                            <center>Distrito</center>                             |                                                                                                                                                                                                                                                                                   <center>District</center>                                                                                                                                                                                                                                                                                    |
+|    <center>![Interview_Paola](assets/chapter-2/entrevistaPaola.png)</center>     |                                                                                                                                                                                                                                                                                  <center>Descripcion</center>                                                                                                                                                                                                                                                                                  |
+|                      <center>Timing: 20:02-25:01 </center>                       |                                                                                                                                                                                                                                                                                  <center>URL: link </center>                                                                                                                                                                                                                                                                                   |
+|                                 **Entrevista 3**                                 |                                                                                                                                                                                                                                                                                **Hilder Francisco Ruiz Perez**                                                                                                                                                                                                                                                                                 |
+|                              <center>Edad</center>                               |                                                                                                                                                                                                                                                                                    <center>22 Años</center>                                                                                                                                                                                                                                                                                    |
+|                            <center>Distrito</center>                             |                                                                                                                                                                                                                                                                            <center>San Juan de Lurigancho</center>                                                                                                                                                                                                                                                                             |
+| <center>![Interview_Rodrigo](assets/chapter-2/Entrevista-Francisco.PNG)</center> |                                                                                                     <center>Francisco, le gusta el propósito de la aplicación, puesto que ya usó algunas anteriormente por salidas familiares. Espera que con esta aplicación se pueda ahorrar tiempo, dinero y que sea más seguro. Sugiere que se podría mejorar teniendo fotos de los vehículos y distintas características del vehículo, sin olvidar tener un comprobante de pago como prueba.</center>                                                                                                     |
+|                          <center>Timing: 7:59 </center>                          |                                                                                                                         <center>URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a789_upc_edu_pe/EWxE05DPOI5NnTme01aBA-kB20xF3TelWnk8DFQ1sV9etg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=MfQe3k </center>                                                                                                                          |
 
 ### 2.2.3 Análisis de entrevistas.
+
 **Análisis del segmento universitario**
 
 Los entrevistados valoran altamente la aplicación Muevete! por su capacidad para facilitar la renta y la venta de vehículos menores inactivos, permitiéndoles generar ingresos adicionales y contribuir a la movilidad sostenible. El 100% de los usuarios aprecian cómo la aplicación optimiza el proceso de rentar o vender estos vehículos, destacando su utilidad para maximizar el valor de los recursos no utilizados. La facilidad de uso y la funcionalidad para registrar y gestionar los vehículos son aspectos especialmente valorados.
@@ -737,7 +779,6 @@ El 100% de los entrevistados valoran la presencia de un mapa interactivo y las o
 Además, el 67% valora positivamente la atención al cliente y la posibilidad de comunicarse directamente con el universitario, sugiriendo que una comunicación efectiva es esencial para una experiencia de alquiler y compra satisfactoria. Todos los entrevistados consideran importantes las ventajas ambientales del servicio, lo que refleja una alta conciencia y aprecio por el impacto positivo en el medio ambiente.
 
 Algunos usuarios también sugirieron incluir características adicionales, como opciones de seguro más flexibles y mejoras en el proceso de devolución del vehículo, para aumentar la satisfacción general y la confianza en el servicio.
-
 
 ## 2.3. Needfinding
 
@@ -1077,45 +1118,44 @@ Para elaborar el To-be Scenario Mapping, el equipo definió cómo sería el fluj
 
 ![ToBeMapping2](/assets/chapter-3/tobe2.png)
 
-
 ### **3.2. User Stories**
 
 Las historias de usuario son nuestra herramienta para traducir las expectativas y necesidades de las personas en requisitos técnicos claros para el equipo de desarrollo. Una historia bien construida funciona como una brújula, explicando qué se va a construir, para quién y qué valor aporta. Para el proyecto EcoMovil, nuestro equipo ha definido un conjunto de historias que guiarán la creación de nuestra Landing Page, la aplicación web y los componentes técnicos esenciales.
 
-| ID de Historia | Título de la Historia | Narrativa del Usuario | Condiciones para la Aceptación | Épica (ID) |
-| :--- | :--- | :--- | :--- | :--- |
-| **US01** | Navegación Principal en la Página de Inicio | **Como** visitante de la web (estudiante o usuario), **quiero** una barra de navegación intuitiva **para** poder explorar las diferentes secciones y entender rápidamente lo que EcoMovil ofrece. | **Escenario 1: Visibilidad de la Navegación**<br>**Dado que** un usuario está en la página de inicio,<br>**cuando** la página carga,<br>**entonces** la barra de navegación debe aparecer con todas sus secciones y botones visibles.<br><br>**Escenario 2: Redirección Correcta**<br>**Dado que** un usuario ve la barra de navegación,<br>**cuando** hace clic en cualquier enlace,<br>**entonces** es dirigido correctamente a la sección correspondiente dentro del sitio. | 1 |
-| **US02** | Sección de Bienvenida Atractiva | **Como** visitante, **quiero** ver una sección principal (Hero) impactante al entrar a la web **para** captar la esencia de EcoMovil y motivarme a seguir explorando. | **Escenario 1: Carga de la Sección Principal**<br>**Dado que** un usuario llega a la página de inicio,<br>**cuando** la página termina de cargar,<br>**entonces** la sección de bienvenida debe ocupar un lugar protagónico en la parte superior, con un mensaje claro y un diseño atractivo. | 1 |
-| **US03** | Pie de Página Informativo | **Como** visitante, **quiero** encontrar un pie de página (Footer) completo **para** consultar información legal y de contacto. | **Escenario 1: Contenido del Pie de Página**<br>**Dado que** un usuario navega por la página,<br>**cuando** llega al final del sitio,<br>**entonces** debe visualizar un pie de página con enlaces a los términos de servicio, políticas de privacidad y otros datos relevantes. | 1 |
-| **US04** | Explicación del Funcionamiento | **Como** potencial usuario, **quiero** una sección que explique cómo funciona EcoMovil **para** entender los beneficios de usar la plataforma y cómo puedo sacarle provecho. | **Escenario 1: Claridad de la Sección "Cómo Funciona"**<br>**Dado que** un usuario está en la página de inicio,<br>**cuando** explora el contenido,<br>**entonces** debe encontrar una sección que describa de forma clara y visual el funcionamiento de la aplicación y sus ventajas. | 1 |
-| **US05** | Formulario de Contacto Accesible | **Como** interesado en la plataforma, **quiero** tener una sección de contacto fácil de usar **para** poder comunicarme con el equipo y unirme a la comunidad. | **Escenario 1: Disponibilidad de la Sección de Contacto**<br>**Dado que** un usuario está explorando la página,<br>**cuando** busca cómo contactar a EcoMovil,<br>**entonces** debe encontrar una sección visible con la información necesaria para iniciar la comunicación o el registro. | 1 |
-| **US06** | Diseño Adaptable a Dispositivos | **Como** usuario, **quiero** que la página de inicio se vea y funcione bien en cualquier dispositivo **para** tener una experiencia consistente desde mi móvil, tablet o computadora. | **Escenario 1: Experiencia en Múltiples Pantallas**<br>**Dado que** un usuario accede a la web desde distintos dispositivos,<br>**cuando** la página carga,<br>**entonces** el contenido debe reorganizarse y ajustarse al tamaño de la pantalla, manteniendo la legibilidad y funcionalidad sin necesidad de hacer zoom. | 1 |
-| **US07** | Visualización de Planes y Precios | **Como** universitario, **quiero** ver una sección de planes clara **para** poder comparar las opciones, elegir una y unirme a la plataforma. | **Escenario 1: Presentación de los Planes**<br>**Dado que** un usuario está en la página de inicio,<br>**cuando** navega hacia la sección de planes,<br>**entonces** debe poder ver las distintas opciones, sus características y precios, con un camino claro para seleccionar un plan e iniciar su suscripción. | 1 |
-| **US08** | Sección "Sobre Nosotros" | **Como** visitante, **quiero** una sección "Acerca de" **para** conocer la historia, misión y valores del equipo detrás de EcoMovil. | **Escenario 1: Acceso a la Historia de la Marca**<br>**Dado que** un usuario explora la página,<br>**cuando** busca más información sobre la empresa,<br>**entonces** debe encontrar una sección "Acerca de" que narre de forma atractiva la identidad y el propósito de EcoMovil. | 1 |
-| **US09** | Opción para Unirse a la Comunidad | **Como** visitante, **quiero** encontrar fácilmente una opción para unirme **para** poder registrar mi correo y ser parte de la comunidad de EcoMovil. | **Escenario 1: Facilidad de Registro**<br>**Dado que** un usuario está interesado en la plataforma,<br>**cuando** decide unirse,<br>**entonces** debe encontrar una sección clara y accesible para iniciar su proceso de registro en EcoMovil. | 1 |
-| **US10** | Acceso para Iniciar Sesión | **Como** usuario registrado, **quiero** un acceso visible para iniciar sesión **para** poder ingresar a mi cuenta en la aplicación. | **Escenario 1: Visibilidad del Inicio de Sesión**<br>**Dado que** un usuario visita la página de inicio,<br>**cuando** la página carga,<br>**entonces** la opción para "Iniciar Sesión" o "Ingresar" debe ser fácilmente localizable. | 1 |
-| **US11** | Información Específica para Universitarios | **Como** estudiante, **quiero** una sección dirigida a mí **para** entender los beneficios exclusivos y cómo puedo unirme como proveedor de vehículos. | **Escenario 1: Contenido para Estudiantes**<br>**Dado que** un universitario está en la página de inicio,<br>**cuando** explora las opciones,<br>**entonces** debe encontrar una sección con información específica y un llamado a la acción claro para unirse como universitario. | 1 |
-| **US12** | Sección de Información Detallada | **Como** visitante curioso, **quiero** una sección de "Conoce Más" **para** profundizar en los detalles y características de la aplicación. | **Escenario 1: Acceso a Detalles Adicionales**<br>**Dado que** un usuario está en la página de inicio,<br>**cuando** busca información más a fondo,<br>**entonces** la sección "Conoce más sobre nosotros" debe ofrecer detalles exhaustivos sobre la plataforma. | 1 |
-| **US13** | Botón de Llamada a la Acción Principal | **Como** visitante, **quiero** ver un botón destacado como "Empieza tu viaje" **para** saber exactamente cómo iniciar mi experiencia en EcoMovil. | **Escenario 1: Visibilidad del Botón Principal**<br>**Dado que** un usuario está en la página de inicio,<br>**cuando** la página carga,<br>**entonces** el botón "Empieza tu viaje" debe ser prominente y atractivo, invitando al usuario a dar el siguiente paso. | 1 |
-| **US14** | Mención de Derechos Reservados | **Como** usuario, **quiero** ver una nota sobre los derechos reservados **para** sentir confianza en que la plataforma opera de manera profesional y legal. | **Escenario 1: Visualización de la Nota Legal**<br>**Dado que** un usuario navega hasta el final de la página,<br>**cuando** la página carga completamente,<br>**entonces** el texto "Todos los derechos reservados" debe estar visible, confirmando la protección de la propiedad intelectual. | 1 |
-| **US15** | Sección Específica para Adquirientes | **Como** persona que busca transporte, **quiero** una sección que me hable directamente **para** entender cómo EcoMovil resuelve mis necesidades de movilidad. | **Escenario 1: Contenido para Adquirientes**<br>**Dado que** un adquiriente potencial está en la página de inicio,<br>**cuando** explora el sitio,<br>**entonces** debe encontrar una sección dedicada que explique los beneficios y el proceso para alquilar o comprar un vehículo. | 1 |
-| **US16** | Proceso de Creación de Cuenta | **Como** nuevo universitario, **quiero** un formulario de registro sencillo **para** poder crear mi cuenta y acceder a la aplicación. | **Escenario 1: Registro Exitoso**<br>**Dado que** un usuario está en la página de registro,<br>**cuando** llena los campos requeridos (RUC, email, nombre, contraseña) y pulsa "Registrar",<br>**entonces** su cuenta es creada exitosamente y es redirigido a la página de inicio de la aplicación. | 2 |
-| **US17** | Funcionalidad de Inicio de Sesión | **Como** usuario registrado, **quiero** iniciar sesión con mis credenciales **para** acceder a mi perfil y a las funciones de la aplicación. | **Escenario 1: Autenticación Exitosa**<br>**Dado que** un usuario está en la página de login,<br>**cuando** introduce su correo y contraseña correctos y pulsa "Iniciar Sesión",<br>**entonces** el sistema lo valida y le da acceso a la plataforma. | 2 |
-| **US18** | Selección de Plan de Suscripción | **Como** universitario, **quiero** poder seleccionar un plan **para** habilitar la opción de publicar mis vehículos en la plataforma. | **Escenario 1: Proceso de Elección de Plan**<br>**Dado que** un usuario está en la sección de planes,<br>**cuando** hace clic en el botón "Elegir Plan" de su opción preferida,<br>**entonces** es dirigido a la pasarela de pago para completar la suscripción y poder publicar sus vehículos. | 3 |
-| **US19** | Confirmación de Pago Exitoso | **Como** universitario, **quiero** recibir una confirmación visual de mi pago **para** tener la certeza de que mi suscripción está activa. | **Escenario 1: Mensaje de Confirmación**<br>**Dado que** un usuario ha finalizado el proceso de pago,<br>**cuando** la transacción es aprobada,<br>**entonces** es redirigido a una página que muestra un claro mensaje de "Pago Exitoso". | 3 |
-| **US20** | Publicación de Nuevos Vehículos | **Como** universitario, **quiero** un formulario para añadir mis vehículos **para** poder ofrecerlos en alquiler o venta. | **Escenario 1: Añadir un Vehículo**<br>**Dado que** un usuario autenticado está en su panel,<br>**cuando** selecciona "Agregar Vehículo", completa los detalles (tipo, fotos, precio, etc.) y pulsa "Publicar",<br>**entonces** el vehículo se añade a su inventario y recibe una notificación de publicación exitosa. | 4 |
-| **US21** | Visualización de Datos de Perfil | **Como** universitario, **quiero** poder ver mi perfil **para** verificar que mis datos personales y de contacto (nombre, email, RUC) son correctos. | **Escenario 1: Acceso al Perfil de Vendedor**<br>**Dado que** un usuario ha iniciado sesión,<br>**cuando** accede a la sección "Mi Perfil",<br>**entonces** la página debe mostrar de forma clara y organizada toda su información registrada. | 5 |
-| **US22** | Consulta de Historial de Transacciones | **Como** usuario, **quiero** un historial de vehículos **para** llevar un registro de todas mis transacciones, ya sea como vendedor o como adquiriente. | **Escenario 1: Revisión del Historial**<br>**Dado que** un usuario ha iniciado sesión,<br>**cuando** navega a la sección "Historial de Vehículos",<br>**entonces** el sistema debe mostrar una lista detallada de todos los vehículos alquilados, comprados, rentados o vendidos. | 4 |
-| **US23** | Acceso a un Foro de Contacto | **Como** usuario, **quiero** un foro de contacto **para** poder comunicarme con otros propietarios a través de WhatsApp. | **Escenario 1: Interacción en el Foro**<br>**Dado que** un usuario está en la plataforma,<br>**cuando** accede a la sección "Foro",<br>**entonces** debe ver una lista de propietarios y la opción de contactarlos directamente a través de un enlace de WhatsApp. | 6 |
-| **US24** | Configuración de Estilos con Tailwind CSS | **Como** desarrollador, **quiero** configurar el archivo `tailwind.config.js` **para** alinear la paleta de colores y tipografías con la identidad visual de EcoMovil. | **Escenario 1: Personalización de la Identidad Visual**<br>**Dado que** tengo acceso al archivo de configuración de Tailwind,<br>**cuando** defino los colores y fuentes de la marca en `tailwind.config.js`,<br>**entonces** todos los componentes de la aplicación deben reflejar consistentemente el estilo de la marca. | 7 |
-| **US25** | API para Búsqueda por Geolocalización | **Como** desarrollador, **quiero** implementar una API de búsqueda geolocalizada **para** que los usuarios puedan encontrar vehículos disponibles cerca de ellos en tiempo real. | **Escenario 1: Respuesta de la API Geolocalizada**<br>**Dado que** la infraestructura de la API está configurada,<br>**cuando** la aplicación envía una solicitud con la ubicación del usuario,<br>**entonces** la API debe devolver una lista de vehículos cercanos, incluyendo su distancia y disponibilidad. | 7 |
-| **US26** | Búsqueda y Filtro de Vehículos | **Como** usuario, **quiero** poder buscar y filtrar vehículos **para** encontrar rápidamente el que se ajusta a mis necesidades de transporte. | **Escenario 1: Búsqueda por Tipo de Vehículo**<br>**Dado que** estoy en la página de búsqueda,<br>**cuando** ingreso un tipo de vehículo (ej. "bicicleta") y aplico filtros,<br>**entonces** la plataforma me muestra una lista de resultados que coinciden con mi criterio. | 4 |
-| **US27** | Creación de Temas de Discusión | **Como** miembro de la comunidad, **quiero** iniciar y participar en discusiones **para** intercambiar información y consejos con otros usuarios. | **Escenario 1: Publicar en el Foro**<br>**Dado que** he iniciado sesión y estoy en el foro,<br>**cuando** creo una nueva discusión con un título y mensaje y la publico,<br>**entonces** mi publicación se hace visible para que otros usuarios puedan leerla y responder. | 6 |
-| **US28** | Actualización de la Información de Perfil | **Como** usuario, **quiero** poder editar mi perfil **para** mantener mi información personal siempre actualizada. | **Escenario 1: Edición de Datos Personales**<br>**Dado que** estoy en la página de mi perfil,<br>**cuando** modifico mis datos (nombre, teléfono, etc.) y guardo los cambios,<br>**entonces** el sistema actualiza mi información y me muestra un mensaje de confirmación. | 5 |
-| **US29** | Notificaciones de Transacción Exitosa | **Como** usuario, **quiero** recibir una notificación tras un pago exitoso **para** tener la seguridad de que la transacción se completó correctamente. | **Escenario 1: Confirmación de Pago**<br>**Dado que** he realizado un pago en la plataforma,<br>**cuando** el sistema lo procesa exitosamente,<br>**entonces** recibo una notificación instantánea en la app y un correo electrónico con los detalles de la compra o alquiler. | 3 |
-| **US30** | Video en la Sección "Sobre el Producto" | **Como** visitante, **quiero** ver un video explicativo **para** entender de forma rápida y visual en qué consiste el producto. | **Escenario 1: Reproducción del Video del Producto**<br>**Dado que** estoy en la página "Acerca del Producto",<br>**cuando** veo la sección de video,<br>**entonces** el video se muestra con controles de reproducción y funciona correctamente al darle play, con una duración máxima de 3 minutos. | 4 |
-| **US31** | Video en la Sección "Sobre el Equipo" | **Como** visitante, **quiero** ver un video sobre el equipo **para** conocer a las personas que están detrás de EcoMovil. | **Escenario 1: Reproducción del Video del Equipo**<br>**Dado que** estoy en la página "Acerca del Equipo",<br>**cuando** veo la sección de video,<br>**entonces** el video se muestra con sus controles, se reproduce correctamente y tiene una duración máxima de 3 minutos. | 4 |
-| **US32** | Funcionalidad de Múltiples Idiomas | **Como** usuario internacional, **quiero** poder cambiar el idioma de la aplicación **para** utilizarla en mi lengua nativa cómodamente. | **Escenario 1: Cambio de Idioma**<br>**Dado que** estoy usando la aplicación,<br>**cuando** selecciono un nuevo idioma en el menú,<br>**entonces** toda la interfaz de texto se traduce instantáneamente y se actualiza al idioma elegido. | 4 |
+| ID de Historia | Título de la Historia                       | Narrativa del Usuario                                                                                                                                                                             | Condiciones para la Aceptación                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Épica (ID) |
+| :------------- | :------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------- |
+| **US01**       | Navegación Principal en la Página de Inicio | **Como** visitante de la web (estudiante o usuario), **quiero** una barra de navegación intuitiva **para** poder explorar las diferentes secciones y entender rápidamente lo que EcoMovil ofrece. | **Escenario 1: Visibilidad de la Navegación**<br>**Dado que** un usuario está en la página de inicio,<br>**cuando** la página carga,<br>**entonces** la barra de navegación debe aparecer con todas sus secciones y botones visibles.<br><br>**Escenario 2: Redirección Correcta**<br>**Dado que** un usuario ve la barra de navegación,<br>**cuando** hace clic en cualquier enlace,<br>**entonces** es dirigido correctamente a la sección correspondiente dentro del sitio. | 1          |
+| **US02**       | Sección de Bienvenida Atractiva             | **Como** visitante, **quiero** ver una sección principal (Hero) impactante al entrar a la web **para** captar la esencia de EcoMovil y motivarme a seguir explorando.                             | **Escenario 1: Carga de la Sección Principal**<br>**Dado que** un usuario llega a la página de inicio,<br>**cuando** la página termina de cargar,<br>**entonces** la sección de bienvenida debe ocupar un lugar protagónico en la parte superior, con un mensaje claro y un diseño atractivo.                                                                                                                                                                                  | 1          |
+| **US03**       | Pie de Página Informativo                   | **Como** visitante, **quiero** encontrar un pie de página (Footer) completo **para** consultar información legal y de contacto.                                                                   | **Escenario 1: Contenido del Pie de Página**<br>**Dado que** un usuario navega por la página,<br>**cuando** llega al final del sitio,<br>**entonces** debe visualizar un pie de página con enlaces a los términos de servicio, políticas de privacidad y otros datos relevantes.                                                                                                                                                                                               | 1          |
+| **US04**       | Explicación del Funcionamiento              | **Como** potencial usuario, **quiero** una sección que explique cómo funciona EcoMovil **para** entender los beneficios de usar la plataforma y cómo puedo sacarle provecho.                      | **Escenario 1: Claridad de la Sección "Cómo Funciona"**<br>**Dado que** un usuario está en la página de inicio,<br>**cuando** explora el contenido,<br>**entonces** debe encontrar una sección que describa de forma clara y visual el funcionamiento de la aplicación y sus ventajas.                                                                                                                                                                                         | 1          |
+| **US05**       | Formulario de Contacto Accesible            | **Como** interesado en la plataforma, **quiero** tener una sección de contacto fácil de usar **para** poder comunicarme con el equipo y unirme a la comunidad.                                    | **Escenario 1: Disponibilidad de la Sección de Contacto**<br>**Dado que** un usuario está explorando la página,<br>**cuando** busca cómo contactar a EcoMovil,<br>**entonces** debe encontrar una sección visible con la información necesaria para iniciar la comunicación o el registro.                                                                                                                                                                                     | 1          |
+| **US06**       | Diseño Adaptable a Dispositivos             | **Como** usuario, **quiero** que la página de inicio se vea y funcione bien en cualquier dispositivo **para** tener una experiencia consistente desde mi móvil, tablet o computadora.             | **Escenario 1: Experiencia en Múltiples Pantallas**<br>**Dado que** un usuario accede a la web desde distintos dispositivos,<br>**cuando** la página carga,<br>**entonces** el contenido debe reorganizarse y ajustarse al tamaño de la pantalla, manteniendo la legibilidad y funcionalidad sin necesidad de hacer zoom.                                                                                                                                                      | 1          |
+| **US07**       | Visualización de Planes y Precios           | **Como** universitario, **quiero** ver una sección de planes clara **para** poder comparar las opciones, elegir una y unirme a la plataforma.                                                     | **Escenario 1: Presentación de los Planes**<br>**Dado que** un usuario está en la página de inicio,<br>**cuando** navega hacia la sección de planes,<br>**entonces** debe poder ver las distintas opciones, sus características y precios, con un camino claro para seleccionar un plan e iniciar su suscripción.                                                                                                                                                              | 1          |
+| **US08**       | Sección "Sobre Nosotros"                    | **Como** visitante, **quiero** una sección "Acerca de" **para** conocer la historia, misión y valores del equipo detrás de EcoMovil.                                                              | **Escenario 1: Acceso a la Historia de la Marca**<br>**Dado que** un usuario explora la página,<br>**cuando** busca más información sobre la empresa,<br>**entonces** debe encontrar una sección "Acerca de" que narre de forma atractiva la identidad y el propósito de EcoMovil.                                                                                                                                                                                             | 1          |
+| **US09**       | Opción para Unirse a la Comunidad           | **Como** visitante, **quiero** encontrar fácilmente una opción para unirme **para** poder registrar mi correo y ser parte de la comunidad de EcoMovil.                                            | **Escenario 1: Facilidad de Registro**<br>**Dado que** un usuario está interesado en la plataforma,<br>**cuando** decide unirse,<br>**entonces** debe encontrar una sección clara y accesible para iniciar su proceso de registro en EcoMovil.                                                                                                                                                                                                                                 | 1          |
+| **US10**       | Acceso para Iniciar Sesión                  | **Como** usuario registrado, **quiero** un acceso visible para iniciar sesión **para** poder ingresar a mi cuenta en la aplicación.                                                               | **Escenario 1: Visibilidad del Inicio de Sesión**<br>**Dado que** un usuario visita la página de inicio,<br>**cuando** la página carga,<br>**entonces** la opción para "Iniciar Sesión" o "Ingresar" debe ser fácilmente localizable.                                                                                                                                                                                                                                          | 1          |
+| **US11**       | Información Específica para Universitarios  | **Como** estudiante, **quiero** una sección dirigida a mí **para** entender los beneficios exclusivos y cómo puedo unirme como proveedor de vehículos.                                            | **Escenario 1: Contenido para Estudiantes**<br>**Dado que** un universitario está en la página de inicio,<br>**cuando** explora las opciones,<br>**entonces** debe encontrar una sección con información específica y un llamado a la acción claro para unirse como universitario.                                                                                                                                                                                             | 1          |
+| **US12**       | Sección de Información Detallada            | **Como** visitante curioso, **quiero** una sección de "Conoce Más" **para** profundizar en los detalles y características de la aplicación.                                                       | **Escenario 1: Acceso a Detalles Adicionales**<br>**Dado que** un usuario está en la página de inicio,<br>**cuando** busca información más a fondo,<br>**entonces** la sección "Conoce más sobre nosotros" debe ofrecer detalles exhaustivos sobre la plataforma.                                                                                                                                                                                                              | 1          |
+| **US13**       | Botón de Llamada a la Acción Principal      | **Como** visitante, **quiero** ver un botón destacado como "Empieza tu viaje" **para** saber exactamente cómo iniciar mi experiencia en EcoMovil.                                                 | **Escenario 1: Visibilidad del Botón Principal**<br>**Dado que** un usuario está en la página de inicio,<br>**cuando** la página carga,<br>**entonces** el botón "Empieza tu viaje" debe ser prominente y atractivo, invitando al usuario a dar el siguiente paso.                                                                                                                                                                                                             | 1          |
+| **US14**       | Mención de Derechos Reservados              | **Como** usuario, **quiero** ver una nota sobre los derechos reservados **para** sentir confianza en que la plataforma opera de manera profesional y legal.                                       | **Escenario 1: Visualización de la Nota Legal**<br>**Dado que** un usuario navega hasta el final de la página,<br>**cuando** la página carga completamente,<br>**entonces** el texto "Todos los derechos reservados" debe estar visible, confirmando la protección de la propiedad intelectual.                                                                                                                                                                                | 1          |
+| **US15**       | Sección Específica para Adquirientes        | **Como** persona que busca transporte, **quiero** una sección que me hable directamente **para** entender cómo EcoMovil resuelve mis necesidades de movilidad.                                    | **Escenario 1: Contenido para Adquirientes**<br>**Dado que** un adquiriente potencial está en la página de inicio,<br>**cuando** explora el sitio,<br>**entonces** debe encontrar una sección dedicada que explique los beneficios y el proceso para alquilar o comprar un vehículo.                                                                                                                                                                                           | 1          |
+| **US16**       | Proceso de Creación de Cuenta               | **Como** nuevo universitario, **quiero** un formulario de registro sencillo **para** poder crear mi cuenta y acceder a la aplicación.                                                             | **Escenario 1: Registro Exitoso**<br>**Dado que** un usuario está en la página de registro,<br>**cuando** llena los campos requeridos (RUC, email, nombre, contraseña) y pulsa "Registrar",<br>**entonces** su cuenta es creada exitosamente y es redirigido a la página de inicio de la aplicación.                                                                                                                                                                           | 2          |
+| **US17**       | Funcionalidad de Inicio de Sesión           | **Como** usuario registrado, **quiero** iniciar sesión con mis credenciales **para** acceder a mi perfil y a las funciones de la aplicación.                                                      | **Escenario 1: Autenticación Exitosa**<br>**Dado que** un usuario está en la página de login,<br>**cuando** introduce su correo y contraseña correctos y pulsa "Iniciar Sesión",<br>**entonces** el sistema lo valida y le da acceso a la plataforma.                                                                                                                                                                                                                          | 2          |
+| **US18**       | Selección de Plan de Suscripción            | **Como** universitario, **quiero** poder seleccionar un plan **para** habilitar la opción de publicar mis vehículos en la plataforma.                                                             | **Escenario 1: Proceso de Elección de Plan**<br>**Dado que** un usuario está en la sección de planes,<br>**cuando** hace clic en el botón "Elegir Plan" de su opción preferida,<br>**entonces** es dirigido a la pasarela de pago para completar la suscripción y poder publicar sus vehículos.                                                                                                                                                                                | 3          |
+| **US19**       | Confirmación de Pago Exitoso                | **Como** universitario, **quiero** recibir una confirmación visual de mi pago **para** tener la certeza de que mi suscripción está activa.                                                        | **Escenario 1: Mensaje de Confirmación**<br>**Dado que** un usuario ha finalizado el proceso de pago,<br>**cuando** la transacción es aprobada,<br>**entonces** es redirigido a una página que muestra un claro mensaje de "Pago Exitoso".                                                                                                                                                                                                                                     | 3          |
+| **US20**       | Publicación de Nuevos Vehículos             | **Como** universitario, **quiero** un formulario para añadir mis vehículos **para** poder ofrecerlos en alquiler o venta.                                                                         | **Escenario 1: Añadir un Vehículo**<br>**Dado que** un usuario autenticado está en su panel,<br>**cuando** selecciona "Agregar Vehículo", completa los detalles (tipo, fotos, precio, etc.) y pulsa "Publicar",<br>**entonces** el vehículo se añade a su inventario y recibe una notificación de publicación exitosa.                                                                                                                                                         | 4          |
+| **US21**       | Visualización de Datos de Perfil            | **Como** universitario, **quiero** poder ver mi perfil **para** verificar que mis datos personales y de contacto (nombre, email, RUC) son correctos.                                              | **Escenario 1: Acceso al Perfil de Vendedor**<br>**Dado que** un usuario ha iniciado sesión,<br>**cuando** accede a la sección "Mi Perfil",<br>**entonces** la página debe mostrar de forma clara y organizada toda su información registrada.                                                                                                                                                                                                                                 | 5          |
+| **US22**       | Consulta de Historial de Transacciones      | **Como** usuario, **quiero** un historial de vehículos **para** llevar un registro de todas mis transacciones, ya sea como vendedor o como adquiriente.                                           | **Escenario 1: Revisión del Historial**<br>**Dado que** un usuario ha iniciado sesión,<br>**cuando** navega a la sección "Historial de Vehículos",<br>**entonces** el sistema debe mostrar una lista detallada de todos los vehículos alquilados, comprados, rentados o vendidos.                                                                                                                                                                                              | 4          |
+| **US23**       | Acceso a un Foro de Contacto                | **Como** usuario, **quiero** un foro de contacto **para** poder comunicarme con otros propietarios a través de WhatsApp.                                                                          | **Escenario 1: Interacción en el Foro**<br>**Dado que** un usuario está en la plataforma,<br>**cuando** accede a la sección "Foro",<br>**entonces** debe ver una lista de propietarios y la opción de contactarlos directamente a través de un enlace de WhatsApp.                                                                                                                                                                                                             | 6          |
+| **US24**       | Configuración de Estilos con Tailwind CSS   | **Como** desarrollador, **quiero** configurar el archivo `tailwind.config.js` **para** alinear la paleta de colores y tipografías con la identidad visual de EcoMovil.                            | **Escenario 1: Personalización de la Identidad Visual**<br>**Dado que** tengo acceso al archivo de configuración de Tailwind,<br>**cuando** defino los colores y fuentes de la marca en `tailwind.config.js`,<br>**entonces** todos los componentes de la aplicación deben reflejar consistentemente el estilo de la marca.                                                                                                                                                    | 7          |
+| **US25**       | API para Búsqueda por Geolocalización       | **Como** desarrollador, **quiero** implementar una API de búsqueda geolocalizada **para** que los usuarios puedan encontrar vehículos disponibles cerca de ellos en tiempo real.                  | **Escenario 1: Respuesta de la API Geolocalizada**<br>**Dado que** la infraestructura de la API está configurada,<br>**cuando** la aplicación envía una solicitud con la ubicación del usuario,<br>**entonces** la API debe devolver una lista de vehículos cercanos, incluyendo su distancia y disponibilidad.                                                                                                                                                                | 7          |
+| **US26**       | Búsqueda y Filtro de Vehículos              | **Como** usuario, **quiero** poder buscar y filtrar vehículos **para** encontrar rápidamente el que se ajusta a mis necesidades de transporte.                                                    | **Escenario 1: Búsqueda por Tipo de Vehículo**<br>**Dado que** estoy en la página de búsqueda,<br>**cuando** ingreso un tipo de vehículo (ej. "bicicleta") y aplico filtros,<br>**entonces** la plataforma me muestra una lista de resultados que coinciden con mi criterio.                                                                                                                                                                                                   | 4          |
+| **US27**       | Creación de Temas de Discusión              | **Como** miembro de la comunidad, **quiero** iniciar y participar en discusiones **para** intercambiar información y consejos con otros usuarios.                                                 | **Escenario 1: Publicar en el Foro**<br>**Dado que** he iniciado sesión y estoy en el foro,<br>**cuando** creo una nueva discusión con un título y mensaje y la publico,<br>**entonces** mi publicación se hace visible para que otros usuarios puedan leerla y responder.                                                                                                                                                                                                     | 6          |
+| **US28**       | Actualización de la Información de Perfil   | **Como** usuario, **quiero** poder editar mi perfil **para** mantener mi información personal siempre actualizada.                                                                                | **Escenario 1: Edición de Datos Personales**<br>**Dado que** estoy en la página de mi perfil,<br>**cuando** modifico mis datos (nombre, teléfono, etc.) y guardo los cambios,<br>**entonces** el sistema actualiza mi información y me muestra un mensaje de confirmación.                                                                                                                                                                                                     | 5          |
+| **US29**       | Notificaciones de Transacción Exitosa       | **Como** usuario, **quiero** recibir una notificación tras un pago exitoso **para** tener la seguridad de que la transacción se completó correctamente.                                           | **Escenario 1: Confirmación de Pago**<br>**Dado que** he realizado un pago en la plataforma,<br>**cuando** el sistema lo procesa exitosamente,<br>**entonces** recibo una notificación instantánea en la app y un correo electrónico con los detalles de la compra o alquiler.                                                                                                                                                                                                 | 3          |
+| **US30**       | Video en la Sección "Sobre el Producto"     | **Como** visitante, **quiero** ver un video explicativo **para** entender de forma rápida y visual en qué consiste el producto.                                                                   | **Escenario 1: Reproducción del Video del Producto**<br>**Dado que** estoy en la página "Acerca del Producto",<br>**cuando** veo la sección de video,<br>**entonces** el video se muestra con controles de reproducción y funciona correctamente al darle play, con una duración máxima de 3 minutos.                                                                                                                                                                          | 4          |
+| **US31**       | Video en la Sección "Sobre el Equipo"       | **Como** visitante, **quiero** ver un video sobre el equipo **para** conocer a las personas que están detrás de EcoMovil.                                                                         | **Escenario 1: Reproducción del Video del Equipo**<br>**Dado que** estoy en la página "Acerca del Equipo",<br>**cuando** veo la sección de video,<br>**entonces** el video se muestra con sus controles, se reproduce correctamente y tiene una duración máxima de 3 minutos.                                                                                                                                                                                                  | 4          |
+| **US32**       | Funcionalidad de Múltiples Idiomas          | **Como** usuario internacional, **quiero** poder cambiar el idioma de la aplicación **para** utilizarla en mi lengua nativa cómodamente.                                                          | **Escenario 1: Cambio de Idioma**<br>**Dado que** estoy usando la aplicación,<br>**cuando** selecciono un nuevo idioma en el menú,<br>**entonces** toda la interfaz de texto se traduce instantáneamente y se actualiza al idioma elegido.                                                                                                                                                                                                                                     | 4          |
 
 ## 3.3. Impact Mapping.
 
@@ -1131,28 +1171,25 @@ A continuación, presentamos el Product Backlog de EcoMovil. Esta es la lista pr
 
 <br>
 
-| Prioridad | ID de Historia | Elemento del Backlog | Narrativa del Usuario | Puntos de Esfuerzo |
-| :--- | :--- | :--- | :--- | :--- |
-| 1 | US01 | Navegación Principal de la Página de Inicio | **Como** visitante de la web, **quiero** una barra de navegación clara **para** poder explorar las funcionalidades de la aplicación. | 3 |
-| 2 | US02 | Sección de Bienvenida Impactante | **Como** visitante, **quiero** una sección principal atractiva y clara al llegar a la web **para** entender el valor de EcoMovil y motivarme a saber más. | 5 |
-| 3 | US03 | Pie de Página Informativo | **Como** visitante, **quiero** un pie de página accesible **para** encontrar rápidamente información adicional como términos y políticas. | 2 |
-| 4 | US04 | Explicación del Funcionamiento de EcoMovil | **Como** interesado, **quiero** una sección que explique cómo funciona la plataforma **para** comprender cómo puede mejorar mi experiencia de movilidad ecológica. | 5 |
-| 5 | US05 | Sección de Contacto y Registro | **Como** potencial usuario, **quiero** una sección de contacto funcional **para** poder unirme a la comunidad de EcoMovil e iniciar la experiencia. | 3 |
-| 6 | US06 | Diseño Web Adaptable (Responsive) | **Como** usuario, **quiero** que la página se adapte a cualquier dispositivo (móvil, tablet, etc.) **para** poder navegarla con facilidad y sin perder legibilidad. | 7 |
-| 7 | US07 | Visualización de Planes de Suscripción | **Como** universitario, **quiero** acceder a una sección de planes **para** elegir el que mejor se adapte a mí y unirme a la plataforma. | 5 |
-| 8 | US08 | Sección "Sobre Nosotros" | **Como** visitante, **quiero** una sección "Acerca de" **para** conocer la historia, el equipo y la misión que impulsa a EcoMovil. | 4 |
-| 9 | US09 | Opción Directa para Unirse | **Como** visitante, **quiero** una sección clara para unirme **para** poder registrar mi correo electrónico fácilmente e inscribirme en la plataforma. | 4 |
-| 10 | US10 | Acceso para Iniciar Sesión | **Como** usuario registrado, **quiero** un acceso visible para iniciar sesión **para** poder ingresar a mi cuenta en la aplicación. | 5 |
-| 11 | US11 | Contenido Dirigido a Universitarios | **Como** estudiante, **quiero** una sección dedicada a mi perfil **para** entender los beneficios específicos y unirme como proveedor de vehículos. | 4 |
-| 12 | US12 | Sección "Conoce Más" | **Como** visitante, **quiero** una sección de "Conoce más sobre nosotros" **para** poder profundizar en los detalles y funcionalidades de EcoMovil. | 4 |
-| 13 | US13 | Botón Principal de Llamada a la Acción | **Como** visitante, **quiero** encontrar un botón destacado **para** poder empezar mi viaje en la plataforma de forma intuitiva. | 3 |
-| 14 | US14 | Nota sobre Derechos Reservados | **Como** usuario, **quiero** ver una sección de derechos reservados **para** tener la confianza de que la plataforma protege mis derechos y opera legalmente. | 3 |
-| 15 | US15 | Contenido Dirigido a Adquirientes | **Como** persona que busca transporte, **quiero** una sección dedicada a mí **para** entender cómo puedo alquilar o comprar vehículos en EcoMovil. | 5 |
-| 16 | US16 | API para Búsqueda por Geolocalización | **Como** equipo de desarrollo, **necesitamos** implementar una API de búsqueda geolocalizada **para** ofrecer a los usuarios vehículos disponibles en tiempo real. | 5 |
-| 17 | US17 | Configuración de Estilos de Marca (Tailwind CSS) | **Como** equipo de desarrollo, **necesitamos** configurar Tailwind CSS con los colores y fuentes de la marca **para** asegurar que el diseño sea coherente con nuestra identidad. | 5 |
-
-
-
+| Prioridad | ID de Historia | Elemento del Backlog                             | Narrativa del Usuario                                                                                                                                                             | Puntos de Esfuerzo |
+| :-------- | :------------- | :----------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------- |
+| 1         | US01           | Navegación Principal de la Página de Inicio      | **Como** visitante de la web, **quiero** una barra de navegación clara **para** poder explorar las funcionalidades de la aplicación.                                              | 3                  |
+| 2         | US02           | Sección de Bienvenida Impactante                 | **Como** visitante, **quiero** una sección principal atractiva y clara al llegar a la web **para** entender el valor de EcoMovil y motivarme a saber más.                         | 5                  |
+| 3         | US03           | Pie de Página Informativo                        | **Como** visitante, **quiero** un pie de página accesible **para** encontrar rápidamente información adicional como términos y políticas.                                         | 2                  |
+| 4         | US04           | Explicación del Funcionamiento de EcoMovil       | **Como** interesado, **quiero** una sección que explique cómo funciona la plataforma **para** comprender cómo puede mejorar mi experiencia de movilidad ecológica.                | 5                  |
+| 5         | US05           | Sección de Contacto y Registro                   | **Como** potencial usuario, **quiero** una sección de contacto funcional **para** poder unirme a la comunidad de EcoMovil e iniciar la experiencia.                               | 3                  |
+| 6         | US06           | Diseño Web Adaptable (Responsive)                | **Como** usuario, **quiero** que la página se adapte a cualquier dispositivo (móvil, tablet, etc.) **para** poder navegarla con facilidad y sin perder legibilidad.               | 7                  |
+| 7         | US07           | Visualización de Planes de Suscripción           | **Como** universitario, **quiero** acceder a una sección de planes **para** elegir el que mejor se adapte a mí y unirme a la plataforma.                                          | 5                  |
+| 8         | US08           | Sección "Sobre Nosotros"                         | **Como** visitante, **quiero** una sección "Acerca de" **para** conocer la historia, el equipo y la misión que impulsa a EcoMovil.                                                | 4                  |
+| 9         | US09           | Opción Directa para Unirse                       | **Como** visitante, **quiero** una sección clara para unirme **para** poder registrar mi correo electrónico fácilmente e inscribirme en la plataforma.                            | 4                  |
+| 10        | US10           | Acceso para Iniciar Sesión                       | **Como** usuario registrado, **quiero** un acceso visible para iniciar sesión **para** poder ingresar a mi cuenta en la aplicación.                                               | 5                  |
+| 11        | US11           | Contenido Dirigido a Universitarios              | **Como** estudiante, **quiero** una sección dedicada a mi perfil **para** entender los beneficios específicos y unirme como proveedor de vehículos.                               | 4                  |
+| 12        | US12           | Sección "Conoce Más"                             | **Como** visitante, **quiero** una sección de "Conoce más sobre nosotros" **para** poder profundizar en los detalles y funcionalidades de EcoMovil.                               | 4                  |
+| 13        | US13           | Botón Principal de Llamada a la Acción           | **Como** visitante, **quiero** encontrar un botón destacado **para** poder empezar mi viaje en la plataforma de forma intuitiva.                                                  | 3                  |
+| 14        | US14           | Nota sobre Derechos Reservados                   | **Como** usuario, **quiero** ver una sección de derechos reservados **para** tener la confianza de que la plataforma protege mis derechos y opera legalmente.                     | 3                  |
+| 15        | US15           | Contenido Dirigido a Adquirientes                | **Como** persona que busca transporte, **quiero** una sección dedicada a mí **para** entender cómo puedo alquilar o comprar vehículos en EcoMovil.                                | 5                  |
+| 16        | US16           | API para Búsqueda por Geolocalización            | **Como** equipo de desarrollo, **necesitamos** implementar una API de búsqueda geolocalizada **para** ofrecer a los usuarios vehículos disponibles en tiempo real.                | 5                  |
+| 17        | US17           | Configuración de Estilos de Marca (Tailwind CSS) | **Como** equipo de desarrollo, **necesitamos** configurar Tailwind CSS con los colores y fuentes de la marca **para** asegurar que el diseño sea coherente con nuestra identidad. | 5                  |
 
 # [**Capítulo IV: Solution Software Design**](#capitulo-iv-solution-software-design)
 
@@ -1161,30 +1198,33 @@ A continuación, presentamos el Product Backlog de EcoMovil. Esta es la lista pr
 En esta sección, explicamos el proceso realizado para la toma de decisiones estratégicas aplicando Domain-Driven Design y dividiendo nuestra solución en bounded contexts.
 
 ### [**4.1.1. Design-Level EventStorming**](#411-design-level-eventstorming)
+
 EventStorming es una metodología colaborativa que ayuda a explorar y comprender el dominio del problema mediante la detección de eventos relevantes, comandos del sistema, actores externos y entidades principales (aggregates). En esta sección se muestran los resultados de la sesión de EventStorming, que hizo posible representar los flujos de interacción entre los usuarios y el sistema, y establecer las bases para el diseño de los Bounded Contexts en etapas posteriores del proyecto.
 
 #### [**4.1.1.1. Candidate Context Discovery**](#4111-candidate-context-discovery)
 
 A partir del EventStorming realizado en Miro, nuestro equipo desarrolló una sesión de Candidate Context Discovery con el objetivo de identificar los bounded contexts de la solución. Durante esta dinámica, aplicamos principalmente la técnica look-for-pivotal-events.
 Técnicas aplicadas:
-•	Start-with-value: Se priorizaron las partes del dominio con mayor valor para el negocio, identificando el Contexto de Viajes y el Contexto de Pagos como críticos para garantizar la viabilidad del sistema.
-•	Start-with-simple: Se organizaron timelines secuenciales simples que representaron el ciclo básico: Registro → Publicación de viaje → Reserva → Pago → Calificación.
-•	Look-for-pivotal-events: Se identificaron eventos clave como Asiento reservado y Pago realizado, que marcan transiciones importantes entre contextos.
+• Start-with-value: Se priorizaron las partes del dominio con mayor valor para el negocio, identificando el Contexto de Viajes y el Contexto de Pagos como críticos para garantizar la viabilidad del sistema.
+• Start-with-simple: Se organizaron timelines secuenciales simples que representaron el ciclo básico: Registro → Publicación de viaje → Reserva → Pago → Calificación.
+• Look-for-pivotal-events: Se identificaron eventos clave como Asiento reservado y Pago realizado, que marcan transiciones importantes entre contextos.
 
 <img src="./assets/chapter-4/CandidateContextDiscovery/Step9.png">
-
 
 #### [**4.1.1.2. Domain Message Flows Modeling**](#4112-domain-message-flows-modeling)
 
 Se modelaron los flujos de mensajes entre los bounded contexts identificados, utilizando Domain Storytelling para representar eventos clave como la actualización de estados, la confirmación de reservas y las notificaciones de disponibilidad.
 
 ##### **Caso 1: Reserva de viaje y pago exitoso**
+
 <img src="./assets/chapter-4/DomainMessageFlowsModeling/escenario1.png">
 
 ##### **Caso 2: Finalización de viaje y calificación**
+
 <img src="./assets/chapter-4/DomainMessageFlowsModeling/escenario2.png">
 
 ##### **Caso 3: Suscripción Premium**
+
 <img src="./assets/chapter-4/DomainMessageFlowsModeling/escenario3.png">
 
 #### [**4.1.1.3. Bounded Context Canvases**](#4113-bounded-context-canvases)
@@ -1192,15 +1232,19 @@ Se modelaron los flujos de mensajes entre los bounded contexts identificados, ut
 Se definieron cuatro bounded contexts principales: Gestión de Viajes como núcleo encargado de la publicación, reserva y ejecución de trayectos; Pagos y Suscripciones para procesar transacciones y administrar planes; Gestión de Usuarios para autenticación, verificación de identidad y reputación; y Comunicación y Notificaciones para mensajería, alertas y ubicación en tiempo real. Cada uno fue diseñado considerando reglas de negocio, capacidades y dependencias, asegurando límites claros y coherentes para la solución.
 
 ##### **Contexto de Gestión de Viajes (Service Design and Planning / Service Execution)**
+
 <img src="./assets/chapter-4/BoundedContextCanvases/context1.png">
 
 ##### **Contexto de Pagos y Suscripciones (Subscriptions and Payment Management)**
+
 <img src="./assets/chapter-4/BoundedContextCanvases/context2.png">
 
 ##### **Contexto de Gestión de Usuarios (Identity and Access Management / Profiles and Preferences)**
+
 <img src="./assets/chapter-4/BoundedContextCanvases/context3.png">
 
 ##### **Contexto de Comunicación y Notificaciones (Loyalty and Engagement / Monitoring)**
+
 <img src="./assets/chapter-4/BoundedContextCanvases/context4.png">
 
 ### [**4.1.2. Context Mapping**](#412-context-mapping)
@@ -1208,6 +1252,7 @@ Se definieron cuatro bounded contexts principales: Gestión de Viajes como núcl
 El proceso de Context Mapping se realizó con el fin de visualizar las relaciones estructurales entre bounded contexts y explorar alternativas de organización.
 
 ##### Relaciones identificadas:
+
 Usuarios ↔ Viajes: relación de tipo Shared Kernel, ya que comparten el concepto de Usuario verificado.
 <img src="./assets/chapter-4/ContextMapping/Usuarios-Viajes-SK.png">
 
@@ -1247,7 +1292,7 @@ Usuarios ↔ Comunicación: relación Customer/Supplier, Comunicación depende d
 
 Este bounded context recopila todas las funcionalidades relacionadas a la gestión de usuarios existentes y nuevos del proyecto. Incluye, por ejemplo, el registro y autenticación de estudiantes, gestión de perfiles, reputación y calificaciones, etc.
 
-## **Clase Principal:** 
+## **Clase Principal:**
 
 `Usuario`
 
@@ -1257,13 +1302,13 @@ La clase Usuario representa a un usuario dentro de la plataforma, ya sea un cond
 
 ### **Atributos:**
 
-| Atributo       | Descripción                                                              |
-| -------------- | ------------------------------------------------------------------------ |
-| `nombre: String`      | Almacena el nombre del usuario.                                            |
-| `email: String`       | Almacena la dirección de correo electrónico del usuario.                   |
-| `contraseña: String`  | Almacena la contraseña del usuario.                                        |
-| `rol: Rol`            | Define el rol del usuario en la plataforma (conductor o pasajero).         |
-| `verificado: Boolean` | Indica si el usuario ha verificado su identidad.                           |
+| Atributo              | Descripción                                                        |
+| --------------------- | ------------------------------------------------------------------ |
+| `nombre: String`      | Almacena el nombre del usuario.                                    |
+| `email: String`       | Almacena la dirección de correo electrónico del usuario.           |
+| `contraseña: String`  | Almacena la contraseña del usuario.                                |
+| `rol: Rol`            | Define el rol del usuario en la plataforma (conductor o pasajero). |
+| `verificado: Boolean` | Indica si el usuario ha verificado su identidad.                   |
 
 ### **Relaciones**
 
@@ -1274,11 +1319,11 @@ La clase Usuario representa a un usuario dentro de la plataforma, ya sea un cond
 
 ### **Métodos:**
 
-| Método                   | Descripción                                                                        |
-| ------------------------ | ---------------------------------------------------------------------------------- |
-| `registrarse(): void`    | Método para registrar a un nuevo usuario en la plataforma.                        |
-| `iniciarSesion(): void`  | Método para que el usuario inicie sesión en la plataforma.                        |
-| `verificarIdentidad(): void` | Verifica la identidad del usuario a través de documentos o información adicional.
+| Método                       | Descripción                                                                       |
+| ---------------------------- | --------------------------------------------------------------------------------- |
+| `registrarse(): void`        | Método para registrar a un nuevo usuario en la plataforma.                        |
+| `iniciarSesion(): void`      | Método para que el usuario inicie sesión en la plataforma.                        |
+| `verificarIdentidad(): void` | Verifica la identidad del usuario a través de documentos o información adicional. |
 
 ---
 
@@ -1292,19 +1337,19 @@ La clase Evaluación permite a los usuarios calificar y dejar comentarios sobre 
 
 ### **Atributos:**
 
-| Atributo       | Descripción                                              |
-| -------------- | -------------------------------------------------------- |
-| `calificación: int` | Almacena la calificación numérica del viaje (por ejemplo, de 1 a 5). |
-| `comentario: String` | Almacena los comentarios opcionales sobre el viaje. |
-| `evaluador: Usuario` | Almacena la información del usuario que realiza la evaluación. |
-| `viaje: Viaje`       | Almacena la información del viaje evaluado.         |
+| Atributo             | Descripción                                                          |
+| -------------------- | -------------------------------------------------------------------- |
+| `calificación: int`  | Almacena la calificación numérica del viaje (por ejemplo, de 1 a 5). |
+| `comentario: String` | Almacena los comentarios opcionales sobre el viaje.                  |
+| `evaluador: Usuario` | Almacena la información del usuario que realiza la evaluación.       |
+| `viaje: Viaje`       | Almacena la información del viaje evaluado.                          |
 
 ### **Métodos:**
 
-| Método                 | Descripción                                              |
-| ---------------------- | -------------------------------------------------------- |
-| `calificar(): void`    | Permite al usuario dejar una calificación sobre el viaje.|
-| `dejarComentario(): void` | Permite al usuario dejar un comentario opcional sobre el viaje.|
+| Método                    | Descripción                                                     |
+| ------------------------- | --------------------------------------------------------------- |
+| `calificar(): void`       | Permite al usuario dejar una calificación sobre el viaje.       |
+| `dejarComentario(): void` | Permite al usuario dejar un comentario opcional sobre el viaje. |
 
 <br>
 
@@ -1316,10 +1361,10 @@ La clase Pasajero es una extensión de Usuario y representa a los usuarios que b
 
 ### **Métodos:**
 
-| Método                   | Descripción                                                   |
-| ------------------------ | ------------------------------------------------------------- |
-| `buscarViaje(): void`    | Permite al pasajero buscar viajes disponibles en la plataforma.|
-| `reservarViaje(): void`  | Permite al pasajero reservar un asiento en un vehículo disponible.|
+| Método                  | Descripción                                                        |
+| ----------------------- | ------------------------------------------------------------------ |
+| `buscarViaje(): void`   | Permite al pasajero buscar viajes disponibles en la plataforma.    |
+| `reservarViaje(): void` | Permite al pasajero reservar un asiento en un vehículo disponible. |
 
 ---
 
@@ -1330,6 +1375,7 @@ Consideramos que la clase principal de este bounded context (Usuario), nos permi
 ### **Reglas de Negocio**
 
 - **Componentes Obligatorios:** Nuestro dispositivo IoT debe incluir:
+
   - Sensor de localización
   - Sensor de alerta
 
@@ -1373,7 +1419,7 @@ A continuación, presentaremos las interfaces que creamos para ser consumidas ta
 
 - LocationDeviceController: Gestiona, en su totalidad, las funciones que ofrece nuestro dispositivo, así como cualquier transacción que realice.
 
-Siguiendo con el enfoque de Domain-Driven Design, contamos con commandHandlers y  eventHandlers que manejarán las solicitudes y transacciones realizadas por el controlador del dispositivo IoT.
+Siguiendo con el enfoque de Domain-Driven Design, contamos con commandHandlers y eventHandlers que manejarán las solicitudes y transacciones realizadas por el controlador del dispositivo IoT.
 
 - CreateLocationDeviceCommandHandler: Gestiona la creación de un nuevo dispositivo IoT.
 - LocationDeviceCreatedEventHandler: Verifica el estado de creación de un nuevo dispositivo IoT.
@@ -1409,6 +1455,7 @@ Por último, tenemos las clases que ayudarán con la conexión de microservicios
 En este capítulo describimos las directrices de diseño y estilo para el producto, asegurando una experiencia visual coherente y atractiva para el usuario.
 
 ## [**5.1. Style Guidelines.**](#style-guidelines)
+
 En esta sección se describen las pautas generales de estilo que guían la apariencia visual del producto, incluyendo el uso de colores, tipografía y espaciado.
 
 ### 5.1.1. General Style Guidelines
@@ -1424,7 +1471,6 @@ Es un conjunto de normas y directrices que determinan cómo se deben redactar, d
 - **Misión:** Facilitar el acceso a una movilidad urbana sostenible, conectando a las personas con vehículos ecológicos a través de una aplicación digital eficiente, contribuyendo a la reducción de la contaminación, y brindando oportunidades de ingresos para universitarios.
 
 - **Visión:** Convertirnos en una aplicación líder en movilidad urbana sostenible, facilitando el acceso a vehículos ecológicos y promoviendo un estilo de vida más saludable y consciente con el medio ambiente.
-
 
 ![EcoTechSquad](/assets/chapter-5/startfoto.jpeg)
 
@@ -1460,23 +1506,23 @@ La estructura tipográfica del proyecto se organiza en cuatro niveles de jerarqu
 El enfoque de la aplicación web "EcoTech" se basa en la eficiencia, la formación y la ecología en todos los procesos. Las diferentes etapas y formularios necesarios están organizados en secciones clave: Página principal, Acerca de nosotros, Inscríbase, Vehículos, Beneficios y Contacto, que ocupan la mayor parte de la pantalla para facilitar la navegación y ofrecer una experiencia de usuario fluida y coherente.
 
 - **Imágenes:**<br>
-  En el diseño web de "EcoTech", se utilizarán imágenes descriptivas de manera estratégica. Las imágenes de vehículos menores y de la empresa estarán en la página de inicio, con el logo de la empresa ubicado en la parte superior izquierda para facilitar su identificación. Además, cada sección principal contará con imágenes representativas de los vehículos menores, reforzando la visión ecológica para el usuario. Para optimizar la experiencia en aplicaciones de escritorio, se evitarán imágenes de fondo, optando en su lugar por imágenes laterales que guíen al usuario a través de la interfaz de manera funcional.
+    En el diseño web de "EcoTech", se utilizarán imágenes descriptivas de manera estratégica. Las imágenes de vehículos menores y de la empresa estarán en la página de inicio, con el logo de la empresa ubicado en la parte superior izquierda para facilitar su identificación. Además, cada sección principal contará con imágenes representativas de los vehículos menores, reforzando la visión ecológica para el usuario. Para optimizar la experiencia en aplicaciones de escritorio, se evitarán imágenes de fondo, optando en su lugar por imágenes laterales que guíen al usuario a través de la interfaz de manera funcional.
 
 - **Botones:**<br>
-  Los botones en la aplicación web "EcoTech" siguen las especificaciones establecidas en las General Style Guidelines. Generalmente, estos botones se encuentran en la parte inferior de la sección principal de la pantalla, permitiendo al usuario realizar acciones que se reflejan en la vista superior. Para acciones que inicien nuevos procesos o afecten el funcionamiento general de la aplicación, se incluyen botones de confirmación. Todos los botones están diseñados con un estilo distintivo y un alto contraste en comparación con el resto de la aplicación, asegurando que sean fácilmente visibles. Además, se aplica la teoría del color en los botones, donde los colores específicos indican acciones que eliminan procesos o los concluyen.
+    Los botones en la aplicación web "EcoTech" siguen las especificaciones establecidas en las General Style Guidelines. Generalmente, estos botones se encuentran en la parte inferior de la sección principal de la pantalla, permitiendo al usuario realizar acciones que se reflejan en la vista superior. Para acciones que inicien nuevos procesos o afecten el funcionamiento general de la aplicación, se incluyen botones de confirmación. Todos los botones están diseñados con un estilo distintivo y un alto contraste en comparación con el resto de la aplicación, asegurando que sean fácilmente visibles. Además, se aplica la teoría del color en los botones, donde los colores específicos indican acciones que eliminan procesos o los concluyen.
 
 - **Pantallas Emergentes:**<br>
-  Las pantallas emergentes en "EcoTech" están diseñadas para confirmar acciones clave que son cruciales para el funcionamiento del negocio y tienen un impacto significativo en el mismo. Estas pantallas emergentes enfatizan la importancia de resolver el asunto en cuestión antes de que el usuario pueda continuar navegando por la aplicación, subrayando la necesidad de tomar decisiones informadas en momentos críticos.
+    Las pantallas emergentes en "EcoTech" están diseñadas para confirmar acciones clave que son cruciales para el funcionamiento del negocio y tienen un impacto significativo en el mismo. Estas pantallas emergentes enfatizan la importancia de resolver el asunto en cuestión antes de que el usuario pueda continuar navegando por la aplicación, subrayando la necesidad de tomar decisiones informadas en momentos críticos.
 
 **Mobile Style Guidelines**
 
 El enfoque para la vista móvil de la aplicación EcoTech sigue el mismo principio que la vista de escritorio. Este enfoque se centra en la ecología y en la eficiencia de los procesos. Las etapas y formularios necesarios están representados en secciones y formularios que ocupan la mayor parte de la pantalla.
 
 - **Imágenes:**<br>
-  En el diseño móvil de "EcoTech", se utilizarán imágenes descriptivas de manera estratégica. Las imágenes de vehículos menores y de la empresa estarán en el inicio, con el logo de la empresa ubicado en la parte superior izquierda para facilitar su identificación. Para optimizar la experiencia en aplicaciones se evitarán imágenes de fondo, optando en su lugar por imágenes laterales que guíen al usuario a través de la interfaz de manera funcional.
+    En el diseño móvil de "EcoTech", se utilizarán imágenes descriptivas de manera estratégica. Las imágenes de vehículos menores y de la empresa estarán en el inicio, con el logo de la empresa ubicado en la parte superior izquierda para facilitar su identificación. Para optimizar la experiencia en aplicaciones se evitarán imágenes de fondo, optando en su lugar por imágenes laterales que guíen al usuario a través de la interfaz de manera funcional.
 
 - **Botones:**<br>
-  Los botones en la aplicación móvil "EcoTech" siguen las especificaciones establecidas en las General Style Guidelines. Generalmente, estos botones se encuentran en la parte inferior de la sección principal de la pantalla, permitiendo al usuario realizar acciones que se reflejan en la vista superior. Para acciones que inicien nuevos procesos o afecten el funcionamiento general de la aplicación, se incluyen botones de confirmación. Todos los botones están diseñados con un estilo distintivo y un alto contraste en comparación con el resto de la aplicación, asegurando que sean fácilmente visibles. Además, se aplica la teoría del color en los botones, donde los colores específicos indican acciones que eliminan procesos o los concluyen.
+    Los botones en la aplicación móvil "EcoTech" siguen las especificaciones establecidas en las General Style Guidelines. Generalmente, estos botones se encuentran en la parte inferior de la sección principal de la pantalla, permitiendo al usuario realizar acciones que se reflejan en la vista superior. Para acciones que inicien nuevos procesos o afecten el funcionamiento general de la aplicación, se incluyen botones de confirmación. Todos los botones están diseñados con un estilo distintivo y un alto contraste en comparación con el resto de la aplicación, asegurando que sean fácilmente visibles. Además, se aplica la teoría del color en los botones, donde los colores específicos indican acciones que eliminan procesos o los concluyen.
 
 ## 5.2. Information Architecture
 
@@ -1504,27 +1550,27 @@ Las metas etiquetas que utilizaremos son:
 
 ### Landing Page
 
-| **Attribute** | **Value** |
-|---------------|-----------|
-| Charset       | UTF-8     |
-| Viewport      | width=device-width, initial-scale=1.0 |
-| CSS Link      | ./src/css/styles.css |
-| Title         | EcoTech - Urban Mobility Solution Landing Page |
-| Description   | Explore our Landing page to redirect you to rent or buy eco-friendly vehicles like bicycles, scooters, and more. Start your journey towards a green city today. |
-| Keywords      | urban mobility, eco-friendly vehicles, bike rental, scooter rental, sustainable transportation |
-| Author        | EcoTech Team |
+| **Attribute**  | **Value**                                                                                                                                                       |
+| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Charset        | UTF-8                                                                                                                                                           |
+| Viewport       | width=device-width, initial-scale=1.0                                                                                                                           |
+| CSS Link       | ./src/css/styles.css                                                                                                                                            |
+| Title          | EcoTech - Urban Mobility Solution Landing Page                                                                                                                  |
+| Description    | Explore our Landing page to redirect you to rent or buy eco-friendly vehicles like bicycles, scooters, and more. Start your journey towards a green city today. |
+| Keywords       | urban mobility, eco-friendly vehicles, bike rental, scooter rental, sustainable transportation                                                                  |
+| Author         | EcoTech Team                                                                                                                                                    |
 
 ### Aplicación
 
-| **Attribute** | **Value** |
-|---------------|-----------|
-| Charset       | UTF-8     |
-| Viewport      | width=device-width, initial-scale=1.0 |
-| CSS Link      | ./src/css/styles.css |
-| Title         | EcoTech - Your Eco-Friendly Vehicle Rental Platform with interesting features to rent or buy eco-friendly vehicles |
-| Description   | EcoMobility provides a user-friendly platform for renting or buying bicycles, scooters, and other eco-friendly vehicles. Explore, book, and manage your rentals with ease. |
-| Keywords      | vehicle rental, bike rental, scooter rental, eco-friendly vehicles, urban mobility, sustainable travel, temporary insurance, badges, flexible income options |
-| Author        | EcoTech Team |
+| **Attribute**  | **Value**                                                                                                                                                                  |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Charset        | UTF-8                                                                                                                                                                      |
+| Viewport       | width=device-width, initial-scale=1.0                                                                                                                                      |
+| CSS Link       | ./src/css/styles.css                                                                                                                                                       |
+| Title          | EcoTech - Your Eco-Friendly Vehicle Rental Platform with interesting features to rent or buy eco-friendly vehicles                                                         |
+| Description    | EcoMobility provides a user-friendly platform for renting or buying bicycles, scooters, and other eco-friendly vehicles. Explore, book, and manage your rentals with ease. |
+| Keywords       | vehicle rental, bike rental, scooter rental, eco-friendly vehicles, urban mobility, sustainable travel, temporary insurance, badges, flexible income options               |
+| Author         | EcoTech Team                                                                                                                                                               |
 
 ### 5.2.4. Searching Systems
 
@@ -2175,11 +2221,15 @@ Para desarrollar los prototipos de la interfaz de usuario tanto para Desktop com
 2. **Diseño Adaptable:** Se prestó atención a la necesidad de un diseño adaptable que garantice la compatibilidad de la aplicación con diferentes tamaños de pantalla, evitando que los usuarios enfrenten restricciones según el dispositivo que utilicen.
 
 3. **Enfoque en Información Clave:** El diseño está orientado a presentar solo los datos más importantes para los usuarios dentro del segmento objetivo.
----
-# [**Capítulo VI: Product Implementation, Validation & Deployment.**](#capitulo-vi-productimplementation-validation-deployment) 
 
-## [**6.1. Software Configuration Management.**](#61-software-configuration-management) 
-### [**6.1.1. Software Development Environment Configuration.**](#611-software-development-environment-configuration) 
+---
+
+# [**Capítulo VI: Product Implementation, Validation & Deployment.**](#capitulo-vi-productimplementation-validation-deployment)
+
+## [**6.1. Software Configuration Management.**](#61-software-configuration-management)
+
+### [**6.1.1. Software Development Environment Configuration.**](#611-software-development-environment-configuration)
+
 Figma: https://www.figma.com/<br>
 Herramienta visual usada para el diseño del prototipo de la pagina web. Además de ser usada para las creaciones de los wireframes y mockups del desktop and mobile application del proyecto realizado.<br>
 <br>
@@ -2199,46 +2249,55 @@ Software Deployment:<br>
 Vercel: https://vercel.com/<br>
 Plataforma en la cual hospedamos la Landing Page.<br>
 <br>
+
 ### [**6.1.2. Source Code Management.**](#612-source-code-management)
-Se utilizó GitHub como plataforma y sistema de control de versiones.<br> 
+
+Se utilizó GitHub como plataforma y sistema de control de versiones.<br>
 Organization: https://github.com/Desarrollo-IOT-3320-Grupo-2-Muevete<br>
 Landing Page Repository: https://github.com/Desarrollo-IOT-3320-Grupo-2-Muevete/Landing_Page<br>
 Front End Repository: https://github.com/Desarrollo-IOT-3320-Grupo-2-Muevete/Front_end<br>
 Report Repository: https://github.com/Desarrollo-IOT-3320-Grupo-2-Muevete/Desarrollo-De-Soluciones-IOT-Report<br>
 <br>
-### [**6.1.3. Source Code Style Guide & Conventions.**](#613-source-code-style-guide--conventions) 
+
+### [**6.1.3. Source Code Style Guide & Conventions.**](#613-source-code-style-guide--conventions)
+
 Con el propósito de mantener la consistencia, buenas prácticas y legibilidad durante el desarrollo del proyecto, hemos adoptado las siguientes guías de estilo y convenciones para el desarrollo del código:<br>
 Para el Coding Convention:<br>
-•	Hemos nombrado todos los elementos del código (funciones, variables, clases, archivos, etc) en inglés.<br>
-•	Los nombres deben ser claros, descriptivos y seguir las nomenclaturas estándar de cada lenguaje según corresponda.<br>
+• Hemos nombrado todos los elementos del código (funciones, variables, clases, archivos, etc) en inglés.<br>
+• Los nombres deben ser claros, descriptivos y seguir las nomenclaturas estándar de cada lenguaje según corresponda.<br>
 <br>
 Para el Code Style guide:<br>
 HTML & CSS<br>
-•	Se sigue la guía de estilo Google HTML/CSS Style Guide.<br>
-•	Se aplica la regla de atributos en minúscula y cierre adecuado de etiquetas.<br>
-•	Se debe utilizar letras minúsculas para elementos HTML, atributos, propiedades, valores y selectores de CSS.<br>
+• Se sigue la guía de estilo Google HTML/CSS Style Guide.<br>
+• Se aplica la regla de atributos en minúscula y cierre adecuado de etiquetas.<br>
+• Se debe utilizar letras minúsculas para elementos HTML, atributos, propiedades, valores y selectores de CSS.<br>
 <br>
 Angular<br>
-•	Se sigue la Angular coding style guide. Además, se incluye la separación por módulos, uso de servicios y buenas prácticas en componentes.<br>
+• Se sigue la Angular coding style guide. Además, se incluye la separación por módulos, uso de servicios y buenas prácticas en componentes.<br>
 <br>
+
 ### [**6.1.4. Software Deployment Configuration.**](#614-software-deployment-configuration)
+
 A continuación, demostraremos el proceso de despliegue de nuestra Landing Page mediante el servicio automatizado de Netlify:
-1.	Debemos tener nuestra landing page en un repositorio en GitHub:
+
+1. Debemos tener nuestra landing page en un repositorio en GitHub:
    <img src="./assets/chapter-6/landing-page.PNG"><br>
-2.  Debemos iniciar sesión o crear una cuenta en caso no tengamos una en Vercel:
+2. Debemos iniciar sesión o crear una cuenta en caso no tengamos una en Vercel:
    <img src="./assets/chapter-6/vercel.jpg"><br>
-3.  Iniciamos sesión de forma rápida con github:
+3. Iniciamos sesión de forma rápida con github:
    <img src="./assets/chapter-6/authorize-vercel.jpg"><br>
-4.  Daremos los permisos necesarios para que acceda a nuestro repositorio y seleccionaremos nuestra landing page a desplegar:
+4. Daremos los permisos necesarios para que acceda a nuestro repositorio y seleccionaremos nuestra landing page a desplegar:
    <img src="./assets/chapter-6/importing-vercel.jpg"><br>
-5.  Después de darle "Deploy" se desplega la landing page y nos da el dominio de la landing:
+5. Después de darle "Deploy" se desplega la landing page y nos da el dominio de la landing:
    <img src="./assets/chapter-6/deployed-vercel.jpg"><br>
-## [**6.2. Landing Page, Services & Applications Implementation.**](#62-landing-page-services--applications-implementation) 
-### [**6.2.1. Sprint 1.**](#621-sprint-1) 
+
+## [**6.2. Landing Page, Services & Applications Implementation.**](#62-landing-page-services--applications-implementation)
+
+### [**6.2.1. Sprint 1.**](#621-sprint-1)
 
 Un Sprint en el contexto de Scrum es un periodo de tiempo fijo y breve en el que el equipo se enfoca en realizar todas las tareas necesarias para lograr el objetivo del producto definido, denominado "Product Goal" (Scrum Alliance, 2024).
 
-#### [**6.2.1.1. Sprint Planning 1.**](#6211-sprint-planning-1) 
+#### [**6.2.1.1. Sprint Planning 1.**](#6211-sprint-planning-1)
 
 Un sprint es un intervalo breve y definido durante el cual se completan tareas o actividades específicas dentro de un proyecto, como se aplica en metodologías ágiles como Scrum. El Sprint #1, que comienza el 22 de septiembre de 2025, tiene como objetivo diseñar una landing page atractiva para "Muévete!" y una primera versión de la aplicación web, en conjunto con el backend de la misma, con los requerimientos core de nuestro producto. Esta primera página debe captar la atención de los visitantes y resaltar los principales beneficios de nuestro producto, con el fin de que más usuarios se interesen en nuestra solución y utilicen nuestra aplicación web.
 
@@ -2348,7 +2407,7 @@ Un sprint es un intervalo breve y definido durante el cual se completan tareas o
   </tr>
 </table>
 
-#### [**6.2.1.3. Sprint Backlog 1.**](#6213-sprint-backlog-1) 
+#### [**6.2.1.3. Sprint Backlog 1.**](#6213-sprint-backlog-1)
 
 En el primer sprint backlog, el equipo se propuso comenzar y finalizar la landing page y aplicación web en su totalidad. Para organizar y gestionar a los miembros del equipo, se utilizó Trello, una herramienta que permitió dividir las user stories en tareas manejables y asignarlas a los miembros según sus habilidades.
 
@@ -2775,127 +2834,128 @@ En el primer sprint backlog, el equipo se propuso comenzar y finalizar la landin
    
 </table>
 
-#### [**6.2.1.4. Development Evidence for Sprint Review.**](#6214-development-evidence-for-sprint-review) 
+#### [**6.2.1.4. Development Evidence for Sprint Review.**](#6214-development-evidence-for-sprint-review)
 
-| Repository   | Branch                                      | Commit Id | Commit Message                   | User | Commited on (Date) |
-| ------------ | ------------------------------------------- | --------- | -------------------------------- | ------------------- | ------------------ |
-| landing-page | main       | b863a40         |        | Mathias Hidalgo | Sep 22, 2025         | 
-| landing-page | main       | 36fec62         | feat: add file | Mathias Hidalgo | Sep 22, 2025    |
-| landing-page | main       | f827944         | feat: added plans section | Sebastian Mendez | Sep 22, 2025       |
-| landing-page | main       | cf2b26c   |feat: Added about section         | Eduard Travezaño| Sep 22, 2025                |
-| landing-page | main       | 8404774             |  feat: Added footer section                     | Eduard Travezaño|  Sep 22, 2025 |
-| landing-page | main       | b360e5b              |    feat: added header             | Carlos Onofre|      Sep 22, 2025 |
-| landing-page | main       | ad8ad4c  |  feat: added how-it-work component     | Carlos Onofre|  Sep 22, 2025 |
-| landing-page | main       | 0eb6e8d  |   feat(feature/join): Added join component  | Mathias Hidalgo|   Sep 23, 2025|
-| landing-page | main       | 4aa9478  |  feat(feature/main): added main component  | Mathias Hidalgo | Sep 23, 2025|
-| landing-page | main       | 50b12a4  |  "feat Merge branch 'feature/plans' into develop"| Mathias Hidalgo | Sep 23, 2025|
-| landing-page | main       | b795e73   |  feat: Merged main into develop   | Mathias Hidalgo | Sep 23, 2025|
-| landing-page | main       | c0e34a3    |     feat: merged how-it-works into develop | Mathias Hidalgo| Sep 23, 2025 |
-| landing-page | main       | 80d39b9 |        feat: merged header into develop   | Mathias Hidalgo |  Sep 23, 2025 |
-| landing-page | main       | fc17166 |        feat: merged footer into develop   | Mathias Hidalgo | Sep 23, 2025 |
-| landing-page | main       | db8f49d  |   feat: merged about into develop         | Mathias Hidalgo | Sep 23, 2025 |
-| landing-page | main       | d64296f   |      Create jekyll-gh-pages.yml          | Mathias Hidalgo |  Sep 23, 2025 |
-| landing-page | main       | e4b6d2a |    feat: refactor index.html         | Mathias Hidalgo| Sep 23, 2025  |
-| landing-page | main       | 5721546 |        feat: merged footer into develop | Mathias Hidalgo |    Sep 23, 2025 |
-| landing-page | main       | 06db9c8 |  Merge remote-tracking branch 'refs/remotes/origin/main'  | Mathias Hidalgo |Sep 23, 2025|
-| landing-page | main       | 3274f7d |      feat: added index.html          | Mathias Hidalgo |  Sep 23, 2025 |
-| landing-page | main       | 8842140 |   Create CNAME         | Eduard Travezaño |   Sep 23, 2025 |
-| landing-page | main       | f5961b4 |   Delete CNAME         | Eduard Travezaño |   Sep 23, 2025  |
-| landing-page | develop       | b863a40         |         | Mathias Hidalgo | Sep 23, 2025         | 
-| landing-page | develop       | 36fec62         | feat: add file | Mathias Hidalgo | Sep 23, 2025    |
-| landing-page | develop       | f827944         | feat: added plans section | Sebastian Mendez | Sep 22, 2025       |
-| landing-page | develop       | cf2b26c          |   feat: Added about section         | Mathias Hidalgo|   Sep 22, 2025  |
-| landing-page | develop       | 8404774          |   feat: Added footer section        | Carlos Onofre|   Sep 22, 2025  |
-| landing-page | develop       | b360e5b          |   feat: added header         | Carlos Onofre|   Sep 22, 2025  |
-| landing-page | develop       | ad8ad4c          |   feat: added how-it-work component         | Carlos Onofre|   Sep 23, 2025  |
-| landing-page | develop       | 0eb6e8d          |   feat(feature/join): Added join component         | Mathias Hidalgo|   Sep 23, 2025  |
-| landing-page | develop       | 4aa9478          |   feat(feature/main): added main component         | Mathias Hidalgo|   Sep 23, 2025  |
-| landing-page | develop       | 50b12a4          |   "feat Merge branch 'feature/plans' into develop"         | Mathias Hidalgo|   Sep 23, 2025  |
-| landing-page | develop       | b795e73          |   feat: Merged main into develop         | Mathias Hidalgo|   Sep 23, 2025  |
-| landing-page | develop       | c0e34a3          |   feat: merged how-it-works into develop         | Mathias Hidalgo|   Sep 23, 2025 |
-| landing-page | develop       | 80d39b9          |   feat: merged header into develop        | Mathias Hidalgo|   Sep 23, 2025 |
-| landing-page | develop       | fc17166          |   feat: merged footer into develop        | Mathias Hidalgo|   Sep 23, 2025  |
-| landing-page | develop       | db8f49d          |   feat: merged about into develop | Mathias Hidalgo|   Sep 23, 2025  |
-| landing-page | develop       | e6fa6b4          |   feat: added scroll event         | Mathias Hidalgo|  Sep 23, 2025  |
-| landing-page | feature/about       | b863a40         |         | Mathias Hidalgo | Sep 22, 2025         | 
-| landing-page | feature/about       | 36fec62         | feat: add file | Mathias Hidalgo | Sep 22, 2025    |
-| landing-page | feature/about       | cf2b26c         |   feat: Added about section         | Carlos Onofre |   Sep 22, 2025  |
-| landing-page | feature/footer      | b863a40          |           | Mathias Hidalgo |   Sep 22, 2025  |
-| landing-page | feature/footer      | 36fec62          |   feat: add file         | Mathias Hidalgo |   Sep 22, 2025  |
-| landing-page | feature/footer      | 8404774          |   feat: Added footer section         | Carlos Onofre |   Sep 22, 2025  |
-| landing-page | feature/header      | b863a40          |           | Mathias Hidalgo |   Sep 22, 2025  |
-| landing-page | feature/header      | 36fec62          |   feat: add file         | Mathias Hidalgo |   Sep 22, 2025  |
-| landing-page | feature/header      | b360e5b          |   feat: added header        | Carlos Onofre |   Sep 22, 2025  |
-| landing-page | feature/how-it-works       | b863a40          |            | Mathias Hidalgo |   Sep 23, 2025  |
-| landing-page | feature/how-it-works       | 36fec62          |   feat: add file         | Mathias Hidalgo |   Sep 23, 2025  |
-| landing-page | feature/how-it-works       | ad8ad4c          |   feat: added how-it-work component         | Carlos Onofre|   Sep 23, 2025  |
-| landing-page | feature/join       | b863a40          |            | Mathias Hidalgo |   Sep 23, 2025  |
-| landing-page | feature/join       | 36fec62          |   feat: add file         | Mathias Hidalgo |   Sep 23, 2025  |
-| landing-page | feature/join       | 0eb6e8d          |   eat(feature/join): Added join component         | Mathias Hidalgo |   Sep 23, 2025  |
-| landing-page | feature/main       | b863a40          |            | Mathias Hidalgo |   Sep 22, 2025  |
-| landing-page | feature/main       | 36fec62          |   feat: add file         | Mathias Hidalgo |   Sep 22, 2025  |
-| landing-page | feature/main       | 4aa9478          |   feat(feature/main): added main component         | Mathias Hidalgo |   Sep 22, 2025  |
-| landing-page | feature/plans       | b863a40          |            | Mathias Hidalgo |   Sep 22, 2025  |
-| landing-page | feature/plans       | 36fec62          |   feat: add file         | Mathias Hidalgo |   Sep 22, 2025  |
-| landing-page | feature/plans       | f827944          |   feat: added plans section         | Sebastian Mendez |   Sep 23, 2025  |
-| landing-page | gh-pages       | f8695f0          |   Auto-generated commit         | Mathias Hidalgo |   Sep 23, 2025  |
-| landing-page | gh-pages       | c74bd50          |   Auto-generated commit         | Mathias Hidalgo |   Sep 23, 2025  |
-| Front-End-Ecomovil | main       | bfd8076         | initial commit       | Eduard Travezaño | Sep 16, 2025         | 
-| Front-End-Ecomovil | main       | e01d04a         | feat(main): Added packages for Angular Material, primeflex, tailwindcss and i18n | Eduard Travezaño | Sep 16, 2025    |
-| Front-End-Ecomovil | main       | cfad3b1         | feat: added header component for acquirer and Student | Sebastian Mendez| Sep 16, 2025       |
-| Front-End-Ecomovil | main       | 7d81c3f   |feat(vehicle-section): add vehicle-section component         | Sebastian Mendez| Sep 16, 2025                |
-| Front-End-Ecomovil | main       | 0f88d27             |  feat(fake-api): setup fake api configuration.                   | Sebastian Mendez|  Sep 18, 2025 |
-| Front-End-Ecomovil | contact-forum       | aa74bd2              |    feat: add feactures-contact-forum          | Carlos Onofre |      Sep 20, 2025 |
-| Front-End-Ecomovil | log-in       | 43fee81  |  feat: add log in     | Eduard Travezaño |  Sep 19, 2025 |
-| Front-End-Ecomovil | planes-profileAcquirer      | 3920ff8  |   feat: add dashboard component  | Sebastian Mendez |   Sep 23, 2025|
-| Front-End-Ecomovil | planes-profileAcquirer       | 570aaef  |  feat: add profileAcquirer component  | Sebastian Mendez | Sep 23, 2025|
-| Front-End-Ecomovil | planes-profileAcquirer       | df680b1  |  feat: add confirmation component| Sebastian Mendez | Sep 23, 2025|
-| Front-End-Ecomovil | planes-profileAcquirer       | e832ad4   |  feat: update db.json   | Sebastian Mendez | Sep 23, 2025|
-| Front-End-Ecomovil | planes-profileAcquirer       | 0f960b4    |     feat: add profile-page component | Sebastian Mendez | Sep 23, 2025 |
-| Front-End-Ecomovil | planes-profileAcquirer       | 98d085e |        feat: update routes  | Sebastian Mendez |  Sep 23, 2025 |
-| Front-End-Ecomovil | planes-profileAcquirer      | 2a22d45 |   fix: delete unused imports   | Sebastian Mendez | Sep 23, 2025 |
-| Front-End-Ecomovil | planes-profileAcquirer       | 6ae8312  |   feature: update routes       | Sebastian Mendez | Sep 23, 2025 |
-| Front-End-Ecomovil | planes-profileAcquirer       | 736f5a9   |     fix: delete unused imports         | Sebastian Mendez |  Sep 23, 2025 |
-| Front-End-Ecomovil | planes-profileAcquirer       | 5f46c1a |   feature: add plan-item & plan-list components      | Sebastian Mendez | Sep 23, 2025  |
-| Front-End-Ecomovil | planes-profileAcquirer      | f7a7f0d |     feature: add payment component | Sebastian Mendez |    Sep 23, 2025 |
-| Front-End-Ecomovil | planes-profileAcquirer       | aa7233d |  feature: add payment Service Shared  | Eduard Travezaño |Sep 23, 2025|
-| Front-End-Ecomovil | planes-profileAcquirer      | db9fd87 |   feature: add planes-page component      | Eduard Travezaño |  Sep 23, 2025 |
-| Front-End-Ecomovil | planes-profileAcquirer     | 0b65553|  feature: add global variables      | Eduard Travezaño |   Sep 23, 2025 |
-| Front-End-Ecomovil | planes-profileAcquirer       | 09d5c98 | feature: update routes        | Eduard Travezaño |   Sep 23, 2025  |
-| Front-End-Ecomovil | planes-profileAcquirer       | db7ddf9        |   feature: add payment-page.component      | Eduard Travezaño | Sep 23, 2025         | 
-| Front-End-Ecomovil | planes-profileAcquirer       | e578368        | feature: add paypal script | Eduard Travezaño | Sep 23, 2025    |
-| Front-End-Ecomovil | planes-profileAcquirer       | 8949cce      | feature: update routes | Eduard Travezaño | Sep 23, 2025       |
-| Front-End-Ecomovil | planes-profileAcquirer      | 0e4e6a5      |  feature: update db.json   | Sebastian Mendez |   Sep 23, 2025  |
-| Front-End-Ecomovil | planes-profileAcquirer     | d03086c         |  feature: add validation to profile form     | Sebastian Mendez |   Sep 23, 2025  |
-| Front-End-Ecomovil | profile-university-student       | 7da6ae    |  feat: added markers        | Eduard Travezaño |   Sep 19, 2025  |
-| Front-End-Ecomovil | profile-university-student       | 81c37bd      |  feat(interactive-map): Added more markers and new values to entity    | Eduard Travezaño| Sep 19, 2025  |
-| Front-End-Ecomovil | profile-university-student       | 0f0c36d|  feat(interactive-map): add router       | Eduard Travezaño |   Sep 19, 2025  |
-| Front-End-Ecomovil | profile-university-student       | dd1d6b0|  feat: added localization to vehicle post component       | Eduard Travezaño|   Sep 19, 2025  |
-| Front-End-Ecomovil | profile-university-student     | 99bb5ed   |  eat(vehicle-post): add commentaries   | Eduard Travezaño|   Sep 19, 2025  |
-| Front-End-Ecomovil | profile-university-student       | 14d53d4     |   feat(vehicle-details): add vehicle-details component        | Sebastian Mendez|   Sep 19, 2025  |
-| Front-End-Ecomovil | profile-university-student       | 8fa0f80       |   featvehicle-details: added stars component for vehicle details    | Sebastian Mendez|   Sep 19, 2025 |
-| Front-End-Ecomovil | profile-university-student       | 07dc164  | feat(vehicle-details): change stars review distribution  | Eduard Travezaño|   Sep 19, 2025 |
-| Front-End-Ecomovil | register-acquirer      | e35baed       |      feat: add register acquirer.      | Eduard Travezaño |  Sep 19, 2025  |
-| Front-End-Ecomovil | register-university-student      | b6f895  |   feat: add register university page component.| Eduard Travezaño |   Sep 19, 2025  |
-| Front-End-Ecomovil | vehicles-choose    | d13329 |  feat: add vehiclesAcquirers component| Eduard Travezaño|   Sep 24, 2025  |
-| Front-End-Ecomovil | profile-university-student    | 4680ab7 |feat(profile): update db.json with university student and acquirer profiles |Juan Calisaya|   Sep 24, 2025  |
-| Front-End-Ecomovil | profile-university-student    | 297c474 |feat(auth): create class user.entity |Juan Calisaya|   Sep 24, 2025  |
-| Front-End-Ecomovil | profile-university-student    | 69d5443 |feat(user): implemented user service |Juan Calisaya|   Sep 24, 2025  |
-| Front-End-Ecomovil | profile-university-student    | ca74814 |feat(pages): implemented profile university component |Juan Calisaya|   Sep 24, 2025  |
-| Front-End-Ecomovil | profile-university-student    | 32ac7a4 |feat(profile): add path profile in router |Juan Calisaya|   Sep 24, 2025  |
-| Front-End-Ecomovil | filter-acquirer    | 2711518 | feat(server): update db.json for filter |Juan Calisaya|   Sep 24, 2025  |
-| Front-End-Ecomovil | filter-acquirer    | bc48403 | feat(server): update db.json for filter(2) |Juan Calisaya|   Sep 24, 2025  |
-| Front-End-Ecomovil | filter-acquirer    | d604484 | feat(filter): implement filter acquirer component |Juan Calisaya|   Sep 24, 2025  |
+| Repository         | Branch                      | Commit Id | Commit Message                                                                   | User             | Commited on (Date) |
+| ------------------ | --------------------------- | --------- | -------------------------------------------------------------------------------- | ---------------- | ------------------ |
+| landing-page       | main                        | b863a40   |                                                                                  | Mathias Hidalgo  | Sep 22, 2025       |
+| landing-page       | main                        | 36fec62   | feat: add file                                                                   | Mathias Hidalgo  | Sep 22, 2025       |
+| landing-page       | main                        | f827944   | feat: added plans section                                                        | Sebastian Mendez | Sep 22, 2025       |
+| landing-page       | main                        | cf2b26c   | feat: Added about section                                                        | Eduard Travezaño | Sep 22, 2025       |
+| landing-page       | main                        | 8404774   | feat: Added footer section                                                       | Eduard Travezaño | Sep 22, 2025       |
+| landing-page       | main                        | b360e5b   | feat: added header                                                               | Carlos Onofre    | Sep 22, 2025       |
+| landing-page       | main                        | ad8ad4c   | feat: added how-it-work component                                                | Carlos Onofre    | Sep 22, 2025       |
+| landing-page       | main                        | 0eb6e8d   | feat(feature/join): Added join component                                         | Mathias Hidalgo  | Sep 23, 2025       |
+| landing-page       | main                        | 4aa9478   | feat(feature/main): added main component                                         | Mathias Hidalgo  | Sep 23, 2025       |
+| landing-page       | main                        | 50b12a4   | "feat Merge branch 'feature/plans' into develop"                                 | Mathias Hidalgo  | Sep 23, 2025       |
+| landing-page       | main                        | b795e73   | feat: Merged main into develop                                                   | Mathias Hidalgo  | Sep 23, 2025       |
+| landing-page       | main                        | c0e34a3   | feat: merged how-it-works into develop                                           | Mathias Hidalgo  | Sep 23, 2025       |
+| landing-page       | main                        | 80d39b9   | feat: merged header into develop                                                 | Mathias Hidalgo  | Sep 23, 2025       |
+| landing-page       | main                        | fc17166   | feat: merged footer into develop                                                 | Mathias Hidalgo  | Sep 23, 2025       |
+| landing-page       | main                        | db8f49d   | feat: merged about into develop                                                  | Mathias Hidalgo  | Sep 23, 2025       |
+| landing-page       | main                        | d64296f   | Create jekyll-gh-pages.yml                                                       | Mathias Hidalgo  | Sep 23, 2025       |
+| landing-page       | main                        | e4b6d2a   | feat: refactor index.html                                                        | Mathias Hidalgo  | Sep 23, 2025       |
+| landing-page       | main                        | 5721546   | feat: merged footer into develop                                                 | Mathias Hidalgo  | Sep 23, 2025       |
+| landing-page       | main                        | 06db9c8   | Merge remote-tracking branch 'refs/remotes/origin/main'                          | Mathias Hidalgo  | Sep 23, 2025       |
+| landing-page       | main                        | 3274f7d   | feat: added index.html                                                           | Mathias Hidalgo  | Sep 23, 2025       |
+| landing-page       | main                        | 8842140   | Create CNAME                                                                     | Eduard Travezaño | Sep 23, 2025       |
+| landing-page       | main                        | f5961b4   | Delete CNAME                                                                     | Eduard Travezaño | Sep 23, 2025       |
+| landing-page       | develop                     | b863a40   |                                                                                  | Mathias Hidalgo  | Sep 23, 2025       |
+| landing-page       | develop                     | 36fec62   | feat: add file                                                                   | Mathias Hidalgo  | Sep 23, 2025       |
+| landing-page       | develop                     | f827944   | feat: added plans section                                                        | Sebastian Mendez | Sep 22, 2025       |
+| landing-page       | develop                     | cf2b26c   | feat: Added about section                                                        | Mathias Hidalgo  | Sep 22, 2025       |
+| landing-page       | develop                     | 8404774   | feat: Added footer section                                                       | Carlos Onofre    | Sep 22, 2025       |
+| landing-page       | develop                     | b360e5b   | feat: added header                                                               | Carlos Onofre    | Sep 22, 2025       |
+| landing-page       | develop                     | ad8ad4c   | feat: added how-it-work component                                                | Carlos Onofre    | Sep 23, 2025       |
+| landing-page       | develop                     | 0eb6e8d   | feat(feature/join): Added join component                                         | Mathias Hidalgo  | Sep 23, 2025       |
+| landing-page       | develop                     | 4aa9478   | feat(feature/main): added main component                                         | Mathias Hidalgo  | Sep 23, 2025       |
+| landing-page       | develop                     | 50b12a4   | "feat Merge branch 'feature/plans' into develop"                                 | Mathias Hidalgo  | Sep 23, 2025       |
+| landing-page       | develop                     | b795e73   | feat: Merged main into develop                                                   | Mathias Hidalgo  | Sep 23, 2025       |
+| landing-page       | develop                     | c0e34a3   | feat: merged how-it-works into develop                                           | Mathias Hidalgo  | Sep 23, 2025       |
+| landing-page       | develop                     | 80d39b9   | feat: merged header into develop                                                 | Mathias Hidalgo  | Sep 23, 2025       |
+| landing-page       | develop                     | fc17166   | feat: merged footer into develop                                                 | Mathias Hidalgo  | Sep 23, 2025       |
+| landing-page       | develop                     | db8f49d   | feat: merged about into develop                                                  | Mathias Hidalgo  | Sep 23, 2025       |
+| landing-page       | develop                     | e6fa6b4   | feat: added scroll event                                                         | Mathias Hidalgo  | Sep 23, 2025       |
+| landing-page       | feature/about               | b863a40   |                                                                                  | Mathias Hidalgo  | Sep 22, 2025       |
+| landing-page       | feature/about               | 36fec62   | feat: add file                                                                   | Mathias Hidalgo  | Sep 22, 2025       |
+| landing-page       | feature/about               | cf2b26c   | feat: Added about section                                                        | Carlos Onofre    | Sep 22, 2025       |
+| landing-page       | feature/footer              | b863a40   |                                                                                  | Mathias Hidalgo  | Sep 22, 2025       |
+| landing-page       | feature/footer              | 36fec62   | feat: add file                                                                   | Mathias Hidalgo  | Sep 22, 2025       |
+| landing-page       | feature/footer              | 8404774   | feat: Added footer section                                                       | Carlos Onofre    | Sep 22, 2025       |
+| landing-page       | feature/header              | b863a40   |                                                                                  | Mathias Hidalgo  | Sep 22, 2025       |
+| landing-page       | feature/header              | 36fec62   | feat: add file                                                                   | Mathias Hidalgo  | Sep 22, 2025       |
+| landing-page       | feature/header              | b360e5b   | feat: added header                                                               | Carlos Onofre    | Sep 22, 2025       |
+| landing-page       | feature/how-it-works        | b863a40   |                                                                                  | Mathias Hidalgo  | Sep 23, 2025       |
+| landing-page       | feature/how-it-works        | 36fec62   | feat: add file                                                                   | Mathias Hidalgo  | Sep 23, 2025       |
+| landing-page       | feature/how-it-works        | ad8ad4c   | feat: added how-it-work component                                                | Carlos Onofre    | Sep 23, 2025       |
+| landing-page       | feature/join                | b863a40   |                                                                                  | Mathias Hidalgo  | Sep 23, 2025       |
+| landing-page       | feature/join                | 36fec62   | feat: add file                                                                   | Mathias Hidalgo  | Sep 23, 2025       |
+| landing-page       | feature/join                | 0eb6e8d   | eat(feature/join): Added join component                                          | Mathias Hidalgo  | Sep 23, 2025       |
+| landing-page       | feature/main                | b863a40   |                                                                                  | Mathias Hidalgo  | Sep 22, 2025       |
+| landing-page       | feature/main                | 36fec62   | feat: add file                                                                   | Mathias Hidalgo  | Sep 22, 2025       |
+| landing-page       | feature/main                | 4aa9478   | feat(feature/main): added main component                                         | Mathias Hidalgo  | Sep 22, 2025       |
+| landing-page       | feature/plans               | b863a40   |                                                                                  | Mathias Hidalgo  | Sep 22, 2025       |
+| landing-page       | feature/plans               | 36fec62   | feat: add file                                                                   | Mathias Hidalgo  | Sep 22, 2025       |
+| landing-page       | feature/plans               | f827944   | feat: added plans section                                                        | Sebastian Mendez | Sep 23, 2025       |
+| landing-page       | gh-pages                    | f8695f0   | Auto-generated commit                                                            | Mathias Hidalgo  | Sep 23, 2025       |
+| landing-page       | gh-pages                    | c74bd50   | Auto-generated commit                                                            | Mathias Hidalgo  | Sep 23, 2025       |
+| Front-End-Ecomovil | main                        | bfd8076   | initial commit                                                                   | Eduard Travezaño | Sep 16, 2025       |
+| Front-End-Ecomovil | main                        | e01d04a   | feat(main): Added packages for Angular Material, primeflex, tailwindcss and i18n | Eduard Travezaño | Sep 16, 2025       |
+| Front-End-Ecomovil | main                        | cfad3b1   | feat: added header component for acquirer and Student                            | Sebastian Mendez | Sep 16, 2025       |
+| Front-End-Ecomovil | main                        | 7d81c3f   | feat(vehicle-section): add vehicle-section component                             | Sebastian Mendez | Sep 16, 2025       |
+| Front-End-Ecomovil | main                        | 0f88d27   | feat(fake-api): setup fake api configuration.                                    | Sebastian Mendez | Sep 18, 2025       |
+| Front-End-Ecomovil | contact-forum               | aa74bd2   | feat: add feactures-contact-forum                                                | Carlos Onofre    | Sep 20, 2025       |
+| Front-End-Ecomovil | log-in                      | 43fee81   | feat: add log in                                                                 | Eduard Travezaño | Sep 19, 2025       |
+| Front-End-Ecomovil | planes-profileAcquirer      | 3920ff8   | feat: add dashboard component                                                    | Sebastian Mendez | Sep 23, 2025       |
+| Front-End-Ecomovil | planes-profileAcquirer      | 570aaef   | feat: add profileAcquirer component                                              | Sebastian Mendez | Sep 23, 2025       |
+| Front-End-Ecomovil | planes-profileAcquirer      | df680b1   | feat: add confirmation component                                                 | Sebastian Mendez | Sep 23, 2025       |
+| Front-End-Ecomovil | planes-profileAcquirer      | e832ad4   | feat: update db.json                                                             | Sebastian Mendez | Sep 23, 2025       |
+| Front-End-Ecomovil | planes-profileAcquirer      | 0f960b4   | feat: add profile-page component                                                 | Sebastian Mendez | Sep 23, 2025       |
+| Front-End-Ecomovil | planes-profileAcquirer      | 98d085e   | feat: update routes                                                              | Sebastian Mendez | Sep 23, 2025       |
+| Front-End-Ecomovil | planes-profileAcquirer      | 2a22d45   | fix: delete unused imports                                                       | Sebastian Mendez | Sep 23, 2025       |
+| Front-End-Ecomovil | planes-profileAcquirer      | 6ae8312   | feature: update routes                                                           | Sebastian Mendez | Sep 23, 2025       |
+| Front-End-Ecomovil | planes-profileAcquirer      | 736f5a9   | fix: delete unused imports                                                       | Sebastian Mendez | Sep 23, 2025       |
+| Front-End-Ecomovil | planes-profileAcquirer      | 5f46c1a   | feature: add plan-item & plan-list components                                    | Sebastian Mendez | Sep 23, 2025       |
+| Front-End-Ecomovil | planes-profileAcquirer      | f7a7f0d   | feature: add payment component                                                   | Sebastian Mendez | Sep 23, 2025       |
+| Front-End-Ecomovil | planes-profileAcquirer      | aa7233d   | feature: add payment Service Shared                                              | Eduard Travezaño | Sep 23, 2025       |
+| Front-End-Ecomovil | planes-profileAcquirer      | db9fd87   | feature: add planes-page component                                               | Eduard Travezaño | Sep 23, 2025       |
+| Front-End-Ecomovil | planes-profileAcquirer      | 0b65553   | feature: add global variables                                                    | Eduard Travezaño | Sep 23, 2025       |
+| Front-End-Ecomovil | planes-profileAcquirer      | 09d5c98   | feature: update routes                                                           | Eduard Travezaño | Sep 23, 2025       |
+| Front-End-Ecomovil | planes-profileAcquirer      | db7ddf9   | feature: add payment-page.component                                              | Eduard Travezaño | Sep 23, 2025       |
+| Front-End-Ecomovil | planes-profileAcquirer      | e578368   | feature: add paypal script                                                       | Eduard Travezaño | Sep 23, 2025       |
+| Front-End-Ecomovil | planes-profileAcquirer      | 8949cce   | feature: update routes                                                           | Eduard Travezaño | Sep 23, 2025       |
+| Front-End-Ecomovil | planes-profileAcquirer      | 0e4e6a5   | feature: update db.json                                                          | Sebastian Mendez | Sep 23, 2025       |
+| Front-End-Ecomovil | planes-profileAcquirer      | d03086c   | feature: add validation to profile form                                          | Sebastian Mendez | Sep 23, 2025       |
+| Front-End-Ecomovil | profile-university-student  | 7da6ae    | feat: added markers                                                              | Eduard Travezaño | Sep 19, 2025       |
+| Front-End-Ecomovil | profile-university-student  | 81c37bd   | feat(interactive-map): Added more markers and new values to entity               | Eduard Travezaño | Sep 19, 2025       |
+| Front-End-Ecomovil | profile-university-student  | 0f0c36d   | feat(interactive-map): add router                                                | Eduard Travezaño | Sep 19, 2025       |
+| Front-End-Ecomovil | profile-university-student  | dd1d6b0   | feat: added localization to vehicle post component                               | Eduard Travezaño | Sep 19, 2025       |
+| Front-End-Ecomovil | profile-university-student  | 99bb5ed   | eat(vehicle-post): add commentaries                                              | Eduard Travezaño | Sep 19, 2025       |
+| Front-End-Ecomovil | profile-university-student  | 14d53d4   | feat(vehicle-details): add vehicle-details component                             | Sebastian Mendez | Sep 19, 2025       |
+| Front-End-Ecomovil | profile-university-student  | 8fa0f80   | featvehicle-details: added stars component for vehicle details                   | Sebastian Mendez | Sep 19, 2025       |
+| Front-End-Ecomovil | profile-university-student  | 07dc164   | feat(vehicle-details): change stars review distribution                          | Eduard Travezaño | Sep 19, 2025       |
+| Front-End-Ecomovil | register-acquirer           | e35baed   | feat: add register acquirer.                                                     | Eduard Travezaño | Sep 19, 2025       |
+| Front-End-Ecomovil | register-university-student | b6f895    | feat: add register university page component.                                    | Eduard Travezaño | Sep 19, 2025       |
+| Front-End-Ecomovil | vehicles-choose             | d13329    | feat: add vehiclesAcquirers component                                            | Eduard Travezaño | Sep 24, 2025       |
+| Front-End-Ecomovil | profile-university-student  | 4680ab7   | feat(profile): update db.json with university student and acquirer profiles      | Juan Calisaya    | Sep 24, 2025       |
+| Front-End-Ecomovil | profile-university-student  | 297c474   | feat(auth): create class user.entity                                             | Juan Calisaya    | Sep 24, 2025       |
+| Front-End-Ecomovil | profile-university-student  | 69d5443   | feat(user): implemented user service                                             | Juan Calisaya    | Sep 24, 2025       |
+| Front-End-Ecomovil | profile-university-student  | ca74814   | feat(pages): implemented profile university component                            | Juan Calisaya    | Sep 24, 2025       |
+| Front-End-Ecomovil | profile-university-student  | 32ac7a4   | feat(profile): add path profile in router                                        | Juan Calisaya    | Sep 24, 2025       |
+| Front-End-Ecomovil | filter-acquirer             | 2711518   | feat(server): update db.json for filter                                          | Juan Calisaya    | Sep 24, 2025       |
+| Front-End-Ecomovil | filter-acquirer             | bc48403   | feat(server): update db.json for filter(2)                                       | Juan Calisaya    | Sep 24, 2025       |
+| Front-End-Ecomovil | filter-acquirer             | d604484   | feat(filter): implement filter acquirer component                                | Juan Calisaya    | Sep 24, 2025       |
 
 #### [**6.2.1.5. Testing Suite Evidence for Sprint Review.**](#6215-testing-suite-evidence-for-sprint-review)
+
 Durante la entrega del Sprint 1, el equipo se centró en desarrollar, implementar y desplegar completamente la Landing Page, avanzar con el backend, frontend y acceptance tests. En consecuencia, la fase de Testing se orientó a validar que las funcionalidades respondieran adecuadamente a las necesidades de los usuarios, priorizando una experiencia clara, sencilla e intuitiva.
 
-|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commit Message Body**|**Committed on (Date)**|
-|--------------|----------|-------------|------------------|-----------------------|-----------------------|
-| https://github.com/Desarrollo-IOT-3320-Grupo-2-Muevete/Landing_Page | master | cc5098e | fear: new landing page | - | 09/10/2025 |
-| https://github.com/Desarrollo-IOT-3320-Grupo-2-Muevete/Acceptance-Tests | master | 4622570 | Primer Commit | - | 08/10/2025 |
+| **Repository**                                                          | **Branch** | **Commit Id** | **Commit Message**     | **Commit Message Body** | **Committed on (Date)** |
+| ----------------------------------------------------------------------- | ---------- | ------------- | ---------------------- | ----------------------- | ----------------------- |
+| https://github.com/Desarrollo-IOT-3320-Grupo-2-Muevete/Landing_Page     | master     | cc5098e       | fear: new landing page | -                       | 09/10/2025              |
+| https://github.com/Desarrollo-IOT-3320-Grupo-2-Muevete/Acceptance-Tests | master     | 4622570       | Primer Commit          | -                       | 08/10/2025              |
 
-#### [**6.2.1.6. Execution Evidence for Sprint Review.**](#6216-execution-evidence-for-sprint-review) 
+#### [**6.2.1.6. Execution Evidence for Sprint Review.**](#6216-execution-evidence-for-sprint-review)
 
 <img src="assets/chapter-6/landing-1.png" alt="" width="800" height="500">
 <img src="assets/chapter-6/landing-2.png" alt="" width="800" height="500">
@@ -2907,18 +2967,19 @@ Durante la entrega del Sprint 1, el equipo se centró en desarrollar, implementa
 <img src="assets/chapter-6/landing-8.png" alt="" width="800" height="500">
 <img src="assets/chapter-6/landing-9.png" alt="" width="800" height="500">
 
-#### [**6.2.1.7. Services Documentation Evidence for Sprint Review.**](#6217-services-documentation-evidence-for-sprint-review) 
+#### [**6.2.1.7. Services Documentation Evidence for Sprint Review.**](#6217-services-documentation-evidence-for-sprint-review)
+
 Para esta entrega, el equipo StudentConnect logró implementar de manera exitosa el frontend web app y la landing.
 Enlace del deploy de la landing mediante: [https://cibermatch-movirent.netlify.app/](https://landing-page-eight-ecru-42.vercel.app/)
 Enlace del deploy de la app web mediante: https://mueveteecotech.netlify.app/login
 
-#### [**6.2.1.8. Software Deployment Evidence for Sprint Review.**](#6218-software-deployment-evidence-for-sprint-review) 
+#### [**6.2.1.8. Software Deployment Evidence for Sprint Review.**](#6218-software-deployment-evidence-for-sprint-review)
+
 Para el despliegue de la aplicacion web se utilizó netlify, a continuación se muestra el link de la aplicación web desplegada junto a los pasos realizados para publicarla: https://mueveteecotech.netlify.app/login
 <img src="assets/chapter-6/deploy-front-1.jpeg" alt="" width="800" height="500">
 <img src="assets/chapter-6/deploy-front-2.jpeg" alt="" width="800" height="500">
 <img src="assets/chapter-6/deploy-front-3.jpeg" alt="" width="800" height="500">
 <img src="assets/chapter-6/deploy-front-4.jpeg" alt="" width="800" height="500">
-
 
 Para el despliegue de la landing se utilizó vercel, a continuación se muestra el link de la landing desplegada junto a los pasos realizados para publicarla: https://landing-page-eight-ecru-42.vercel.app
 <img src="assets/chapter-6/deploy-landing-1.jpeg" alt="" width="800" height="500">
@@ -2927,38 +2988,41 @@ Para el despliegue de la landing se utilizó vercel, a continuación se muestra 
 <img src="assets/chapter-6/deploy-landing-4.jpeg" alt="" width="800" height="500">
 
 #### [**6.2.1.9. Team Collaboration Insights during Sprint.**](#6219-team-collaboration-insights-during-sprint)
-|**Username (Github)**|**Nombre**|**Actividad**|
-|--------------|----------|----------|
-| EduardTrave | Travezaño Patiño, Eduard Gedeon | Elaboracion de Landing Page |
-| mathiasadriano | Hidalgo Lopez, Mathias Adriano | Elaboracion de Frontend |
-| OnofreGH | Onofre Ruiz, Carlos Jesus | Elaboracion de los Acceptance Tests |
-| el-tres-palabritas | Mendez Vargas, Sebastian Orlando | Elaboracion de Backend |
+
+| **Username (Github)** | **Nombre**                       | **Actividad**                       |
+| --------------------- | -------------------------------- | ----------------------------------- |
+| EduardTrave           | Travezaño Patiño, Eduard Gedeon  | Elaboracion de Landing Page         |
+| mathiasadriano        | Hidalgo Lopez, Mathias Adriano   | Elaboracion de Frontend             |
+| OnofreGH              | Onofre Ruiz, Carlos Jesus        | Elaboracion de los Acceptance Tests |
+| el-tres-palabritas    | Mendez Vargas, Sebastian Orlando | Elaboracion de Backend              |
 
 ---
 
-### [**6.2.2. Sprint 2.**](#622-sprint-2) 
+### [**6.2.2. Sprint 2.**](#622-sprint-2)
 
-#### [**6.2.2.1. Sprint Planning 2.**](#6221-sprint-planning-2) 
+#### [**6.2.2.1. Sprint Planning 2.**](#6221-sprint-planning-2)
+
 En el **Sprint Planning 2**, se presenta evidencia del desarrollo de la app mobile, tanto front como back end, incluyendo avances del proyecto y aprendizajes de colaboración en equipo registrados en **GitHub**.
 
-| **Sprint #**| Sprint 2|
-|------------------------------|-----------------------------------------------------------------------------------|
-| **Sprint Planning Background** | Durante este sprint se trabajó en la consolidación de la aplicación móvil, enfocándose en la optimización de la experiencia de usuario, la seguridad en el acceso y la integración de funcionalidades clave. Se realizaron modificaciones en el backend para mejorar la gestión de datos y procesos de autenticación, mientras que en el frontend se avanzó en la implementación de pantallas de registro, login y visualización de planes. El equipo también ajustó el diseño en Figma para garantizar coherencia visual con la identidad de Muevete! y se documentaron los avances en GitHub. |
-| **Date**| 5/11/2025 |
-| **Time**| 19:40 |
-| **Location**|	Modalidad remota por Google Meet	|
-| **Prepared By**| Carlos Onofre Ruiz (Scrum Master) |
-| **Attendees (to planning meeting)** |Todos los miembros del grupo StudentConnect|
-| **Sprint 2 Review Summary**  | Se implementaron distintas funcionalidades en la app móvil, con validaciones básicas de datos. Se desplegó el backend con mejoras en la autenticación y control de sesiones. Se culmino el diseño en Figma se ajustaron los estilos siguiendo la identidad visual. |
-| **Sprint 2 Retrospective Summary** | El equipo logró avances significativos en la integración entre frontend y backend, además de mejorar la colaboración en GitHub con ramas organizadas y commits más descriptivos. Sin embargo, se identificaron retos en la sincronización de tareas y en la documentación técnica. Para el siguiente sprint se acordó reforzar las pruebas automatizadas.|
-| **Sprint Goal & User Stories** |  El objetivo del sprint fue avanzar en la construcción de la app móvil y fortalecer el backend.|
-| **Sprint 2 Goal**  | Consolidar la base de la aplicación móvil con funcionalidades esenciales.	 |
-| **Sprint Velocity 2**        | 35 |
-| **Sum of Story Points**      | 35	|
+| **Sprint #**                        | Sprint 2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| ----------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sprint Planning Background**      | Durante este sprint se trabajó en la consolidación de la aplicación móvil, enfocándose en la optimización de la experiencia de usuario, la seguridad en el acceso y la integración de funcionalidades clave. Se realizaron modificaciones en el backend para mejorar la gestión de datos y procesos de autenticación, mientras que en el frontend se avanzó en la implementación de pantallas de registro, login y visualización de planes. El equipo también ajustó el diseño en Figma para garantizar coherencia visual con la identidad de Muevete! y se documentaron los avances en GitHub. |
+| **Date**                            | 5/11/2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| **Time**                            | 19:40                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| **Location**                        | Modalidad remota por Google Meet                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| **Prepared By**                     | Carlos Onofre Ruiz (Scrum Master)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Attendees (to planning meeting)** | Todos los miembros del grupo StudentConnect                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| **Sprint 2 Review Summary**         | Se implementaron distintas funcionalidades en la app móvil, con validaciones básicas de datos. Se desplegó el backend con mejoras en la autenticación y control de sesiones. Se culmino el diseño en Figma se ajustaron los estilos siguiendo la identidad visual.                                                                                                                                                                                                                                                                                                                              |
+| **Sprint 2 Retrospective Summary**  | El equipo logró avances significativos en la integración entre frontend y backend, además de mejorar la colaboración en GitHub con ramas organizadas y commits más descriptivos. Sin embargo, se identificaron retos en la sincronización de tareas y en la documentación técnica. Para el siguiente sprint se acordó reforzar las pruebas automatizadas.                                                                                                                                                                                                                                       |
+| **Sprint Goal & User Stories**      | El objetivo del sprint fue avanzar en la construcción de la app móvil y fortalecer el backend.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **Sprint 2 Goal**                   | Consolidar la base de la aplicación móvil con funcionalidades esenciales.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| **Sprint Velocity 2**               | 35                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| **Sum of Story Points**             | 35                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 
 ---
 
-#### [**6.2.2.2. Sprint Backlog 2.**](#6223-sprint-backlog-2) 
+#### [**6.2.2.2. Sprint Backlog 2.**](#6223-sprint-backlog-2)
+
 En esta parte mostramos las tareas que se realizaron en este sprint.
 
 **Link del Trello:**  
@@ -2969,22 +3033,23 @@ En esta parte mostramos las tareas que se realizaron en este sprint.
 
 ---
 
-| **Sprint #**   | **Sprint 2**                                                                                                                                                                                                                  |     |     |     |     |     |     |
-|-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|-----|-----|-----|-----|-----|
-| **User Story**  | **Work-item / Task**                                                                                                                                                                                                         |     |     |     |     |     |     |
-| **ID**         | **Title**| **Id** | **Title**| **Description**| **Estimation (hours)** | **Assigned To**    | **Status (To-do / In-Process / To-Review / Done)** |
-| US-201	 | Visualización de Datos de Perfil	 | FE-201 | Vistas del perfil de usuario en Mobile | Implementar pantalla en la app móvil para mostrar datos personales y de contacto del universitario. | 6 | Carlos Onofre | Done |
-| US-202  | Sección de renta y compra de vehículos | FE-202 | Sección de renta y compra | Crear interfaz móvil para alquilar o comprar vehículos disponibles en la plataforma. | 7 | Mathias Hidalgo | Done |
-| US-203 | Búsqueda y Filtro de Vehículos | FE-203	| Sección de vehículos| Implementar vista principal con listado de vehículos y filtros de búsqueda en la app. | 5 | Eduard Travezaño | Done |
-| US-204 | Gamificación / Reconocimiento | FE-204 | Vista de badges	| Diseñar componente visual en la app para mostrar insignias o logros de usuarios. | 4 | Sebastian Mendez | Done |
-| US-205 | Navegación Principal | FE-205 | Sidebar | Implementar barra lateral en la app móvil con accesos rápidos a secciones clave. | 5 | Mathias Hidalgo | Done |
-| US-206 | Registro e Inicio de Sesión  | FE-206 | Inicio de sesión y registro | Crear pantallas de login y registro con validaciones básicas en la app móvil. | 6 | Eduard Travezaño | Done |
-| US-207 | Diseño UI | UX-207 | Mockup del app móvil | Elaborar mockups en Figma para definir la experiencia visual de la aplicación móvil.	 | 5 | Sebastian Mendez | Done |
-| US-208 | Despliegue del Backend | BE-208 | Deploy de Backend | Se va desplegar y arreglar errores que tiene el backend | 5 | Carlos Onofre | Done |    
+| **Sprint #**   | **Sprint 2**                           |        |                                        |                                                                                                     |                        |                  |                                                    |
+| -------------- | -------------------------------------- | ------ | -------------------------------------- | --------------------------------------------------------------------------------------------------- | ---------------------- | ---------------- | -------------------------------------------------- |
+| **User Story** | **Work-item / Task**                   |        |                                        |                                                                                                     |                        |                  |                                                    |
+| **ID**         | **Title**                              | **Id** | **Title**                              | **Description**                                                                                     | **Estimation (hours)** | **Assigned To**  | **Status (To-do / In-Process / To-Review / Done)** |
+| US-201         | Visualización de Datos de Perfil       | FE-201 | Vistas del perfil de usuario en Mobile | Implementar pantalla en la app móvil para mostrar datos personales y de contacto del universitario. | 6                      | Carlos Onofre    | Done                                               |
+| US-202         | Sección de renta y compra de vehículos | FE-202 | Sección de renta y compra              | Crear interfaz móvil para alquilar o comprar vehículos disponibles en la plataforma.                | 7                      | Mathias Hidalgo  | Done                                               |
+| US-203         | Búsqueda y Filtro de Vehículos         | FE-203 | Sección de vehículos                   | Implementar vista principal con listado de vehículos y filtros de búsqueda en la app.               | 5                      | Eduard Travezaño | Done                                               |
+| US-204         | Gamificación / Reconocimiento          | FE-204 | Vista de badges                        | Diseñar componente visual en la app para mostrar insignias o logros de usuarios.                    | 4                      | Sebastian Mendez | Done                                               |
+| US-205         | Navegación Principal                   | FE-205 | Sidebar                                | Implementar barra lateral en la app móvil con accesos rápidos a secciones clave.                    | 5                      | Mathias Hidalgo  | Done                                               |
+| US-206         | Registro e Inicio de Sesión            | FE-206 | Inicio de sesión y registro            | Crear pantallas de login y registro con validaciones básicas en la app móvil.                       | 6                      | Eduard Travezaño | Done                                               |
+| US-207         | Diseño UI                              | UX-207 | Mockup del app móvil                   | Elaborar mockups en Figma para definir la experiencia visual de la aplicación móvil.                | 5                      | Sebastian Mendez | Done                                               |
+| US-208         | Despliegue del Backend                 | BE-208 | Deploy de Backend                      | Se va desplegar y arreglar errores que tiene el backend                                             | 5                      | Carlos Onofre    | Done                                               |
 
 ---
 
-#### [**6.2.2.3. Development Evidence for Sprint Review.**](#6224-development-evidence-for-sprint-review) 
+#### [**6.2.2.3. Development Evidence for Sprint Review.**](#6224-development-evidence-for-sprint-review)
+
 Durante este sprint se completaron las tareas de desarrollo correspondientes a las historias de usuario planificadas.
 Se implementaron app mobile, el backend y frontend del sistema.
 A continuación, se detallan las principales evidencias técnicas del desarrollo:
@@ -2995,44 +3060,49 @@ Backend: [[https://github.com/upc-pre-202502-14103-sw65-tsp/GoUni_BackEnd](https
 Frontend: [[https://github.com/upc-pre-202502-14103-sw65-tsp/GoUni_FrontEnd](https://github.com/upc-pre-202502-14103-sw65-tsp/GoUni_FrontEnd)](https://github.com/Desarrollo-IOT-3320-Grupo-2-Muevete/Front_end)
 Mobile: [[https://github.com/upc-pre-202502-14103-sw65-tsp/GoUni_FrontEnd](https://github.com/upc-pre-202502-14103-sw65-tsp/GoUni_FrontEnd)](https://github.com/Desarrollo-IOT-3320-Grupo-2-Muevete/Front_end)](https://github.com/Desarrollo-IOT-3320-Grupo-2-Muevete/App_movil)
 
-| **Módulo / Feature**                    | **Evidencia**                                               | **Descripción del Desarrollo**                                                                                                                                                                   |
-| --------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Perfil de Usuario | <img src="redis.jpeg"> | . |
-| Sección de Renta y Compra | <img src="/calendar.jpeg"> | . |
-| Sección de Vehículos | <img src="excel.jpeg"> | . |
-| Vista de Badges | <img src="redis.jpeg"> | . |
-| Sidebar | <img src="/calendar.jpeg"> | . |
-| Inicio de Sesión y Registro | <img src="excel.jpeg"> | . |
-| Mockup del App Móvil | <img src="redis.jpeg"> | . |
+| **Módulo / Feature**        | **Evidencia**              | **Descripción del Desarrollo** |
+| --------------------------- | -------------------------- | ------------------------------ |
+| Perfil de Usuario           | <img src="redis.jpeg">     | .                              |
+| Sección de Renta y Compra   | <img src="/calendar.jpeg"> | .                              |
+| Sección de Vehículos        | <img src="excel.jpeg">     | .                              |
+| Vista de Badges             | <img src="redis.jpeg">     | .                              |
+| Sidebar                     | <img src="/calendar.jpeg"> | .                              |
+| Inicio de Sesión y Registro | <img src="excel.jpeg">     | .                              |
+| Mockup del App Móvil        | <img src="redis.jpeg">     | .                              |
 
 ---
 
 #### [**6.2.2.4. Testing Suite Evidence for Sprint Review.**](#6225-testing-suite-evidence-for-sprint-review)
+
 En este sprint, el equipo se centró en el desarrollo de la aplicación móvil y web de Muevete!, priorizando la implementación de vistas, flujos de autenticación y componentes clave de la experiencia de usuario. Se llevaron a cabo pruebas manuales básicas para validar la navegación, la carga de datos y la coherencia visual entre el diseño en Figma y la aplicación.
 
-| **Services** | **Evidencia** |**Descripción** |
-|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-|
-| **Inicio de sesión y registro**      |<img src="assets/US-401.jpeg">|PRUEBA |
-| **Sección de vehículos.**      |<img src="assets/US-402.jpeg">|PRUEBA |
-| **Sección de renta y compra.**      |<img src="assets/calendar2.jpeg">|PRUEBA |
+| **Services**                    | **Evidencia**                     | **Descripción** |
+| ------------------------------- | --------------------------------- | --------------- |
+| **Inicio de sesión y registro** | <img src="assets/US-401.jpeg">    | PRUEBA          |
+| **Sección de vehículos.**       | <img src="assets/US-402.jpeg">    | PRUEBA          |
+| **Sección de renta y compra.**  | <img src="assets/calendar2.jpeg"> | PRUEBA          |
 
 ---
 
-#### [**6.2.2.6. Execution Evidence for Sprint Review.**](#6226-execution-evidence-for-sprint-review) 
+#### [**6.2.2.6. Execution Evidence for Sprint Review.**](#6226-execution-evidence-for-sprint-review)
+
 En este sprint se tienen los despliegues actualizados de los endpoints funcionando y el frontend completamente operativo:
+
 - **Backend:**
-![alt text](assets/chapter-6/evidencia_1.jpeg)
-![alt text](assets/chapter-6/evidencia_2.jpeg)
-![alt text](assets/chapter-6/evidencia_3.jpeg)
-![alt text](assets/chapter-6/evidencia_4.jpeg)
+  ![alt text](assets/chapter-6/evidencia_1.jpeg)
+  ![alt text](assets/chapter-6/evidencia_2.jpeg)
+  ![alt text](assets/chapter-6/evidencia_3.jpeg)
+  ![alt text](assets/chapter-6/evidencia_4.jpeg)
 
 - **Frontend:**
-![alt text](assets/chapter-6/frontevidencia_1.jpeg)
+  ![alt text](assets/chapter-6/frontevidencia_1.jpeg)
 
-#### [**6.2.2.7. Services Documentation Evidence for Sprint Review.**](#6227-services-documentation-evidence-for-sprint-review) 
+#### [**6.2.2.7. Services Documentation Evidence for Sprint Review.**](#6227-services-documentation-evidence-for-sprint-review)
+
 Para esta entrega, el equipo logró implementar de manera exitosa el frontend web app y la app mobile. Enlace del repo de la app: [ttps://cibermatch-movirent.netlify.app/](https://github.com/Desarrollo-IOT-3320-Grupo-2-Muevete/App_movil) Enlace del deploy de la app web mediante: https://mueveteecotech.netlify.app/login
 
-#### [**6.2.2.8. Software Deployment Evidence for Sprint Review.**](#6228-software-deployment-evidence-for-sprint-review) 
+#### [**6.2.2.8. Software Deployment Evidence for Sprint Review.**](#6228-software-deployment-evidence-for-sprint-review)
+
 Para esta entrega el equipo presento el backend termina y el app mobile. Se procederan a mostrar evidencias del app web.
 APP WEB:
 ![alt text](assets/chapter-6/frontevidencia_1.jpeg)
@@ -3046,19 +3116,23 @@ MOBILE WEB:
 ![alt text](assets/chapter-6/movil_4.jpeg)
 
 #### [**6.2.2.9. Team Collaboration Insights during Sprint.**](#6229-team-collaboration-insights-during-sprint)
+
 **URL del repositorio para el Project Report:**  
 [<https://github.com/upc-pre-202502-14103-sw65-tsp>](https://github.com/Desarrollo-IOT-3320-Grupo-2-Muevete)
 
-| **Integrante** | **Aporte en el informe** |
-|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Travezaño Patiño, Eduard Gedeon**       | Desarrollo del App Mobile en Flutter |
-| **Hidalgo Lopez, Mathias Adriano**     | Desarrollo del App Web |
-| **Mendez Vargas, Sebastian Orlando**      | Diseño UX/UI |
-| **Onofre Ruiz, Carlos Jesus**     | Documentacion y Entrevistas |
+| **Integrante**                       | **Aporte en el informe**             |
+| ------------------------------------ | ------------------------------------ |
+| **Travezaño Patiño, Eduard Gedeon**  | Desarrollo del App Mobile en Flutter |
+| **Hidalgo Lopez, Mathias Adriano**   | Desarrollo del App Web               |
+| **Mendez Vargas, Sebastian Orlando** | Diseño UX/UI                         |
+| **Onofre Ruiz, Carlos Jesus**        | Documentacion y Entrevistas          |
 
 ---
-## [**6.3. Validation Interviews.**](#63-validation-interviews) 
-### [**6.3.1. Diseño de Entrevistas.**](#631-diseño-de-entrevistas) 
+
+## [**6.3. Validation Interviews.**](#63-validation-interviews)
+
+### [**6.3.1. Diseño de Entrevistas.**](#631-diseño-de-entrevistas)
+
 En esta sección se han definido todas las preguntas que se plantearán en el momento de realizar las entrevistas de validación, una vez que los usuarios han interactuado con la aplicación móvil y/o web de Muevete!.
 
 Preguntas dirigidas a Universitarios
@@ -3089,31 +3163,36 @@ Preguntas principales (validación de uso):
 ¿Cómo te gustaría recibir notificaciones sobre tus reservas o compras (ej. correo, app, WhatsApp)?
 ¿Qué tan confiable percibiste la aplicación en términos de seguridad y protección de datos?
 
-### [**6.3.2. Registro de Entrevistas.**](#632-registro-de-entrevistas) 
+### [**6.3.2. Registro de Entrevistas.**](#632-registro-de-entrevistas)
 
 #### **Segmento 1: Estudiantes Universitarios**
-**Entrevista 1:** 
+
+**Entrevista 1:**
+
 - **Nombres:** Brissa
 - **Edad:** 19
 - **Lugar de residencia:** Rimac
 
-**Evidencia de la entrevista:**  ![Interview_Camila](assets/chapter-2/entrevistaBrissa.png)
+**Evidencia de la entrevista:** ![Interview_Camila](assets/chapter-2/entrevistaBrissa.png)
 **Enlace de la entrevista:** [[link](https://acortar.link/uMdFvk)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213222_upc_edu_pe/EYvfM5T1ScdBpoM4ZDAvlQgBLmbxD7DTIk_2O02DixCJBw?e=vsHMUY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-**Resumen de la entrevista:**  Brissa luego de revisar el app nos comenta que es una buena iniciativa para estudiantes como ella ya que le facilita la busqueda de servicios de alquiler y a su vez entabla conversaciones con compañeros universitarios.
+**Resumen de la entrevista:** Brissa luego de revisar el app nos comenta que es una buena iniciativa para estudiantes como ella ya que le facilita la busqueda de servicios de alquiler y a su vez entabla conversaciones con compañeros universitarios.
 
 #### **Segmento 2: Estudiantes universitarios propietarios de vehículos privados**
+
 **Entrevista 1:**
-- **Nombres:** Silvia Alexandra 
+
+- **Nombres:** Silvia Alexandra
 - **Apellidos:** Flores Garcia
 - **Edad:** 19
 - **Lugar de residencia:** San Martin
 
 **Evidencia de la entrevista:** ![Interview_Camila](assets/chapter-2/entrevistaSilvia.png)
-**Enlace de la entrevista:**  [link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213222_upc_edu_pe/EW5xM21GEKZDlK5WuFuOBhcB_IJpaBiFkexh2W4ghfdgOg?e=c55P3H&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-**Resumen de la entrevista:**  Silvia,anteriormente nos comento que es una estudiante de veterinaria anteriormente nos comento que estaba emocionada y sorprendida con nustra propuesta de alquiler de servicios de transporte entre estudiantes y cuando le mostramos el prototipo le fascino y le gusto la facilidad de uso.
+**Enlace de la entrevista:** [link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213222_upc_edu_pe/EW5xM21GEKZDlK5WuFuOBhcB_IJpaBiFkexh2W4ghfdgOg?e=c55P3H&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+**Resumen de la entrevista:** Silvia,anteriormente nos comento que es una estudiante de veterinaria anteriormente nos comento que estaba emocionada y sorprendida con nustra propuesta de alquiler de servicios de transporte entre estudiantes y cuando le mostramos el prototipo le fascino y le gusto la facilidad de uso.
 
 ---
-### [**6.3.3. Evaluaciones según heurísticas.**](#633-evaluaciones-segun-heuristicas) 
+
+### [**6.3.3. Evaluaciones según heurísticas.**](#633-evaluaciones-segun-heuristicas)
 
 **Análisis del segmento universitario**
 Los entrevistados valoran altamente la aplicación Muevete! y mas cuando vieron el prototipo mas que nada por su capacidad para facilitar la renta y la venta de vehículos menores inactivos, permitiéndoles generar ingresos adicionales y contribuir a la movilidad sostenible.
@@ -3122,67 +3201,71 @@ El 100% de los usuarios aprecian cómo la aplicación optimiza el proceso de ren
 **Análisis del segmento de adquiriente**
 El 100% de los entrevistados valoran la presencia de un mapa interactivo y las opciones de edición de vehículos. Un 67% prefiere usar el servicio para disfrutar del paisaje y recorrer distancias medias, indicando una inclinación hacia experiencias agradables y prácticas de movilidad urbana. No obstante, un 33% ha tenido experiencias desfavorables debido a cobros imprevistos, subrayando la importancia de mantener la claridad en los precios y evitar cargos inesperados.
 
-## [**6.4. Video About-the-Product.**](#64-video-about-the-product) 
+## [**6.4. Video About-the-Product.**](#64-video-about-the-product)
 
-Enlace al video: [link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a789_upc_edu_pe/IQC4mAVyV4ukRJc7LUbpKDEkAS0yvPZ2c8S_8GNzRX_2oaM?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=nxB0YW) 
----
+<img src="assets/About_The_Team_and_Product/AboutTheProduct.PNG" alt="" width="800" height="400">
+
+## Enlace al video: [link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a789_upc_edu_pe/IQC4mAVyV4ukRJc7LUbpKDEkAS0yvPZ2c8S_8GNzRX_2oaM?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=nxB0YW)
 
 # [**Conclusiones.**](#conclusiones)
 
 ## [**Conclusiones y Recomendaciones.**](#conclusiones-y-recomendaciones)
 
 #### 1. Muevete! responde a las necesidades de movilidad estudiantil
+
 La startup aborda la problemática de transporte en zonas urbanas como Lima, donde el transporte público es ineficiente y el uso de vehículos privados es costoso, proporcionando una plataforma de carpooling accesible y económica.
 
 #### 2. Contribución a la sostenibilidad
+
 Muevete! fomenta el uso compartido de vehículos, lo que ayuda a reducir la congestión vehicular, disminuye las emisiones de CO2 y promueve un uso más eficiente de los recursos entre los estudiantes universitarios.
 
 #### 3. Enfoque colaborativo y seguro
+
 La plataforma no solo facilita el ahorro económico a través de viajes compartidos, sino que también implementa medidas de seguridad como la verificación de identidad y las calificaciones de usuarios para garantizar un entorno confiable.
 
 #### 4. Impacto social y económico
+
 Muevete! no solo mejora la movilidad diaria de los estudiantes, sino que también permite a aquellos con vehículo propio generar ingresos adicionales, ofreciendo una solución que beneficia tanto a pasajeros como a conductores.
 
 #### 5. Innovación y tecnología como pilares
-La plataforma utiliza tecnología móvil avanzada y un enfoque innovador para crear una experiencia de movilidad eficiente y socialmente responsable, adaptada a las necesidades de los estudiantes en un contexto de creciente demanda por soluciones digitales.
 
+La plataforma utiliza tecnología móvil avanzada y un enfoque innovador para crear una experiencia de movilidad eficiente y socialmente responsable, adaptada a las necesidades de los estudiantes en un contexto de creciente demanda por soluciones digitales.
 
 ---
 
 # [**Bibliografia.**](#bibliografia)
 
-1. NEI. (2021). *Encuesta Nacional de Hogares: Módulo de Victimización*. Lima, Perú: INEI.
-2. Traverso, J. L. (2020). *Impacto del crimen en la calidad de vida de los habitantes de Lima Metropolitana*. *Revista Peruana de Criminología*, 3(1), 45-58.
-3. Municipalidad Metropolitana de Lima. (2023). *Informe anual sobre el estado del transporte público en Lima*. Lima, Perú: Autor.
+1. NEI. (2021). _Encuesta Nacional de Hogares: Módulo de Victimización_. Lima, Perú: INEI.
+2. Traverso, J. L. (2020). _Impacto del crimen en la calidad de vida de los habitantes de Lima Metropolitana_. _Revista Peruana de Criminología_, 3(1), 45-58.
+3. Municipalidad Metropolitana de Lima. (2023). _Informe anual sobre el estado del transporte público en Lima_. Lima, Perú: Autor.
 4. Flores Martos, C. Y., & Gonzales Otiniano, J. E. (2018). Efecto de la implementación del aplicativo Carpooling, bajo la norma ISO 9126, en la economía de estudiantes universitarios de Cajamarca.
 5. Amaro Meza, R. D. (2019). Aplicación carpooling para el transporte de personas que trabajan en el Centro Empresarial de San Isidro.
 6. Flores Martos, C. Y., & Gonzales Otiniano, J. E. (2018). Efecto de la implementación del aplicativo Carpooling, bajo la norma ISO 9126, en la economía de estudiantes universitarios de Cajamarca.
 7. Valdez Fabian, I. K. (2023). Gestión de comunicación del proyecto de responsabilidad social Facilito de Osinergmin en Lima Metropolitana.
 8. Jáuregui Mena, G. M. ¿La culpa es solo del conductor?: Un análisis de la responsabilidad de las plataformas digitales frente al consumidor de taxi por aplicativo en el Perú.
-9. Hofer, S., & Schwentner, H. (2021). *Domain Storytelling: A Collaborative, Visual, and Agile Way to Build Domain-Driven Software*. Addison-Wesley Professional.
-10. Vural, H., & Koyuncu, M. (2021). Does domain-driven design lead to finding the optimal modularity of a microservice?. *IEEE Access*, 9, 32721-32733.
-11. Tramullas Ortiz, C. (2023). *Diseño y aplicación de autómatas programables basados en open source*.
-12. Casado, P. E. F. (2020). *Domine JavaScript* (4ª Edición). Ra-Ma Editorial.
-13. Casado, P. E. F. (2023). *Creación de componentes en JavaScript Curso practico*. Ra-Ma Editorial.
-14. Fernández, P. (2023). *Construcción y diseño de páginas web con HTML, CSS y JavaScript*. Ediciones de la U.
-15. García-Holgado, A., & García-Peñalvo, F. J. (2014). *Patrón arquitectónico para la definición de ecosistemas de eLearning basados en desarrollos open source*.
-16. Molina Araque, F. A., & Espitia Pineda, A. A. (2016). *Propuesta de diseño e implementación de una aplicación móvil (App) como plataforma para compartir el uso del carro particular (carpooling) entre empleados de las sucursales en Bogotá de la empresa Claro Colombia sa, para teléfonos inteligentes cuyo sistema operativo sea Android 5.1*.
-17. Villena Romero, C. L. (2023). *Estudio de prefactibilidad para la instalación de una empresa de transporte compartido (carpooling) en una universidad privada de la ciudad de Lima*.
-18. Miranda de La Espriella, D., & Ramón García, N. (2016). *Fuímonos-Carpooling estudio y análisis para el desarrollo de la estrategia de mercadeo: plataforma web y móvil monografía de investigación*.
-19. Díaz Domínguez, G. M. (2015). *Carpooling GT, aplicación para compartir vehículo* (Doctoral dissertation, Universidad de San Carlos de Guatemala).
-20. Melo Domínguez, A. I. (2018). *Mejoramiento del problema de la congestión vehicular para la comunidad universitaria UDEC hacia una solución TI para carpooling*.
-21. Mendizábal, E. L. (2015). *Los nuevos sistemas de utilización compartida de vehículos de transporte ("carpooling" y "car sharing"): entre la economía colaborativa y la competencia desleal*. *Revista de derecho mercantil*, (296), 283-334.
-22. Cárdenas Peralta, N. F., Navarrete Cruzate, E. A., Jiménez Valdivia, K. M., & Arias Chilet, P. M. *CampusRoad*.
-23. Murillo Paredes, A. (2021). *Diseño de software aplicando el patrón Domain-Driven Design*.
-
+9. Hofer, S., & Schwentner, H. (2021). _Domain Storytelling: A Collaborative, Visual, and Agile Way to Build Domain-Driven Software_. Addison-Wesley Professional.
+10. Vural, H., & Koyuncu, M. (2021). Does domain-driven design lead to finding the optimal modularity of a microservice?. _IEEE Access_, 9, 32721-32733.
+11. Tramullas Ortiz, C. (2023). _Diseño y aplicación de autómatas programables basados en open source_.
+12. Casado, P. E. F. (2020). _Domine JavaScript_ (4ª Edición). Ra-Ma Editorial.
+13. Casado, P. E. F. (2023). _Creación de componentes en JavaScript Curso practico_. Ra-Ma Editorial.
+14. Fernández, P. (2023). _Construcción y diseño de páginas web con HTML, CSS y JavaScript_. Ediciones de la U.
+15. García-Holgado, A., & García-Peñalvo, F. J. (2014). _Patrón arquitectónico para la definición de ecosistemas de eLearning basados en desarrollos open source_.
+16. Molina Araque, F. A., & Espitia Pineda, A. A. (2016). _Propuesta de diseño e implementación de una aplicación móvil (App) como plataforma para compartir el uso del carro particular (carpooling) entre empleados de las sucursales en Bogotá de la empresa Claro Colombia sa, para teléfonos inteligentes cuyo sistema operativo sea Android 5.1_.
+17. Villena Romero, C. L. (2023). _Estudio de prefactibilidad para la instalación de una empresa de transporte compartido (carpooling) en una universidad privada de la ciudad de Lima_.
+18. Miranda de La Espriella, D., & Ramón García, N. (2016). _Fuímonos-Carpooling estudio y análisis para el desarrollo de la estrategia de mercadeo: plataforma web y móvil monografía de investigación_.
+19. Díaz Domínguez, G. M. (2015). _Carpooling GT, aplicación para compartir vehículo_ (Doctoral dissertation, Universidad de San Carlos de Guatemala).
+20. Melo Domínguez, A. I. (2018). _Mejoramiento del problema de la congestión vehicular para la comunidad universitaria UDEC hacia una solución TI para carpooling_.
+21. Mendizábal, E. L. (2015). _Los nuevos sistemas de utilización compartida de vehículos de transporte ("carpooling" y "car sharing"): entre la economía colaborativa y la competencia desleal_. _Revista de derecho mercantil_, (296), 283-334.
+22. Cárdenas Peralta, N. F., Navarrete Cruzate, E. A., Jiménez Valdivia, K. M., & Arias Chilet, P. M. _CampusRoad_.
+23. Murillo Paredes, A. (2021). _Diseño de software aplicando el patrón Domain-Driven Design_.
 
 # [**Anexos**](#anexos)
 
-| Descripción                           | Link                                                                                                                                                                                                                                                                     |
-|---------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Repositorio General |                                                        |
-| Repositorio Reporte                   |   |
-| Repositorio Landingpage               |   |
-| Exposición TB1                        | []() 
-| Link landing page                     |                                                                                                                                                                                                                                                                                        
-| Link de Entrevisas                    | []() |
+| Descripción             | Link |
+| ----------------------- | ---- |
+| Repositorio General     |      |
+| Repositorio Reporte     |      |
+| Repositorio Landingpage |      |
+| Exposición TB1          | []() |
+| Link landing page       |
+| Link de Entrevisas      | []() |
