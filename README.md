@@ -1432,7 +1432,7 @@ Por último, tenemos las clases que ayudarán con la conexión de microservicios
 
 #### [**4.2.1.5. Bounded Context Software Architecture Component Level Diagrams**](#4215-bounded-context-software-architecture-component-level-diagrams)
 
-![Component Diagram with Services](assets/chapter-4/c46.png)
+![Component Diagram with Services](assets/chapter-4/c4new.png)
 
 ![Component Diagram Vehicle](assets/chapter-4/c45.png)
 
