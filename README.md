@@ -786,11 +786,11 @@ Algunos usuarios también sugirieron incluir características adicionales, como 
 
 - Segmento Universitarios:
 
-![User Persona Propietario](/assets/chapter-2/AlexHidalgo.png)
+<img src="assets/chapter-2/AlexHidalgo.png" alt="">
 
 - Segmento Adquirientes:
 
-![User Persona Rentador](/assets/chapter-2/CamilaSolano.png)
+<img src="assets/chapter-2/CamilaSolano.png" alt="">
 
 ---
 
@@ -1043,11 +1043,11 @@ En esta sección se ilustra el recorrido completo del usuario (end-to-end journe
 
 - Segmento Universitarios:
 
-![Journey](/assets/chapter-2/journey1.png)
+<img src="assets/chapter-2/journey1.png" alt="">
 
 - Segmento Adquirientes:
 
-![Journey](/assets/chapter-2/journey2.png)
+<img src="assets/chapter-2/journey2.png" alt="">
 
 ---
 
@@ -1055,11 +1055,11 @@ En esta sección se ilustra el recorrido completo del usuario (end-to-end journe
 
 - Segmento Universitarios:
 
-![Empathy Mapping 1](/assets/chapter-2/AlexHidalgo_EmpathyMap.png)
+<img src="assets/chapter-2/AlexHidalgo_EmpathyMap.png" alt="">
 
 - Segmento Adquirientes:
 
-![Empathy Mapping 2](/assets/chapter-2/CamilaSolano_EmpathyMap.png)
+<img src="assets/chapter-2/CamilaSolano_EmpathyMap.png" alt="">
 
 ---
 
@@ -1067,11 +1067,11 @@ En esta sección se ilustra el recorrido completo del usuario (end-to-end journe
 
 - Segmento Universitarios:
 
-![As-Is Mapping 1](/assets/chapter-2/AsIsMappingUniversitario.png)
+<img src="assets/chapter-2/AsIsMappingUniversitario.png" alt="">
 
 - Segmento Adquirientes:
 
-![As-Is Mapping 2](/assets/chapter-2/AsIsMappingAdquiriente.png)
+<img src="assets/chapter-2/AsIsMappingAdquiriente.png" alt="">
 
 ---
 
@@ -1112,11 +1112,11 @@ Para elaborar el To-be Scenario Mapping, el equipo definió cómo sería el fluj
 
 - Segmento Universitarios:
 
-![ImpactMapping1](/assets/chapter-3/tobe1.png)
+<img src="assets/chapter-3/tobe1.png" alt="">
 
 - Segmento Adquiriente:
 
-![ToBeMapping2](/assets/chapter-3/tobe2.png)
+<img src="assets/chapter-3/tobe2.png" alt="">
 
 ### **3.2. User Stories**
 
@@ -1473,20 +1473,21 @@ Es un conjunto de normas y directrices que determinan cómo se deben redactar, d
 - **Visión:** Convertirnos en una aplicación líder en movilidad urbana sostenible, facilitando el acceso a vehículos ecológicos y promoviendo un estilo de vida más saludable y consciente con el medio ambiente.
 
 ![EcoTechSquad](/assets/chapter-5/startfoto.jpeg)
+<img src="assets/chapter-5/startfoto.jpeg" alt="">
 
 **Brand Name:**
 
 EcoTech es una solución que surge de la combinación de "Eco", representando ecología y sostenibilidad, y "Movil", destacando la movilidad urbana. Esta aplicación está diseñada para fomentar el emprendimiento universitario y la sostenibilidad en Perú, brindando a los estudiantes la oportunidad de generar ingresos alquilando o vendiendo vehículos ecológicos. Al mismo tiempo, contribuye a reducir la contaminación y promueve un estilo de vida más activo.
 
-<img src="/assets/chapter-5/appfoto.jpeg">
+<img src="assets/chapter-5/appfoto.jpeg" alt="">
 
 **Colores:**
 
 Los colores desempeñan un papel fundamental en la primera impresión que los usuarios tienen de la aplicación. Basándose en los principios de la psicología del color, se ha seleccionado el verde como el color principal de la paleta cromática. Este color simboliza crecimiento y creatividad, que son valores esenciales de la startup. Además, el verde está asociado con la ecología, que es el enfoque principal de la aplicación, y con la armonía, un concepto que buscamos reflejar en la interacción con el servicio. Las tonalidades secundarias elegidas abarcan distintos matices de verde claro, verde oscuro y verde pálido. Como colores secundarios, también se incluyen variantes de verde fosforescente, crema claro y anaranjado amarillo.
 
-<img src="/assets/chapter-4/primaryandsecondary.png">
-<img src="/assets/chapter-4/wireframeandtext.png">
-<img src="/assets/chapter-4/gradient.png">
+<img src="assets/chapter-4/primaryandsecondary.png" alt="">
+<img src="assets/chapter-4/wireframeandtext.png" alt="">
+<img src="assets/chapter-4/gradient.png" alt="">
 
 **Tipografia:**
 
@@ -1499,7 +1500,7 @@ La estructura tipográfica del proyecto se organiza en cuatro niveles de jerarqu
 - Heading 03: Tamaño de 17px.
 - Heading 04: Tamaño de 15px.
 
-<img src="/assets/chapter-4/typography2.png">
+<img src="assets/chapter-4/typography2.png" alt="">
 
 ### 5.1.2. Web Style Guidelines
 
@@ -1590,27 +1591,27 @@ Esta interfaz fue diseñada con simplicidad en mente, empleando colores claros c
 
 Primero, se muestra la landing page vista desde un navegador web en escritorio. Esta página incluye secciones importantes para el usuario, que ofrecen información sobre los beneficios que obtendrá al usar el producto, los planes de pago disponibles, así como la misión, visión y valores de la startup.
 
-![wireframe_landingpage_1](/assets/chapter-4/wireframe-L1.png)
+<img src="assets/chapter-4/wireframe-L1.png" alt="">
 
-![wireframe_landingpage_2](/assets/chapter-4/wireframe-L2.png)
+<img src="assets/chapter-4/wireframe-L2.png" alt="">
 
-![wireframe_landingpage_3](/assets/chapter-4/wireframe-L3.png)
+<img src="assets/chapter-4/wireframe-L3.png" alt="">
 
-![wireframe_landingpage_4](/assets/chapter-4/wireframe-L4.png)
+<img src="assets/chapter-4/wireframe-L4.png" alt="">
 
-![wireframe_landingpage_5](/assets/chapter-4/wireframe-L5.png)
+<img src="assets/chapter-4/wireframe-L5.png" alt="">
 
-![wireframe_landingpage_6](/assets/chapter-4/wireframe-L6.png)
+<img src="assets/chapter-4/wireframe-L6.png" alt="">
 
 #### 5.3.1.2. Landing Page for Mobile Web Browser
 
 A continuación, se presenta la landing page vista desde un navegador web móvil. Este diseño contiene los mismos elementos que la versión de escritorio, pero adaptados a las dimensiones de un dispositivo móvil. Crear una landing page responsive es valioso para los usuarios, ya que les permite acceder desde cualquier dispositivo y obtener la misma información sin dificultades.
 
-![wireframe_mobilem1](/assets/chapter-4/landingpagemb1.png)
+<img src="assets/chapter-4/landingpagemb1.png" alt="">
 
-![wireframe_mobilem2](/assets/chapter-4/landingpagemb2.png)
+<img src="assets/chapter-4/landingpagemb2.png" alt="">
 
-![wireframe_mobilem3](/assets/chapter-4/landingpagemb3.png)
+<img src="assets/chapter-4/landingpagemb3.png" alt="">
 
 ### 5.3.2. Landing Page Mock-up
 
@@ -1618,25 +1619,25 @@ A continuación, se presenta la landing page vista desde un navegador web móvil
 
 El wireframe para la vista en navegador de escritorio de la landing page fue clave para planificar la disposición de los elementos. Con base en este esquema, se creó el mock-up de la landing page, que mantiene los mismos contenidos detallados anteriormente. La imagen siguiente muestra cómo se ha aplicado la paleta de colores primaria y secundaria, así como la tipografía previamente definida.
 
-![mock_uplanding1](/assets/chapter-4/landing1.png)
+<img src="assets/chapter-4/landing1.png" alt="">
 
-![mock_uplanding2](/assets/chapter-4/landing2.png)
+<img src="assets/chapter-4/landing2.png" alt="">
 
-![mock_uplanding3](/assets/chapter-4/landing3.png)
+<img src="assets/chapter-4/landing3.png" alt="">
 
-![mock_uplanding5](/assets/chapter-4/landing5.png)
+<img src="assets/chapter-4/landing5.png" alt="">
 
-![mock_uplanding6](/assets/chapter-4/landing6.png)
+<img src="assets/chapter-4/landing6.png" alt="">
 
 #### 5.3.2.2. Landing Page for Mobile
 
 El mock-up de la landing page en la vista móvil incluye los mismos elementos previamente mencionados. Se destaca que la tipografía seleccionada y el contraste de colores entre el texto y el fondo facilitan la legibilidad de la información en ambos dispositivos.
 
-![mockup_mobilem1](/assets/chapter-4/mockupmb1.png)
+<img src="assets/chapter-4/mockupmb1.png" alt="">
 
-![mockup_mobilem2](/assets/chapter-4/mockupmb2.png)
+<img src="assets/chapter-4/mockupmb2.png" alt="">
 
-![mockup_mobilem3](/assets/chapter-4/mockupm3.png)
+<img src="assets/chapter-4/mockupm3.png" alt="">
 
 ## 5.4. Web Applications UX/UI Design
 
@@ -1650,67 +1651,67 @@ El mock-up de la landing page en la vista móvil incluye los mismos elementos pr
 
 La siguiente imagen presenta la sección de "registro de empresa", donde los universitarios podrán proporcionar la información requerida para crear una cuenta en la aplicación y empezar a disfrutar de los beneficios que ofrece EcoTech.
 
-![web](/assets/chapter-4/universitario1.png)
+<img src="assets/chapter-4/universitario1.png" alt="">
 
 **Inicio de sesión**
 
 La siguiente imagen muestra el wireframe de la sección de "inicio de sesión" vista desde una aplicación web en escritorio. En esta sección, los usuarios deberán ingresar sus credenciales para acceder a la aplicación, siempre y cuando ya hayan creado una cuenta previamente.
 
-![web](/assets/chapter-4/universitario2.png)
+<img src="assets/chapter-4/universitario2.png" alt="">
 
 **Elegir Planes**
 
 La siguiente imagen muestra la sección de "Selección de pago", donde se presentan las diferentes categorías de planes disponibles en la aplicación. Cada uno de los tres planes ha sido diseñado cuidadosamente para atender las necesidades particulares de las empresas.
 
-![web](/assets/chapter-4/universitario3.png)
+<img src="assets/chapter-4/universitario3.png" alt="">
 
 **Pago**
 
 La siguiente imagen corresponde a la sección de "Pasarela de pagos", donde los universitarios son redirigidos a un formulario para seleccionar y registrar su método de pago. En esta sección también se muestra el monto del plan elegido. Tras completar el proceso de pago con éxito, el usuario recibe una notificación con la confirmación de su suscripción y la fecha de registro.
 
-![web](/assets/chapter-4/universitario4.png)
+<img src="assets/chapter-4/universitario4.png" alt="">
 
 **Proceder el Pago**
 
 En la siguiente imagen se puede ver el mensaje de pago exitoso, donde el universitario confirma que ha realizado el pago de manera satisfactoria y que ahora puede utilizar la aplicación sin inconvenientes.
 
-![web](/assets/chapter-4/universitario5.png)
+<img src="assets/chapter-4/universitario5.png" alt="">
 
 **Home**
 
 En esta sección, se puede ver el home con varias secciones que se explorarán más adelante. En particular, nos enfocamos en la parte de "Mis vehículos", donde podrás observar a otros universitarios siguiendo la iniciativa y subiendo sus propios vehículos.
 
-![web](/assets/chapter-4/universitario6.png)
+<img src="assets/chapter-4/universitario6.png" alt="">
 
 **Detalles del Vehículo**
 
 En esta sección, podrás ver los detalles de cada vehículo mostrado en la sección del home.
 
-![web](/assets/chapter-4/universitario7.png)
+<img src="assets/chapter-4/universitario7.png" alt="">
 
 **Mis vehículos**
 
 En esta parte, el universitario podrá subir sus vehículos añadiendo una imagen representativa y detalles del vehículo. Finalmente, deberá hacer clic en el botón "Agregar" para completar el proceso.
 
-![web](/assets/chapter-4/universitario8.png)
+<img src="assets/chapter-4/universitario8.png" alt="">
 
 **Mi Perfil**
 
 En esta sección, podrás ver tu perfil y agregar más datos, como tu RUC, correo electrónico y otros detalles, además de tu foto representativa. Finalmente, deberás hacer clic en el botón "Save changes" para guardar los cambios.
 
-![web](/assets/chapter-4/universitario9.png)
+<img src="assets/chapter-4/universitario9.png" alt="">
 
 **Historial del Vehículo**
 
 En esta sección, puedes ver el historial de los vehículos publicados y los detalles correspondientes.
 
-![web](/assets/chapter-4/universitario10.png)
+<img src="assets/chapter-4/universitario10.png" alt="">
 
 **Foro de Contacto**
 
 En esta sección, podrás publicar tu número de contacto y el vehículo que estás dispuesto a vender o alquilar, permitiendo que otros usuarios se contacten contigo o le den "like" a tu publicación.
 
-![web](/assets/chapter-4/universitario11.png)
+<img src="assets/chapter-4/universitario11.png" alt="">
 
 **Segmento Adquiriente**
 
@@ -1718,55 +1719,55 @@ En esta sección, podrás publicar tu número de contacto y el vehículo que est
 
 En esta sección, el adquiriente podrá registrarse proporcionando datos específicos como su nombre, correo electrónico y contraseña. Además, deberá marcar la casilla "Acepto los términos y condiciones."
 
-![web](/assets/chapter-4/adquiriente1.png)
+<img src="assets/chapter-4/adquiriente1.png" alt="">
 
 **Iniciar Sesión**
 
 En esta sección, el adquiriente podrá iniciar sesión ingresando su correo electrónico y contraseña.
 
-![web](/assets/chapter-4/adquiriente2.png)
+<img src="assets/chapter-4/adquiriente2.png" alt="">
 
 **Home**
 
 En esta sección, el adquiriente podrá visualizar el "Home", donde tendrá acceso a diversos vehículos menores con información como nombre, descripción y precio. También encontrará botones para "Rentar" o "Comprar" cada vehículo.
 
-![web](/assets/chapter-4/adquiriente3.png)
+<img src="assets/chapter-4/adquiriente3.png" alt="">
 
 **Mi perfil**
 
 En esta sección, podrás visualizar el perfil del adquiriente, incluyendo detalles como el nombre, correo y teléfono. También habrá un botón para confirmar si los detalles son correctos y, finalmente, un botón de "Guardar".
 
-![web](/assets/chapter-4/adquiriente4.png)
+<img src="assets/chapter-4/adquiriente4.png" alt="">
 
 **Mapa Interactivo**
 
 En esta sección, el adquiriente podrá visualizar un mapa interactivo.
 
-![web](/assets/chapter-4/adquiriente5.png)
+<img src="assets/chapter-4/adquiriente5.png" alt="">
 
 **Filtro**
 
 En esta sección, podrás visualizar los filtros con vehículos y sus imágenes descriptivas, así como los botones de "Comprar" o "Rentar".
 
-![web](/assets/chapter-4/adquiriente6.png)
+<img src="assets/chapter-4/adquiriente6.png" alt="">
 
 **Detalles del Vehículo**
 
 Al hacer clic en un vehículo, el adquiriente podrá ver las descripciones del mismo, incluidos sus "Badges", tipo de vehículo, año, precio y una descripción detallada. Además, tendrá la opción de comunicarse por WhatsApp con el propietario del vehículo y podrá seleccionar entre los botones "Rentar Vehículo" o "Comprar Vehículo".
 
-![web](/assets/chapter-4/adquiriente7.png)
+<img src="assets/chapter-4/adquiriente7.png" alt="">
 
 **Historial**
 
 En esta sección, el adquiriente podrá visualizar el historial de los vehículos.
 
-![web](/assets/chapter-4/adquiriente8.png)
+<img src="assets/chapter-4/adquiriente8.png" alt="">
 
 **Foro de Contacto**
 
 En esta sección, el adquiriente podrá visualizar los mensajes de los diferentes universitarios que incluyeron su número de teléfono, con la opción de conectarse directamente a través de WhatsApp.
 
-![web](/assets/chapter-4/adquiriente9.png)
+<img src="assets/chapter-4/adquiriente9.png" alt="">
 
 **Web Application para Mobile Web Browser**
 
@@ -1776,55 +1777,55 @@ En esta sección, el adquiriente podrá visualizar los mensajes de los diferente
 
 Aquí, el universitario podrá ver el logo de EcoTech con un mensaje de "Cargando" en la parte inferior.
 
-![web](/assets/chapter-4/phone1.png)
+<img src="assets/chapter-4/phone1.png" alt="">
 
 **Registro**
 
 Los universitarios podrán registrarse en EcoTech ingresando su RUC, correo electrónico, nombre completo y contraseña. También deberán aceptar los términos y condiciones antes de hacer clic en el botón de "Registrarse".
 
-![web](/assets/chapter-4/phone2.png)
+<img src="assets/chapter-4/phone2.png" alt="">
 
 **Iniciar sesión**
 
 Los universitarios podrán iniciar sesión ingresando su correo electrónico y contraseña. También habrá una opción de "Recuérdame" para facilitar el acceso en caso de que olviden el usuario o la contraseña. Finalmente, deberán hacer clic en el botón de "Iniciar sesión".
 
-![web](/assets/chapter-4/phone3.png)
+<img src="assets/chapter-4/phone3.png" alt="">
 
 **Planes**
 
 Aquí, el usuario podrá seleccionar uno de los tres planes disponibles para comenzar a usar la aplicación y ofrecer sus vehículos al público objetivo. Deberá hacer clic en el botón de "Escoger Plan".
 
-![web](/assets/chapter-4/phone4.png)
+<img src="assets/chapter-4/phone4.png" alt="">
 
 **Proceder al pago**
 
 En esta sección, el usuario podrá acceder al plan realizando el pago con su tarjeta e ingresando los datos correspondientes. Después de hacer clic en el botón de "Confirmar", recibirá un mensaje de pago exitoso.
 
-![web](/assets/chapter-4/phone5.png)
+<img src="assets/chapter-4/phone5.png" alt="">
 
 **Vehículos**
 
 Aquí, el universitario podrá visualizar las publicaciones de otros universitarios y sus vehículos para inspirarse. Luego, podrá acceder a la sección "Mi Vehículo" para agregar uno o dos vehículos, dependiendo de su plan, haciendo clic en el botón "Agregar".
 
-![web](/assets/chapter-4/phone7.png)
+<img src="assets/chapter-4/phon7.png" alt="">
 
 **Historial**
 
 Aquí, podremos ver el historial de los vehículos publicados por el universitario.
 
-![web](/assets/chapter-4/phone8.png)
+<img src="assets/chapter-4/phone8.png" alt="">
 
 **Foro de Contacto**
 
 El universitario podrá subir un mensaje en el post indicando que está vendiendo o rentando un vehículo, incluyendo su número de celular para que el arrendatario pueda comunicarse con él a través de WhatsApp.
 
-![web](/assets/chapter-4/phone9.png)
+<img src="assets/chapter-4/phon9.png" alt="">
 
 **Mi Perfil**
 
 En esta sección, podrás ver tu perfil, incluyendo tu foto, nombre completo, correo electrónico, número de teléfono y RUC. Finalmente, podrás guardar tus datos.
 
-![web](/assets/chapter-4/phone10.png)
+<img src="assets/chapter-4/phone10.png" alt="">
 
 **Segmento Adquiriente**
 
@@ -1832,49 +1833,49 @@ En esta sección, podrás ver tu perfil, incluyendo tu foto, nombre completo, co
 
 Aquí, el adquiriente podrá ver el logo de EcoTech con un mensaje de "Cargando" en la parte inferior.
 
-![web](/assets/chapter-4/phone1.png)
+<img src="assets/chapter-4/phone1.png" alt="">
 
 **Registro**
 
 Los adquirientes podrán registrarse en EcoTech ingresando su correo electrónico, nombre completo y contraseña. También deberán aceptar los términos y condiciones antes de hacer clic en el botón de "Registrarse".
 
-![web](/assets/chapter-4/image1.png)
+<img src="assets/chapter-4/image1.png" alt="">
 
 **Iniciar sesión**
 
 Los adquirientes podrán iniciar sesión ingresando su correo electrónico y contraseña. También habrá una opción de "Recuérdame" para facilitar el acceso en caso de que olviden el usuario o la contraseña. Finalmente, deberán hacer clic en el botón de "Iniciar sesión".
 
-![web](/assets/chapter-4/phone3.png)
+<img src="assets/chapter-4/phone3.png" alt="">
 
 **Alquilar o comprar vehículos menores**
 
 Aquí podrás explorar diferentes vehículos y utilizar el botón "Rentar" o "Comprar" según tu interés.
 
-![web](/assets/chapter-4/image2.png)
+<img src="assets/chapter-4/image2.png" alt="">
 
 **Mi Perfil**
 
 El adquiriente podrá ver su perfil, agregar o corregir su foto, nombre, correo electrónico y teléfono. También deberá confirmar que los detalles son correctos y, finalmente, hacer clic en el botón "Guardar".
 
-![web](/assets/chapter-4/image3.png)
+<img src="assets/chapter-4/image3.png" alt="">
 
 **Vehículo y Filtros**
 
 Aquí podrás ver el mapa interactivo y el filtro, que incluye secciones para tipos de vehículos y precios.
 
-![web](/assets/chapter-4/image4.png)
+<img src="assets/chapter-4/image4.png" alt="">
 
 **Detalles del Vehículo**
 
 Aquí podrás visualizar los detalles del vehículo que seleccionaste, incluyendo sus descripciones, y tendrás los botones de "Alquilar" o "Comprar".
 
-![web](/assets/chapter-4/image5.png)
+<img src="assets/chapter-4/image5.png" alt="">
 
 **Historial de Vehículo y Foro de Contacto**
 
 El adquiriente tendrá la opción de ver los vehículos en su historial y acceder al foro de contacto, donde podrá visualizar los posts de los universitarios que incluyen su número de WhatsApp, facilitando el contacto directo si desean el vehículo.
 
-![web](/assets/chapter-4/image6.png)
+<img src="assets/chapter-4/image6.png" alt="">
 
 ### 5.4.2. Web Applications Wireflow Diagrams
 
@@ -1887,20 +1888,21 @@ El adquiriente tendrá la opción de ver los vehículos en su historial y accede
 Primero, el usuario ingresará a la aplicación desplegada. En la pantalla inicial, se le presentará un formulario para ingresar sus datos de inicio de sesión. Para los universitarios, el formulario requerirá el RUC, nombre, correo electrónico y contraseña.
 
 ![diagram](/assets/chapter-4/diagram1.png)
+<img src="assets/chapter-4/diagram1.png" alt="">
 
 **User Goal: Pagos de los Planes**
 
 El universitario podrá elegir entre 3 planes y seleccionar uno haciendo clic en el botón "Elegir Plan". Al hacerlo, será redirigido al proceso de pago, donde deberá ingresar los datos de su tarjeta y confirmar que la información es correcta. Una vez confirmado, el sistema mostrará un mensaje de pago exitoso. Al hacer clic en el botón "Comenzar", el usuario accederá al menú de vehículos.
 
-![diagram](/assets/chapter-4/diagram3.png)
+<img src="assets/chapter-4/diagram3.png" alt="">
 
-![diagram](/assets/chapter-4/diagram4.png)
+<img src="assets/chapter-4/diagram4.png" alt="">
 
 **User Goal: Navegar por el dashboard**
 
 Descripción del Flujo: Una vez que el universitario haya iniciado sesión, será dirigido al panel de control, donde podrá ver varias opciones. La primera opción es "Detalles del Vehículo", donde podrá consultar la información de cada vehículo. Luego, encontrará la sección de "Perfil", donde podrá actualizar sus datos y foto. También habrá una sección llamada "Historial de Vehículos", donde podrá revisar los vehículos que ha subido. Finalmente, estará disponible el "Foro de Contacto", donde podrá publicar un anuncio para vender o alquilar, permitiendo que los interesados se comuniquen directamente por WhatsApp.
 
-![diagram](/assets/chapter-4/diagram5.png)
+<img src="assets/chapter-4/diagram5.png" alt="">
 
 **User Goal: Iniciar sesión y Registrarse**
 
@@ -1910,19 +1912,19 @@ Descripción del Flujo: Una vez que el universitario haya iniciado sesión, ser�
 
 Primero, el usuario ingresará a la aplicación desplegada. En la pantalla inicial, se le presentará un formulario para ingresar sus datos de inicio de sesión. Para los adquirientes, el formulario requerirá el nombre, correo electrónico y contraseña.
 
-![diagram](/assets/chapter-4/diagram2.png)
+<img src="assets/chapter-4/diagram2.png" alt="">
 
 **User Goal: Visualizar los Vehículos**
 
 El adquiriente, al estar en la página de inicio, podrá ver los vehículos disponibles junto con sus descripciones. Al hacer clic en el botón "Alquilar" o "Comprar", será redirigido a la página de detalles del vehículo, donde podrá consultar el tipo, precio, descripción y distintivos del vehículo. Luego, al presionar el botón "Guardar", el vehículo se añadirá a su historial de vehículos guardados.
 
-![diagram](/assets/chapter-4/diagram6.png)
+<img src="assets/chapter-4/diagram6.png" alt="">
 
 **User Goal: Navegar por el dashboard**
 
 Descripción del Flujo: Una vez que el adquiriente haya iniciado sesión, será dirigido al panel de control, donde encontrará varias opciones. La primera opción es "Mapa Interactivo", que le permitirá ver la ubicación de cada vehículo. Luego, encontrará la sección de "Filtro", donde podrá buscar y visualizar vehículos según su tipo y precio. También tendrá acceso a la sección de "Foro de Contacto", donde podrá ponerse en contacto con el universitario para adquirir el vehículo. Finalmente, estará disponible la opción "Mi Perfil", donde podrá revisar y actualizar sus datos personales.
 
-![diagram](/assets/chapter-4/diagram7.png)
+<img src="assets/chapter-4/diagram7.png" alt="">
 
 ### 5.4.3. Web Applications Mock-ups
 
@@ -1934,67 +1936,67 @@ Descripción del Flujo: Una vez que el adquiriente haya iniciado sesión, será 
 
 La siguiente imagen presenta la sección de "registro de empresa", donde los universitarios podrán proporcionar la información requerida para crear una cuenta en la aplicación y empezar a disfrutar de los beneficios que ofrece EcoTech.
 
-![web](/assets/chapter-4/mockup1.png)
+<img src="assets/chapter-4/mockup1.png" alt="">
 
 **Inicio de sesión**
 
 La siguiente imagen muestra el wireframe de la sección de "inicio de sesión" vista desde una aplicación web en escritorio. En esta sección, los usuarios deberán ingresar sus credenciales para acceder a la aplicación, siempre y cuando ya hayan creado una cuenta previamente.
 
-![web](/assets/chapter-4/mockup2.png)
+<img src="assets/chapter-4/mockup2.png" alt="">
 
 **Elegir Planes**
 
 La siguiente imagen muestra la sección de "Selección de pago", donde se presentan las diferentes categorías de planes disponibles en la aplicación. Cada uno de los tres planes ha sido diseñado cuidadosamente para atender las necesidades particulares de las empresas.
 
-![web](/assets/chapter-4/mockup3.png)
+<img src="assets/chapter-4/mockup3.png" alt="">
 
 **Pago**
 
 La siguiente imagen corresponde a la sección de "Pasarela de pagos", donde los universitarios son redirigidos a un formulario para seleccionar y registrar su método de pago. En esta sección también se muestra el monto del plan elegido. Tras completar el proceso de pago con éxito, el usuario recibe una notificación con la confirmación de su suscripción y la fecha de registro.
 
-![web](/assets/chapter-4/mockup4.png)
+<img src="assets/chapter-4/mockup4.png" alt="">
 
 **Proceder el Pago**
 
 En la siguiente imagen se puede ver el mensaje de pago exitoso, donde el universitario confirma que ha realizado el pago de manera satisfactoria y que ahora puede utilizar la aplicación sin inconvenientes.
 
-![web](/assets/chapter-4/mockup5.png)
+<img src="assets/chapter-4/mockup5.png" alt="">
 
 **Home**
 
 En esta sección, se puede ver el home con varias secciones que se explorarán más adelante. En particular, nos enfocamos en la parte de "Mis vehículos", donde podrás observar a otros universitarios siguiendo la iniciativa y subiendo sus propios vehículos.
 
-![web](/assets/chapter-4/mockup6.png)
+<img src="assets/chapter-4/mockup6.png" alt="">
 
 **Detalles del Vehículo**
 
 En esta sección, podrás ver los detalles de cada vehículo mostrado en la sección del home.
 
-![web](/assets/chapter-4/mockup7.png)
+<img src="assets/chapter-4/mockup7.png" alt="">
 
 **Mis vehículos**
 
 En esta parte, el universitario podrá subir sus vehículos añadiendo una imagen representativa y detalles del vehículo. Finalmente, deberá hacer clic en el botón "Agregar" para completar el proceso.
 
-![web](/assets/chapter-4/mockup8.png)
+<img src="assets/chapter-4/mockup8.png" alt="">
 
 **Mi Perfil**
 
 En esta sección, podrás ver tu perfil y agregar más datos, como tu RUC, correo electrónico y otros detalles, además de tu foto representativa. Finalmente, deberás hacer clic en el botón "Save changes" para guardar los cambios.
 
-![web](/assets/chapter-4/mockup9.png)
+<img src="assets/chapter-4/mockup9.png" alt="">
 
 **Historial del Vehículo**
 
 En esta sección, puedes ver el historial de los vehículos publicados y los detalles correspondientes.
 
-![web](/assets/chapter-4/mockup10.png)
+<img src="assets/chapter-4/mockup10.png" alt="">
 
 **Foro de Contacto**
 
 En esta sección, podrás publicar tu número de contacto y el vehículo que estás dispuesto a vender o alquilar, permitiendo que otros usuarios se contacten contigo o le den "like" a tu publicación.
 
-![web](/assets/chapter-4/mockup11.png)
+<img src="assets/chapter-4/mockup11.png" alt="">
 
 **Segmento Adquiriente**
 
@@ -2002,55 +2004,55 @@ En esta sección, podrás publicar tu número de contacto y el vehículo que est
 
 En esta sección, el adquiriente podrá registrarse proporcionando datos específicos como su nombre, correo electrónico y contraseña. Además, deberá marcar la casilla "Acepto los términos y condiciones."
 
-![web](/assets/chapter-4/mockup12.png)
+<img src="assets/chapter-4/mockup12.png" alt="">
 
 **Iniciar Sesión**
 
 En esta sección, el adquiriente podrá iniciar sesión ingresando su correo electrónico y contraseña.
 
-![web](/assets/chapter-4/mockup13.png)
+<img src="assets/chapter-4/mockup13.png" alt="">
 
 **Home**
 
 En esta sección, el adquiriente podrá visualizar el "Home", donde tendrá acceso a diversos vehículos menores con información como nombre, descripción y precio. También encontrará botones para "Rentar" o "Comprar" cada vehículo.
 
-![web](/assets/chapter-4/mockup14.png)
+<img src="assets/chapter-4/mockup14.png" alt="">
 
 **Mi perfil**
 
 En esta sección, podrás visualizar el perfil del adquiriente, incluyendo detalles como el nombre, correo y teléfono. También habrá un botón para confirmar si los detalles son correctos y, finalmente, un botón de "Guardar".
 
-![web](/assets/chapter-4/mockup15.png)
+<img src="assets/chapter-4/mockup15.png" alt="">
 
 **Mapa Interactivo**
 
 En esta sección, el adquiriente podrá visualizar un mapa interactivo.
 
-![web](/assets/chapter-4/mockup16.png)
+<img src="assets/chapter-4/mockup16.png" alt="">
 
 **Filtro**
 
 En esta sección, podrás visualizar los filtros con vehículos y sus imágenes descriptivas, así como los botones de "Comprar" o "Rentar".
 
-![web](/assets/chapter-4/mockup17.png)
+<img src="assets/chapter-4/mockup17.png" alt="">
 
 **Detalles del Vehículo**
 
 Al hacer clic en un vehículo, el adquiriente podrá ver las descripciones del mismo, incluidos sus "Badges", tipo de vehículo, año, precio y una descripción detallada. Además, tendrá la opción de comunicarse por WhatsApp con el propietario del vehículo y podrá seleccionar entre los botones "Rentar Vehículo" o "Comprar Vehículo".
 
-![web](/assets/chapter-4/mockup18.png)
+<img src="assets/chapter-4/mockup18.png" alt="">
 
 **Historial**
 
 En esta sección, el adquiriente podrá visualizar el historial de los vehículos.
 
-![web](/assets/chapter-4/mockup19.png)
+<img src="assets/chapter-4/mockup19.png" alt="">
 
 **Foro de Contacto**
 
 En esta sección, el adquiriente podrá visualizar los mensajes de los diferentes universitarios que incluyeron su número de teléfono, con la opción de conectarse directamente a través de WhatsApp.
 
-![web](/assets/chapter-4/mockup20.png)
+<img src="assets/chapter-4/mockup20.png" alt="">
 
 **Web Application para Mobile Web Browser**
 
@@ -2060,55 +2062,55 @@ En esta sección, el adquiriente podrá visualizar los mensajes de los diferente
 
 Aquí, el universitario podrá ver el logo de EcoTech con un mensaje de "Cargando" en la parte inferior.
 
-![mobile](/assets/chapter-4/color1.png)
+<img src="assets/chapter-4/color1.png" alt="">
 
 **Registro**
 
 Los universitarios podrán registrarse en EcoTech ingresando su RUC, correo electrónico, nombre completo y contraseña. También deberán aceptar los términos y condiciones antes de hacer clic en el botón de "Registrarse".
 
-![mobile](/assets/chapter-4/color2.png)
+<img src="assets/chapter-4/color2.png" alt="">
 
 **Iniciar sesión**
 
 Los universitarios podrán iniciar sesión ingresando su correo electrónico y contraseña. También habrá una opción de "Recuérdame" para facilitar el acceso en caso de que olviden el usuario o la contraseña. Finalmente, deberán hacer clic en el botón de "Iniciar sesión".
 
-![mobile](/assets/chapter-4/color3.png)
+<img src="assets/chapter-4/color3.png" alt="">
 
 **Planes**
 
 Aquí, el usuario podrá seleccionar uno de los tres planes disponibles para comenzar a usar la aplicación y ofrecer sus vehículos al público objetivo. Deberá hacer clic en el botón de "Escoger Plan".
 
-![mobile](/assets/chapter-4/color4.png)
+<img src="assets/chapter-4/color4.png" alt="">
 
 **Proceder al pago**
 
 En esta sección, el usuario podrá acceder al plan realizando el pago con su tarjeta e ingresando los datos correspondientes. Después de hacer clic en el botón de "Confirmar", recibirá un mensaje de pago exitoso.
 
-![mobile](/assets/chapter-4/color5.png)
+<img src="assets/chapter-4/color5.png" alt="">
 
 **Vehículos**
 
 Aquí, el universitario podrá visualizar las publicaciones de otros universitarios y sus vehículos para inspirarse. Luego, podrá acceder a la sección "Mi Vehículo" para agregar uno o dos vehículos, dependiendo de su plan, haciendo clic en el botón "Agregar".
 
-![mobile](/assets/chapter-4/color6.png)
+<img src="assets/chapter-4/color6.png" alt="">
 
 **Historial**
 
 Aquí, podremos ver el historial de los vehículos publicados por el universitario.
 
-![mobile](/assets/chapter-4/color7.png)
+<img src="assets/chapter-4/color7.png" alt="">
 
 **Foro de Contacto**
 
 El universitario podrá subir un mensaje en el post indicando que está vendiendo o rentando un vehículo, incluyendo su número de celular para que el arrendatario pueda comunicarse con él a través de WhatsApp.
 
-![mobile](/assets/chapter-4/color8.png)
+<img src="assets/chapter-4/color8.png" alt="">
 
 **Mi Perfil**
 
 En esta sección, podrás ver tu perfil, incluyendo tu foto, nombre completo, correo electrónico, número de teléfono y RUC. Finalmente, podrás guardar tus datos.
 
-![mobile](/assets/chapter-4/color9.png)
+<img src="assets/chapter-4/color9.png" alt="">
 
 **Segmento Adquiriente**
 
@@ -2116,49 +2118,49 @@ En esta sección, podrás ver tu perfil, incluyendo tu foto, nombre completo, co
 
 Aquí, el adquiriente podrá ver el logo de EcoTech con un mensaje de "Cargando" en la parte inferior.
 
-![mobile](/assets/chapter-4/color10.png)
+<img src="assets/chapter-4/color10.png" alt="">
 
 **Registro**
 
 Los adquirientes podrán registrarse en EcoTech ingresando su correo electrónico, nombre completo y contraseña. También deberán aceptar los términos y condiciones antes de hacer clic en el botón de "Registrarse".
 
-![mobile](/assets/chapter-4/color11.png)
+<img src="assets/chapter-4/color11.png" alt="">
 
 **Iniciar sesión**
 
 Los adquirientes podrán iniciar sesión ingresando su correo electrónico y contraseña. También habrá una opción de "Recuérdame" para facilitar el acceso en caso de que olviden el usuario o la contraseña. Finalmente, deberán hacer clic en el botón de "Iniciar sesión".
 
-![mobile](/assets/chapter-4/color12.png)
+<img src="assets/chapter-4/color12.png" alt="">
 
 **Alquilar o comprar vehículos menores**
 
 Aquí podrás explorar diferentes vehículos y utilizar el botón "Rentar" o "Comprar" según tu interés.
 
-![mobile](/assets/chapter-4/color13.png)
+<img src="assets/chapter-4/color13.png" alt="">
 
 **Mi Perfil**
 
 El adquiriente podrá ver su perfil, agregar o corregir su foto, nombre, correo electrónico y teléfono. También deberá confirmar que los detalles son correctos y, finalmente, hacer clic en el botón "Guardar".
 
-![mobile](/assets/chapter-4/color14.png)
+<img src="assets/chapter-4/color14.png" alt="">
 
 **Vehículo y Filtros**
 
 Aquí podrás ver el mapa interactivo y el filtro, que incluye secciones para tipos de vehículos y precios.
 
-![mobile](/assets/chapter-4/color15.png)
+<img src="assets/chapter-4/color15.png" alt="">
 
 **Detalles del Vehículo**
 
 Aquí podrás visualizar los detalles del vehículo que seleccionaste, incluyendo sus descripciones, y tendrás los botones de "Alquilar" o "Comprar".
 
-![mobile](/assets/chapter-4/color16.png)
+<img src="assets/chapter-4/color16.png" alt="">
 
 **Historial de Vehículo y Foro de Contacto**
 
 El adquiriente tendrá la opción de ver los vehículos en su historial y acceder al foro de contacto, donde podrá visualizar los posts de los universitarios que incluyen su número de WhatsApp, facilitando el contacto directo si desean el vehículo.
 
-![mobile](/assets/chapter-4/color17.png)
+<img src="assets/chapter-4/color17.png" alt="">
 
 ### 5.4.4. Web Applications User Flow Diagrams
 
@@ -2170,21 +2172,21 @@ El adquiriente tendrá la opción de ver los vehículos en su historial y accede
 
 Primero, el usuario ingresará a la aplicación desplegada. En la pantalla inicial, se le presentará un formulario para ingresar sus datos de inicio de sesión. Para los universitarios, el formulario requerirá el RUC, nombre, correo electrónico y contraseña.
 
-![diagram](/assets/chapter-4/diagram1.png)
+<img src="assets/chapter-4/diagram1.png" alt="">
 
 **User Goal: Pagos de los Planes**
 
 El universitario podrá elegir entre 3 planes y seleccionar uno haciendo clic en el botón "Elegir Plan". Al hacerlo, será redirigido al proceso de pago, donde deberá ingresar los datos de su tarjeta y confirmar que la información es correcta. Una vez confirmado, el sistema mostrará un mensaje de pago exitoso. Al hacer clic en el botón "Comenzar", el usuario accederá al menú de vehículos.
 
-![diagram](/assets/chapter-4/diagram3.png)
+<img src="assets/chapter-4/diagram3.png" alt="">
 
-![diagram](/assets/chapter-4/diagram4.png)
+<img src="assets/chapter-4/diagram4.png" alt="">
 
 **User Goal: Navegar por el dashboard**
 
 Descripción del Flujo: Una vez que el universitario haya iniciado sesión, será dirigido al panel de control, donde podrá ver varias opciones. La primera opción es "Detalles del Vehículo", donde podrá consultar la información de cada vehículo. Luego, encontrará la sección de "Perfil", donde podrá actualizar sus datos y foto. También habrá una sección llamada "Historial de Vehículos", donde podrá revisar los vehículos que ha subido. Finalmente, estará disponible el "Foro de Contacto", donde podrá publicar un anuncio para vender o alquilar, permitiendo que los interesados se comuniquen directamente por WhatsApp.
 
-![diagram](/assets/chapter-4/diagram5.png)
+<img src="assets/chapter-4/diagram5.png" alt="">
 
 **User Goal: Iniciar sesión y Registrarse**
 
@@ -2194,23 +2196,23 @@ Descripción del Flujo: Una vez que el universitario haya iniciado sesión, ser�
 
 Primero, el usuario ingresará a la aplicación desplegada. En la pantalla inicial, se le presentará un formulario para ingresar sus datos de inicio de sesión. Para los adquirientes, el formulario requerirá el nombre, correo electrónico y contraseña.
 
-![diagram](/assets/chapter-4/diagram2.png)
+<img src="assets/chapter-4/diagram2.png" alt="">
 
 **User Goal: Visualizar los Vehículos**
 
 El adquiriente, al estar en la página de inicio, podrá ver los vehículos disponibles junto con sus descripciones. Al hacer clic en el botón "Alquilar" o "Comprar", será redirigido a la página de detalles del vehículo, donde podrá consultar el tipo, precio, descripción y distintivos del vehículo. Luego, al presionar el botón "Guardar", el vehículo se añadirá a su historial de vehículos guardados.
 
-![diagram](/assets/chapter-4/diagram6.png)
+<img src="assets/chapter-4/diagram6.png" alt="">
 
 **User Goal: Navegar por el dashboard**
 
 Descripción del Flujo: Una vez que el adquiriente haya iniciado sesión, será dirigido al panel de control, donde encontrará varias opciones. La primera opción es "Mapa Interactivo", que le permitirá ver la ubicación de cada vehículo. Luego, encontrará la sección de "Filtro", donde podrá buscar y visualizar vehículos según su tipo y precio. También tendrá acceso a la sección de "Foro de Contacto", donde podrá ponerse en contacto con el universitario para adquirir el vehículo. Finalmente, estará disponible la opción "Mi Perfil", donde podrá revisar y actualizar sus datos personales.
 
-![diagram](/assets/chapter-4/diagram7.png)
+<img src="assets/chapter-4/diagram7.png" alt="">
 
-![diagram](/assets/chapter-4/modified.png)
+<img src="assets/chapter-4/modified.png" alt="">
 
-![diagram](/assets/chapter-4/diagramuser.png)
+<img src="assets/chapter-4/diagramuser.png" alt="">
 
 ## 5.5. Web Applications Prototyping
 
@@ -3029,7 +3031,7 @@ En esta parte mostramos las tareas que se realizaron en este sprint.
 **Enlace del Trello Sprint 2 - Pendiente**
 
 **Vista del Sprint Backlog en Trello:**  
-<img src="assets/evidence-trello-2.png">
+<img src="assets/chapter-3/trello2" alt="">
 
 ---
 
