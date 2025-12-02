@@ -3191,7 +3191,7 @@ Mobile: [[https://github.com/upc-pre-202502-14103-sw65-tsp/GoUni_FrontEnd](https
 
 | **Módulo / Feature**        | **Evidencia**              | **Descripción del Desarrollo** |
 | --------------------------- | -------------------------- | ------------------------------ |
-| Controlador IoT           | <img src="assets/chapter-6/controlador1.png"> <img src="assets/chapter-6/controlador2.png">    | Controlador para recibir datos del dispositivo IoT. |
+| Controlador IoT           | <img src="assets/chapter-6/controlador1.PNG"> <img src="assets/chapter-6/controlador2.PNG">    | Controlador para recibir datos del dispositivo IoT. |
 | Firmware ESP32   | <img src="assets/chapter-6/esp.png"> | Fotografía del dispositivo IoT con módulos GPD, Servo, baterías, etc.                              |                         |
 | Frontend final             | <img src="assets/chapter-6/landing-1.png">     | Diseño, correcciones finales, despliegue.                              |
 
