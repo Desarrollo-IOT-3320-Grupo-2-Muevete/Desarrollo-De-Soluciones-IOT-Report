@@ -3131,6 +3131,127 @@ MOBILE WEB:
 
 ---
 
+### [**6.2.3. Sprint 3.**](#623-sprint-3)
+
+#### [**6.2.3.1. Sprint Planning 3.**](#6221-sprint-planning-3)
+
+En el **Sprint Planning 3**, decidimos entregar la última versión de la aplicación web, actualizar nuestra API en conjunto con la implementación del dispositivo IoT, y actualizar este último con un nuevo controlador para gestionar los datos que emita.
+
+| **Sprint #**                        | Sprint 3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| ----------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sprint Planning Background**      | Durante este sprint, completamos la versión final de la aplicación web, integramos el módulo IoT dentro del backend y establecimos la comunicación en tiempo real entre el servidor y el dispositivo físico. Además, se implementó un controlador especializado para recibir datos generados desde el ESP32 (servomotor, batería, GPS), y se habilitó la actualización del estado de los vehículos dentro de la plataforma para garantizar seguridad y trazabilidad durante las rentas. El frontend fue optimizado para la experiencia final del usuario universitario, mientras que el equipo IoT desarrolló un prototipo funcional capaz de bloquear el vehículo, detectar su ubicación y enviar telemetría al backend. |
+| **Date**                            | 30/11/2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| **Time**                            | 20:05                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| **Location**                        | Modalidad presencial                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| **Prepared By**                     | Carlos Onofre Ruiz (Scrum Master)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Attendees (to planning meeting)** | Todos los miembros del grupo StudentConnect                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| **Sprint 3 Review Summary**         | Se completó la implementación final del frontend web y su despliegue en Netlify. Se integró un nuevo controlador en el backend para recibir datos del dispositivo IoT (ubicación, nivel de batería y estado del servo). El dispositivo IoT fue ensamblado y programado usando ESP32, GPS y servomotor, validando la comunicación con la API y el funcionamiento del bloqueo automático cuando termina el tiempo de renta. Se logró visualizar la ubicación del vehículo en el mapa dentro de la app.                                                                                                                                                                                                                                                                                                                              |
+| **Sprint 3 Retrospective Summary**  | El equipo logró cerrar múltiples funcionalidades críticas del proyecto, especialmente las dependientes del hardware IoT.Se destacó la buena integración entre los equipos de software y electrónica. Los principales retos estuvieron en la sincronización de datos del GPS y la estabilidad del ESP32 al enviar información periódica. Para el siguiente sprint se acordó mejorar pruebas automatizadas y optimizar la frecuencia de actualización del GPS.                                                                                                                                                                                                                                       |
+| **Sprint Goal & User Stories**      | Avanzar con la integración completa del dispositivo IoT y consolidar el frontend web final del proyecto Muevete!.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **Sprint 3 Goal**                   | Implementar la comunicación IoT–backend e integrar la visualización en tiempo real de los vehículos en la plataforma final.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| **Sprint Velocity 3**               | 38                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| **Sum of Story Points**             | 38                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+
+---
+
+#### [**6.2.3.2. Sprint Backlog 3.**](#6233-sprint-backlog-3)
+
+En esta parte mostramos las tareas que se realizaron en este sprint.
+
+**Link del Trello:**  
+**Enlace del Trello Sprint 3 - Pendiente**
+
+**Vista del Sprint Backlog en Trello:**  
+<img src="assets/chapter-3/trello2" alt="">
+
+| **User Story** | **Work-item / Task** |        |                |                 |                        |                 |            |
+| -------------- | -------------------- | ------ | -------------- | --------------- | ---------------------- | --------------- | ---------- |
+| **ID**         | **Title**            | **Id** | **Task Title** | **Description** | **Estimation (hours)** | **Assigned To** | **Status** |
+| US-209 | Integración del módulo IoT en Backend | BE-209 | Controlador IoT | Crear controlador en backend para recibir datos del ESP32 (GPS, batería y servo). | 6 | Carlos Onofre | Done |
+| US-210 | Comunicación IoT continua | BE-210 | Endpoint Telemetría | Implementar endpoint para recibir latitud, longitud y estado del vehículo cada 5–10 segundos. | 5 | Eduard Travezaño | Done |
+| US-211 | Visualización del Tracking en la App Móvil | FE-211 | Tracking de ubicación | Mostrar ubicación en tiempo real en el mapa del usuario y dueño del vehículo. | 7 | Mathias Hidalgo | Done |
+| US-212 | Lógica de Bloqueo Remoto | BE-212 | Control Servo | Gestionar desde el backend el cierre/apertura del servo cuando termina la renta. | 4 | Carlos Onofre | Done |
+| US-213 | Actualización del front final | FE-213 | Versión final desplegada | Optimizar componentes, estilos y navegación del frontend web; despliegue en Netlify. | 6 | Mathias Hidalgo | Done |
+| US-214 | Integración ESP32 (código de dispositivo) | IoT-214 | Firmware ESP32 | Programar envío de datos (HTTP), lectura del GPS, control del servo, manejo de batería. | 5 | Eduard Travezaño | Done |
+| US-215 | Pruebas del módulo IoT | IoT-215 | Test físico | Validar ubicación real, precisión del GPS, funcionamiento del servo y comunicación con la API. | 5 | Sebastián Méndez | Done |
+
+---
+
+#### [**6.2.3.3. Development Evidence for Sprint Review.**](#6233-development-evidence-for-sprint-review)
+
+Durante este sprint se implementó la app web final con todas las vistas operativas, el controlador IoT en backend, el firmware del ESP32, la comunicación unidireccional entre el dispositivo y la API (inicialmente), y un mapa actualizado con ubicación en tiempo real.
+
+Repositorio del Código Fuente
+
+Backend: [[https://github.com/upc-pre-202502-14103-sw65-tsp/GoUni_BackEnd](https://github.com/upc-pre-202502-14103-sw65-tsp/GoUni_BackEnd)](https://github.com/Desarrollo-IOT-3320-Grupo-2-Muevete/Back_end)
+
+Frontend: [[https://github.com/upc-pre-202502-14103-sw65-tsp/GoUni_FrontEnd](https://github.com/upc-pre-202502-14103-sw65-tsp/GoUni_FrontEnd)](https://github.com/Desarrollo-IOT-3320-Grupo-2-Muevete/Front_end)
+
+Mobile: [[https://github.com/upc-pre-202502-14103-sw65-tsp/GoUni_FrontEnd](https://github.com/upc-pre-202502-14103-sw65-tsp/GoUni_FrontEnd)](https://github.com/Desarrollo-IOT-3320-Grupo-2-Muevete/Front_end)](https://github.com/Desarrollo-IOT-3320-Grupo-2-Muevete/App_movil)
+
+| **Módulo / Feature**        | **Evidencia**              | **Descripción del Desarrollo** |
+| --------------------------- | -------------------------- | ------------------------------ |
+| Controlador IoT           | <img src="assets/chapter-6/controlador1.png"> <img src="assets/chapter-6/controlador2.png">    | Controlador para recibir datos del dispositivo IoT. |
+| Firmware ESP32   | <img src="assets/chapter-6/esp.png"> | Fotografía del dispositivo IoT con módulos GPD, Servo, baterías, etc.                              |                         |
+| Frontend final             | <img src="assets/chapter-6/landing-1.png">     | Diseño, correcciones finales, despliegue.                              |
+
+---
+
+#### [**6.2.3.4. Testing Suite Evidence for Sprint Review.**](#6234-testing-suite-evidence-for-sprint-review)
+
+| **Services**                    | **Evidencia**                     | **Descripción** |
+| ------------------------------- | --------------------------------- | --------------- |
+| **Inicio de sesión y registro** | <img src="assets/US-401.jpeg">    | PRUEBA          |
+| **Sección de vehículos.**       | <img src="assets/US-402.jpeg">    | PRUEBA          |
+| **Sección de renta y compra.**  | <img src="assets/calendar2.jpeg"> | PRUEBA          |
+
+---
+
+#### [**6.2.3.6. Execution Evidence for Sprint Review.**](#6236-execution-evidence-for-sprint-review)
+
+En este sprint se tienen los despliegues actualizados de los endpoints (incluyendo la implementación del controlador para el dispositivo IoT) funcionando y el frontend completamente operativo:
+
+- **Backend:**
+  ![alt text](assets/chapter-6/evidencia_1.jpeg)
+  ![alt text](assets/chapter-6/evidencia_2.jpeg)
+  ![alt text](assets/chapter-6/evidencia_3.jpeg)
+  ![alt text](assets/chapter-6/evidencia_4.jpeg)
+
+- **Frontend:**
+  ![alt text](assets/chapter-6/frontevidencia_1.jpeg)
+
+#### [**6.2.3.7. Services Documentation Evidence for Sprint Review.**](#6237-services-documentation-evidence-for-sprint-review)
+
+Para esta entrega, el equipo logró implementar de manera exitosa el frontend web app y la app mobile. Enlace del repo de la app: [ttps://cibermatch-movirent.netlify.app/](https://github.com/Desarrollo-IOT-3320-Grupo-2-Muevete/App_movil) Enlace del deploy de la app web mediante: https://mueveteecotech.netlify.app/login
+
+#### [**6.2.3.8. Software Deployment Evidence for Sprint Review.**](#6238-software-deployment-evidence-for-sprint-review)
+
+Para esta entrega el equipo entregó una versión final del frontend, en conjunto con la implementación del dispositivo IoT y un controlador de gestión del mismo. Además, este entregable cuenta con la presentación de la primera versión del dispositivo IoT que funciona en conjunto con la aplicación.
+APP WEB:
+![alt text](assets/chapter-6/frontevidencia_1.jpeg)
+![alt text](assets/chapter-6/frontevidencia_2.jpeg)
+![alt text](assets/chapter-6/frontevidencia_3.jpeg)
+
+MOBILE WEB:
+![alt text](assets/chapter-6/movil_1.jpeg)
+![alt text](assets/chapter-6/movil_2.jpeg)
+![alt text](assets/chapter-6/movil_3.jpeg)
+![alt text](assets/chapter-6/movil_4.jpeg)
+
+#### [**6.2.3.9. Team Collaboration Insights during Sprint.**](#6239-team-collaboration-insights-during-sprint)
+
+**URL del repositorio para el Project Report:**  
+[<https://github.com/upc-pre-202502-14103-sw65-tsp>](https://github.com/Desarrollo-IOT-3320-Grupo-2-Muevete)
+
+| **Integrante**                       | **Aporte en el informe**             |
+| ------------------------------------ | ------------------------------------ |
+| **Travezaño Patiño, Eduard Gedeon**  | Desarrollo del App Móvil |
+| **Hidalgo Lopez, Mathias Adriano**   | Desarrollo del App Web y Backend |
+| **Mendez Vargas, Sebastian Orlando** | Documentación y mejora continua
+| **Onofre Ruiz, Carlos Jesus**        | Implementación de dispositivo IoT |
+
+---
+
 ## [**6.3. Validation Interviews.**](#63-validation-interviews)
 
 ### [**6.3.1. Diseño de Entrevistas.**](#631-diseño-de-entrevistas)
@@ -3207,7 +3328,7 @@ El 100% de los entrevistados valoran la presencia de un mapa interactivo y las o
 
 <img src="assets/About_The_Team_and_Product/AboutTheProduct.PNG" alt="" width="800" height="400">
 
-## Enlace al video: [link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a789_upc_edu_pe/IQC4mAVyV4ukRJc7LUbpKDEkAS0yvPZ2c8S_8GNzRX_2oaM?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=nxB0YW)
+## Enlace al video: [link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213222_upc_edu_pe/IQCR8W1tsulOS40VpAD5zSZIAeGJ3tajmmtKg3De_dTQC4g?e=doiScV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 # [**Conclusiones.**](#conclusiones)
 
