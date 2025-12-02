@@ -3207,7 +3207,7 @@ El 100% de los entrevistados valoran la presencia de un mapa interactivo y las o
 
 <img src="assets/About_The_Team_and_Product/AboutTheProduct.PNG" alt="" width="800" height="400">
 
-## Enlace al video: [link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a789_upc_edu_pe/IQC4mAVyV4ukRJc7LUbpKDEkAS0yvPZ2c8S_8GNzRX_2oaM?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=nxB0YW)
+## Enlace al video: [link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213222_upc_edu_pe/IQCR8W1tsulOS40VpAD5zSZIAeGJ3tajmmtKg3De_dTQC4g?e=doiScV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 # [**Conclusiones.**](#conclusiones)
 
