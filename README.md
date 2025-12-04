@@ -6,7 +6,7 @@
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
     <strong>Ingeniería de Software</strong><br>
-    <strong>2025-02</strong><br>
+    <strong>2025-20-grupo 2</strong><br>
     <strong>Desarrollo de Soluciones IOT</strong><br>
     <strong>Docente: Marco Antonio Leon Baca</strong><br>
     <br>TB2</br>
@@ -31,7 +31,7 @@
 </div>
 
 <p align="center">
-    <strong>Septiembre 2025</strong>
+    <strong>Diciembre 2025</strong>
 </p>
 
 ---
