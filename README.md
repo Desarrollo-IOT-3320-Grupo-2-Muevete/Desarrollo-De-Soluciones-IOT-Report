@@ -9,7 +9,7 @@
     <strong>2025-20-grupo 2</strong><br>
     <strong>Desarrollo de Soluciones IOT</strong><br>
     <strong>Docente: Marco Antonio Leon Baca</strong><br>
-    <br>TB2</br>
+    <br>Trabajo Final</br>
 </p>
 
 <p align="center">
@@ -38,18 +38,53 @@
 
 # Registro de Versiones del Informe
 
-**TB1**
+---
+
+## **TB1**
 
 Para el desarrollo de la entrega **TB1**, se optó por dividir el trabajo de la siguiente forma:
 
-| **Versión**   | **Fecha** | **Autor** | **Descripción** |
-| ------------- | --------- | --------- | --------------- |
-| **#01 - TB1** | 09/09/25  |           |                 |
-| **#01 - TB1** | 09/09/25  |           |                 |
-| **#01 - TB1** | 10/09/25  |           |                 |
-| **#01 - TB1** | 08/09/25  |           |                 |
-| **#01 - TB1** | 10/09/25  |           |                 |
+| **Versión**   | **Fecha**  | **Autor**     | **Descripción** |
+| ------------- | ---------- | --------------| --------------- |
+| **#01 - TB1** | 08/09/25   | Matias        | Inicio del desarrollo del frontend y estructura base de la landing page. |
+| **#02 - TB1** | 09/09/25   | Eduard        | Avance en la aplicación web y mejora del diseño de la landing page. |
+| **#03 - TB1** | 09/09/25   | Sebastián     | Ajustes de componentes y funcionalidad básica del front. |
+| **#04 - TB1** | 10/09/25   | Jesús         | Integración de vistas y pulido del flujo principal de navegación. |
+| **#05 - TB1** | 10/09/25   | Eduard        | Finalización del front y presentación de la landing page funcional. |
 
+> En la **TB1** se realizó la aplicación y desarrollo del **frontend** y la **landing page**.
+
+---
+
+## **TB2**
+
+| **Versión**   | **Fecha**  | **Autor**     | **Descripción** |
+| ------------- | ---------- | --------------| --------------- |
+| **#01 - TB2** | 01/10/25   | Eduard        | Inicio del desarrollo de la aplicación móvil. |
+| **#02 - TB2** | 03/10/25   | Matias        | Integración de vistas móviles y pruebas iniciales. |
+| **#03 - TB2** | 05/10/25   | Sebastián     | Mejoras de UI/UX en la app móvil. |
+| **#04 - TB2** | 06/10/25   | Jesús         | Despliegue de la landing page en entorno productivo. |
+| **#05 - TB2** | 07/10/25   | Eduard        | Ajustes finales del mobile y pruebas completas. |
+
+> En la **TB2** se realizó el desarrollo del **mobile** y el **despliegue de la landing page**.
+
+---
+
+## **TF**
+
+| **Versión**  | **Fecha**  | **Autor**     | **Descripción** |
+| ------------ | ---------- | --------------| --------------- |
+| **#01 - TF** | 15/11/25   | Jesús         | Implementación del aparato IoT. |
+| **#02 - TF** | 18/11/25   | Matias        | Desarrollo e integración del backend. |
+| **#03 - TF** | 20/11/25   | Eduard        | Conexión entre IoT y backend. |
+| **#04 - TF** | 22/11/25   | Sebastián     | Despliegue del frontend final. |
+| **#05 - TF** | 25/11/25   | Eduard        | Integración completa del mobile con backend e IoT. |
+
+> En la **TF** se realizó la implementación del **aparato IoT**, el **despliegue del front**, **backend**, **mobile** y la **conexión completa con IoT**.
+
+---
+
+<div style="page-break-after: always;"></div>
 # Contenido
 
 ## Tabla de contenidos
